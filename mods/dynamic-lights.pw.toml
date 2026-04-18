@@ -1,0 +1,13 @@
+filename = "dynamiclights-v1.9.2-mc1.17-26.1.1-mod.jar"
+name = "Dynamic Lights"
+side = "client"
+
+[download]
+hash = "dfa1472d6c7d45b7abc099247dc94c901eb8ac00cfd9dca4a55deb16987f4e0ac5d9e77254cb719a4fe09013d11e5d2cefb70863fc0d5f5cbe5378dfb46f2ba5"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/7YjclEGc/versions/mfpymIhc/dynamiclights-v1.9.2-mc1.17-26.1.1-mod.jar"
+
+[update.modrinth]
+mod-id = "7YjclEGc"
+version = "mfpymIhc"

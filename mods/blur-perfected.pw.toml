@@ -1,0 +1,13 @@
+filename = "blurperfected-neoforge-5.3.2-rev.3+1.21.1.jar"
+name = "Blur Perfected"
+side = "client"
+
+[download]
+hash = "01bd68b58885486a427c9983762b647dd8635d746105c5d62b838219939b1f6bc6a1232ace2a8863e2f398f941ac26bca49bcb350c922acf19a43d3d3d64c11a"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/Dt7yoh6Y/versions/n07pqaR3/blurperfected-neoforge-5.3.2-rev.3%2B1.21.1.jar"
+
+[update.modrinth]
+mod-id = "Dt7yoh6Y"
+version = "n07pqaR3"

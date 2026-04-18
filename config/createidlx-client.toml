@@ -1,0 +1,69 @@
+#.
+#Display Link Interface Enhancements
+[displayLinkInterfaceEnhancements]
+	#.
+	#Show the hover-on Placeholders & String Slicing Usage Guides tooltip buttons in Display Link interface.
+	enableGuideButtons = true
+
+	#.
+	#Guide Tooltip Customization
+	[displayLinkInterfaceEnhancements.guideTooltipCustomization]
+		#.
+		#Show the Active placeholders part of the Placeholders Usage Guide tooltip.
+		enableActivePlaceholdersTooltip = true
+		#.
+		#Show the Progress Bar display format support part of the Placeholders Usage Guide tooltip.
+		enableProgressBarSupportStateTooltip = true
+
+	#.
+	#Text Fields Enhancements
+	[displayLinkInterfaceEnhancements.textFieldsEnhancements]
+		#.
+		#Hide the overflowing ends of long strings to make them fit into their text fields.
+		truncateOverflowingStrings = true
+		#.
+		#Add the 'Marquee' (AKA 'Running Line') effect to the truncated strings.
+		#Only takes effect if 'Truncate Overflowing Strings' is enabled.
+		addMarqueeEffectToTruncatedStrings = true
+		#.
+		#Show the 'Type of Information' selector tooltip if it only has a single option.
+		#Only takes effect if 'Truncate Overflowing Strings' is enabled.
+		showTooltipForSingleOptionSelector = true
+
+		#.
+		#Marquee Effect Settings
+		[displayLinkInterfaceEnhancements.textFieldsEnhancements.marqueeEffectSettings]
+			#.
+			#[in Milliseconds]
+			#The fixed time for the truncated string to scroll through, per overflowing character.
+			# Default: 30
+			# Range: 1 ~ 10000
+			fixedCharTravelTime = 30
+			#.
+			#[in Seconds]
+			#The fixed time for the truncated string to scroll through, independently of its length.
+			#Overrides 'Fixed Char Travel Time' and 'Maximal/Minimal String Travel Time'.
+			#Set to zero (0.0) to disable.
+			# Default: 0.0
+			# Range: 0.0 ~ 600.0
+			fixedStringTravelTime = 0.0
+			#.
+			#[in Seconds]
+			#The maximal time for the truncated string to scroll through, independently of its length.
+			#Set to zero (0.0) to disable.
+			# Default: 0.0
+			# Range: 0.0 ~ 600.0
+			maximalStringTravelTime = 0.0
+			#.
+			#[in Seconds]
+			#The minimal time for the truncated string to scroll through, independently of its length.
+			#Set to zero (0.0) to disable.
+			# Default: 0.0
+			# Range: 0.0 ~ 60.0
+			minimalStringTravelTime = 0.0
+			#.
+			#[in Seconds]
+			#The fixed time for the truncated string to stay still once at the start or the end of scrolling.
+			# Default: 2.0
+			# Range: 0.0 ~ 600.0
+			stringPauseTime = 2.0

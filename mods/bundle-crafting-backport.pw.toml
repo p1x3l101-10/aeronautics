@@ -1,0 +1,13 @@
+filename = "bundle-crafting-backport-1.1.jar"
+name = "Bundle Crafting Backport"
+side = "client"
+
+[download]
+hash = "fe231e71fa9ac77fff985233cc27b16124e793cabd0fea8ac75cfeb68c6fbbd5dc4eccc0d989622e74f8cc7dd4ef1d1fa59a2cbcb710cd0597602f4c054e4201"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/9meQUmie/versions/xd9GKI2J/bundle-crafting-backport-1.1.jar"
+
+[update.modrinth]
+mod-id = "9meQUmie"
+version = "xd9GKI2J"

@@ -1,0 +1,13 @@
+filename = "ars_musique-1.21.1-2.3.0.jar"
+name = "Ars Musique"
+side = "server"
+
+[download]
+hash = "cf6344b308662dfae34cb338638834e34a71c377"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
+
+[update.curseforge]
+file-id = 7935727
+project-id = 1477190

@@ -1,0 +1,13 @@
+filename = "pulsetech-1.21.1-1.1.1.jar"
+name = "Pulsetech"
+side = "client"
+
+[download]
+hash = "4b92a0f96bf01647fabccf552898a7e2b5af0fba105c67a9338538949e65e4e5e5fd540fb86e3437f37f1923d5f5ef756f4048cf375cbadcbba603e6cb977256"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/1bvQYgDE/versions/SZyBqbUD/pulsetech-1.21.1-1.1.1.jar"
+
+[update.modrinth]
+mod-id = "1bvQYgDE"
+version = "SZyBqbUD"

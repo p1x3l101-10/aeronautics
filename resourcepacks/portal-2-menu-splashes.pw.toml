@@ -1,0 +1,13 @@
+filename = "menu_splashes-26.2r-resourcepack26.x.zip"
+name = "Portal 2 Menu Splashes"
+side = "client"
+
+[download]
+hash = "b6a6750331c56146d0154dbc44e49e5b3ec93084fd288212ff328efc1bd391bca407a8802234d228badbc72a3337f7b667a8d90002ef009fc7d803955a386529"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/p0JIdTuj/versions/fUCsat4R/menu_splashes-26.2r-resourcepack26.x.zip"
+
+[update.modrinth]
+mod-id = "p0JIdTuj"
+version = "fUCsat4R"

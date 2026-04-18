@@ -1,0 +1,13 @@
+filename = "airstarter-0.7.5.jar"
+name = "Create TFMG: Air Starter addon"
+side = "server"
+
+[download]
+hash = "ba85cde4eac5434f4eccb1b8ddf8fc4cecea913b"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
+
+[update.curseforge]
+file-id = 7633840
+project-id = 1451571

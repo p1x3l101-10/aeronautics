@@ -1,0 +1,13 @@
+filename = "create-glowstone-dust-recipe-1.jar"
+name = "Create: Glowstone Dust Recipe"
+side = "client"
+
+[download]
+hash = "a67aee20cd062978fedbec0bd677261ef0b643a202eec7077486eba8cb027cee0ff04362b5d46a32738f226fca8694515bef8e00d82726750a279a21903a873d"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/W8VGEPty/versions/iVr0T4j0/create-glowstone-dust-recipe-1.jar"
+
+[update.modrinth]
+mod-id = "W8VGEPty"
+version = "iVr0T4j0"

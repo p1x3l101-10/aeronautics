@@ -1,0 +1,13 @@
+filename = "create-diamond-production-1.jar"
+name = "Create: Diamond Production"
+side = "client"
+
+[download]
+hash = "0f8ff973a8aa1b55a7423ffb424326690572128c891d4f85e78fc1ecdf0c16b66ba8c14faa1c170074f04da839e04e6a4b534d860aa5da1aa27e5a749448ead4"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/jxcqrCWz/versions/Jc20mwEw/create-diamond-production-1.jar"
+
+[update.modrinth]
+mod-id = "jxcqrCWz"
+version = "Jc20mwEw"

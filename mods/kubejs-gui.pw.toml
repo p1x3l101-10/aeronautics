@@ -1,0 +1,13 @@
+filename = "KubeJSGUI 1.0.0.jar"
+name = "KubeJS GUI"
+side = "client"
+
+[download]
+hash = "7d4ea868e6e0bdf137d3e3d3cfad74c85eef91da450738cd1a5f5ebf88dd784a3e7f4b0f2cba9b3211e71a3e291db5e8a76ef77fa55613213dec3f8fa90315a9"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/i8DkrJYa/versions/GnlDkmXg/KubeJSGUI 1.0.0.jar"
+
+[update.modrinth]
+mod-id = "i8DkrJYa"
+version = "GnlDkmXg"

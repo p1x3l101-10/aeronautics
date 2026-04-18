@@ -1,0 +1,13 @@
+filename = "create-coal-recipe-1.jar"
+name = "Create: Coal Recipe"
+side = "client"
+
+[download]
+hash = "5e00448015402adf80a279a03ec696b050681cde7f8dbbba90f3b22e0865c4b8014655c63b39fa7ffcd670e8bb6fde5de8d6bd10a4f14801ff05a19824840630"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/rDH5tdx9/versions/mzTMuift/create-coal-recipe-1.jar"
+
+[update.modrinth]
+mod-id = "rDH5tdx9"
+version = "mzTMuift"
