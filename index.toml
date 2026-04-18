@@ -5799,11 +5799,6 @@ hash = "5f2fbf3113fc1b1c3250fa0b38a6b49f1fe29a22cb067c755041ba0e65178cfd"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-gui.pw.toml"
-hash = "5f6fab55d8a945b7a1fccbf517c09c9e1048e7c2c4ba6739dd0827ce973177a1"
-metafile = true
-
-[[files]]
 file = "mods/kubejs-natures-aura.pw.toml"
 hash = "e3d81baee83774e866de1b58c517c4417dc19d668cb2af9433d343812c42903e"
 metafile = true
