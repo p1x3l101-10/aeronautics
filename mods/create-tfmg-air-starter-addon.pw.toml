@@ -1,6 +1,6 @@
 filename = "airstarter-0.7.5.jar"
 name = "Create TFMG: Air Starter addon"
-side = "server"
+side = "both"
 
 [download]
 hash = "ba85cde4eac5434f4eccb1b8ddf8fc4cecea913b"

@@ -5311,7 +5311,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-musique.pw.toml"
-hash = "250d7ee55a62f2fb1f04270bdf72416f159bc16d218c55bfcca61f086b7a6e90"
+hash = "11c9035027d6424e8ffdf68b7c2ee36b340b69942babe7c857113debd34578b9"
 metafile = true
 
 [[files]]
@@ -5575,7 +5575,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-tfmg-air-starter-addon.pw.toml"
-hash = "cf3d397a3f280759572563233471a20e47f8fbcc85c2be9d8d8082628a1c3e3a"
+hash = "7a994cea791d032a4522c88da2cb9efa7671f942cfb91bb156ab338c8989d3c3"
 metafile = true
 
 [[files]]
@@ -5725,7 +5725,7 @@ metafile = true
 
 [[files]]
 file = "mods/headlight.pw.toml"
-hash = "bd1515a7c30cf70095a9eb791f281e9c604afb38911bdffa1e7b323ad1aba9dc"
+hash = "27e362dc46982a440649f2cb81dfa06f7a4efa32350b0b6a51dbf2ee26359c53"
 metafile = true
 
 [[files]]
@@ -5790,7 +5790,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-ars-nouveau.pw.toml"
-hash = "5983c586f1172a6f7808d2f1fe844ec97308f1310c55733b6d8071834790390c"
+hash = "af8a68876d57b3ae4cab6465c06bdb003b461c2a7499fad8db8915e57999cfc6"
 metafile = true
 
 [[files]]
