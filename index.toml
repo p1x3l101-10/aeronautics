@@ -5411,11 +5411,6 @@ hash = "1eeece4c8b647ce12fa32d0a5f8bdd07aa6b3b0eccd693f06f639f77ce97c161"
 metafile = true
 
 [[files]]
-file = "mods/bouncestyles.pw.toml"
-hash = "dcbad03a672c9e9b642c54b59c7725a30632d0ea1b93b6870844a9be232473db"
-metafile = true
-
-[[files]]
 file = "mods/bundle-crafting-backport.pw.toml"
 hash = "50834189817091925374dbe9cff9b9434da66d3fb72bdf9ac1a76bf067767864"
 metafile = true
