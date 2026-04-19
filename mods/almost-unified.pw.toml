@@ -1,6 +1,6 @@
 filename = "almostunified-neoforge-1.21.1-1.4.1.jar"
 name = "Almost Unified"
-side = "client"
+side = "both"
 
 [download]
 hash = "cb96a81a3bd4291113655097f66f5b0944b0fcf049bac663b0116b639b0989dbf5701d3ffa191df2735bd9af18bd66bca5e206bd2367b2b2dd143ee989284a81"

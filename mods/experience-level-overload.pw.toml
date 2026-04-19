@@ -1,6 +1,6 @@
 filename = "ELO-1.21+1.21.10-NeoForge.jar"
 name = "Experience Level Overload"
-side = "client"
+side = "both"
 
 [download]
 hash = "106b4e6bff17c2ccb51993e1f93000a7fcb3488d0bfd71d20f0ef068fcd4028532a3057c123b4d48ff67dd8cab1ca2e8bc6fa22e1226ec13998c7971ec1b0d33"

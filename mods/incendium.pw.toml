@@ -1,6 +1,6 @@
 filename = "Incendium_1.21.x_v5.4.4.jar"
 name = "Incendium"
-side = "client"
+side = "both"
 
 [download]
 hash = "ca897be9059ea691860715dac6c0ccd934720d7d42c8af45b95257e8f91a6c9470f506bfb9ef3c770e6a6c57e58885add2126150a35927848817433fd227ce0e"

@@ -1,6 +1,6 @@
 filename = "bouncestyles-3.0.0+1.21.1+neoforge.jar"
 name = "BounceStyles"
-side = "client"
+side = "both"
 
 [download]
 hash = "05a81eadcf99102e02ae2a6e16853fd934b05c362a6bd0f9dcf021992fea552856f5277d97e77c32098a36bffeca71fdb761ed0038640376c7f61686c7a683aa"

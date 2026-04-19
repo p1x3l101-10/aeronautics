@@ -1,6 +1,6 @@
 filename = "createteleporters-remastered-2.0.2-neoforge-1.21.1.jar"
 name = "Create: Teleporters"
-side = "client"
+side = "both"
 
 [download]
 hash = "a021b4a3eec4ff647a812e98e34e25da6e3f5ce5647ca55d910e0f7f06c1fa9bd10123e58206e63ae6aaf9d9392d60ef8b014ab2914b58cdad5535b9d149f5cc"

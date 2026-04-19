@@ -1,6 +1,6 @@
 filename = "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
 name = "YUNG's Better Jungle Temples"
-side = "client"
+side = "both"
 
 [download]
 hash = "eca4233e874a55886c63d2111b8685d479771d3627bad2922582e65b78c51ba74733dc4624aabf91f2a2178a940a72d9209ae33eef74e34f84f07d62256709d9"

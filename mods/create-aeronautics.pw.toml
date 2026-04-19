@@ -1,6 +1,6 @@
 filename = "create-aeronautics-bundled-1.21.1-1.0.2.jar"
 name = "Create Aeronautics"
-side = "client"
+side = "both"
 
 [download]
 hash = "d39a676c505b9f078bbfd55edf4b280edd4a8f1060e36c8a988e110933e685d08305994b9692688558b85ac6037acbd10b40f5457259a813446b89ed97a597f7"

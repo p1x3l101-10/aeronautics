@@ -1,6 +1,6 @@
 filename = "ars_creo-1.21.1-5.2.0.jar"
 name = "Ars Creo"
-side = "client"
+side = "both"
 
 [download]
 hash = "eda495d812c1e8dff4a22c5084ecdbb911b1d0844d6df57f6567c68d927b0b50574c2c54861b4cd8bd555011968b150a2bd2e354d3c4e0ed1a1709bd75e6c014"

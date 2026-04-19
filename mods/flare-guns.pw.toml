@@ -1,6 +1,6 @@
 filename = "flares-1.0.0.jar"
 name = "Flare Guns"
-side = "client"
+side = "both"
 
 [download]
 hash = "b3afd753c3e739674e6348d1e54f58f80779db0dd520cb4355efaf979828766ea80d202ef782e9272f32dc9dcd6aa5b31190c5802a55522d9dbb1aec14ac660d"

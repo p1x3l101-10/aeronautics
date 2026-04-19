@@ -1,6 +1,6 @@
 filename = "oritech_steel_tools-neoforge-1.0.0.jar"
 name = "Oritech steel tools"
-side = "client"
+side = "both"
 
 [download]
 hash = "f371953dd9e0ec26f97e3f003e8907006a10de0420eebe1369b81779d63030915d4a464c52f9b2a581425951ce68249efdf9498de2ad956d51817d29b028c89b"

@@ -1,6 +1,6 @@
 filename = "createidlx-1.21.1-1.3.jar"
 name = "Create: Improved Display Link Experience"
-side = "client"
+side = "both"
 
 [download]
 hash = "65230d0a08458804a49a178beba4ca5dca6aacf8cf8bd42ac71464554f48150f3c534e3a0ad9383d64d2f77c5e18272497397d9e98afe75e00c338502bc49ef3"

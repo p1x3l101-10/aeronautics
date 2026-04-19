@@ -1,6 +1,6 @@
 filename = "suppsquared-1.21-1.2.17-neoforge.jar"
 name = "Supplementaries Squared"
-side = "client"
+side = "both"
 
 [download]
 hash = "19b9fdb01b79784d67efcfc349dd1eac0c2862f0c2177cf2513be99c18b3ddf00756b4880273c3785954ab48d686cbbce4b003dad6ec61da78cc5b6424859047"

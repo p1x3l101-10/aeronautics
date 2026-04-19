@@ -1,6 +1,6 @@
 filename = "create-copper-oxidizing-1.jar"
 name = "Create: Copper Oxidizing"
-side = "client"
+side = "both"
 
 [download]
 hash = "526a6533d2207613af877007fb612d85ae16d79375b3cc47f5262dc863f9395ec7250abe700480e2ce5548b28119edbf51e07a09d7cc94c2e5cd7292d1cb8acd"

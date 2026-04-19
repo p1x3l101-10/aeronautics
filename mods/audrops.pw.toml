@@ -1,6 +1,6 @@
 filename = "audrops-1.0.1.jar"
 name = "AlmostUnifiedDrops"
-side = "client"
+side = "both"
 
 [download]
 hash = "39d3242d12246901031734ddb66d8ae86b221a7ea1c09584224f11876d1d69085d81ea44b281ebad2db3506a0d3e09f1aeeda7f29879c8d34ef7390ba02f266f"

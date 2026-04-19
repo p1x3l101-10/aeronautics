@@ -1,6 +1,6 @@
 filename = "nomansdelight-2.1.0.jar"
 name = "No Man's Delight"
-side = "client"
+side = "both"
 
 [download]
 hash = "d3a973b9e1b1afd5e5bc92aa8895253c039567b713221c659f693fc9d10b2e03c13e5a5c12b47286bb8a15286058ec50beba95c7162f689e992338ad24e70c7e"

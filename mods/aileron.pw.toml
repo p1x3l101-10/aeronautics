@@ -1,6 +1,6 @@
 filename = "aileron-1.21.1-neoforge-1.1.4.jar"
 name = "Aileron"
-side = "client"
+side = "both"
 
 [download]
 hash = "65fdd62ab143a09a5b0049996f6a65361a4447646d41fa1f092af8df85e3106eb531de07e32ce10ac29c318d1ff03427dde143abcf2e616d8bd2bccfb2f575c3"

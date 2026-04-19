@@ -1,6 +1,6 @@
 filename = "wwoo-2.3.4.jar"
 name = "William Wythers' Overhauled Overworld"
-side = "client"
+side = "both"
 
 [download]
 hash = "4ca1ffa9274152e6b5bf978f03be0bd350599e2481ca42494b3a65f0390cb1c83284185f9758e41fe32136c42dc5d5944d6d355679b2939e2b1f592181fc1c89"

@@ -1,6 +1,6 @@
 filename = "YungsBridges-1.21.1-NeoForge-5.1.1.jar"
 name = "YUNG's Bridges"
-side = "client"
+side = "both"
 
 [download]
 hash = "20b07ae4c08974980f976bcae32f18ccb885745d6cd50d4a5d0156eb5c51c29e49f8b2bf7dc2ae160d39b62f2332513bd9850efc5cba13697e36a2ac2848bc3b"

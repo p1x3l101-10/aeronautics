@@ -1,6 +1,6 @@
 filename = "teto_music-1.0.2.jar"
 name = "Teto Music & Plushies"
-side = "client"
+side = "both"
 
 [download]
 hash = "1297f9d0443b4fd6e60110ae3da20a1b0f3572289045dfd294d776e6c9fe3f9099c3c4b46a843570ec1769e2521ce6034368deefde676c2894fc4a64d6c34a3b"

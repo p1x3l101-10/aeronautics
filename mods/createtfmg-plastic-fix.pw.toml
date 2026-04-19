@@ -1,6 +1,6 @@
 filename = "plastic_fix-1.0.0.jar"
 name = "Create:TFMG Plastic Fix"
-side = "client"
+side = "both"
 
 [download]
 hash = "c22f4e16ae0fa7b58dcadb7f1e0d6ca9ff3866d715aba0cf5c61fd22a36aaba50a953878438470fd3f75625a9a8eea63f3f4c6a5ed323c29ad52da09dab4dec6"

@@ -1,6 +1,6 @@
 filename = "tfmg_automation-0.0.1.jar"
 name = "Create: TFMG Automation"
-side = "client"
+side = "both"
 
 [download]
 hash = "29bbaa7e0dcb6daa685f8330b8ff1947f7aeaf3823848fb3909ba7a557dc24da1506e37d526298ccb667d293094ccb52bb6c483a5ba6805d60b84e956bd3fae0"

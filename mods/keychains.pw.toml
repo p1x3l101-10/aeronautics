@@ -1,6 +1,6 @@
 filename = "keymod-1.1.jar"
 name = "Keychains: Supplementaries"
-side = "client"
+side = "both"
 
 [download]
 hash = "c42894b5ba235763f6a2e62638194692d92f3dc59248b40166ec5cdb23392fcb17349ad294c5cf588f593b58024d30f00ff8ed442ba5b5371e87cceefac1582c"

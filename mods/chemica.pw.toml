@@ -1,6 +1,6 @@
 filename = "Chemica-0.5.1.jar"
 name = "Chemica"
-side = "client"
+side = "both"
 
 [download]
 hash = "2406922fe3a2b13da4a2ff94b56e6bc4bac6c85eed5ecbdadb1cd643d6433a9087b7aa765f91c33ae7436d6f72fbe98aad4b4f77dd8459fe86bdbca2c4aad633"

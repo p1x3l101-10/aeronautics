@@ -1,6 +1,6 @@
 filename = "tectonic-3.0.22-neoforge-21.1.jar"
 name = "Tectonic"
-side = "client"
+side = "both"
 
 [download]
 hash = "a02d3f2bfd8aa099512005df23b45ec723694c397b4224a69ffd47b41cd06bb3d56a0f10bbfd81e8159e0fc55f61d0729656f91231410a74ed55e6fc16fd18ec"

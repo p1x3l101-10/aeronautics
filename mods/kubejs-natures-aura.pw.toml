@@ -1,6 +1,6 @@
 filename = "kubejs_naturesaura-1.0.3.jar"
 name = "KubeJS Nature's Aura"
-side = "client"
+side = "both"
 
 [download]
 hash = "6c09f5eaaf2e6a99642471409325c198de768d156680132a90b04e63e16a5727d7a78fe45e152e249387cd48f49b2cbfe59370918c1319e4b219754708e00b57"

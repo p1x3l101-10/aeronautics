@@ -1,6 +1,6 @@
 filename = "createpickywheels-neoforge-1.21.1-6.0.9-6.jar"
 name = "Create Picky Wheels"
-side = "client"
+side = "both"
 
 [download]
 hash = "0fb2ba424c7e976a46a3e97423ed4b3aa18628c40ffeeb38885f8fa89ee8078f629938306d1f600fac6d657352744da49a9e9dbee67faaa7067931e8f35cd219"

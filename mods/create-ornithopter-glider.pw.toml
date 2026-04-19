@@ -1,6 +1,6 @@
 filename = "createornithopterglider-1.0.3-1.21.1.jar"
 name = "Create: Ornithopter Glider"
-side = "client"
+side = "both"
 
 [download]
 hash = "0495f8602489fd2681b2e79dab0040e24ba97172845d27802979d2fa94f7d83e34e1049f7d12b0b749048fd97c9d7bea7d30eaf02cb8502af6ccb4295b57a740"

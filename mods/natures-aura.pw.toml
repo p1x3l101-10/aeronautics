@@ -1,6 +1,6 @@
 filename = "NaturesAura-41.9.jar"
 name = "Nature's Aura"
-side = "client"
+side = "both"
 
 [download]
 hash = "d4653582b1e0c7f3dc633be74b14295c77e3738fc608ddfd582cb980d63e13af9249ef49d08abca21bc5a1ddaab4ad55dc66cfaa66747dbf6722f7b9824dff4b"

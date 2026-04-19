@@ -1,6 +1,6 @@
 filename = "obscure_tooltips-neoforge-1.21.1-4.2.2.jar"
 name = "Obscure Tooltips"
-side = "client"
+side = "both"
 
 [download]
 hash = "70234c7e6ade9b931025aa430f086fb8227a471e7176b7c49cbd41b70135c2ab437b5da527b46db77bd2fc2c702deace797184e12947709529cea2b8ccb4a12f"

@@ -1,6 +1,6 @@
 filename = "sable-neoforge-1.21.1-1.0.5.jar"
 name = "Sable"
-side = "client"
+side = "both"
 
 [download]
 hash = "4f0cb68212443e679724071eaad06a013b87e14f6ed9d8668516872b12cf4d9d5dd92c4cc664aa6c9d3f2f579add2cfb07e4cbd6e31397bcaafeaea28b2cbd5e"

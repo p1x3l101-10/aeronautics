@@ -1,6 +1,6 @@
 filename = "healight-neoforge-1.21.1-1.0.1.jar"
 name = "Healight"
-side = "client"
+side = "both"
 
 [download]
 hash = "a2c51fd0b31ec4a9e5fdd564add53acda0eab4020b154f81921d0fd2eef7e98fddd3d65f0b55477143f63162dc476a7740674c78a7bafca0bb9ef7ab2f46beab"

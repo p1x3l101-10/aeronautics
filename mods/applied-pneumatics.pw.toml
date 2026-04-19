@@ -1,6 +1,6 @@
 filename = "appliedpneumatics-1.21.1-neoforge-1.0.8.jar"
 name = "Applied Pneumatics"
-side = "client"
+side = "both"
 
 [download]
 hash = "1176c9e1a76331021bf493e3d854cd07c2104a955cc6dc4fc8d9e18f54aed2e57c89a818f98d39c310f539c300820b6242528d5c3b0b6c8bcf252f5f91cfcbfd"

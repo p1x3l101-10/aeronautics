@@ -1,6 +1,6 @@
 filename = "Structory_26.1_v1.3.16.jar"
 name = "Structory"
-side = "client"
+side = "both"
 
 [download]
 hash = "c3528d32c888d5b57cd14d1cf085ceeb567457e770b021dcedfe4475e36e16522cea5796ccb84a6467801d6f3c8d054feefa4a6bac5c4a91b1e8350ad736912d"

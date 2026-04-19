@@ -1,6 +1,6 @@
 filename = "create-coal-recipe-1.jar"
 name = "Create: Coal Recipe"
-side = "client"
+side = "both"
 
 [download]
 hash = "5e00448015402adf80a279a03ec696b050681cde7f8dbbba90f3b22e0865c4b8014655c63b39fa7ffcd670e8bb6fde5de8d6bd10a4f14801ff05a19824840630"

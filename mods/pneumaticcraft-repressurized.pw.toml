@@ -1,6 +1,6 @@
 filename = "pneumaticcraft-repressurized-8.2.19+mc1.21.1.jar"
 name = "PneumaticCraft: Repressurized"
-side = "client"
+side = "both"
 
 [download]
 hash = "b7c4cfcfb4b646173912a29ba75fe3d4ea1d393fd7dfed8fa59f8d7fda8b57be24cc4e6d36cbf926b9014d9b5b533e64d23eeea1beb47be394675713c0ff6062"

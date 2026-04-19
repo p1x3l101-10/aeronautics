@@ -1,6 +1,6 @@
 filename = "kubejs_oritech-1.0.0.jar"
 name = "KubeJS Oritech"
-side = "client"
+side = "both"
 
 [download]
 hash = "13a7a746c5990bb209106c28305abf0a959ebcc3fb436384e443c4824aba791c446e5a24178f83ac210efa5a211826704aedb97538e818b73e411874297d7a75"

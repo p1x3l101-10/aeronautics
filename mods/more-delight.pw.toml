@@ -1,6 +1,6 @@
 filename = "moredelight-25.07.28a-1.21-neoforge.jar"
 name = "More Delight (for Farmer's Delight)"
-side = "client"
+side = "both"
 
 [download]
 hash = "ff06be5cfc5503551de99b9d85dffa8068d0a303d110c894d081c2fefa1ef550d9faae2adea5902accd78f52ba0d07562bc716f798f83465f0bd267d32fb1acc"
