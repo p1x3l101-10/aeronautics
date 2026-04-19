@@ -5866,11 +5866,6 @@ hash = "930fb80f6b34c2e4491c962458b628474888fc5fd9b5881ed3692ecd0ad25b6d"
 metafile = true
 
 [[files]]
-file = "mods/more-darkness.pw.toml"
-hash = "71c385bd47412226a11bec31844a98d103aab6debf44d58653909d9d787e559c"
-metafile = true
-
-[[files]]
 file = "mods/more-delight.pw.toml"
 hash = "959b98bc0fd5aa60a0f386cfd9eeab1c7a66e8d1f81d1d6c579c0e5fc351f1c1"
 metafile = true
