@@ -4797,6 +4797,14 @@ file = "config/guideme.toml"
 hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
 
 [[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "0f338c822ebc6cad040079c0959987c141e8847b73cb6f75b4c2e8044c8e7be0"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
