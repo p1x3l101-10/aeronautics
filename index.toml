@@ -5463,11 +5463,6 @@ hash = "dbd01b60ce639f010c6216f930f25fc398f61f2cef2fec41663d40c87bd73623"
 metafile = true
 
 [[files]]
-file = "mods/create-cobblestone.pw.toml"
-hash = "7d2b52af7a81ce5aa9a9382011121ee2db21871c5ff7cfe4348b072fbb97dd3a"
-metafile = true
-
-[[files]]
 file = "mods/create-copper-oxidizing.pw.toml"
 hash = "c2087b01e739b21a68774ecd6d6ffa935cfc10ee2989995ac8ce7bff2cd64b04"
 metafile = true
