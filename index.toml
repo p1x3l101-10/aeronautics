@@ -5315,7 +5315,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-musique.pw.toml"
-hash = "11c9035027d6424e8ffdf68b7c2ee36b340b69942babe7c857113debd34578b9"
+hash = "0d15fc64c83360fcbc5b0e25b08ead9178106ef055967bc9797e13f44032feef"
 metafile = true
 
 [[files]]
@@ -5554,7 +5554,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-oritech-compat.pw.toml"
-hash = "eb0fd49ea758307595c50b2b2b669b4dea225fba2ae3a8b3dd0fa306282da32a"
+hash = "48b4f8e5707f42b8b42b7eaaec4f6a02cf752db0992f359b5a93edab92fbe292"
 metafile = true
 
 [[files]]
@@ -5579,7 +5579,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-tfmg-air-starter-addon.pw.toml"
-hash = "7a994cea791d032a4522c88da2cb9efa7671f942cfb91bb156ab338c8989d3c3"
+hash = "925c0260912a76ab7129dd06e2c20bc97803b26975615dc2e01c6d589bcde2fc"
 metafile = true
 
 [[files]]
@@ -5699,7 +5699,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastsuite.pw.toml"
-hash = "cf85f3726dec7635c08d9e262ed569be7c70666767eb1007be4626eb440ee85e"
+hash = "b06490fcd416daee0f99753bba70085d25e1887ff094968d05a685a2bbe42028"
 metafile = true
 
 [[files]]
@@ -5734,7 +5734,7 @@ metafile = true
 
 [[files]]
 file = "mods/headlight.pw.toml"
-hash = "27e362dc46982a440649f2cb81dfa06f7a4efa32350b0b6a51dbf2ee26359c53"
+hash = "364c3ef93a1d354b8fa8d11c59fb02c5af7a58be3ac598b6e5654c755e3c5783"
 metafile = true
 
 [[files]]
@@ -5799,7 +5799,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-ars-nouveau.pw.toml"
-hash = "af8a68876d57b3ae4cab6465c06bdb003b461c2a7499fad8db8915e57999cfc6"
+hash = "452332ea5d68bfb2ab0ea43fb331c7504384f65f0aed7f26edc04a8542e577ab"
 metafile = true
 
 [[files]]
@@ -5869,7 +5869,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-darkness.pw.toml"
-hash = "1c9cf63170ff0191b7bb4fe6359b1aa70bb19262de37b4705922e15836ec96dc"
+hash = "65f9c4f0f7891217b560fc35cd41cefe06be8dd60b1c21d9ec6c6a8e85db40c1"
 metafile = true
 
 [[files]]
@@ -5999,7 +5999,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "1ba6257905ba2bae2bac64f14ce8e0c095a0bb7778bfa7ad7422531a1deb98c9"
+hash = "6ade0327d7103487f7ef0bec778ae3a12a4fe8c2d20ddb7c5aea9a191e3a2763"
 metafile = true
 
 [[files]]
@@ -6014,7 +6014,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
-hash = "567af15c2e9ed2c54c3f8718e7050072f9dfc825a70c9db769a6b05d19a56d09"
+hash = "29740bdba787b114ba5779670a2b586c0879ce83d47c81176def27cb34a70cfd"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
-filename = "Headlight-1.21.1-2.0.1.jar"
 name = "Headlight"
+filename = "Headlight-1.21.1-2.0.1.jar"
 side = "both"
 
 [download]
-hash = "bef5434308b1e4d762d91479f6dbb49e00618adf"
-hash-format = "sha1"
+hash-format = "sha512"
+hash = "91e160e7eccfcf71d1bb48ceeb32af5c058dc3e886099d567ba0d5bfef782b96fd7362a60c67cf35102bb3e1e4167eac7e5b14196234c3c162a5911e07ecf637"
 mode = "metadata:curseforge"
-url = ""
 
+[update]
 [update.curseforge]
 file-id = 6282140
 project-id = 1190219

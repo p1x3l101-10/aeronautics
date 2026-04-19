@@ -1,13 +1,13 @@
-filename = "ars_musique-1.21.1-2.3.0.jar"
 name = "Ars Musique"
+filename = "ars_musique-1.21.1-2.3.0.jar"
 side = "both"
 
 [download]
-hash = "cf6344b308662dfae34cb338638834e34a71c377"
-hash-format = "sha1"
+hash-format = "sha512"
+hash = "63d96feee97f3d0c95d470391b332c1d6b7e95d844c1ac9445a765a8f278c01aaedf9ce76ece800b0e1df5c7e4b829ddf22591f238b6482117ccd44342b0984a"
 mode = "metadata:curseforge"
-url = ""
 
+[update]
 [update.curseforge]
 file-id = 7935727
 project-id = 1477190

@@ -1,13 +1,13 @@
-filename = "more_darkness-neoforge-1.21.1-1.0.0.jar"
 name = "More Darkness"
+filename = "more_darkness-neoforge-1.21.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash = "bad7088a7414c1fcaa7805b5960956d31700a0fc"
-hash-format = "sha1"
+hash-format = "sha512"
+hash = ""
 mode = "metadata:curseforge"
-url = ""
 
+[update]
 [update.curseforge]
 file-id = 7910900
 project-id = 1511006
