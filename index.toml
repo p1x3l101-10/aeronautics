@@ -5886,6 +5886,11 @@ hash = "09d69f173dad04dbb22134b782df2eae7e6549dce367c109aeccfb8fd68e5dbc"
 metafile = true
 
 [[files]]
+file = "mods/nameless-trinkets.pw.toml"
+hash = "38c0041d20de8e11a9409d5f50acab984b917d877452b5859fc658d67f8198b7"
+metafile = true
+
+[[files]]
 file = "mods/natures-aura.pw.toml"
 hash = "cde05f8d96a3f8eb0d3d974f18fc61e238301f5e16d16620561b823480996255"
 metafile = true
@@ -6143,6 +6148,11 @@ metafile = true
 [[files]]
 file = "mods/tfmg-energy-converter.pw.toml"
 hash = "bd1de362c44078cd8e40fccb38cca52dfd0dd8c969b8f27a423500d1346a0ed5"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-and-baubles-reforked.pw.toml"
+hash = "c530cb40d3b01fe0a41ca9c69c9e2ab85f05dca43190b3c5256d98d221324ac0"
 metafile = true
 
 [[files]]
