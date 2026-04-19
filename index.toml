@@ -5721,11 +5721,6 @@ hash = "b654d561afbde13dcfd2e3df4180e3c797ecab0e9c46b109376b4b8074702bdf"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
-metafile = true
-
-[[files]]
 file = "mods/flare-guns.pw.toml"
 hash = "81a8bb8883ec6df8d4bad330d987a69e42cb3d48f16fec17388d189ac737b028"
 metafile = true
