@@ -4454,7 +4454,7 @@ hash = "d2e199338ca8cdd6a345990ba6a3415bb6296dbc7c0aeeab26184f1c017d4a4d"
 
 [[files]]
 file = "config/better_respawn-server.toml"
-hash = "df7215f4de0a4f264aefd1a395de0cbea173e18eea4c0cb43c1eba153fb57882"
+hash = "268d178abe306fd6cff34235b06a066a18b31d47f617f073f6ca8057c24c1cba"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
