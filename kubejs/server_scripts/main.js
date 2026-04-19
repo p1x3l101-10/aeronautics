@@ -1,5 +1,6 @@
 const badRecipes = [
   "oritech:foundry/alloy/steel",
+  "oritech:crafting/alloy/steel",
   "ae2:inscriber/calculation_processor_print",
   "ae2:inscriber/logic_processor_print",
   "ae2:inscriber/engineering_processor_print",
