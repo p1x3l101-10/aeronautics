@@ -6131,6 +6131,11 @@ hash = "cf9f7ad936b2ea89fdc6ac89c71bdda574c8b638a77c3f04255db9109d58e8d3"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
 file = "mods/teto-music-and-plushies.pw.toml"
 hash = "80d62342af39fa566a0a5cd1cbccbdf6cb3f4ab484f6dbb610fb168dca59fe31"
 metafile = true
