@@ -1,10 +1,6 @@
 const badRecipes = [
   "oritech:foundry/alloy/steel",
   "oritech:crafting/alloy/steel",
-  "ae2:inscriber/calculation_processor_print",
-  "ae2:inscriber/logic_processor_print",
-  "ae2:inscriber/engineering_processor_print",
-  "ae2:inscriber/silicon_print",
   "ae2:smelting/silicon_from_certus_quartz_dust",
   "ae2:blasting/silicon_from_certus_quartz_dust",
   "tfmg:compacting/cast_iron"
@@ -47,16 +43,16 @@ ServerEvents.recipes(event => {
     [
       { tag: "c:ingots/iron" }
     ],
-    {
+    [{
       id: "createbigcannons:molten_cast_iron",
       amount: 180
-    },
+    }],
     180
   );
   // Make the basic steel recipe use cast iron (techincally cheaper, but also more complex)
   event.replaceInput(
-    { id: "tfmg:industrial_blasting/steel_from_dust" }.
-    "#c:clumps/iron",
+    { id: "tfmg:industrial_blasting/steel_from_dust" },
+    "create:crushed_raw_iron",
     "#c:ingots/cast_iron"
   );
 });
