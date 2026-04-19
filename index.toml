@@ -5601,11 +5601,6 @@ hash = "3a0fac104cea6bffd63729eeac91ad624aa2ba86007ca8245f153805d1b601fb"
 metafile = true
 
 [[files]]
-file = "mods/create-tfmg-air-starter-addon.pw.toml"
-hash = "925c0260912a76ab7129dd06e2c20bc97803b26975615dc2e01c6d589bcde2fc"
-metafile = true
-
-[[files]]
 file = "mods/create-tfmg-automation.pw.toml"
 hash = "bc4eb0465e0ab5d7ffb080c558dbd94d818820464dc5e06d620ad2b36aa07aa1"
 metafile = true
