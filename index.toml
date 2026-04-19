@@ -5786,21 +5786,6 @@ hash = "7ac0e3ad6ca8624a53fbf8e7ab40494f5c216c0846a406f6ffbdecf54043ab34"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons-forge.pw.toml"
-hash = "3b233399c7127a551891709e163eaa791dc4ea7178ba3ced63b7e596b3ccf57b"
-metafile = true
-
-[[files]]
-file = "mods/jade-addons-tfmg-multimeter-support.pw.toml"
-hash = "235258829709751c21a15fe0b5e5aecb619cda43aafbb73269af210d1c4d1f35"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "77f0c93f050d5e7d4f9a45793ffe4001a5661c86d6b3b10a63b54e5ba0e0b62d"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "aa23b1cad63cfc118cb4ba7d0790e3d9589db65b20ae4d94988c25d03e784772"
 metafile = true
