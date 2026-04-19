@@ -5633,6 +5633,11 @@ hash = "c44d7cd54e049ca44b942a5b6b9eb316762514b7a8c5e608042357b9da0e33b3"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "a7917f94c7b75104bb9c5fdddcb5a365df7464885987bc50b8110591f512fb61"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "452f249d868e3ec5762dfdabba6113c87989dc03da6e104c7d8c486f7b111de0"
 metafile = true
