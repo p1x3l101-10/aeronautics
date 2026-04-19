@@ -5747,7 +5747,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c304ac9ef2993a03544114bb308eead8c28000924cb542c4bba5e075cf9229a7"
+hash = "2fa2da22d16bdcf10aaa1d41f67edd800a8a21d6f8450579cd9af8b31212beb4"
 metafile = true
 
 [[files]]
@@ -6082,7 +6082,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "8463f0bed874f681e3096b01cb970d80491b7fb54648ac219a5e234eabda4b79"
+hash = "ad144bd6864c8ee8b62fbbbf0855e8c1c94d14be66d72ee8c67e8aec83956fdd"
 metafile = true
 
 [[files]]
