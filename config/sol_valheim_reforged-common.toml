@@ -32,6 +32,6 @@
 
 [mod_compatibility]
 	#Disable passive regeneration (not recommended) (boolean, default = false)
-	disable_regeneration = false
+	disable_regeneration = true
 	#Allow consumables to apply saturation and food-related effects (not recommended) (boolean, default = false)
 	allow_saturation = false

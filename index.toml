@@ -5106,7 +5106,7 @@ hash = "678c03a94341146fe7b91049d624e70f9b7efbf87d97e31497b2e7103ed8e07f"
 
 [[files]]
 file = "config/sol_valheim_reforged-common.toml"
-hash = "36a36baecf25bc2541810ce3047f5e8fb482f35d1f4f13b20947351a3cea639b"
+hash = "d88af1e17def5485c1527ba412e99ac92864805d66207c2cddc034881c1695be"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
