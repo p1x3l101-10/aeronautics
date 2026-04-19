@@ -9,7 +9,7 @@ hash-format = "sha256"
 hash = "5764da129093a91a91d34a5dfb4193c185257a6082adac306810a91170134090"
 
 [versions]
-lwjgl3 = "3.3.1"
+lwjgl3 = "3.3.3"
 minecraft = "1.21.1"
 neoforge = "21.1.225"
 unsup = "1.1.5"
