@@ -7,9 +7,20 @@ const badRecipes = [
   "ae2:inscriber/silicon_print",
   "ae2:smelting/silicon_from_certus_quartz_dust",
   "ae2:blasting/silicon_from_certus_quartz_dust",
+  "tfmg:compacting/cast_iron"
 ];
 
 ServerEvents.recipes(event => {
+  const basinFoundryMelting = (inputs, output, processingTime) => {
+    event.custom({
+      type: "createbigcannons:melting",
+      heat_requirement: "heated",
+      ingredients: inputs,
+      processing_time: processingTime,
+      results: output
+    });
+  };
+
   badRecipes.forEach((recipeId) => {
     event.remove({ id: recipeId });
   });
@@ -29,5 +40,23 @@ ServerEvents.recipes(event => {
     { output: "pneumaticcraft:compressed_iron_block" },
     "#c:storage_blocks/iron",
     "#c:storage_blocks/cast_iron"
+  );
+  
+  // Add a cast iron recipe
+  basinFoundryMelting(
+    [
+      { tag: "c:ingots/iron" }
+    ],
+    {
+      id: "createbigcannons:molten_cast_iron",
+      amount: 180
+    },
+    180
+  );
+  // Make the basic steel recipe use cast iron (techincally cheaper, but also more complex)
+  event.replaceInput(
+    { id: "tfmg:industrial_blasting/steel_from_dust" }.
+    "#c:clumps/iron",
+    "#c:ingots/cast_iron"
   );
 });
