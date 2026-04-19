@@ -18,4 +18,15 @@ ServerEvents.recipes(event => {
     "ae2:silicon",
     "#c:silicon"
   );
+  // Need cast iron instead
+  event.replaceInput(
+    { output: "pneumaticcraft:iron_ingot_compressed" },
+    "#c:ingots/iron",
+    "#c:ingots/cast_iron"
+  );
+  event.replaceInput(
+    { output: "pneumaticcraft:compressed_iron_block" },
+    "#c:storage_blocks/iron",
+    "#c:storage_blocks/cast_iron"
+  );
 });
