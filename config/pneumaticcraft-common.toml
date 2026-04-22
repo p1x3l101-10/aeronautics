@@ -1,6 +1,6 @@
 [general]
 	#Enable mod dungeon loot generation
-	enable_dungeon_loot = true
+	enable_dungeon_loot = false
 	#Efficiency of fuel buckets as furnace fuel (default 0.05 means 1 bucket of LPG smelts 450 items in a vanilla furnace)
 	# Default: 0.05
 	# Range: 0.0 ~ Infinity
@@ -38,7 +38,7 @@
 	#Oil worldgen whitelist by dimension ID: add dimension ID's to this list if you want oil lake worldgen to happen ONLY in those dimensions. You can wildcard the path; e.g 'modid:*' whitelists ALL dimensions of namespace 'modid'. If this is empty, it is ignored, and 'oil_world_gen_dimension_blacklist' will be checked instead.
 	oil_world_gen_dimension_whitelist = []
 	#Oil worldgen blacklist by dimension ID: add dimension ID's to this list if you don't want oil lake worldgen to happen there. You can wildcard this; e.g 'modid:*' blacklists ALL dimensions of namespace 'modid'.
-	oil_world_gen_dimension_blacklist = []
+	oil_world_gen_dimension_blacklist = [ "minecraft:*" ]
 	#If true, oil lakes will not generate within the bounds of any structure. If false, the structure tag 'pneumaticcraft:no_oil_lakes' is used to define which structures should not have oil lakes in them
 	no_oil_lakes_in_structures = true
 
