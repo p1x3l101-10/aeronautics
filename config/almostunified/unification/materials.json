@@ -5,8 +5,7 @@
     "create",
     "chemica",
     "tfmg",
-    "pneumaticcraft",
-    "oritech"
+    "pneumaticcraft"
   ],
   "priority_overrides": {},
   "stone_variants": [
@@ -33,9 +32,7 @@
     "c:wires/{material}"
   ],
   "ignored_tags": [],
-  "ignored_items": [
-    "oritech:biosteel_ingot"
-  ],
+  "ignored_items": [],
   "ignored_recipe_types": [
     "cucumber:shaped_tag"
   ],

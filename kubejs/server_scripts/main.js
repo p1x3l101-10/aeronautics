@@ -1,6 +1,4 @@
 const badRecipes = [
-  "oritech:foundry/alloy/steel",
-  "oritech:crafting/alloy/steel",
   "ae2:smelting/silicon_from_certus_quartz_dust",
   "ae2:blasting/silicon_from_certus_quartz_dust",
   "tfmg:compacting/cast_iron"

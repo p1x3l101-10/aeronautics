@@ -4034,7 +4034,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "796784da9ec3acf78a4252af3e17152f6224de6fe500cc38bb04d0664d112a44"
+hash = "3bcb3d512b59ab45b23045c8bc15797430ba493ac2bca8e801100c00f33416f7"
 
 [[files]]
 file = "config/appex-common.toml"
@@ -4969,22 +4969,6 @@ file = "config/offroad-server.toml"
 hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
-file = "config/oritech-client.toml"
-hash = "1052942f7b43695db6c5ff80283d17a65c38e12f0ea746842fb0b20671cfaefd"
-
-[[files]]
-file = "config/oritech-common.toml"
-hash = "a7ccc17c944ed30aa167dc463ee91da2f90913ae770aab3f1eb41aee4e535db2"
-
-[[files]]
-file = "config/oritech-startup.toml"
-hash = "eb5b17c2b17acc99383268c8a74a8c2601bd94fcbf60b6583104ab9e53b2950a"
-
-[[files]]
-file = "config/oritech-things.json5"
-hash = "ccfff2cb86199a74288181e633dc2323945bea39b566a27d800a705cb9400eaa"
-
-[[files]]
 file = "config/patchouli-client.toml"
 hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
 
@@ -5270,7 +5254,7 @@ hash = "4210ef3f72c966ec3136ddac0185ed476a4ff3ded001c9f433b5028dfe12d425"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "ef1c4a97a5cfa393657c83463a73a7d6faf11b3714a391ab187f4f4955649082"
+hash = "98d159525f92d4135fc0eafd981374e2ec2194cf7fb94f26d7dd5bdc2e1d40c1"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -5548,11 +5532,6 @@ metafile = true
 [[files]]
 file = "mods/create-optical.pw.toml"
 hash = "5ac9a2223abeeb4f08d71c9361e4d7919bbfcfdb22c1703f6e273446ac851e77"
-metafile = true
-
-[[files]]
-file = "mods/create-oritech-compat.pw.toml"
-hash = "48b4f8e5707f42b8b42b7eaaec4f6a02cf752db0992f359b5a93edab92fbe292"
 metafile = true
 
 [[files]]
@@ -5938,21 +5917,6 @@ metafile = true
 [[files]]
 file = "mods/obscure-tooltips.pw.toml"
 hash = "822b78501e763eeca7027167fd745508670766ac0b52bf410b99860668d96ed9"
-metafile = true
-
-[[files]]
-file = "mods/oritech-steel-tools.pw.toml"
-hash = "c26a0ae039f50ae9af9dcaac10dc9d745336be4f4cb2394d55ed7ed511ad775a"
-metafile = true
-
-[[files]]
-file = "mods/oritech-things.pw.toml"
-hash = "1bea2cf6a5e84f30e9fa256e01a315151da9340b27e9c91242cc6beabfea2a5f"
-metafile = true
-
-[[files]]
-file = "mods/oritech.pw.toml"
-hash = "2fb403b23c4f42f4dde9871ad20b7e4ed7a9177acfe4ef9138e7b4dcd8e13622"
 metafile = true
 
 [[files]]
