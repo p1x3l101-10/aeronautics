@@ -5546,11 +5546,6 @@ hash = "86c0a3baf071368acc35f51a11bf4db62af199ec5990ebc80932ef53dcc1309c"
 metafile = true
 
 [[files]]
-file = "mods/create-ochrum-recipe.pw.toml"
-hash = "a9a5461787bd40a6ce80faeef7a647a3e1585eeb73ca41501467493cd1078e47"
-metafile = true
-
-[[files]]
 file = "mods/create-optical.pw.toml"
 hash = "5ac9a2223abeeb4f08d71c9361e4d7919bbfcfdb22c1703f6e273446ac851e77"
 metafile = true
