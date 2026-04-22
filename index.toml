@@ -5465,23 +5465,8 @@ hash = "c3faf33650710bf1ee8024c19bd82e99ac18e9cf02f17fe1fab8692716d42206"
 metafile = true
 
 [[files]]
-file = "mods/create-coal-recipe.pw.toml"
-hash = "9df519890574ac4a712f18c4b2e9a8ecfa96b5d39ca292d7b5237b093375c373"
-metafile = true
-
-[[files]]
 file = "mods/create-copper-oxidizing.pw.toml"
 hash = "ee56d6d64cbf099726202d60a6330aed87deb15dc3f90839cfc7b3a202cae65b"
-metafile = true
-
-[[files]]
-file = "mods/create-crimsite-recipe.pw.toml"
-hash = "4c767113a347ac21491615c24f8fd4f429eaa4f204dd9f098fb9ffb77b555e45"
-metafile = true
-
-[[files]]
-file = "mods/create-curios-jetpack.pw.toml"
-hash = "05dc5272114d2d2923b3feca4735da234bd71bbf6c8cc8de74c87e505efc9ae0"
 metafile = true
 
 [[files]]
@@ -5515,11 +5500,6 @@ hash = "b50cad2053fa06974f8f902b13a3ab79ad4fb06ca5e0a95dfc59bc9c93638faa"
 metafile = true
 
 [[files]]
-file = "mods/create-lapis-lazuli-recipe.pw.toml"
-hash = "86557a7f5ff747d26b04b94bcb5f8879d77721f144da8cd19b782171e3be7282"
-metafile = true
-
-[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "16d9d7bb059aed1d894379736e6bb861dfc7483ededbdc94a0a940c99edba6eb"
 metafile = true
@@ -5542,11 +5522,6 @@ metafile = true
 [[files]]
 file = "mods/create-picky-wheels.pw.toml"
 hash = "0418de58d0e94428f4a71b6f1b4b6d928e4f61923daed20f959b49bb3a826758"
-metafile = true
-
-[[files]]
-file = "mods/create-redstone-recipe.pw.toml"
-hash = "5b46a47ac060cea4e76ec1c4fada0e2575ab4a9949b0c487305e460a4c85c743"
 metafile = true
 
 [[files]]
