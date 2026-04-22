@@ -1,0 +1,422 @@
+{
+  "global": {
+    "enabled": true,
+    "vein_size_multiplier": 0.85,
+    "attempt_multiplier": 1.0,
+    "nether_generation_enabled": true,
+    "auto_discover_modded_ores": true,
+    "auto_enable_discovered_modded_ores": true,
+    "debug_logging": false
+  },
+  "overrides": {
+    "minecraft:coal_ore": {
+      "enabled": true,
+      "vein_size": 36,
+      "attempts": 1,
+      "min_y": 48,
+      "max_y": 160,
+      "dimension": "overworld"
+    },
+    "minecraft:iron_ore": {
+      "enabled": true,
+      "vein_size": 34,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 96,
+      "dimension": "overworld"
+    },
+    "minecraft:deepslate_iron_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 0,
+      "dimension": "overworld"
+    },
+    "minecraft:copper_ore": {
+      "enabled": true,
+      "vein_size": 30,
+      "attempts": 1,
+      "min_y": -8,
+      "max_y": 80,
+      "dimension": "overworld"
+    },
+    "minecraft:gold_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -48,
+      "max_y": 32,
+      "dimension": "overworld"
+    },
+    "minecraft:redstone_ore": {
+      "enabled": true,
+      "vein_size": 18,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 0,
+      "dimension": "overworld"
+    },
+    "minecraft:deepslate_redstone_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 0,
+      "dimension": "overworld"
+    },
+    "minecraft:lapis_ore": {
+      "enabled": true,
+      "vein_size": 16,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 32,
+      "dimension": "overworld"
+    },
+    "minecraft:deepslate_lapis_ore": {
+      "enabled": true,
+      "vein_size": 18,
+      "attempts": 1,
+      "min_y": -32,
+      "max_y": 16,
+      "dimension": "overworld"
+    },
+    "minecraft:diamond_ore": {
+      "enabled": true,
+      "vein_size": 10,
+      "attempts": 1,
+      "min_y": -48,
+      "max_y": 0,
+      "dimension": "overworld"
+    },
+    "minecraft:deepslate_diamond_ore": {
+      "enabled": true,
+      "vein_size": 12,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": -16,
+      "dimension": "overworld"
+    },
+    "minecraft:emerald_ore": {
+      "enabled": true,
+      "vein_size": 10,
+      "attempts": 1,
+      "min_y": 48,
+      "max_y": 180,
+      "biome_filter": [
+        "#minecraft:is_mountain"
+      ],
+      "dimension": "overworld"
+    },
+    "minecraft:deepslate_emerald_ore": {
+      "enabled": true,
+      "vein_size": 12,
+      "attempts": 1,
+      "min_y": -16,
+      "max_y": 96,
+      "biome_filter": [
+        "#minecraft:is_mountain"
+      ],
+      "dimension": "overworld"
+    },
+    "minecraft:nether_gold_ore": {
+      "enabled": true,
+      "vein_size": 22,
+      "attempts": 1,
+      "min_y": 10,
+      "max_y": 96,
+      "dimension": "the_nether"
+    },
+    "minecraft:nether_quartz_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": 20,
+      "max_y": 110,
+      "dimension": "the_nether"
+    },
+    "minecraft:ancient_debris": {
+      "enabled": true,
+      "vein_size": 4,
+      "attempts": 1,
+      "min_y": 8,
+      "max_y": 20,
+      "dimension": "the_nether"
+    },
+    "natures_spirit:chert_lapis_ore": {
+      "enabled": true,
+      "vein_size": 18,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 32,
+      "dimension": "overworld"
+    },
+    "natures_spirit:chert_iron_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "chemica:tin_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "natures_spirit:chert_diamond_ore": {
+      "enabled": true,
+      "vein_size": 12,
+      "attempts": 1,
+      "min_y": -48,
+      "max_y": 0,
+      "dimension": "overworld"
+    },
+    "create:deepslate_zinc_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "natures_spirit:chert_gold_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -48,
+      "max_y": 32,
+      "dimension": "overworld"
+    },
+    "tfmg:lithium_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_tin_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_silver_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "iceandfire:silver_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_molybdenum_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "natures_spirit:chert_redstone_ore": {
+      "enabled": true,
+      "vein_size": 18,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 0,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_graphite_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "tfmg:deepslate_lithium_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_platinum_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_fluorite_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_phosphorus_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_cobalt_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_antimony_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_vanadium_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "natures_spirit:chert_coal_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "tfmg:nickel_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "tfmg:deepslate_nickel_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_wolframite_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "create:zinc_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "iceandfire:deepslate_silver_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "iceandfire:sapphire_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "chemica:phosphorus_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "tfmg:deepslate_lead_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "natures_spirit:chert_copper_ore": {
+      "enabled": true,
+      "vein_size": 30,
+      "attempts": 1,
+      "min_y": -8,
+      "max_y": 80,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_rutile_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "chemica:deepslate_chromite_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "tfmg:lead_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "natures_spirit:chert_emerald_ore": {
+      "enabled": true,
+      "vein_size": 12,
+      "attempts": 1,
+      "min_y": 48,
+      "max_y": 180,
+      "biome_filter": [
+        "#minecraft:is_mountain"
+      ],
+      "dimension": "overworld"
+    }
+  }
+}

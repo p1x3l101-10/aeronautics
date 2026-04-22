@@ -91,6 +91,12 @@
     "block_properties": false,
     "mod_name": true
   },
+  "iceandfire": {
+    "dragon_egg_entity": true,
+    "multipart": true,
+    "dragon": true,
+    "dragon_egg_block": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
