@@ -7,6 +7,7 @@ const badRecipes = [
 ];
 
 ServerEvents.recipes(event => {
+  // Custom functions
   const basinFoundryMelting = (inputs, output, processingTime) => {
     event.custom({
       type: "createbigcannons:melting",
@@ -17,6 +18,7 @@ ServerEvents.recipes(event => {
     });
   };
 
+  // Delete bad recipes
   badRecipes.forEach((recipeId) => {
     event.remove({ id: recipeId });
   });
