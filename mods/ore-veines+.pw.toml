@@ -1,0 +1,13 @@
+name = "Ore Veines+"
+filename = "ore_veines-0.0.5 Release NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lS8tqFpV/versions/sBYpUc6X/ore_veines-0.0.5%20Release%20NeoForge%201.21.1.jar"
+hash-format = "sha512"
+hash = "cb68c3bd099892cd5d7a73c08388b6264c97af70d437e90fb64ebc9942d8ceb9e6d5b09affcd1d0d0bfea8a692ff71b5a8f304da928ff2ff84a51669fb31ef20"
+
+[update]
+[update.modrinth]
+mod-id = "lS8tqFpV"
+version = "sBYpUc6X"

@@ -5545,6 +5545,11 @@ hash = "0418de58d0e94428f4a71b6f1b4b6d928e4f61923daed20f959b49bb3a826758"
 metafile = true
 
 [[files]]
+file = "mods/create-rns.pw.toml"
+hash = "0e7b1436f3f685d4991b771118e1e42823d360d8e010a4efa311ddc474ad0a7d"
+metafile = true
+
+[[files]]
 file = "mods/create-teleporters.pw.toml"
 hash = "3a0fac104cea6bffd63729eeac91ad624aa2ba86007ca8245f153805d1b601fb"
 metafile = true
@@ -5577,6 +5582,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "a2c959977399fa0b824aeed2c9894c3bac48555f7f1ae898f91c3cd55971efb0"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
 metafile = true
 
 [[files]]
@@ -5677,6 +5687,11 @@ metafile = true
 [[files]]
 file = "mods/flare-guns.pw.toml"
 hash = "81a8bb8883ec6df8d4bad330d987a69e42cb3d48f16fec17388d189ac737b028"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
@@ -5912,6 +5927,11 @@ metafile = true
 [[files]]
 file = "mods/obscure-tooltips.pw.toml"
 hash = "822b78501e763eeca7027167fd745508670766ac0b52bf410b99860668d96ed9"
+metafile = true
+
+[[files]]
+file = "mods/ore-veines+.pw.toml"
+hash = "bd04f3d4165136b56d1161775fbc21deb2dd8d6c07d45b1c9f352c4ebb3172bf"
 metafile = true
 
 [[files]]
