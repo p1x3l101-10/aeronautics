@@ -5780,11 +5780,6 @@ hash = "be193f5f1102da85e3d66c8982edf27435084df81c90f2af6584235c609016e3"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-oritech.pw.toml"
-hash = "b72b9778175a33a6a65b832a0428459507b441d3be5bef9026911c48ff11a2e2"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "9ca2966097f11becc45024d5fb3ef3a4da17624e8d542f84b974468dd0c9e017"
 metafile = true
