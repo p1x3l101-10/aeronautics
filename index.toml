@@ -6050,11 +6050,6 @@ hash = "3a8226a353449fcb93e970403598cace3a13dc101dca86cd4374ce50db1ffe78"
 metafile = true
 
 [[files]]
-file = "mods/sparsestructures.pw.toml"
-hash = "7f1afd1435a1b90452bbf1677b42b142e345817287ac8a8c0a9324add0fdb13d"
-metafile = true
-
-[[files]]
 file = "mods/spice-of-life-valheim-reforged.pw.toml"
 hash = "981c53a95e347ef4f6282b250e9d74fb86414a581afc8c3e5dc2b30c3712f10b"
 metafile = true
