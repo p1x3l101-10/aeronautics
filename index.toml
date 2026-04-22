@@ -5253,6 +5253,10 @@ file = "kubejs/config/web_server.json"
 hash = "4210ef3f72c966ec3136ddac0185ed476a4ff3ded001c9f433b5028dfe12d425"
 
 [[files]]
+file = "kubejs/server_scripts/iceandfire/dragonsteels.js"
+hash = "e8320556918b9fe3da538d22ad1b5f890fa83ad993ce890de1d7b8907d3766e4"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "98d159525f92d4135fc0eafd981374e2ec2194cf7fb94f26d7dd5bdc2e1d40c1"
 
