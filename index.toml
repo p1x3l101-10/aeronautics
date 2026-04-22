@@ -5466,11 +5466,6 @@ hash = "74b6cc74e1f4bbe20a8161646f3af72d9e6c0753c03f5dcd6cc9965f9959122a"
 metafile = true
 
 [[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "2a2076693676e22dc06a71c7126e9060f65d62435d1b58654764bb2588989ed6"
-metafile = true
-
-[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "3b8d33a4392bd5d5077fd5b78f2d45b625f5cb71ae94b82e1d086092893ee564"
 metafile = true
@@ -5506,11 +5501,6 @@ hash = "05dc5272114d2d2923b3feca4735da234bd71bbf6c8cc8de74c87e505efc9ae0"
 metafile = true
 
 [[files]]
-file = "mods/create-diamond-production.pw.toml"
-hash = "17d0ae9ea856630beb770447dfba5a56ed62bf9e8a2b978756b6524fc9d51366"
-metafile = true
-
-[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "f2ee4b9bbd0c0a5c41b2f9f79031a8c0ede7ac382aced2aca9c805b57cc96271"
 metafile = true
@@ -5531,11 +5521,6 @@ hash = "d85b97dbe2c596d60c8d4502c6b2d25ef6bb8436c7e3f5976839c3b5059f5dd0"
 metafile = true
 
 [[files]]
-file = "mods/create-glowstone-dust-recipe.pw.toml"
-hash = "d336b4a589054270c1a9c8dd46d718272a5dc52b170f1d36a9c63bbe5fcf286f"
-metafile = true
-
-[[files]]
 file = "mods/create-idlx.pw.toml"
 hash = "6c48518d879fd2f133341bad056b61e648ebe05e9cc3ea210da4ce3cf019f119"
 metafile = true
@@ -5553,11 +5538,6 @@ metafile = true
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "16d9d7bb059aed1d894379736e6bb861dfc7483ededbdc94a0a940c99edba6eb"
-metafile = true
-
-[[files]]
-file = "mods/create-mechanical-extruder.pw.toml"
-hash = "94b478bb9636e07b1be473a99bbe1507747d8b6f06e60e08492c3e2e7a2baac6"
 metafile = true
 
 [[files]]
@@ -5598,11 +5578,6 @@ metafile = true
 [[files]]
 file = "mods/create-teleporters.pw.toml"
 hash = "3a0fac104cea6bffd63729eeac91ad624aa2ba86007ca8245f153805d1b601fb"
-metafile = true
-
-[[files]]
-file = "mods/create-tfmg-automation.pw.toml"
-hash = "bc4eb0465e0ab5d7ffb080c558dbd94d818820464dc5e06d620ad2b36aa07aa1"
 metafile = true
 
 [[files]]
