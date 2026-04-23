@@ -1,6 +1,6 @@
 name = "Insane's Experience Overhaul"
 filename = "experienceoverhaul-1.1.0.0-alpha.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SBHpAd8m/versions/oTRpFM2u/experienceoverhaul-1.1.0.0-alpha.jar"
