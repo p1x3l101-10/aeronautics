@@ -5677,6 +5677,14 @@ file = "kubejs/config/web_server.json"
 hash = "4210ef3f72c966ec3136ddac0185ed476a4ff3ded001c9f433b5028dfe12d425"
 
 [[files]]
+file = "kubejs/data/pneumaticcraft/recipe/explosion_crafting/compressed_iron_block.json"
+hash = "bba190bb70adce67d8c0fdbc19918e70c1c25f4e244397c18874a3841a4a1b4a"
+
+[[files]]
+file = "kubejs/data/pneumaticcraft/recipe/explosion_crafting/compressed_iron_ingot.json"
+hash = "a7ee03f1cba09d8535cea00f916c2dfb20dfa2a024a46d47ba6c6109501d6e92"
+
+[[files]]
 file = "kubejs/server_scripts/ae2/silicon.js"
 hash = "a0f0bbcf2adbbd04253c7ec549715c4e3163b21ed2a1438d1e08800f9a77d014"
 
@@ -5687,10 +5695,6 @@ hash = "be0ebbf2b951832f6c5631a26ab045643f9c2cbc88027cb537b3e7629778dbc7"
 [[files]]
 file = "kubejs/server_scripts/iceandfire/dragonsteels.js"
 hash = "32db2e588a798f6571351b15384843b5b3259efd19c7214a810a20da94d47c8a"
-
-[[files]]
-file = "kubejs/server_scripts/pneumaticcraft/useSteel.js"
-hash = "7ac474aeccf34efb699da6b1bd249fd440dc267656ba5b2b83d1c63fb44374d8"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
