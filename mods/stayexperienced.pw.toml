@@ -1,0 +1,13 @@
+name = "Stay Experienced"
+filename = "stayexperienced-1.21.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOCTIZi6/versions/2V0zpJzJ/stayexperienced-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "d888a0793f7f045201fab184c18ffa3be8b3f58e738a705462f81ae156ae204026ef1a1597f7006321422a32523255a251f0d8e643062f2682eef26bbbb6b84b"
+
+[update]
+[update.modrinth]
+mod-id = "mOCTIZi6"
+version = "2V0zpJzJ"
