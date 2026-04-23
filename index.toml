@@ -5869,16 +5869,6 @@ hash = "09de188becab741d98e66e261228cf8d09b0d20353b7b548512a440e4a52f674"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
-metafile = true
-
-[[files]]
 file = "mods/continents.pw.toml"
 hash = "2093cb1975cff3c2e584282bc19340d1d7567dc61c86a0461adce0066d6e3a62"
 metafile = true
@@ -6099,6 +6089,11 @@ hash = "0cb684275b29f3ca605155e7a59a81603449c23f233622a64a5bbd039013fd2d"
 metafile = true
 
 [[files]]
+file = "mods/experience-overhaul.pw.toml"
+hash = "71f1a72b2045a9cce8034679b1201d089fd2ebb3d4a5b2388f9ce15ffa480412"
+metafile = true
+
+[[files]]
 file = "mods/experiencelib.pw.toml"
 hash = "f8fa933bf8a6ab6402c5e91d74e54c00fe4bd72e9e2730703fed4291b7fdbd5f"
 metafile = true
@@ -6176,6 +6171,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ebec601946d71a55324f2418c5173c5072d6b4a0b2d3fdb00e78d15b63776c44"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "d4ca8b85aa3087b21e4d2e27e5ec809d493739f35b721311f1d40e89523454e2"
 metafile = true
 
 [[files]]
@@ -6486,11 +6486,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-valheim-reforged.pw.toml"
 hash = "981c53a95e347ef4f6282b250e9d74fb86414a581afc8c3e5dc2b30c3712f10b"
-metafile = true
-
-[[files]]
-file = "mods/stayexperienced.pw.toml"
-hash = "14e44f0171cf543ebf8a7792ebb49d0d1d6c72eefdd8e2e9146fee97c603577d"
 metafile = true
 
 [[files]]
