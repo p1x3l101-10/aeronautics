@@ -1,6 +1,6 @@
 name = "Stay Experienced"
 filename = "stayexperienced-1.21.1-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mOCTIZi6/versions/2V0zpJzJ/stayexperienced-1.21.1-1.0.0.jar"
