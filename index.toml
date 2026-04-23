@@ -5682,7 +5682,7 @@ hash = "4210ef3f72c966ec3136ddac0185ed476a4ff3ded001c9f433b5028dfe12d425"
 
 [[files]]
 file = "kubejs/server_scripts/ae2/silicon.js"
-hash = "85832a78d742f4a2d33e329886776d27fb2a5c644b660d4d1a553ea51dab7a82"
+hash = "a0f0bbcf2adbbd04253c7ec549715c4e3163b21ed2a1438d1e08800f9a77d014"
 
 [[files]]
 file = "kubejs/server_scripts/createbigcannons/foundryRecipes.js"
@@ -5690,7 +5690,7 @@ hash = "be0ebbf2b951832f6c5631a26ab045643f9c2cbc88027cb537b3e7629778dbc7"
 
 [[files]]
 file = "kubejs/server_scripts/iceandfire/dragonsteels.js"
-hash = "e8320556918b9fe3da538d22ad1b5f890fa83ad993ce890de1d7b8907d3766e4"
+hash = "32db2e588a798f6571351b15384843b5b3259efd19c7214a810a20da94d47c8a"
 
 [[files]]
 file = "kubejs/server_scripts/pneumaticcraft/useSteel.js"
@@ -5698,7 +5698,7 @@ hash = "cbe7266767f3a04030555ff1ea394a722d7c77a1ea404288b1485b17674efce0"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "877e3e93e3a1fad691507f3f205ff0cf5ab79c0ddb47c71eeed5ccadffa1adc0"
+hash = "4bc1e7566321fb3e1adda6eb318a1c8c7f1d27c33ae685408aec45af88ca35bf"
 
 [[files]]
 file = "kubejs/server_scripts/tfmg/basic_steel.js"
