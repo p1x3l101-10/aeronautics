@@ -5803,6 +5803,11 @@ hash = "d4da5f7b05b240ddbf3dd2caa3eca74711ebf2e643809cdf77f49edcbf242a5b"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
 file = "mods/audrops.pw.toml"
 hash = "30f7506ac6e8f56c891a66b802ef492bf5b8b391119533a28ba25120ee74d81a"
 metafile = true
@@ -5845,6 +5850,11 @@ metafile = true
 [[files]]
 file = "mods/blur-perfected.pw.toml"
 hash = "1eeece4c8b647ce12fa32d0a5f8bdd07aa6b3b0eccd693f06f639f77ce97c161"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
@@ -5953,6 +5963,11 @@ hash = "b50cad2053fa06974f8f902b13a3ab79ad4fb06ca5e0a95dfc59bc9c93638faa"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "16d9d7bb059aed1d894379736e6bb861dfc7483ededbdc94a0a940c99edba6eb"
 metafile = true
@@ -5995,6 +6010,16 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "b32a3ee2c40449de40ad77f0f5ca5deef3c503503640b85099fad7132e444d12"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "d0787f9db4af92152f43c40244becf04180b162b0d10e6263221cf18922e3f6d"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
 
 [[files]]
@@ -6378,6 +6403,11 @@ hash = "d5006208bfdbb5dabec2a3b1ee1da218dda64ed32609b0f6275c05d95d522905"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "2fe06c3fbcaf939723384afe6fa59d6ad7b54f5dde8915208aa65b15e30af081"
 metafile = true
@@ -6415,6 +6445,11 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "3d9e6280e38ac24dac1b5e3ad67f3f68baa67f53871261282ddbb7674611b2d0"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
