@@ -6413,6 +6413,11 @@ hash = "29740bdba787b114ba5779670a2b586c0879ce83d47c81176def27cb34a70cfd"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "3d9e6280e38ac24dac1b5e3ad67f3f68baa67f53871261282ddbb7674611b2d0"
+metafile = true
+
+[[files]]
 file = "mods/pulsetech.pw.toml"
 hash = "13e9cafdc45b4409519dcec25b3bec7483ad9539423bc780a2c20fdeb7918a2f"
 metafile = true
