@@ -5689,8 +5689,8 @@ file = "kubejs/server_scripts/ae2/silicon.js"
 hash = "a0f0bbcf2adbbd04253c7ec549715c4e3163b21ed2a1438d1e08800f9a77d014"
 
 [[files]]
-file = "kubejs/server_scripts/createbigcannons/foundryRecipes.js"
-hash = "be0ebbf2b951832f6c5631a26ab045643f9c2cbc88027cb537b3e7629778dbc7"
+file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
+hash = "215eb7d7979e344833e77d079af160cdf7e656ebfbba1cec65b6be7d86b2d013"
 
 [[files]]
 file = "kubejs/server_scripts/iceandfire/dragonsteels.js"
