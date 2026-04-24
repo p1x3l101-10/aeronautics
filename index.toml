@@ -5690,7 +5690,7 @@ hash = "a0f0bbcf2adbbd04253c7ec549715c4e3163b21ed2a1438d1e08800f9a77d014"
 
 [[files]]
 file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
-hash = "215eb7d7979e344833e77d079af160cdf7e656ebfbba1cec65b6be7d86b2d013"
+hash = "d04c7808e84dbfe08ee277e7a2e5868d50fafe4990d78755c510372c4d24cd27"
 
 [[files]]
 file = "kubejs/server_scripts/iceandfire/dragonsteels.js"
