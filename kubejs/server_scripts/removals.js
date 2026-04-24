@@ -14,7 +14,8 @@ const badRecipes = [
   "ae2:inscriber/logic_processor_press",
   "ae2:inscriber/silicon_press",
   "tfmg:compacting/cast_iron",
-  "createbigcannons:mixing/alloy_steel"
+  "createbigcannons:mixing/alloy_steel",
+  "createnuclear:mixing/steel"
 ];
 
 ServerEvents.recipes(event => {

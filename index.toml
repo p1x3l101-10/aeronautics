@@ -5698,7 +5698,7 @@ hash = "32db2e588a798f6571351b15384843b5b3259efd19c7214a810a20da94d47c8a"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "5a2287c0f678abc26abdbc4b8e30b8392973f07f20ca9db6d4e9d4b8114ee78d"
+hash = "78a07427f8ec50289fd1dce2b439a1d5334b10d32bb7318875221b3d7976cf64"
 
 [[files]]
 file = "kubejs/server_scripts/tfmg/basic_steel.js"
