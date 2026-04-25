@@ -6488,6 +6488,11 @@ hash = "955f63af02ddd07fd7142586ade1d1048e11144475b150b6ff6beba77f6bac65"
 metafile = true
 
 [[files]]
+file = "mods/scorched-grass.pw.toml"
+hash = "5feef63e6c4be83669a39e24509618c3dad980277b4e4a8e253277f9c3f37541"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2b773756aab2e4f4c50447132f97e365468145496d99a1a507143d0bdd64e628"
 metafile = true

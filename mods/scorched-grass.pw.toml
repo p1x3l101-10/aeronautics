@@ -1,0 +1,13 @@
+name = "Scorched Grass"
+filename = "scorchedgrass-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2yXLZM6x/versions/x6sefrLW/scorchedgrass-1.0.0.jar"
+hash-format = "sha512"
+hash = "68fd236d0e16aa800d1a9275b6e1f82564eb9bcff616cc2d1d72a918ceb747af0860df648a0f69638b4e108181da466ce901b381f30ed2586896045e13a48ac8"
+
+[update]
+[update.modrinth]
+mod-id = "2yXLZM6x"
+version = "x6sefrLW"
