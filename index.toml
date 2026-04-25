@@ -6348,11 +6348,6 @@ hash = "e0bad033aa5080281b47f488f75fb7a22dd56e28f32ccd40ee2928ab84cb5d5c"
 metafile = true
 
 [[files]]
-file = "mods/nether-remastered.pw.toml"
-hash = "fe01dbf242f89358c1e04dd89894b1f60c6ac120ce87a3a03747e3970b8691c4"
-metafile = true
-
-[[files]]
 file = "mods/netherrack-recipe.pw.toml"
 hash = "3d2a070f68b5d09953820a515b5d0d164126c2a6551df58f27976ca224117691"
 metafile = true
