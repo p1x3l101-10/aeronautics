@@ -1,12 +1,30 @@
-const dragonsteelIngots = [
-  "iceandfire:dragonsteel_fire_ingot",
-  "iceandfire:dragonsteel_ice_ingot",
-  "iceandfire:dragonsteel_lightning_ingot"
+const dragonsteelTypes = [
+  "fire",
+  "ice",
+  "lightning"
 ];
 
+const ingotTime = 5000;
+
 ServerEvents.recipes(event => {
-  dragonsteelIngots.forEach((ingotID) => {
-    // TODO: Make recipe use steel instead of netherite
-    event.remove({ output: ingotID });
+  const dragonForge = (inputTag, type, outputId) => {
+    event.custom({
+      type: "iceandfire:dragonforge",
+      dragonType: type,
+      input: {
+        tag: inputTag
+      },
+      blood: {
+        item: "iceandfire:" + type + "_dragon_blood";
+      },
+      result: {
+        id: outputId
+      }
+    });
+  };
+  dragonsteelTypes.forEach((type) => {
+    const ingot = "iceandfire:dragonsteel_" + type + "_ingot";
+    event.remove({ output: ingot });
+    dragonForge("c:ingots/steel", type, ingot);
   });
 });
