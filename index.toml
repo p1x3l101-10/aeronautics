@@ -5993,6 +5993,11 @@ hash = "0418de58d0e94428f4a71b6f1b4b6d928e4f61923daed20f959b49bb3a826758"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
+metafile = true
+
+[[files]]
 file = "mods/create-rns.pw.toml"
 hash = "0e7b1436f3f685d4991b771118e1e42823d360d8e010a4efa311ddc474ad0a7d"
 metafile = true
