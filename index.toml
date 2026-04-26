@@ -5888,6 +5888,16 @@ hash = "09de188becab741d98e66e261228cf8d09b0d20353b7b548512a440e4a52f674"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "2093cb1975cff3c2e584282bc19340d1d7567dc61c86a0461adce0066d6e3a62"
 metafile = true
@@ -6080,6 +6090,11 @@ metafile = true
 [[files]]
 file = "mods/edf-remastered.pw.toml"
 hash = "8766f93f7cd6cfe17fb2d1cec99485243a961e6a7e7e3561b767402d56d3b54d"
+metafile = true
+
+[[files]]
+file = "mods/elytra-speed-cap.pw.toml"
+hash = "aaaefc7cd420b95f7e1de5e66055c990f4ab53b56cf4044714f18b1f8a3ca084"
 metafile = true
 
 [[files]]
