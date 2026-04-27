@@ -5414,7 +5414,7 @@ hash = "d59b44501c85488fe1765710c5d1550c93621650188fd8ae034be0ab1d6e3c39"
 
 [[files]]
 file = "config/mmode.json"
-hash = "51e91a80b4d3f6132d08a79921a3d8d8b78d3bc86a12602497bc61a30076b480"
+hash = "09e2fdd88f7eba8ca85b85fa6ec0bd89475a3961930b619e028147e87337a2c7"
 
 [[files]]
 file = "config/moonlight-client.toml"

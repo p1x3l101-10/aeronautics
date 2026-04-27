@@ -13,6 +13,8 @@
 	},
 	"kickOnlinePlayers": true,
 	"configVersion": 4,
-	"allowedUsers": [],
+	"allowedUsers": [
+    "P1x3l101"
+  ],
 	"allowedLuckpermsGroups": []
 }
