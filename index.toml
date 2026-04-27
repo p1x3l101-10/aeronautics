@@ -5586,7 +5586,7 @@ hash = "d9c0172016e0e4f8e8955b423870dffadadd933913b23ca3b3a152d4a2897f40"
 
 [[files]]
 file = "config/nameless_trinkets/reforger.json"
-hash = "a9501ffc2df1c0a56c1993775d6585e39deb3c71f348be4e4642028670b3fb55"
+hash = "8c527fc83e3deaff4dce3353e3169f50e34e89c0de2f0044841768949d73f3d2"
 
 [[files]]
 file = "config/nameless_trinkets/resonant_heart.json"
@@ -5594,7 +5594,7 @@ hash = "685dc165b2ec9c2de198df236da86977460fd70cb5d06a47af81585f55439357"
 
 [[files]]
 file = "config/nameless_trinkets/reverse_card.json"
-hash = "99c2c26ae40ff0ddb000a73999eb189313b097294bdd41f78c5d3a9d0d2aa1d1"
+hash = "fd9b64977352bd3c036319b981ce63ce771fc8fdd1dbd78cfaca6801c317c278"
 
 [[files]]
 file = "config/nameless_trinkets/scarab_amulet.json"
@@ -5630,7 +5630,7 @@ hash = "ebbc82e0ad0fe6785283d4bb65cf5dc7329149976b21b45a081d276f11fe8be7"
 
 [[files]]
 file = "config/nameless_trinkets/tick.json"
-hash = "9d2493207fa3be4d217b229d03c2b44ad4c93bd9838d0b1e61b4ead95f505cc1"
+hash = "e30660dc40ed22fb7fdc36d86c5df541a3d274e46692243fc08334c14d85b412"
 
 [[files]]
 file = "config/nameless_trinkets/titans_mark.json"
@@ -5862,7 +5862,7 @@ hash = "f38b478fd9f44385651e880140d35bc436271e290db0b0fe490b55b51d814d56"
 
 [[files]]
 file = "config/nameless_trinkets/woundbearer.json"
-hash = "962cafd065199ecd1ca9ea8508114e2b875d968c7cffd7c557ca7199252e63a6"
+hash = "ddb1d114c9cc43750771c242ad3024a46a951d61e7b83967c5b8995613c12ecf"
 
 [[files]]
 file = "config/natures_spirit-common.toml"
