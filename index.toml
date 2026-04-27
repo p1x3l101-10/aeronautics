@@ -5425,10 +5425,6 @@ file = "config/mixed_litter-startup.toml"
 hash = "d59b44501c85488fe1765710c5d1550c93621650188fd8ae034be0ab1d6e3c39"
 
 [[files]]
-file = "config/mmode.json"
-hash = "09e2fdd88f7eba8ca85b85fa6ec0bd89475a3961930b619e028147e87337a2c7"
-
-[[files]]
 file = "config/moonlight-client.toml"
 hash = "5a6948c2b7927921cd3cab28446f301a24cf4db168533474d20dac154ad18167"
 
