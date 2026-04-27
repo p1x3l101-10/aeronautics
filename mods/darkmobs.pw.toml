@@ -1,0 +1,13 @@
+name = "DarkMobs - RPG Mob Difficulty (Dark Souls Like Mobs)"
+filename = "darkmobs-neoforge-1.21.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "332d6ba455ecc61910ac027b6805f826c6ed99f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6845257
+project-id = 876027

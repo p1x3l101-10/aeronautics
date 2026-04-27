@@ -6428,6 +6428,11 @@ hash = "d4da5f7b05b240ddbf3dd2caa3eca74711ebf2e643809cdf77f49edcbf242a5b"
 metafile = true
 
 [[files]]
+file = "mods/atomicstrykers-infernal-mobs.pw.toml"
+hash = "f977244da673b429f90607107a6f9c45f7e7dc0ff08f3dcaf8f2a8a8570a7587"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
@@ -6688,6 +6693,11 @@ hash = "4687df8f2a2f20ff0b992b5a33a0cd2eae72fb02282b871cea847a08f9d9a3e1"
 metafile = true
 
 [[files]]
+file = "mods/darkmobs.pw.toml"
+hash = "3e8adc98ba0e9908e5038c1bbc5bb302f9a9773730ac3a3664ffb6cdfb46e50a"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "89904697149e2d2962177fd277b166f4741ce2f69afc876b7606377b334cc169"
 metafile = true
@@ -6820,6 +6830,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "c07c53575a3a776a65666876756f28250b7656298acdee10326af4cdf03d1383"
+metafile = true
+
+[[files]]
+file = "mods/gamingbarns-guns.pw.toml"
+hash = "6a8d423602920315e87a4f65a1097a1c8c42b9c08d6ba825763586ba81e9c1b8"
 metafile = true
 
 [[files]]
