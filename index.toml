@@ -6533,6 +6533,11 @@ hash = "384daf59de24dada98c20e987770186142daea4986170720c32c236e4a7a1a29"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "611455ca9d3d1d7e56bdaf76c17306ab0344847869525ec1e1b9c13198dd4303"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "74b6cc74e1f4bbe20a8161646f3af72d9e6c0753c03f5dcd6cc9965f9959122a"
 metafile = true
@@ -6915,6 +6920,11 @@ metafile = true
 [[files]]
 file = "mods/maestro-music.pw.toml"
 hash = "4d5d9905ff2b8fea746214b3acc1173a78c0d8b8f055ec0af40cdaef06b20af4"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "675b6790530a7b6cd35bbd77c99789bef371f2b52f5dce7e8dd9d9e5615d4660"
 metafile = true
 
 [[files]]
