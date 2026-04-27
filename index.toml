@@ -4057,6 +4057,10 @@ file = "config/ars_creo-common.toml"
 hash = "81c27a99a3c7f7bc4caceb90449bf09ea50e84017395aaf04b61294a5c9db17a"
 
 [[files]]
+file = "config/ars_elemental-client.toml"
+hash = "05461f25ad24b7f637c78d63801b6fc082655c01d12002248b5b5a876837b7dd"
+
+[[files]]
 file = "config/ars_elemental-common.toml"
 hash = "58cd14cbc1d0293a0030a33431fb4d78ba78898719cf993db4d45756dccd20ff"
 
@@ -5054,7 +5058,7 @@ hash = "43dcab48a2e7ce8b1732e0369cc47425919e65986d1b3c140fa07905e4b9ef5f"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "88b86f5feda00d748a9bbbd2d44fd79212f21dec525d7b64185e11f97dda4765"
+hash = "842802cfc34cc07b2a4a249b4039dfc492fa47c3607706cc649c99f8baeebb7a"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -5145,6 +5149,10 @@ file = "config/create_hypertube-server.toml"
 hash = "ff49ed8c0c951c83c3947a55f193142bc4462f26f6affb9cadf392950d3117fd"
 
 [[files]]
+file = "config/create_jetpack-client.toml"
+hash = "f1ff4ff046a25fed273e475f244a5ce965796c262e4c9999a01241a595862e52"
+
+[[files]]
 file = "config/create_jetpack-common.toml"
 hash = "18123f737beb0fc6d73324aa8229863097fe273526b56bcae8f0800f6408a0a1"
 
@@ -5226,7 +5234,7 @@ hash = "2a0e761f7293d92e3700aad72acc63c00140c3bfc95ac305eba41cfec8197f2c"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
-hash = "102278dabb21241fc74f140f7470badbb5704bff14133714f6c1020e6c9d0639"
+hash = "bc5779622729bcb75837d9230733b947767d95b0ee053caa918fbafe6942f0f7"
 
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
@@ -5290,7 +5298,7 @@ hash = "08294f81c8f43e44a5950f78c9befa9c161fdefdf65ea7d1dfdd124143ad2056"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "95ee88a5bc307bb17b108f578168cf21c22d83593d0e39bcae064aab47f9e782"
+hash = "b30a522f0f017049dbef09323d0b3ffeecc4133d4338e9c1f1cafef6657e2677"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -5389,6 +5397,10 @@ file = "config/l2configs/l2core-client.toml"
 hash = "a605a2838f843537e1eabe55ba0a6f14e7e8fdedd8b72a80b4e599bb5bfe98f0"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -5427,6 +5439,10 @@ hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
 [[files]]
 file = "config/more_darkness.json"
 hash = "e2e4f12679b15ac040b718435d073f29d0a26ea8f42475462354c5fc2ba67c06"
+
+[[files]]
+file = "config/mowziesmobs-client.toml"
+hash = "a22a8cf21927e7031e9860c3df89526aaf3db9183c439be217e0578ee5e98c0d"
 
 [[files]]
 file = "config/mowziesmobs-common.toml"
@@ -5929,6 +5945,10 @@ file = "config/ore_veines/ore_veins_overrides.json"
 hash = "cd224b62801e3ea5de9d0a761e5b6cf7600b82ea862b9cd6d0dd5705cee634a4"
 
 [[files]]
+file = "config/overflowingbars-client.toml"
+hash = "ae881bce6d0104ea591f9d2d18e47e2d82539a2b1334f88c880d4ad4e8732c3b"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
 
@@ -5973,6 +5993,10 @@ file = "config/ponder-client.toml"
 hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
 [[files]]
+file = "config/powergrid-client.toml"
+hash = "8a190a4d0530bc59c3e453fe6cef4343275126c5d629afe3d9498f78cdb3dbd5"
+
+[[files]]
 file = "config/powergrid-common.toml"
 hash = "88353590118ce61c194c485fe69ec9b0e0288457bf0d552e7afc3eb1e1850e77"
 
@@ -5987,6 +6011,10 @@ hash = "140bdbaa785dddb5f173432193d9dccc1b196166bc59d933b709ce209d40d3d4"
 [[files]]
 file = "config/pulsetech-common.toml"
 hash = "041b94b15a52cd6d490338d1991404fbf833cc2fc5be8e5de7b5787b4684ac01"
+
+[[files]]
+file = "config/reactive-client.toml"
+hash = "83d7f0eb7e36c950c28843267bf1b607ac5ff83deb317c0c89a47eb80cc9b98f"
 
 [[files]]
 file = "config/reactive-common.toml"
@@ -6015,6 +6043,10 @@ hash = "200c92b62c39a07c376dab13852a5ceb0ee0ca625fc5cb2022046f7461d04c18"
 [[files]]
 file = "config/sauce-startup.toml"
 hash = "b0ebd587b971cb31bff96cbe646f6d7f643d3331e6d2fbf2fbe0dde8ce6d515a"
+
+[[files]]
+file = "config/scorchedgrass-common.toml"
+hash = "a81df3783ef7fbe25439a5ac48458df71265c993dbbb52bab7108c5ee803f7c9"
 
 [[files]]
 file = "config/simulated-client.toml"
@@ -6054,7 +6086,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "0f114121c9e0f58ba617590ff42c3f99d988422e221a40b488d662b05176ff84"
+hash = "add9c117a262f8702f084308a731ce1b1fb8db63c4ad1d031adb717db4bcb9fc"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
@@ -6078,7 +6110,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "36b61f2cdda43bac3048a07b262157a44fb2f52a376424121c4e59f55dc1e390"
+hash = "e91875a250db958709d31c6d810ed9ca27d163c4e6d714e2e8c915c58b508fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6089,24 +6121,12 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
-file = "config/spark/tmp-client/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/spark/tmp-client/spark-48fefd3292dda-libasyncProfiler.so.tmp"
-hash = "63311a249bcd85288de44a98274525058f1215f812c02d1adef07e5eee96ad7a"
-
-[[files]]
-file = "config/spark/tmp-client/spark-4900bdef5dc60-profile-data.jfr.tmp"
-hash = "e34c2a9314c237eadc1efc26137c3d2cbd9c4ff7378f04dd1554e0d945782849"
-
-[[files]]
-file = "config/spark/tmp/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
 file = "config/sparsestructures.json5"
 hash = "75a830a8a005a44bbc21b51066d54558f6dd1fa61960e9fedd173ade24913725"
+
+[[files]]
+file = "config/storagedrawers-client.toml"
+hash = "208db3e4a920d34d9d72e8bee35ea202f59c018cc8d5d53c83896947f75cf205"
 
 [[files]]
 file = "config/storagedrawers-common.v2.toml"
@@ -6198,7 +6218,7 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "cd0f5c07b6be47c715189f615057a5fa5ed6b341e8c40bdb959bced012712d8d"
+hash = "67f8359fe837711c2114abbfd940a28f75af76adf9372a9e785deceb307bad48"
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
