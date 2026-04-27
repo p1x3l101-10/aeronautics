@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CoroUtil/General.toml"
+hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "748bae612bfefbc31504b0e077caa0b81e4d46b845d35c16feb1d64ab34e9eca"
 
@@ -4597,6 +4601,18 @@ file = "config/arseng-common.toml"
 hash = "d2e199338ca8cdd6a345990ba6a3415bb6296dbc7c0aeeab26184f1c017d4a4d"
 
 [[files]]
+file = "config/artifacts/client.toml"
+hash = "fea09c9256febaf3cc2dc9f09a44624d9a2896ed7b0ea7766c02dd597d964c74"
+
+[[files]]
+file = "config/artifacts/general.toml"
+hash = "f262c61f4f63bfd3c3e2fa5ed30176b9d447755725ff0dfe08b84df26faca607"
+
+[[files]]
+file = "config/artifacts/items.toml"
+hash = "0d4971e2356a4ceabc4c4b2d69c81c2d3fbcf4b46e384423098f3856dcd2689c"
+
+[[files]]
 file = "config/attributefix/aileron/cloudskipper_drag.json"
 hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
 
@@ -4723,6 +4739,54 @@ hash = "87c6aac345f0cd047dc39032c31cc02aea54e04bf8420fcbeff50c0d7e53dd20"
 [[files]]
 file = "config/attributefix/ars_nouveau/sauce.perk.water_resistance.json"
 hash = "87c6aac345f0cd047dc39032c31cc02aea54e04bf8420fcbeff50c0d7e53dd20"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.attack_burning_duration.json"
+hash = "2b35471191429cb7b18be98f70f23a3ea36ddf0d984a5a3f6a492ce3b3a1dba5"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.drinking_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.eating_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.flatulence.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.invincibility_ticks.json"
+hash = "f2b86540287515290388f49a96e00e5e9ae90abe7332b9beeb44870d0e30c206"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.mount_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.movement_speed_on_snow.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.slip_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.sprinting_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.sprinting_step_height.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/artifacts/player.entity_experience.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = "config/attributefix/artifacts/player.villager_reputation.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
 file = "config/attributefix/caelus/fall_flying.json"
@@ -5001,6 +5065,10 @@ file = "config/chatanimation.json"
 hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
 
 [[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
 file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
@@ -5273,6 +5341,10 @@ file = "config/iceandfire/iaf-common.json"
 hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
 
 [[files]]
+file = "config/illagerinvasion-server.toml"
+hash = "82de1c857bdfa233b180df2555e168c2d5d4dec63c32d9ea6aa094eea9f77bad"
+
+[[files]]
 file = "config/insanelib/Base/Player attributes/players_attribute_modifiers.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
@@ -5351,6 +5423,10 @@ hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
 [[files]]
 file = "config/more_darkness.json"
 hash = "e2e4f12679b15ac040b718435d073f29d0a26ea8f42475462354c5fc2ba67c06"
+
+[[files]]
+file = "config/mowziesmobs-common.toml"
+hash = "55984be8a03604dd95446a84769854c5a42b064146db05dafa16c2ecba7a0971"
 
 [[files]]
 file = "config/nameless_trinkets-common.json"
@@ -5909,6 +5985,14 @@ file = "config/pulsetech-common.toml"
 hash = "041b94b15a52cd6d490338d1991404fbf833cc2fc5be8e5de7b5787b4684ac01"
 
 [[files]]
+file = "config/reactive-common.toml"
+hash = "dc5effec24489905bc9964512695ad0ca31fb619e147f3f46962cbcd9dd114b1"
+
+[[files]]
+file = "config/reactive-server.toml"
+hash = "aeb3b6bfe27fc9fa50147091d008bb573533810b5ad361a3ef93b4bedf965e45"
+
+[[files]]
 file = "config/ritchiesprojectilelib-server.toml"
 hash = "0118936ae0375d6c318582b47e0cf631540ba683d4a5db25a3ca7f090eda54c1"
 
@@ -6151,6 +6235,26 @@ hash = "3be6874eada8f1920b8dc30f9345c07afc7d5a7d4621f642f78c57cbe1756b27"
 [[files]]
 file = "config/yungsmenutweaks-neoforge-1_21.toml"
 hash = "d4a971fb1d9818c66f25e1132c520a93bf0b94410690b8d72475a46d7f34e912"
+
+[[files]]
+file = "config/zombieawareness/ClientConfig.toml"
+hash = "4f3a533f0718c1aa58b8efb7274600f9d8a9120a49d0860c2841d997967073da"
+
+[[files]]
+file = "config/zombieawareness/Features.toml"
+hash = "ef511a4949de3eb259ccb2c6d4911ca1d4a6cec9456c3f8fa46fec2349733d2d"
+
+[[files]]
+file = "config/zombieawareness/General.toml"
+hash = "75d93001284e81ae848bc081a75e421775b912a61e283d22674496d1e1b12893"
+
+[[files]]
+file = "config/zombieawareness/MobLists.toml"
+hash = "4a153657d1b4d6eb569f64013c2103a6a169c81cad7d9460bcac61f30bf6252e"
+
+[[files]]
+file = "config/zombieawareness/PlayerRulesAndLists.toml"
+hash = "74e0af7577aad9dd6b8661f097780b54ddffa327d8e4af5c4ebb44a241147765"
 
 [[files]]
 file = "kubejs/README.txt"
