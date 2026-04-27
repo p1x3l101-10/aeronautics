@@ -6,7 +6,7 @@ hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "748bae612bfefbc31504b0e077caa0b81e4d46b845d35c16feb1d64ab34e9eca"
+hash = "073588d0411fbe76c19b89dd6563d33ec78c8d6339d54d2deaac64cb0f6a62ca"
 
 [[files]]
 file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
