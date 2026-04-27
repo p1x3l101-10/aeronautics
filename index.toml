@@ -6953,6 +6953,11 @@ hash = "90280ca18d3e73c61920c2410680f0fbe4e7f865295b2e2f275705aae11bd12d"
 metafile = true
 
 [[files]]
+file = "mods/mendingrework.pw.toml"
+hash = "403b37903ddd518e785ba7b2eff5b9fa7a5e608cf973097d811e031b056c2c65"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3bffc65b39a3cb169ecfb34653abd5dd7e8901ec7e48f666744f80c8fb41905d"
 metafile = true

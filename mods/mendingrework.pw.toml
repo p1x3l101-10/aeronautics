@@ -1,0 +1,13 @@
+name = "Mending Rework"
+filename = "mendingrework-1.21.1-neo-0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IEg0z2Uv/versions/suPqovqC/mendingrework-1.21.1-neo-0.4.jar"
+hash-format = "sha512"
+hash = "35dd6ac4065885bf1a20dae984950e707013731075111142876e1672f158b6a9fe42fc9d18f271a2745ac669a0253a626c61f9c69c69cd6524a6ff9ea0c855a0"
+
+[update]
+[update.modrinth]
+mod-id = "IEg0z2Uv"
+version = "suPqovqC"
