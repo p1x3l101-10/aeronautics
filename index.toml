@@ -6294,6 +6294,11 @@ hash = "7f9faf9aac45cd7a43b07e0540240f5431e2ecd4bb1e1c1d43687886b0327d54"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "d4da5f7b05b240ddbf3dd2caa3eca74711ebf2e643809cdf77f49edcbf242a5b"
 metafile = true
@@ -6379,6 +6384,11 @@ hash = "2ae3f67229c507e59aa566bdb698e20d1ae541e49f35f6a951dbb12f11e28b54"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "09de188becab741d98e66e261228cf8d09b0d20353b7b548512a440e4a52f674"
 metafile = true
@@ -6401,6 +6411,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "7cdec9924839929f33c858e179ab940380bf3c2e84a22891b4e5961e6d600220"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -6714,6 +6729,11 @@ hash = "0bad205bf63bcc00f9ea9e64a46a5bf9942f31a241b844ca0dded62676244114"
 metafile = true
 
 [[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "bf9baef8bb1145e580ae8ee57b285e22838e943c56a96ffb424fd02bf99c468e"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "ebec601946d71a55324f2418c5173c5072d6b4a0b2d3fdb00e78d15b63776c44"
 metafile = true
@@ -6821,6 +6841,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "62f6444aa00f5b3da52b1b7bfa1bb96a4d270f88782e666367dc0a1d21d28668"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
@@ -6966,6 +6991,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "01d4355dc4df5adb3755ee74b94af9b9ba065d131904b9e4291acd7753ee34e3"
+metafile = true
+
+[[files]]
+file = "mods/reactive.pw.toml"
+hash = "88ed3ad28743cb00c0070b7579eedf9d9309d4f63be4886cb48260115e289512"
 metafile = true
 
 [[files]]
@@ -7236,6 +7266,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "084e2f08629d947c5f253de884c8172524696fb5b89aafee37dab89158df0527"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "25f44960f8a331cafb3446c9388f959989aa01bd53a17a38766967f6cf20bb60"
 metafile = true
 
 [[files]]
