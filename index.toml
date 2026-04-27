@@ -5194,7 +5194,7 @@ hash = "887c00afdd5780ce901d398a9a06c3665edbc163071a823ac675ec3d32953a91"
 
 [[files]]
 file = "config/elytra-speed-cap.json"
-hash = "cc97febdaaa29d2d9b8d3cdc74efb173f4075ee4bc11274653d89303bdc02b4a"
+hash = "952855be889bcec2d03f58e88839bb52f5a98e1289b3e8b455fb17fc9383f625"
 
 [[files]]
 file = "config/emi_loot_config.toml"
