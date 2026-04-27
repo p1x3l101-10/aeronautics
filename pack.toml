@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8e9943042dafde6d1be4662bcd2d8d2d66569b649569aefaf980a96a7d6bca35"
+hash = "898358fa0feaa28754df78cf4e43ac6ca9e31dafd052515534560cff8e5e8ac3"
 
 [versions]
 lwjgl3 = "3.3.3"

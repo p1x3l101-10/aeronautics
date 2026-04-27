@@ -11,11 +11,12 @@ ServerEvents.recipes(event => {
     event.custom({
       type: "iceandfire:dragonforge",
       dragonType: type,
+      cookTime: ingotTime,
       input: {
         tag: inputTag
       },
       blood: {
-        item: "iceandfire:" + type + "_dragon_blood";
+        item: "iceandfire:" + type + "_dragon_blood"
       },
       result: {
         id: outputId
