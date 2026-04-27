@@ -1,6 +1,6 @@
 filename = "DistantHorizons-3.0.0-b-1.21.1-fabric-neoforge.jar"
 name = "Distant Horizons"
-side = "client"
+side = "both"
 
 [download]
 hash = "a0087638c9a571d5de6afba7afc485276ce17ff24f1a94ec4124cb007a48c4386803d86fcc7bf2411549a6c824fe90e94030c81c1de867552895e55cefff1fe0"
