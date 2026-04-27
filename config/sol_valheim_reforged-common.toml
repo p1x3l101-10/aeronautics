@@ -24,7 +24,7 @@
 
 [food_timeout_damage]
 	#Damages the player when the timer of a food slot runs out (boolean, default = true)
-	timeout_damage = true
+	timeout_damage = false
 
 [food_depletion_during_sleep]
 	#Sleeping consumes half the duration of current eaten foods (boolean, default = false)

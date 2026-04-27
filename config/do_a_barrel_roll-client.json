@@ -12,12 +12,12 @@
       "disable_when_submerged": true
     },
     "hud": {
-      "show_horizon": false
+      "show_horizon": true
     },
     "banking": {
       "enable_banking": true,
       "banking_strength": 20.0,
-      "simulate_control_surface_efficacy": false,
+      "simulate_control_surface_efficacy": true,
       "automatic_righting": false,
       "righting_strength": 50.0
     },

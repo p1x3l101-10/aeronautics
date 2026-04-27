@@ -4918,7 +4918,7 @@ hash = "5bbd654902109a4e74a765744fc63d4fa66cef56ad1ba6f46573911fdd94c39d"
 
 [[files]]
 file = "config/betterdungeons-neoforge-1_21.toml"
-hash = "3bedf4e1c213bf204faf5f56bdd22f2fa7b045cbcb3da2d6285a4bdb116aeb37"
+hash = "001af14b87e8ac35e7524cc243a43ad01596d1b12b3065add54701000be27527"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -5014,7 +5014,7 @@ hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/corpse-server.toml"
-hash = "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
+hash = "ce1d8cf7e9ad60aaddedc6a190609f939c39958eac332ec732f0f2986ce4e01f"
 
 [[files]]
 file = "config/corpsecurioscompat-common.toml"
@@ -5030,7 +5030,7 @@ hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "3e64dfc68ede741a8f1ee3b62976d74f5a0962f4b7fdff9ab06bd70bf7ad5cc4"
+hash = "480e887563b452983d550ca2c9bba3f4f62cb19a6190f546ac48fe96e628a65a"
 
 [[files]]
 file = "config/create_cardboarded_conveynience-common.toml"
@@ -5158,7 +5158,7 @@ hash = "2a0e761f7293d92e3700aad72acc63c00140c3bfc95ac305eba41cfec8197f2c"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
-hash = "ee32faf303d3beaff76ee54091bc95788048046b6e948ea7795d1eb34f365607"
+hash = "102278dabb21241fc74f140f7470badbb5704bff14133714f6c1020e6c9d0639"
 
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
@@ -5906,7 +5906,7 @@ hash = "140bdbaa785dddb5f173432193d9dccc1b196166bc59d933b709ce209d40d3d4"
 
 [[files]]
 file = "config/pulsetech-common.toml"
-hash = "258f044ac16f2e7922f5d4057b3464aebc54522a43072817c1e79d8667192c84"
+hash = "041b94b15a52cd6d490338d1991404fbf833cc2fc5be8e5de7b5787b4684ac01"
 
 [[files]]
 file = "config/ritchiesprojectilelib-server.toml"
@@ -5914,7 +5914,7 @@ hash = "0118936ae0375d6c318582b47e0cf631540ba683d4a5db25a3ca7f090eda54c1"
 
 [[files]]
 file = "config/sable-client.toml"
-hash = "1a4676e6136f117f2587d32991720455c0a1b204498ebc7eb21e83f5912df222"
+hash = "994c2d2810b7ddfe59046a6a3caf66aece6591839daca1f2fa0708464e4140b2"
 
 [[files]]
 file = "config/sable-common.toml"
@@ -5930,11 +5930,11 @@ hash = "b0ebd587b971cb31bff96cbe646f6d7f643d3331e6d2fbf2fbe0dde8ce6d515a"
 
 [[files]]
 file = "config/simulated-client.toml"
-hash = "39e1269b6b3cec623ab69a170ee184c7504c302968c0213ccfbb0dcec71e3964"
+hash = "dd3aaee7611fbdf2d8d927aeb4e2042a6a92ce03d2a1ba5e7db5a4872a43c129"
 
 [[files]]
 file = "config/simulated-server.toml"
-hash = "4eb8a653258d8f7aa303fa77c34df800785b543116d5bc41ae613adec8000202"
+hash = "265ff6c274958f7b54c19cdca5ce8f077c6fe21b7a73f2d6db5799bc991065bf"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -5978,7 +5978,7 @@ hash = "678c03a94341146fe7b91049d624e70f9b7efbf87d97e31497b2e7103ed8e07f"
 
 [[files]]
 file = "config/sol_valheim_reforged-common.toml"
-hash = "d88af1e17def5485c1527ba412e99ac92864805d66207c2cddc034881c1695be"
+hash = "9749d32f23c20628514fbc99b9b21a31af4faad0bab17a15a775d6b288e47ff9"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"

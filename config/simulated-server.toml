@@ -216,9 +216,9 @@
 	#Amount of free Plunger Launcher shots provided by one filled Backtank. Set to 0 makes Plunger Launchers unbreakable
 	# Default: 100
 	# Range: > 0
-	maxPlungerLauncherShots = 100
+	maxPlungerLauncherShots = 500
 	#.
 	#The max range that launched plungers can be from each other
 	# Default: 64
 	# Range: > 0
-	maxPlungerLauncherRange = 64
+	maxPlungerLauncherRange = 128

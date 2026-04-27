@@ -3,7 +3,7 @@ sub_level_dynamic_shading = true
 #Whether sub-levels can occlude the water surface
 sub_level_water_occlusion = true
 #Whether sub-levels should cast a shadow on the world
-sub_level_skylight_shadows = false
+sub_level_skylight_shadows = true
 #The distance back in game-ticks that the snapshot interpolation should operate
 # Default: 1.5
 # Range: 0.0 ~ 100.0

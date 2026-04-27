@@ -23,7 +23,7 @@ orbSpeed = 0.12
 #The range of detection for the Scanner has a radius of this many blocks. [Default: 16]
 # Default: 16
 # Range: 4 ~ 64
-scannerRange = 16
+scannerRange = 32
 #How many ticks the Retriever rests between moving items while open. [Default: 3]
 # Default: 3
 # Range: 1 ~ 20

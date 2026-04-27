@@ -15,10 +15,10 @@
 	#.
 	#.
 	#Allow the Mechanical Press to process entire stacks at a time.
-	bulkPressing = false
+	bulkPressing = true
 	#.
 	#Allow the Mechanical Saw to process entire stacks at a time.
-	bulkCutting = false
+	bulkCutting = true
 	#.
 	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
 	allowBrewingInMixer = true
@@ -484,7 +484,7 @@
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		# Default: 10
 		# Range: > 1
-		schematicannonDelay = 10
+		schematicannonDelay = 5
 		#.
 		#Amount of blocks a Schematicannon can print per Gunpowder item provided.
 		# Default: 400
@@ -514,22 +514,22 @@
 	#The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 	# Default: 900
 	# Range: > 1
-	airInBacktank = 900
+	airInBacktank = 1200
 	#.
 	#The volume of Air added by each level of the backtanks Capacity Enchantment
 	# Default: 300
 	# Range: > 1
-	enchantedBacktankCapacity = 300
+	enchantedBacktankCapacity = 600
 	#.
 	#Amount of free Extendo Grip actions provided by one filled Copper Backtank. Set to 0 makes Extendo Grips unbreakable
 	# Default: 1000
 	# Range: > 0
-	maxExtendoGripActions = 1000
+	maxExtendoGripActions = 5000
 	#.
 	#Amount of free Potato Cannon shots provided by one filled Copper Backtank. Set to 0 makes Potato Cannons unbreakable
 	# Default: 200
 	# Range: > 0
-	maxPotatoCannonShots = 200
+	maxPotatoCannonShots = 400
 
 #.
 #Create's builtin Railway systems
