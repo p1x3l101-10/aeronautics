@@ -1,6 +1,6 @@
 [starting_health]
 	#Number of hearts the player starts with (2 health = 1 heart) (range 2-20, default 6)
-	base_health = 6.0
+	base_health = 16.0
 
 [total_health]
 	#Maximum number of hearts the player can get from food (2 health = 1 heart) (range 20-800, default 40)

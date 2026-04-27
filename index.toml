@@ -5978,7 +5978,7 @@ hash = "678c03a94341146fe7b91049d624e70f9b7efbf87d97e31497b2e7103ed8e07f"
 
 [[files]]
 file = "config/sol_valheim_reforged-common.toml"
-hash = "9749d32f23c20628514fbc99b9b21a31af4faad0bab17a15a775d6b288e47ff9"
+hash = "38a0ee6165db60e2e42b09aac1e86cbc2198bb21d07829a7af36d6a3f6c5dc4b"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -6631,16 +6631,6 @@ metafile = true
 [[files]]
 file = "mods/escalated.pw.toml"
 hash = "560b597dee5d8abb42ad28e6f1b89f438cfc433fac3bcece29f2b370874cff3a"
-metafile = true
-
-[[files]]
-file = "mods/experience-level-overload.pw.toml"
-hash = "0cb684275b29f3ca605155e7a59a81603449c23f233622a64a5bbd039013fd2d"
-metafile = true
-
-[[files]]
-file = "mods/experience-overhaul.pw.toml"
-hash = "4dd17de3c57efbc04db5376fa93f700b4daca0ee2d4309395605f8a4a3862e32"
 metafile = true
 
 [[files]]
