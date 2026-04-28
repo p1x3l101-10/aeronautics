@@ -6722,6 +6722,11 @@ hash = "3e8adc98ba0e9908e5038c1bbc5bb302f9a9773730ac3a3664ffb6cdfb46e50a"
 metafile = true
 
 [[files]]
+file = "mods/dimworldborder.pw.toml"
+hash = "e14e545eff3fe3191e87804820e917c36d5fe5d6e7e3395e5f525c39ed87b802"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
