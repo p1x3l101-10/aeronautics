@@ -6612,6 +6612,11 @@ hash = "ee56d6d64cbf099726202d60a6330aed87deb15dc3f90839cfc7b3a202cae65b"
 metafile = true
 
 [[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "6585dd3b5e5827ef7a154c6f6a42b261fce089bfffe430c13e8c7df2e22f9c0f"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
 metafile = true
