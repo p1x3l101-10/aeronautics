@@ -7068,6 +7068,11 @@ hash = "3adcf41bd2afcc4dc3f884b8692c8281b6889606c412074269bff34e2261cc95"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "d5ef50388ead0952ff739c93879477eb36d891e5b004f094af4e3992dcb23179"
 metafile = true
@@ -7075,6 +7080,11 @@ metafile = true
 [[files]]
 file = "mods/obscure-tooltips.pw.toml"
 hash = "822b78501e763eeca7027167fd745508670766ac0b52bf410b99860668d96ed9"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
 metafile = true
 
 [[files]]
