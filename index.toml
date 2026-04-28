@@ -6400,7 +6400,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-musique.pw.toml"
-hash = "53237a10281c57e7f8a6cc18d5355d807055528290757179a532196c15e57250"
+hash = "0d15fc64c83360fcbc5b0e25b08ead9178106ef055967bc9797e13f44032feef"
 metafile = true
 
 [[files]]
@@ -6794,7 +6794,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "ba424f5f24f050234fec8ffb948bf869d5ce4aa7933bc50d1953bd408efd6e2b"
+hash = "615bd25c281620c599a3a34dc8991eb948493b71c9186299862dc436240c7e86"
 metafile = true
 
 [[files]]
@@ -7004,7 +7004,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "6f2899f04ffb77317a31f3673ce2f2252dad485b0dbc3832999f344ab1c19eb1"
+hash = "09d69f173dad04dbb22134b782df2eae7e6549dce367c109aeccfb8fd68e5dbc"
 metafile = true
 
 [[files]]
