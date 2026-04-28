@@ -6632,11 +6632,6 @@ hash = "d85b97dbe2c596d60c8d4502c6b2d25ef6bb8436c7e3f5976839c3b5059f5dd0"
 metafile = true
 
 [[files]]
-file = "mods/create-idlx.pw.toml"
-hash = "31c4c35716fb852dce46885d99112fb6f8dfebd4f23ee0cf3a15cf976e3be4e2"
-metafile = true
-
-[[files]]
 file = "mods/create-jei-compat.pw.toml"
 hash = "b50cad2053fa06974f8f902b13a3ab79ad4fb06ca5e0a95dfc59bc9c93638faa"
 metafile = true
