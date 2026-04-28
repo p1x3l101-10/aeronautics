@@ -7222,6 +7222,11 @@ hash = "2b773756aab2e4f4c50447132f97e365468145496d99a1a507143d0bdd64e628"
 metafile = true
 
 [[files]]
+file = "mods/simple-recall-potion.pw.toml"
+hash = "a8c503033710bdc2d2df591720149218efb904ecd48deee8ae64aecd634a9c03"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "57b2e9d70f7e7f79af20f9a5a346618918b5dc14400ace89a67550aac1e06cdc"
 metafile = true
@@ -7264,6 +7269,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-valheim-reforged.pw.toml"
 hash = "981c53a95e347ef4f6282b250e9d74fb86414a581afc8c3e5dc2b30c3712f10b"
+metafile = true
+
+[[files]]
+file = "mods/stackablepotions.pw.toml"
+hash = "fdd1b059d59daa27b007f61c1a06a1f111c7b1bef511952106c26caf8744406c"
 metafile = true
 
 [[files]]
