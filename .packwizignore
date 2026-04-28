@@ -12,3 +12,10 @@ unsup.sig
 unsup.ini.sig
 subpacks
 debug.json
+*.toml.bak
+/config/e4mc
+/config/figura.json
+/config/jei
+/config/spark/tmp
+/config/spark/tmp-client
+/config/emi.css

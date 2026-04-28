@@ -4589,6 +4589,26 @@ file = "config/ars_nouveau/rewind.toml"
 hash = "cfba46b855cf3bef2c4792b313eb9bdfc28ecdf29792ab8996fb44840d8b3009"
 
 [[files]]
+file = "config/ars_nouveau/search_index/_0.cfe"
+hash = "64b3f38c976fde00bb6bcb7b2efa4b707e8e2b995d2b63f2c641fe35c0d88739"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_0.cfs"
+hash = "65dd946839f82511a3d8887c7f43edb5a5a33f3cc485435d6146f7fe4f7e4699"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_0.si"
+hash = "6f4c06fb8db31106a9f85145e34d1553e766240afa7ededf11bb388a3dff06a7"
+
+[[files]]
+file = "config/ars_nouveau/search_index/segments_1"
+hash = "433df07a8187c7d65e1dd1edfcfe8669e1e0e0ead396feaf6736c94a69f3d873"
+
+[[files]]
+file = "config/ars_nouveau/search_index/write.lock"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/ars_nouveau/wololo.toml"
 hash = "2a6cdb9050080e2c86a7d1b67df0921e0c3470694500f561b33cc1bbb00fcca8"
 
@@ -5058,7 +5078,11 @@ hash = "43dcab48a2e7ce8b1732e0369cc47425919e65986d1b3c140fa07905e4b9ef5f"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "842802cfc34cc07b2a4a249b4039dfc492fa47c3607706cc649c99f8baeebb7a"
+hash = "7c1ef647d71c6eaa128aa471a42dd549c3dc9840d0d4ca714ea878ca8d3c5763"
+
+[[files]]
+file = "config/cardboarded_conveynience.json"
+hash = "0f60e4f61887bac819d9d8b21b7cd4bde87ee46b2b338beed18e33dd0484fac4"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -5094,7 +5118,7 @@ hash = "067560f2da682722e831b15c64cee6e0efaf4adc2523a53a0eb91aa9182534d3"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "da7f746b8a21a40618a7d4bfd0f3364b3cf1f46fc16cf9109fbbc8e54f93cf43"
+hash = "be83cb6b78d8960f7c76386a71a1b4cc412c4579f64f489b36ac06c463d5c00b"
 
 [[files]]
 file = "config/create-common.toml"
@@ -5102,7 +5126,7 @@ hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "480e887563b452983d550ca2c9bba3f4f62cb19a6190f546ac48fe96e628a65a"
+hash = "1d9223593906e721a6ecb084dde12dab1b5e40f172e32d1a635705104f317540"
 
 [[files]]
 file = "config/create_cardboarded_conveynience-common.toml"
@@ -5122,11 +5146,19 @@ hash = "a3888f58a510d8e33e3caf8444af00c726f895f75f1d85f5b99c20c6ca420290"
 
 [[files]]
 file = "config/create_dragons_plus-common.toml"
-hash = "b8ca00df76198958eae9c4f8eb07115ebee13f680810874e33ca056db4580860"
+hash = "0f42cb765b27d07df5a406079dfee12f6154761e7a4fbfa5337644b530ca7853"
 
 [[files]]
 file = "config/create_dragons_plus-server.toml"
 hash = "690d2f38456d0c23d3ed246e50251e8ac9f6a465f96dc7e58cda234256f4f189"
+
+[[files]]
+file = "config/create_dragons_plus-simulated-extension-common.toml"
+hash = "9f68929cb7e3699215c0008b158d0425858b3ad065cba76ce1f4256369754982"
+
+[[files]]
+file = "config/create_dragons_plus-simulated-extension-server.toml"
+hash = "5c306215eb2b3afd9d4418f76ad6886921241cfbc5dd6e8e1c74976e61c9b8d4"
 
 [[files]]
 file = "config/create_enchantment_industry-client.toml"
@@ -5198,7 +5230,7 @@ hash = "0de1c99021330f507e93300260a6f710c526b5e20e2051fb166dbbb73c4f5280"
 
 [[files]]
 file = "config/createidlx-client.toml"
-hash = "c5e9b199895e6fdb50cb951608da1e15bef511684b9ccd9fbdcd49b74c4d6bfd"
+hash = "f0fec82bc0fce75385b776fcd79e1257b74e3eb0fd1ce7034f73d5ab19e7337c"
 
 [[files]]
 file = "config/createidlx-server.toml"
@@ -5298,7 +5330,7 @@ hash = "08294f81c8f43e44a5950f78c9befa9c161fdefdf65ea7d1dfdd124143ad2056"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "b30a522f0f017049dbef09323d0b3ffeecc4133d4338e9c1f1cafef6657e2677"
+hash = "adc91cfade0ce77f84a9af134c29803ab1ee5220ceb3a120a90098bb3af68a92"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -5351,6 +5383,10 @@ hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
 [[files]]
 file = "config/illagerinvasion-server.toml"
 hash = "82de1c857bdfa233b180df2555e168c2d5d4dec63c32d9ea6aa094eea9f77bad"
+
+[[files]]
+file = "config/infernalmobs.cfg"
+hash = "53f3a436590e3d3baf8384be4d869d10e96cdcbb55e899a1a96ae2fa91d13e10"
 
 [[files]]
 file = "config/insanelib/Base/Player attributes/players_attribute_modifiers.json"
@@ -5893,6 +5929,14 @@ file = "config/neoforge-server.toml"
 hash = "a6bae9362f14e1bcb70ab2f5c5d3706e95eb3c4068209a3f24d3c6f6e725c169"
 
 [[files]]
+file = "config/nerb/compat/emi.yaml"
+hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"
+
+[[files]]
+file = "config/nerb/general.yaml"
+hash = "ec614cafa950e8fb5c77d497a8bb0b0fa44b8f88c0a0b7767515fdb94f116340"
+
+[[files]]
 file = "config/nether remastered.toml"
 hash = "a6c8e41acaadb6da85100610ab5b71a0e9bbf9658cc95ba31d32e04343a1e2a7"
 
@@ -5990,15 +6034,15 @@ hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
 [[files]]
 file = "config/powergrid-client.toml"
-hash = "8a190a4d0530bc59c3e453fe6cef4343275126c5d629afe3d9498f78cdb3dbd5"
+hash = "78af02862314c3fb9b8db7e5b639c6e3fc1f6877754803fddce8aa38b437b671"
 
 [[files]]
 file = "config/powergrid-common.toml"
-hash = "88353590118ce61c194c485fe69ec9b0e0288457bf0d552e7afc3eb1e1850e77"
+hash = "84ccea01cf443aec50e3ba787a2d6d865752e98e919f45512868a41861a56732"
 
 [[files]]
 file = "config/powergrid-server.toml"
-hash = "2d3a764f34d05199a0408afb561bfb44a02e1091e5beda00d33fcc14253a37dd"
+hash = "87633208f8fa79953262ea83f6ba87c8b12f7a44002bace23b8cc644957be3ba"
 
 [[files]]
 file = "config/pulsetech-client.toml"
@@ -6030,7 +6074,7 @@ hash = "994c2d2810b7ddfe59046a6a3caf66aece6591839daca1f2fa0708464e4140b2"
 
 [[files]]
 file = "config/sable-common.toml"
-hash = "0c007db15b5284399fbcc5811c91d6e0c4f02f3c3ac3239be6c42de5088d116d"
+hash = "363da43f4792344846ed055c20dc72a2c35b2f966dd7e468155576daaeebb338"
 
 [[files]]
 file = "config/sauce-server.toml"
