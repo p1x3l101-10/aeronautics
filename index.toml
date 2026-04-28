@@ -6442,6 +6442,11 @@ hash = "7f9faf9aac45cd7a43b07e0540240f5431e2ecd4bb1e1c1d43687886b0327d54"
 metafile = true
 
 [[files]]
+file = "mods/artifacts-crafting.pw.toml"
+hash = "770311812d0be2d3b771a38773183da0bb0ff7bf2a56810e53a9eb9a35d5c499"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
 metafile = true
