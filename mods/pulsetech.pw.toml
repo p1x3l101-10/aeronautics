@@ -1,13 +1,13 @@
-filename = "pulsetech-1.21.1-1.1.1.jar"
 name = "Pulsetech"
+filename = "pulsetech-1.21.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash = "4b92a0f96bf01647fabccf552898a7e2b5af0fba105c67a9338538949e65e4e5e5fd540fb86e3437f37f1923d5f5ef756f4048cf375cbadcbba603e6cb977256"
+url = "https://cdn.modrinth.com/data/1bvQYgDE/versions/SjQ82UcL/pulsetech-1.21.1-1.1.2.jar"
 hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/1bvQYgDE/versions/SZyBqbUD/pulsetech-1.21.1-1.1.1.jar"
+hash = "eb77abfc2d5e6a4c7076828cbd016729b7cfe70a1f058b8c86527e573d69e34dd39fdfa504215e017484e8023d84188b46f966113a702447a9f618619b726def"
 
+[update]
 [update.modrinth]
 mod-id = "1bvQYgDE"
-version = "SZyBqbUD"
+version = "SjQ82UcL"

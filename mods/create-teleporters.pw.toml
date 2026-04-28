@@ -1,13 +1,13 @@
-filename = "createteleporters-remastered-2.0.2-neoforge-1.21.1.jar"
 name = "Create: Teleporters"
+filename = "createteleporters-remastered-2.0.1d-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash = "a021b4a3eec4ff647a812e98e34e25da6e3f5ce5647ca55d910e0f7f06c1fa9bd10123e58206e63ae6aaf9d9392d60ef8b014ab2914b58cdad5535b9d149f5cc"
+url = "https://cdn.modrinth.com/data/9mtJ8MHP/versions/QbGl5i0l/createteleporters-remastered-2.0.1d-neoforge-1.21.1.jar"
 hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/9mtJ8MHP/versions/kO17hlrK/createteleporters-remastered-2.0.2-neoforge-1.21.1.jar"
+hash = "004270ba034a4c16cb08ce5ed56b4e493cf7c8bf3b4bdc6c6f2b3d915bd3e3f4764ab8188caad305507d20d6be9f51f02298dee65cccc1574d477f25ee77a06e"
 
+[update]
 [update.modrinth]
 mod-id = "9mtJ8MHP"
-version = "kO17hlrK"
+version = "QbGl5i0l"

@@ -1,13 +1,13 @@
 name = "InsaneLib"
-filename = "insanelib-2.4.13.1.jar"
+filename = "insanelib-2.4.14.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/USZyvOJq/versions/WSWwjohC/insanelib-2.4.13.1.jar"
+url = "https://cdn.modrinth.com/data/USZyvOJq/versions/Ao6r1EXw/insanelib-2.4.14.1.jar"
 hash-format = "sha512"
-hash = "13731e4002a300831cd9595985a59a65c59ce8cdfe66f7415f71a261b2eeca209579d90970720f5176b938d0416204c29446f42c239cfe3f84ad5e9239d4d39a"
+hash = "63c3e784c92c820e018981dd26253a6c0e96f8609c401953aaed1961e286b9057f94a424b4f0e27c6c6fccd6765ca5b837f5b551bfa7b6e0e6f533b86427da81"
 
 [update]
 [update.modrinth]
 mod-id = "USZyvOJq"
-version = "WSWwjohC"
+version = "Ao6r1EXw"
