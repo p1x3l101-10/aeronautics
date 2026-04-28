@@ -4589,26 +4589,6 @@ file = "config/ars_nouveau/rewind.toml"
 hash = "cfba46b855cf3bef2c4792b313eb9bdfc28ecdf29792ab8996fb44840d8b3009"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_0.cfe"
-hash = "64b3f38c976fde00bb6bcb7b2efa4b707e8e2b995d2b63f2c641fe35c0d88739"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_0.cfs"
-hash = "65dd946839f82511a3d8887c7f43edb5a5a33f3cc485435d6146f7fe4f7e4699"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_0.si"
-hash = "6f4c06fb8db31106a9f85145e34d1553e766240afa7ededf11bb388a3dff06a7"
-
-[[files]]
-file = "config/ars_nouveau/search_index/segments_1"
-hash = "433df07a8187c7d65e1dd1edfcfe8669e1e0e0ead396feaf6736c94a69f3d873"
-
-[[files]]
-file = "config/ars_nouveau/search_index/write.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/ars_nouveau/wololo.toml"
 hash = "2a6cdb9050080e2c86a7d1b67df0921e0c3470694500f561b33cc1bbb00fcca8"
 
