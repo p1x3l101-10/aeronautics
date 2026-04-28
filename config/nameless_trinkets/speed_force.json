@@ -2,6 +2,6 @@
   "config": {
     "speedMultiplierPercentage": 200.0,
     "speedForceParticles": true,
-    "isEnable": true
+    "isEnable": false
   }
 }

@@ -5474,7 +5474,7 @@ hash = "c1c58c6be99a00f3987cbde0dab2cc99cf36474d7814257a994221c30f139ba7"
 
 [[files]]
 file = "config/nameless_trinkets/blindfold.json"
-hash = "5c9b92335a91220784bd003ffd165111cf39c59da9df1c5a4a0208c0e2807b50"
+hash = "41d8cb291f905185ed031aff54d9db597591f428e661397feeb5233293acc682"
 
 [[files]]
 file = "config/nameless_trinkets/broken_ankh.json"
@@ -5482,7 +5482,7 @@ hash = "58d180f057e34f702e3b3adf43a849c9e214a781a459353c7d9930434e6986c4"
 
 [[files]]
 file = "config/nameless_trinkets/broken_magnet.json"
-hash = "d12f6d9201acb5df88195085005e5efab32bf3e4074ac04689ef5dad1bb89240"
+hash = "a9b4ffa78980841aea56707313408b8b5813f7840480eb28a316b83c2467a434"
 
 [[files]]
 file = "config/nameless_trinkets/callus.json"
@@ -5490,7 +5490,7 @@ hash = "523114bb591e90a385c6bfe3880089c47a02a484bbb9efa548bcfdb819870b79"
 
 [[files]]
 file = "config/nameless_trinkets/cracked_crown.json"
-hash = "7a75c4f26b2d6ca69507f3a24205584e4e168d30b02fe8122cbd2cac4dded675"
+hash = "a0b9ea4db0dffe4ca2eba9a82e61a6295ed745239ec6cab9ac1d6e0a093f0309"
 
 [[files]]
 file = "config/nameless_trinkets/creeper_sense.json"
@@ -5598,7 +5598,7 @@ hash = "7a81fa0e5de72b87ed4ed6ca9bfa8aa9ce96a014568626fe9a245de14f44652a"
 
 [[files]]
 file = "config/nameless_trinkets/rage_mind.json"
-hash = "d9c0172016e0e4f8e8955b423870dffadadd933913b23ca3b3a152d4a2897f40"
+hash = "67ee7bfd666373c12addd1aec8a87374a8180220b4deb441246372338708994a"
 
 [[files]]
 file = "config/nameless_trinkets/reforger.json"
@@ -5630,7 +5630,7 @@ hash = "dd8e1056dfeea3e62abd48042f32dc0128d84e8e1939edac4c741657743e0a25"
 
 [[files]]
 file = "config/nameless_trinkets/speed_force.json"
-hash = "f8ebbe12d26ed15607845c8fe2ce66db9d9b205367b0cd836b2ba1a11471d073"
+hash = "f3c0797103b75913a165ce9d2f0739b0898bcb600176e1d4fbb560ed29f2a836"
 
 [[files]]
 file = "config/nameless_trinkets/spider_legs.json"
@@ -5638,7 +5638,7 @@ hash = "090207571532885f5beaeb8ad1bf48baf956193def679434094bdad4496818e7"
 
 [[files]]
 file = "config/nameless_trinkets/super_magnet.json"
-hash = "9c1b1069f11962b21df538a31b8224dfe113bbcb4fb8866c92da6803332e36cc"
+hash = "aa81c42f218b06cc33e46aad4a6af86c5904139e93bb7dd63600867b91b82b43"
 
 [[files]]
 file = "config/nameless_trinkets/tear_of_the_sea.json"
@@ -5866,11 +5866,11 @@ hash = "6a76cab3876b183d3420676f90749f94702712cf56b348c1b42745e8c759547d"
 
 [[files]]
 file = "config/nameless_trinkets/vampire_blood.json"
-hash = "d69e61fd188d5d943930265eb648c28a30fc84857a18d6e5df8ea32d7e134d05"
+hash = "b05f07528f3b3ea31a0c6fd944f2ed7e7fe7053d30e854a1fe9d3961f6996f65"
 
 [[files]]
 file = "config/nameless_trinkets/what_magnet.json"
-hash = "d12f6d9201acb5df88195085005e5efab32bf3e4074ac04689ef5dad1bb89240"
+hash = "a9b4ffa78980841aea56707313408b8b5813f7840480eb28a316b83c2467a434"
 
 [[files]]
 file = "config/nameless_trinkets/wooden_stick.json"
