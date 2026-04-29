@@ -6834,6 +6834,11 @@ hash = "86c0a3baf071368acc35f51a11bf4db62af199ec5990ebc80932ef53dcc1309c"
 metafile = true
 
 [[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "0706aeff2b18e0fd46667b1490296d86894dd2e8699176a30844a6ff44857f7d"
+metafile = true
+
+[[files]]
 file = "mods/create-more-wrenchables.pw.toml"
 hash = "48c09b085ea03b2ff9ed7d863d2985da3115a93cf12e18487bd2fc3672b666bb"
 metafile = true
