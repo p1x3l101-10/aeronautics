@@ -7433,6 +7433,11 @@ hash = "01d4355dc4df5adb3755ee74b94af9b9ba065d131904b9e4291acd7753ee34e3"
 metafile = true
 
 [[files]]
+file = "mods/radiocraft.pw.toml"
+hash = "64d3e71063a878c53d87b655e213ddda44c1c1241a5081332f84e2c88fbb0940"
+metafile = true
+
+[[files]]
 file = "mods/reactive.pw.toml"
 hash = "88ed3ad28743cb00c0070b7579eedf9d9309d4f63be4886cb48260115e289512"
 metafile = true
@@ -7660,6 +7665,11 @@ metafile = true
 [[files]]
 file = "mods/veil.pw.toml"
 hash = "c48a5094a94604312b7876341c2116af7da589cef9d0d84b43f91afcbcb1049b"
+metafile = true
+
+[[files]]
+file = "mods/walkie-talkie-plus.pw.toml"
+hash = "50e173aa71f85519e2c742b62b09817df21940771f6875ec7965850a869ab405"
 metafile = true
 
 [[files]]

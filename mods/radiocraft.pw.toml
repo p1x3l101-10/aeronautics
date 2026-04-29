@@ -1,0 +1,13 @@
+name = "Radiocraft"
+filename = "radiocraft-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i9iitQG6/versions/n6y8nnqb/radiocraft-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "00a904137e8702be2975914f10aa9404b4cdb74cb9198f84dac470979e2191dbb6f2c61f95a710bc1cd7f77963c95d383e84818f65f1b044f240cd5d8ff2fd05"
+
+[update]
+[update.modrinth]
+mod-id = "i9iitQG6"
+version = "n6y8nnqb"
