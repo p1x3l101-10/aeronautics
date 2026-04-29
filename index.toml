@@ -97,6 +97,10 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+
+[[files]]
 file = "config/adchimneys/Emitters/bakery$brick_stove.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -4821,6 +4825,30 @@ file = "config/attributefix/caelus/fall_flying.json"
 hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
 
 [[files]]
+file = "config/attributefix/hexcasting/ambit_radius.json"
+hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
+
+[[files]]
+file = "config/attributefix/hexcasting/feeble_mind.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/hexcasting/grid_zoom.json"
+hash = "28f7e3cd06e2fef81c87748a06629537131574b3f2f974ab4699f87040b11b15"
+
+[[files]]
+file = "config/attributefix/hexcasting/media_consumption.json"
+hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
+
+[[files]]
+file = "config/attributefix/hexcasting/scry_sight.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/hexcasting/sentinel_radius.json"
+hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
+
+[[files]]
 file = "config/attributefix/insanelib/push_resistance.json"
 hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
 
@@ -5437,6 +5465,18 @@ file = "config/guideme.toml"
 hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
 
 [[files]]
+file = "config/hexcasting-client.toml"
+hash = "e8f63e8237348a60067eb245df28f117060c5a2a81e8e31ca05e129de7f739aa"
+
+[[files]]
+file = "config/hexcasting-common.toml"
+hash = "ab398f0d779ef77feba20527c54ddd81c82277a32e75ec564b7099405646e65c"
+
+[[files]]
+file = "config/hexcasting-server.toml"
+hash = "f7a1f38ce9d311fb8ed8bfdf4d3f1bd72d6d72026724f76c1051b5874dbc4c55"
+
+[[files]]
 file = "config/iceandfire/iaf-client.json"
 hash = "0f338c822ebc6cad040079c0959987c141e8847b73cb6f75b4c2e8044c8e7be0"
 
@@ -5455,6 +5495,10 @@ hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 [[files]]
 file = "config/infernalmobs.cfg"
 hash = "1e5b9fdb0d1842f2e3ea61e9f4f01d562f5a719dc77de2a100e1d6c4322f6b7f"
+
+[[files]]
+file = "config/inline/client-config.toml"
+hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
 
 [[files]]
 file = "config/insanelib/Base/Player attributes/players_attribute_modifiers.json"
@@ -6521,6 +6565,22 @@ file = "kubejs/config/web_server.json"
 hash = "4210ef3f72c966ec3136ddac0185ed476a4ff3ded001c9f433b5028dfe12d425"
 
 [[files]]
+file = "kubejs/data/hexcasting/loot_tables/grant_patchi_book.json"
+hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
+
+[[files]]
+file = "kubejs/data/hexcasting/loot_tables/inject/scroll_loot_few.json"
+hash = "82c39ef8e975d7bb6c2646ef9f4523703a577408d3a0f2013d88501f63910443"
+
+[[files]]
+file = "kubejs/data/hexcasting/loot_tables/inject/scroll_loot_many.json"
+hash = "0dc5f100d485fc2514cfecfe2131599fbd8b8c493d697a87798730daf6512956"
+
+[[files]]
+file = "kubejs/data/hexcasting/loot_tables/inject/scroll_loot_some.json"
+hash = "8285307229627a988cee73b119225395c3fbb7e4324cdc3685fc5345c7fed3cd"
+
+[[files]]
 file = "kubejs/data/pneumaticcraft/recipe/explosion_crafting/compressed_iron_block.json"
 hash = "bba190bb70adce67d8c0fdbc19918e70c1c25f4e244397c18874a3841a4a1b4a"
 
@@ -6564,6 +6624,11 @@ metafile = true
 [[files]]
 file = "mods/accents.pw.toml"
 hash = "fd1d9d6e2ebabbd887c6ddc3f24aace01c942ffcb19cc83defb32ca3ba92e409"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
@@ -6613,7 +6678,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5dbf9cf74abe0f8e29c2c1ea3f545a9b02d20ac56976f260a3a3c886593cbf41"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -6747,7 +6812,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "53ec72920d6b85adf74b06f064739f0742d7c90bfcb6ef3ed9004728f120ab1a"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
@@ -7216,6 +7281,11 @@ hash = "a8b3679a2913fec0293bff597e14f8935239a42c02c06ac64fe2eee9f021bdac"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "9fc5559209cba05c1ff0ca925c6a62eda7108557aac3eadece87a3c56f438d09"
+metafile = true
+
+[[files]]
 file = "mods/hypertube.pw.toml"
 hash = "9aed20c67bf8890e5c67607d79270c71af98a8722f29118594bb768e9578b7c0"
 metafile = true
@@ -7243,6 +7313,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ebec601946d71a55324f2418c5173c5072d6b4a0b2d3fdb00e78d15b63776c44"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "5592a8c0d97106286f29cf1c67a5b8979265a7b22fc3ccefd4f7ff8bc2b77ddc"
 metafile = true
 
 [[files]]
@@ -7486,8 +7561,18 @@ hash = "2fe06c3fbcaf939723384afe6fa59d6ad7b54f5dde8915208aa65b15e30af081"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
-hash = "1541540ca827ca8713223b80838c8219a2d6a8c3fd163e8a9de847f7cb15c78d"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "3b59e758a7229eba05d6667ebac9f2f6a1a809798267548dced5216bacd14f01"
 metafile = true
 
 [[files]]
