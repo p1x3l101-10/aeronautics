@@ -6791,6 +6791,11 @@ hash = "e7edfd3b2e5c96ef7418947ab1d9ac412e80c87246d84bf7e28d692c412a38c0"
 metafile = true
 
 [[files]]
+file = "mods/blockling-(by-cubestructeur).pw.toml"
+hash = "921ced90c72f569f19d1363c63cab8dcff2cdfdf15387b6ef6d23eb289d09cca"
+metafile = true
+
+[[files]]
 file = "mods/blur-perfected.pw.toml"
 hash = "1eeece4c8b647ce12fa32d0a5f8bdd07aa6b3b0eccd693f06f639f77ce97c161"
 metafile = true
