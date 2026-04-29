@@ -4013,6 +4013,10 @@ file = "config/ae2-common.toml"
 hash = "0b13fbe2bd57729f040dc9574e6fc826b30b8bfc75da69d244440a9fdd8477c7"
 
 [[files]]
+file = "config/aero_cam_sync-client.toml"
+hash = "4b385e767e25e50d1ac109a355429f083bf67d35970d258df60369f188221f35"
+
+[[files]]
 file = "config/aeronautics-server.toml"
 hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
@@ -4589,6 +4593,26 @@ file = "config/ars_nouveau/rewind.toml"
 hash = "cfba46b855cf3bef2c4792b313eb9bdfc28ecdf29792ab8996fb44840d8b3009"
 
 [[files]]
+file = "config/ars_nouveau/search_index/_a.cfe"
+hash = "a362d85a122a861867787cf23445bfb9961b911d410641c92becd54c60dbaf50"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_a.cfs"
+hash = "024697925d8ff71b7d80490669bf16705cb53377eaf5eaf034d087704c750b96"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_a.si"
+hash = "a8b6f165dbd3757b5e89ac652a92bbdfb99d2c4484b907b47a170a69d94ca3bc"
+
+[[files]]
+file = "config/ars_nouveau/search_index/segments_b"
+hash = "fcaee4d8f9f448f7f185a008faaa74448a9116de515d47520177ff1bd757de41"
+
+[[files]]
+file = "config/ars_nouveau/search_index/write.lock"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/ars_nouveau/wololo.toml"
 hash = "2a6cdb9050080e2c86a7d1b67df0921e0c3470694500f561b33cc1bbb00fcca8"
 
@@ -4615,6 +4639,14 @@ hash = "f262c61f4f63bfd3c3e2fa5ed30176b9d447755725ff0dfe08b84df26faca607"
 [[files]]
 file = "config/artifacts/items.toml"
 hash = "0d4971e2356a4ceabc4c4b2d69c81c2d3fbcf4b46e384423098f3856dcd2689c"
+
+[[files]]
+file = "config/artifactscrafting-common.toml"
+hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
+
+[[files]]
+file = "config/astrocraft_lite.json"
+hash = "3361e748464312a260d7236a9e9f4a22532906391220b8c4cac214c2584163c4"
 
 [[files]]
 file = "config/attributefix/aileron/cloudskipper_drag.json"
@@ -4941,6 +4973,22 @@ file = "config/attributefix/sable/player.sub_level_punch_strength.json"
 hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
 
 [[files]]
+file = "config/attributefix/vampirism/blood_exhaustion.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/vampirism/dbno_duration.json"
+hash = "8ed60ec671d0277ac453b0492018528812127da2bdfa7ccfdf0991af37efaf65"
+
+[[files]]
+file = "config/attributefix/vampirism/neonatal_duration.json"
+hash = "8ed60ec671d0277ac453b0492018528812127da2bdfa7ccfdf0991af37efaf65"
+
+[[files]]
+file = "config/attributefix/vampirism/sundamage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
 file = "config/better_respawn-server.toml"
 hash = "268d178abe306fd6cff34235b06a066a18b31d47f617f073f6ca8057c24c1cba"
 
@@ -5069,6 +5117,14 @@ file = "config/cardinal-components-api.properties"
 hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
+file = "config/carryon-client.toml"
+hash = "c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "64b3a9808f98d547bfc461f41e159cab6ef3c7525a98479e06adcbf65b027997"
+
+[[files]]
 file = "config/chatanimation.json"
 hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
 
@@ -5095,6 +5151,14 @@ hash = "ce1d8cf7e9ad60aaddedc6a190609f939c39958eac332ec732f0f2986ce4e01f"
 [[files]]
 file = "config/corpsecurioscompat-common.toml"
 hash = "067560f2da682722e831b15c64cee6e0efaf4adc2523a53a0eb91aa9182534d3"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.json"
+hash = "340cd61fabf60cf2f1a2199afb2cac891d567145823d80df25aa0984d9d13d75"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.json"
+hash = "e9ae046049d8548ae9c96902aab751e97fed0fdae7b73aff712eefa5cdbaf05f"
 
 [[files]]
 file = "config/create-client.toml"
@@ -5205,6 +5269,10 @@ file = "config/createbigcannons-server.toml"
 hash = "c25c7c00736b699bc4ee602f773db4057ee78b2138813c27d25546a42a2e6b99"
 
 [[files]]
+file = "config/createburnerfuel-common.toml"
+hash = "af1fa688171c8847eaac2e1359a93a96b8ff14f94a3dc81efcb3a093191e6697"
+
+[[files]]
 file = "config/createcobblestone-common.toml"
 hash = "0de1c99021330f507e93300260a6f710c526b5e20e2051fb166dbbb73c4f5280"
 
@@ -5265,6 +5333,10 @@ file = "config/dynamic_fps.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "73ee72b678319124c3212f1fb81aec18b6bd77a27e33e71849e59a77f8e622bf"
+
+[[files]]
 file = "config/dynamiclights.json"
 hash = "d114fbd97132f5c899d3aff453c4683b02e4c2cf5e5fb23cf877745c001608aa"
 
@@ -5310,7 +5382,7 @@ hash = "08294f81c8f43e44a5950f78c9befa9c161fdefdf65ea7d1dfdd124143ad2056"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "adc91cfade0ce77f84a9af134c29803ab1ee5220ceb3a120a90098bb3af68a92"
+hash = "aee764dbcc78814e704152d873792184b4d3b4fca1e69dbeeabcb3d24c106bb7"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -5363,6 +5435,10 @@ hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
 [[files]]
 file = "config/illagerinvasion-server.toml"
 hash = "82de1c857bdfa233b180df2555e168c2d5d4dec63c32d9ea6aa094eea9f77bad"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
 [[files]]
 file = "config/infernalmobs.cfg"
@@ -5431,6 +5507,14 @@ hash = "4dd03ec5be94c8e56794c8fb0d0d1c907228d6881787d06e2743035e1dd4ca10"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "2efbd58d0330a2eb357c51c33a4346bce57ff8f4c9226660d3bf1aa549eead4b"
+
+[[files]]
+file = "config/mahoutsukai-client.toml"
+hash = "b89ca3913f495f51a55fe2082cda7a5d9db33e0d00e42563e7a8ee3c6b1de3a0"
+
+[[files]]
+file = "config/mahoutsukai-server.toml"
+hash = "3d43234928b725c9a78efe6cc1ee63d2d650617598f6ec6aa881c9a257600d60"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -5973,6 +6057,14 @@ file = "config/patchouli-client.toml"
 hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
 
 [[files]]
+file = "config/pipeorgans-client.toml"
+hash = "415a694d3135b0ba6f452e81497971a91f43c563c0af9e4ac51283b0bed8bfb3"
+
+[[files]]
+file = "config/pipeorgans-server.toml"
+hash = "27d874b4ffff283161e5e34f15658f8ac387cda76e2a7bb5248c807dbb364dc6"
+
+[[files]]
 file = "config/placebo.cfg"
 hash = "6bbc71c6dc18b1ba4952e1bc54ed2b98c3a90f04cec4257ec3f7566cdf0c0e2a"
 
@@ -6022,7 +6114,7 @@ hash = "84ccea01cf443aec50e3ba787a2d6d865752e98e919f45512868a41861a56732"
 
 [[files]]
 file = "config/powergrid-server.toml"
-hash = "87633208f8fa79953262ea83f6ba87c8b12f7a44002bace23b8cc644957be3ba"
+hash = "5cf5341c1980bf4349419121cd7c17238406c2cb90ba3050a71e5ca9549170cf"
 
 [[files]]
 file = "config/pulsetech-client.toml"
@@ -6067,6 +6159,10 @@ hash = "b0ebd587b971cb31bff96cbe646f6d7f643d3331e6d2fbf2fbe0dde8ce6d515a"
 [[files]]
 file = "config/scorchedgrass-common.toml"
 hash = "a81df3783ef7fbe25439a5ac48458df71265c993dbbb52bab7108c5ee803f7c9"
+
+[[files]]
+file = "config/simplerecall-common.toml"
+hash = "c2886a35b99f9bb2043ecc37cbc7e0cc557f224aa1b260710749c2696d8457b8"
 
 [[files]]
 file = "config/simulated-client.toml"
@@ -6130,7 +6226,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "e91875a250db958709d31c6d810ed9ca27d163c4e6d714e2e8c915c58b508fc0"
+hash = "d9763c729f6fe7997aa6337cae98aded61ee1b2de21a088f54dda23b41388c78"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6201,8 +6297,64 @@ file = "config/trinketsandbaubles-modifiers.json"
 hash = "145e7ef34bf382a628720fb3de6a73552bc4120d9f3ae06981c696f3da8ef497"
 
 [[files]]
+file = "config/tuningwrench-common.toml"
+hash = "9be8624842a318f37ae1d6d991ea007c88ad03c12c97c17df09e23808884764c"
+
+[[files]]
 file = "config/valhelsia_structures-client.toml"
 hash = "0af8d83ffedf671f008302a67b64e5f75f98207abc659c6885efcb4d5ab27bcd"
+
+[[files]]
+file = "config/vampiresdelight-client.toml"
+hash = "8db9574c89e4bd09c81af41c5270c398f72eedbced05b13a0b49eccf47ddfc76"
+
+[[files]]
+file = "config/vampiresdelight-common.toml"
+hash = "670e225bd8ad9f595b1bc68e6727f243ab02aa8e196e0e6ef3c0cce8ab34abbd"
+
+[[files]]
+file = "config/vampiresneedumbrellas-common.toml"
+hash = "750151329b6e363d079d5d205935b176cba6d903a42df4df1a75d86a1a0f0251"
+
+[[files]]
+file = "config/vampirism-balance.toml"
+hash = "3d913e4b200c563e97a7fba0e4eed46c2e7da35a0cf76962e12e728834c8eb8a"
+
+[[files]]
+file = "config/vampirism-client.toml"
+hash = "dd639c6ac4c8486962c33bc6d7e7fd8a55fe88a23f5f4f77f42b369a5444f3b8"
+
+[[files]]
+file = "config/vampirism-common.toml"
+hash = "31392888f39f5ac21616207f57859fdee4453532471f970292b893f1a319537f"
+
+[[files]]
+file = "config/vampirism-server.toml"
+hash = "b9c1838881078619d254d842d51651e27d256d048a46ac50cb4627fb6d8a85c1"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "76208f9f3f9cd58a2ad7d46cf3730d6cb7671affb576e5f546ee5d159e160b30"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "33cd36bd091b874ed251012f4e7820ee96ef6ea43b21a17a2bab526fd232a964"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -7429,6 +7581,11 @@ metafile = true
 [[files]]
 file = "mods/tfmg-energy-converter.pw.toml"
 hash = "bd1de362c44078cd8e40fccb38cca52dfd0dd8c969b8f27a423500d1346a0ed5"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@
 #Config version check, values below 0 will disable config version checker
 # Default: 4
 # Range: > -2147483648
-configVersion = 3
+configVersion = 4
 
 #.
 #Things related to kinetic and electrokinetic devices
@@ -187,6 +187,11 @@ configVersion = 3
 	# Range: > 1
 	portableBatteryEnchantCapacity = 10000
 	#.
+	#Capacity of the acid battery, measured in joules
+	# Default: 720.0
+	# Range: 0.0 ~ 3.4028234663852886E38
+	acidBatteryCapacity = 720.0
+	#.
 	#Initial charge of the acid battery
 	# Default: 0.8999999761581421
 	# Range: 0.0 ~ 1.0
@@ -266,11 +271,6 @@ configVersion = 3
 	# Default: 0.9999899864196777
 	# Range: 0.0 ~ 1.0
 	mediumCoreK = 0.9999899864196777
-	#.
-	#Capacity of the acid battery, measured in joules
-	# Default: 720.0
-	# Range: 0.0 ~ 3.4028234663852886E38
-	acidBatteryCapacity = 720.0
 
 	#.
 	#Things related to how the simulation is handled (probably shouldn't be altered unless you know what you are doing)
@@ -301,17 +301,22 @@ configVersion = 3
 		#Absolute stopping criterion
 		# Default: 1.0000000116860974E-7
 		# Range: 0.0 ~ 3.4028234663852886E38
-		solverAbsolutePrecision = 9.999999974752427E-7
+		solverAbsolutePrecision = 1.0000000116860974E-7
 		#.
 		#Relative stopping criterion
 		# Default: 9.9999998245167E-15
 		# Range: 0.0 ~ 3.4028234663852886E38
-		solverRelativePrecision = 9.999999960041972E-13
+		solverRelativePrecision = 9.9999998245167E-15
 		#.
 		#Minimum accepted precision
 		# Default: 9.999999974752427E-7
 		# Range: 0.0 ~ 3.4028234663852886E38
 		solverAbsoluteMinimumPrecision = 9.999999974752427E-7
+		#.
+		#Maximum alpha value when performing iteration solution fitting (x1 = x0 * alpha + x1 * (1 - alpha))
+		# Default: 0.9900000095367432
+		# Range: 0.0 ~ 1.0
+		solverMaxSearchAlpha = 0.9900000095367432
 		#.
 		#BJT inter-iteration voltage change smoothing multiplier
 		# Default: 0.5
@@ -326,17 +331,17 @@ configVersion = 3
 		#Triode inter-iteration voltage change smoothing multiplier
 		# Default: 0.5
 		# Range: 0.0 ~ 1.0
-		triodeLimAnode = 0.800000011920929
+		triodeLimAnode = 0.5
 		#.
 		#Triode inter-iteration voltage change smoothing multiplier
 		# Default: 0.5
 		# Range: 0.0 ~ 1.0
-		triodeLimCathode = 0.800000011920929
+		triodeLimCathode = 0.5
 		#.
 		#Triode inter-iteration voltage change smoothing multiplier
 		# Default: 0.5
 		# Range: 0.0 ~ 1.0
-		triodeLimGrid = 0.800000011920929
+		triodeLimGrid = 0.5
 		#.
 		#Experimental! This option enables all electrical networks to tick multiple times per world tick. This allows for better simulation precision when reactive components are involved but can have a significant impact on performance.
 		# Default: 1
@@ -346,11 +351,6 @@ configVersion = 3
 		#Solver MNA backend. The native backend can provide platform-specific acceleration which usually improves performance, however it isn't portable and needs a special binary which might not be available for all platforms. Java backend is portable and always available as fallback.
 		#Allowed Values: JAVA, NATIVE
 		solverBackend = "NATIVE"
-		#.
-		#Maximum alpha value when performing iteration solution fitting (x1 = x0 * alpha + x1 * (1 - alpha))
-		# Default: 0.9900000095367432
-		# Range: 0.0 ~ 1.0
-		solverMaxSearchAlpha = 0.9900000095367432
 
 	#.
 	#Resistance values for all devices
@@ -368,19 +368,29 @@ configVersion = 3
 			carbon_pile = 20.0
 			electric_motor = 25.6
 			electromagnet = 15.0
-			fuse_holder = 0.2
 			mv_switch = 0.05
 			carbon_pile_coil = 50.0
+			fuse_holder = 0.2
 			hv_breaker = 0.1
 			generator_induction_rotor = 0.5
 			winding = 7.5
+			electric_fan = 20.0
 			lv_button = 0.15
 			hv_switch = 0.1
-			electric_fan = 20.0
 			punch_card_reader = 1.0
 			basin_heater = 10.0
 			constant_speed_motor = 25.6
 			alarm_bell = 20.0
+
+			[electricity.resistance-v3.resistance.crt]
+				coils = 40.0
+				heater = 12.0
+
+			[electricity.resistance-v3.resistance.voltage_gauge]
+				range_2v = 20000.0
+				range_200v = 2000000.0
+				range_2kv = 2.0E7
+				range_20v = 200000.0
 
 			[electricity.resistance-v3.resistance.power_gauge]
 				shunt_range_2kw = 2.0E7
@@ -389,10 +399,6 @@ configVersion = 3
 				series = 0.05000000074505806
 				shunt_range_20kw = 2.0E7
 
-			[electricity.resistance-v3.resistance.crt]
-				coils = 40.0
-				heater = 12.0
-
 			[electricity.resistance-v3.resistance.servo]
 				idle = 64.0
 				on = 12.8
@@ -400,12 +406,6 @@ configVersion = 3
 			[electricity.resistance-v3.resistance.contactor]
 				switch = 0.05
 				coil = 12.0
-
-			[electricity.resistance-v3.resistance.voltage_gauge]
-				range_2v = 20000.0
-				range_200v = 2000000.0
-				range_2kv = 2.0E7
-				range_20v = 200000.0
 
 	#.
 	#Thermal properties for all devices
