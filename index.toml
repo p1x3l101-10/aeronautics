@@ -5201,10 +5201,6 @@ file = "config/create_enchantment_industry-server.toml"
 hash = "3bb1295b60bcfee0d818b20490e67ec7e43f5c04fb397ebba0a6d0ae87d3b4c5"
 
 [[files]]
-file = "config/create_factory_logistics-server.toml"
-hash = "13360ab04d7151f05f828338090325e3c22dab81b89ba9e78fdc1057d24c7966"
-
-[[files]]
 file = "config/create_hypertube-client.toml"
 hash = "1e656302c25b03ffb6410e1e8aaa54abbaa38059072de303dd6736cb116c3c69"
 
@@ -6969,11 +6965,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
-metafile = true
-
-[[files]]
-file = "mods/create_factory_logistics.pw.toml"
-hash = "d0787f9db4af92152f43c40244becf04180b162b0d10e6263221cf18922e3f6d"
 metafile = true
 
 [[files]]
