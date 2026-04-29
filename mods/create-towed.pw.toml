@@ -1,0 +1,13 @@
+name = "Create: Towed"
+filename = "towed-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6519f68d4fd12dd08f2a67dab03b32a661a1902"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7997655
+project-id = 1520427

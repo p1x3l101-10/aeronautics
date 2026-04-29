@@ -6927,6 +6927,16 @@ hash = "0e7b1436f3f685d4991b771118e1e42823d360d8e010a4efa311ddc474ad0a7d"
 metafile = true
 
 [[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+hash = "71fa04ae6430da94fb8369e2f6153e3d7bdb42a905559d0c6745560bf18611b9"
+metafile = true
+
+[[files]]
+file = "mods/create-sensors.pw.toml"
+hash = "97d34501561b82d8dbb76f558e118356b1bd44e40e872b79ee966d81fba388f4"
+metafile = true
+
+[[files]]
 file = "mods/create-sound-of-steam-tuning-wrench.pw.toml"
 hash = "941f681fb3a3f9d76e8fff6a56c423bc6436693b261f285490e091f864b718bd"
 metafile = true
@@ -6944,6 +6954,16 @@ metafile = true
 [[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "61b2e10da412b986bf4a3940bc1e5c1d648031f73f5e580e1b27d4e6ea77d8ba"
+metafile = true
+
+[[files]]
+file = "mods/create-towed.pw.toml"
+hash = "f3c7ce5ee7fa64eaf447f97da1bbf061bd04825bd6f76904df366a5700a06050"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
@@ -6974,6 +6994,11 @@ metafile = true
 [[files]]
 file = "mods/darkmobs.pw.toml"
 hash = "3e8adc98ba0e9908e5038c1bbc5bb302f9a9773730ac3a3664ffb6cdfb46e50a"
+metafile = true
+
+[[files]]
+file = "mods/deployer.pw.toml"
+hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
 metafile = true
 
 [[files]]
@@ -7539,6 +7564,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
+metafile = true
+
+[[files]]
+file = "mods/simulated-gauges.pw.toml"
+hash = "276db967822721cc23954e22e796e6e68435b69613a69d12fc35a09effabab27"
 metafile = true
 
 [[files]]

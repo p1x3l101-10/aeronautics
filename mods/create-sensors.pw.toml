@@ -1,0 +1,13 @@
+name = "Create: Sensors"
+filename = "createsensors-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f224cc698f4ee2160d8ef139e3e82cc188908ddd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7984756
+project-id = 1523945
