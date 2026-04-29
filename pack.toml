@@ -11,5 +11,5 @@ hash = "1c165966177f8b3e99821f4057ca1d0ef6df8d07929f74a61359403f3b704a81"
 [versions]
 lwjgl3 = "3.3.3"
 minecraft = "1.21.1"
-neoforge = "21.1.225"
+neoforge = "21.1.228"
 unsup = "1.1.5"
