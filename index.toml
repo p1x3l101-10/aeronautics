@@ -4021,6 +4021,10 @@ file = "config/aeronautics-server.toml"
 hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
 [[files]]
+file = "config/aeroworks-client.toml"
+hash = "28969de26284882b050aa680f4b84c833f227f9831debd00b183b83ab5afdbd2"
+
+[[files]]
 file = "config/aeroworks-common.toml"
 hash = "a25382da178b27b295fc7a517cf02264de17bdc086c1c04a20dc30f47fc9e663"
 
@@ -5273,6 +5277,10 @@ file = "config/createcobblestone-common.toml"
 hash = "0de1c99021330f507e93300260a6f710c526b5e20e2051fb166dbbb73c4f5280"
 
 [[files]]
+file = "config/createdynlight-client.toml"
+hash = "3f4b4927a30942747696b6ca87d14f903e4666f84e33dd08c55ca7c87332b1af"
+
+[[files]]
 file = "config/createdynlight-server.toml"
 hash = "392d9a004db43fd218a0aeb0a22a0daebdd21d2d06acfcab0cb6580ebc6b6f08"
 
@@ -5503,6 +5511,10 @@ hash = "f99c631f4b4054062f992e8b7bf337577852d26d4ee7fe1dfbb0a36fb223a1f6"
 [[files]]
 file = "config/letmedespawn.json"
 hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
+
+[[files]]
+file = "config/lightoverlay.properties"
+hash = "476cb3e57768e1d59b0ceb8a37769fbdb655a4e93c73f2b88495300064932b4c"
 
 [[files]]
 file = "config/lithium.properties"
@@ -6171,6 +6183,10 @@ hash = "363da43f4792344846ed055c20dc72a2c35b2f966dd7e468155576daaeebb338"
 [[files]]
 file = "config/sablecollisiondamage-common.toml"
 hash = "6ad04ce54095bd22ae0cf919c852bf724e109b0aa43399a3591e70caf15c88c0"
+
+[[files]]
+file = "config/saturn-optimizations.toml"
+hash = "f18ce3963bfb77822357b4a45f901cd036113a607d284ffcb074dcbfac6792c1"
 
 [[files]]
 file = "config/sauce-server.toml"
