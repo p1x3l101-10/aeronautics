@@ -4021,6 +4021,10 @@ file = "config/aeronautics-server.toml"
 hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
 [[files]]
+file = "config/aeroworks-common.toml"
+hash = "a25382da178b27b295fc7a517cf02264de17bdc086c1c04a20dc30f47fc9e663"
+
+[[files]]
 file = "config/aileron.json"
 hash = "df5ae243f289a2ad1321c288d88a7bdbe85371983ae9daf5fdad4571cc42bb4c"
 
@@ -5109,6 +5113,10 @@ file = "config/carryon-common.toml"
 hash = "6b6870147714f9aacc3fc5627084e19ed4c443606853c754049b81db1cfe9720"
 
 [[files]]
+file = "config/charginggadgets-server.toml"
+hash = "d792ef7b1befb0bc7c9d673af847f87847fd78bb9cad8f8bd8d4d4808d026351"
+
+[[files]]
 file = "config/chatanimation.json"
 hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
 
@@ -5201,6 +5209,10 @@ file = "config/create_enchantment_industry-server.toml"
 hash = "3bb1295b60bcfee0d818b20490e67ec7e43f5c04fb397ebba0a6d0ae87d3b4c5"
 
 [[files]]
+file = "config/create_factory_logistics-server.toml"
+hash = "13360ab04d7151f05f828338090325e3c22dab81b89ba9e78fdc1057d24c7966"
+
+[[files]]
 file = "config/create_hypertube-client.toml"
 hash = "1e656302c25b03ffb6410e1e8aaa54abbaa38059072de303dd6736cb116c3c69"
 
@@ -5261,6 +5273,10 @@ file = "config/createcobblestone-common.toml"
 hash = "0de1c99021330f507e93300260a6f710c526b5e20e2051fb166dbbb73c4f5280"
 
 [[files]]
+file = "config/createdynlight-server.toml"
+hash = "392d9a004db43fd218a0aeb0a22a0daebdd21d2d06acfcab0cb6580ebc6b6f08"
+
+[[files]]
 file = "config/createidlx-client.toml"
 hash = "f0fec82bc0fce75385b776fcd79e1257b74e3eb0fd1ce7034f73d5ab19e7337c"
 
@@ -5291,6 +5307,10 @@ hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
 [[files]]
 file = "config/curios-server.toml"
 hash = "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
+
+[[files]]
+file = "config/deployer-server.toml"
+hash = "9516e91a51a89d1e0d6c1f4d502833883332a040c153a51b12fe04dbdb7ca3ec"
 
 [[files]]
 file = "config/distraction_free_recipes-client.toml"
@@ -5475,6 +5495,10 @@ hash = "a605a2838f843537e1eabe55ba0a6f14e7e8fdedd8b72a80b4e599bb5bfe98f0"
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+
+[[files]]
+file = "config/ldfix-common.toml"
+hash = "f99c631f4b4054062f992e8b7bf337577852d26d4ee7fe1dfbb0a36fb223a1f6"
 
 [[files]]
 file = "config/letmedespawn.json"
@@ -6279,6 +6303,14 @@ hash = "6b1f369aed48e1dff6ce4cb5d89014fc986eeedbcdb3f8a853191a4bb6d8c84b"
 [[files]]
 file = "config/tfmg_automation-common.toml"
 hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
+
+[[files]]
+file = "config/towed-server.toml"
+hash = "cae8004c5a9c3f76e53db29dca6c65a5865d75bf5cd1349486c9a5f6b484ffbe"
+
+[[files]]
+file = "config/tracks-server.toml"
+hash = "e7d06e98aee80706a60a8e54887c8c37395103a98c33d03c86f986bb184dfe9f"
 
 [[files]]
 file = "config/transition.json"

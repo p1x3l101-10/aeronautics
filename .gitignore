@@ -8,3 +8,5 @@
 /config/spark/tmp
 /config/spark/tmp-client
 /config/emi.css
+/config/mmode.json
+/config/chunky/tasks
