@@ -4025,6 +4025,10 @@ file = "config/aileron.json"
 hash = "df5ae243f289a2ad1321c288d88a7bdbe85371983ae9daf5fdad4571cc42bb4c"
 
 [[files]]
+file = "config/almanac-common.toml"
+hash = "60804e0ec79a4117e82b9a4c8506077e916a5dc1a0f9bd7eebea977cce9b6a94"
+
+[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
@@ -5086,7 +5090,7 @@ hash = "43dcab48a2e7ce8b1732e0369cc47425919e65986d1b3c140fa07905e4b9ef5f"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "7c1ef647d71c6eaa128aa471a42dd549c3dc9840d0d4ca714ea878ca8d3c5763"
+hash = "cafd579ccf6ebee345f2065f5ead6bcdb57bae414484a8fdefd8820427a3ae53"
 
 [[files]]
 file = "config/cardboarded_conveynience.json"
@@ -5111,6 +5115,10 @@ hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
 [[files]]
 file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/cmpackagecouriers-server.toml"
+hash = "3fcbea7454a97c8ced1201d4ffff10504f674d60abac079ce200f0c9fa252d0c"
 
 [[files]]
 file = "config/connector.json"
@@ -5422,7 +5430,7 @@ hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
 [[files]]
 file = "config/infernalmobs.cfg"
-hash = "53f3a436590e3d3baf8384be4d869d10e96cdcbb55e899a1a96ae2fa91d13e10"
+hash = "1e5b9fdb0d1842f2e3ea61e9f4f01d562f5a719dc77de2a100e1d6c4322f6b7f"
 
 [[files]]
 file = "config/insanelib/Base/Player attributes/players_attribute_modifiers.json"
@@ -5471,6 +5479,10 @@ hash = "a605a2838f843537e1eabe55ba0a6f14e7e8fdedd8b72a80b4e599bb5bfe98f0"
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+
+[[files]]
+file = "config/letmedespawn.json"
+hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
 
 [[files]]
 file = "config/lithium.properties"
@@ -6105,6 +6117,14 @@ file = "config/pulsetech-common.toml"
 hash = "041b94b15a52cd6d490338d1991404fbf833cc2fc5be8e5de7b5787b4684ac01"
 
 [[files]]
+file = "config/radiocraft-common.toml"
+hash = "c759bc797c8fbefc7b701c8cc4151c537aa3b013521d4d5e001a7b0f93af73de"
+
+[[files]]
+file = "config/radiocraft-server.toml"
+hash = "2069503fcbb1a32fb5eceecd8cf25c2ea2dd46e9923158312febcc849a6eb5a8"
+
+[[files]]
 file = "config/reactive-client.toml"
 hash = "83d7f0eb7e36c950c28843267bf1b607ac5ff83deb317c0c89a47eb80cc9b98f"
 
@@ -6127,6 +6147,10 @@ hash = "994c2d2810b7ddfe59046a6a3caf66aece6591839daca1f2fa0708464e4140b2"
 [[files]]
 file = "config/sable-common.toml"
 hash = "363da43f4792344846ed055c20dc72a2c35b2f966dd7e468155576daaeebb338"
+
+[[files]]
+file = "config/sablecollisiondamage-common.toml"
+hash = "6ad04ce54095bd22ae0cf919c852bf724e109b0aa43399a3591e70caf15c88c0"
 
 [[files]]
 file = "config/sauce-server.toml"
@@ -6335,6 +6359,10 @@ hash = "76208f9f3f9cd58a2ad7d46cf3730d6cb7671affb576e5f546ee5d159e160b30"
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "33cd36bd091b874ed251012f4e7820ee96ef6ea43b21a17a2bab526fd232a964"
+
+[[files]]
+file = "config/walkietalkie-common.toml"
+hash = "482dd2fc917a424dae6f8b219196751b4bacc3e79e7f0c14cbe6f3e6a10cc940"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
