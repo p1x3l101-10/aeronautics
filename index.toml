@@ -6368,8 +6368,18 @@ hash = "354e823bd0ec19173de0416889894b4286df41dcabfd4be7ae737fe0f754bdd1"
 metafile = true
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "ed0494f406f8e07efc2b27c394c7c2efe5c0be3a4dc96f00cb7ed3c7b9021648"
+metafile = true
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "4e7df55026a640f18678c2754e7608f9378a1ccc7fd70efd7061e5e23f49a454"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
 metafile = true
 
 [[files]]
@@ -6449,6 +6459,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
+file = "mods/astrocraft-lite.pw.toml"
+hash = "b7c6da8a12107bf3994893255e29a7714ed9c4dffcdb98f9955f8c6a08caa46e"
 metafile = true
 
 [[files]]
@@ -6532,6 +6547,16 @@ hash = "53ec72920d6b85adf74b06f064739f0742d7c90bfcb6ef3ed9004728f120ab1a"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
+metafile = true
+
+[[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "c63ba9c5c8fa4404c2a549f7475b21e798bd42d100966e8f767727f440c343a0"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "44494c5fd58e46513dd746e368fe67a431324edcaa0053cc7381fd6b77cd3964"
 metafile = true
@@ -6587,8 +6612,23 @@ hash = "384daf59de24dada98c20e987770186142daea4986170720c32c236e4a7a1a29"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "611455ca9d3d1d7e56bdaf76c17306ab0344847869525ec1e1b9c13198dd4303"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-burner-fuel.pw.toml"
+hash = "890f7723e54734476f263b8158c10e2680dfbb7414514f46f1e6f8e852ac2f7f"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "0bdf45509015fe70c3f9e6084f4aafe69eb279c6883ff21fc928ef5b014d6890"
 metafile = true
 
 [[files]]
@@ -6662,6 +6702,11 @@ hash = "86c0a3baf071368acc35f51a11bf4db62af199ec5990ebc80932ef53dcc1309c"
 metafile = true
 
 [[files]]
+file = "mods/create-more-wrenchables.pw.toml"
+hash = "48c09b085ea03b2ff9ed7d863d2985da3115a93cf12e18487bd2fc3672b666bb"
+metafile = true
+
+[[files]]
 file = "mods/create-optical.pw.toml"
 hash = "5ac9a2223abeeb4f08d71c9361e4d7919bbfcfdb22c1703f6e273446ac851e77"
 metafile = true
@@ -6684,6 +6729,16 @@ metafile = true
 [[files]]
 file = "mods/create-rns.pw.toml"
 hash = "0e7b1436f3f685d4991b771118e1e42823d360d8e010a4efa311ddc474ad0a7d"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam-tuning-wrench.pw.toml"
+hash = "941f681fb3a3f9d76e8fff6a56c423bc6436693b261f285490e091f864b718bd"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
@@ -6912,6 +6967,11 @@ hash = "bf9baef8bb1145e580ae8ee57b285e22838e943c56a96ffb424fd02bf99c468e"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "ebec601946d71a55324f2418c5173c5072d6b4a0b2d3fdb00e78d15b63776c44"
 metafile = true
@@ -6972,6 +7032,11 @@ hash = "43908d26ef77cc78e08ba2edae2ca63a56d7da415ff48c61e485c46edeacefeb"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+metafile = true
+
+[[files]]
 file = "mods/loot-journal.pw.toml"
 hash = "9f40e6df8cd40f5e94ae05b6d9d2618cbe875a4bb9124538b0cd3464c85e83fc"
 metafile = true
@@ -6992,6 +7057,11 @@ hash = "4d5d9905ff2b8fea746214b3acc1173a78c0d8b8f055ec0af40cdaef06b20af4"
 metafile = true
 
 [[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "aca4e84b4e55285bf053edd0fac93adae588916738eee937f859ebca67ebc82e"
+metafile = true
+
+[[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "675b6790530a7b6cd35bbd77c99789bef371f2b52f5dce7e8dd9d9e5615d4660"
 metafile = true
@@ -7009,6 +7079,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3bffc65b39a3cb169ecfb34653abd5dd7e8901ec7e48f666744f80c8fb41905d"
+metafile = true
+
+[[files]]
+file = "mods/miku-plushies.pw.toml"
+hash = "17f414e91b6144e755671297997bcdcfafde5ccb63bd399c61ebf88e74682aa4"
 metafile = true
 
 [[files]]
@@ -7202,8 +7277,18 @@ hash = "457032c2884fed2ad6cc70c735678d74f86563f29ba6d148d6184e85820d1a0d"
 metafile = true
 
 [[files]]
+file = "mods/reestrogen.pw.toml"
+hash = "588998d087bbddd1f929a7fb716ae8e5e893a8999a5ca84d28c95f18d6bb5574"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "356285fb960385f591e216c1e4ff1ef808ba95e32c1a0521aedb7d4050aed946"
+metafile = true
+
+[[files]]
+file = "mods/repackagerfix.pw.toml"
+hash = "9373f40226a06ae3801f217761dd0a7a66258d28f6b8e7f15f0beb1a74825c1a"
 metafile = true
 
 [[files]]
@@ -7214,6 +7299,11 @@ metafile = true
 [[files]]
 file = "mods/rpl.pw.toml"
 hash = "20ca29d50825c812d60126a12069526e75a0dd66c382c330248054e242aa053c"
+metafile = true
+
+[[files]]
+file = "mods/sable-(create-aeronautics)-collision-damage.pw.toml"
+hash = "56fbed989cd7a0064f559d46d59c4e66cfa6ecc17b3692780bdd0dfc0878fd24"
 metafile = true
 
 [[files]]
@@ -7229,6 +7319,11 @@ metafile = true
 [[files]]
 file = "mods/simple-recall-potion.pw.toml"
 hash = "a8c503033710bdc2d2df591720149218efb904ecd48deee8ae64aecd634a9c03"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
 metafile = true
 
 [[files]]
@@ -7369,6 +7464,21 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "cee15753d8dd88121962306d27d48a24c969e8c5aa4e9bbba0109c93a174eb83"
+metafile = true
+
+[[files]]
+file = "mods/vampires-delight.pw.toml"
+hash = "90a1403b17d3423f6c96cdf891ba3df4e5e44913d238054d5e6b7d0f1923a4fc"
+metafile = true
+
+[[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "5044244197219c2d0dcca141c78c0dd1837d27954e1a4ebb05aa60a59bb87bf9"
+metafile = true
+
+[[files]]
+file = "mods/vampirism.pw.toml"
+hash = "ff01b930ef58526c8895041adecf8e7b5e0a678c373caa28032438e6130aeee3"
 metafile = true
 
 [[files]]

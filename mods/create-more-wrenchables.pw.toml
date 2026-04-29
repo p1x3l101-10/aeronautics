@@ -1,0 +1,13 @@
+name = "Create: More Wrenchables"
+filename = "createmorewrenchables-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "606e387a413ef0da55b1b789954fc2fca9a177cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7607712
+project-id = 1459604

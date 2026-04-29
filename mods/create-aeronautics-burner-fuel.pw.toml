@@ -1,0 +1,13 @@
+name = "Create Aeronautics: burner fuel"
+filename = "createburnerfuel-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OizKjGJm/versions/cXkvrVUm/createburnerfuel-1.0.1.jar"
+hash-format = "sha512"
+hash = "0fd77bd04ce7dabd1a437f6435d4c7fb998f361a02ef7b22de1df88821a588b6db5385a6f0dd1e2be252c46c164490b4de18bad95d79fb9b12bd03187db28d07"
+
+[update]
+[update.modrinth]
+mod-id = "OizKjGJm"
+version = "cXkvrVUm"
