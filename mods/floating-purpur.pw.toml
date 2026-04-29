@@ -1,0 +1,13 @@
+name = "Floaty Purpur (Sable Addon)"
+filename = "Floaty_Purpur_neoforge_1.21.1_v1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bhMd2k9G/versions/RmUweXwL/Floaty_Purpur_neoforge_1.21.1_v1.jar"
+hash-format = "sha512"
+hash = "8402cf341336eb2e256ccabcbeb9606c68126fc30abb1fd66fa4b8fa5d408815eacf414f8976e010171016aaa1ac2e626f8a540fa5190150b77490e8e60c29b8"
+
+[update]
+[update.modrinth]
+mod-id = "bhMd2k9G"
+version = "RmUweXwL"
