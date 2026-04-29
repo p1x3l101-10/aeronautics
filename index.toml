@@ -6361,10 +6361,6 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "33cd36bd091b874ed251012f4e7820ee96ef6ea43b21a17a2bab526fd232a964"
 
 [[files]]
-file = "config/walkietalkie-common.toml"
-hash = "482dd2fc917a424dae6f8b219196751b4bacc3e79e7f0c14cbe6f3e6a10cc940"
-
-[[files]]
 file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
@@ -7698,11 +7694,6 @@ metafile = true
 [[files]]
 file = "mods/veil.pw.toml"
 hash = "c48a5094a94604312b7876341c2116af7da589cef9d0d84b43f91afcbcb1049b"
-metafile = true
-
-[[files]]
-file = "mods/walkie-talkie-plus.pw.toml"
-hash = "50e173aa71f85519e2c742b62b09817df21940771f6875ec7965850a869ab405"
 metafile = true
 
 [[files]]
