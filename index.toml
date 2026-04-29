@@ -6834,8 +6834,18 @@ hash = "86c0a3baf071368acc35f51a11bf4db62af199ec5990ebc80932ef53dcc1309c"
 metafile = true
 
 [[files]]
+file = "mods/create-more-linked-remote.pw.toml"
+hash = "12329706d9720921132457af6ccbef816018b850fbc7dbc9b53d983bce913592"
+metafile = true
+
+[[files]]
 file = "mods/create-more-package-couriers.pw.toml"
 hash = "0706aeff2b18e0fd46667b1490296d86894dd2e8699176a30844a6ff44857f7d"
+metafile = true
+
+[[files]]
+file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
+hash = "a95e377ae8ab495a5bd6b68e32bc178fe80afe43df1d64a48210a3383f24d5e5"
 metafile = true
 
 [[files]]
@@ -6861,6 +6871,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
+metafile = true
+
+[[files]]
+file = "mods/create-remote-terminal.pw.toml"
+hash = "75a222522d64a7828d37c8c711fc73cdb69fd3c00311173d9b0d70b3c0978a19"
 metafile = true
 
 [[files]]
