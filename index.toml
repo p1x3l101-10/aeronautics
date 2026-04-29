@@ -6802,6 +6802,11 @@ hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "fe38d424a08ff28b88fc29e7e598923fa07a7474c79b7d11c7ac003c788683c9"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "3b8d33a4392bd5d5077fd5b78f2d45b625f5cb71ae94b82e1d086092893ee564"
 metafile = true
