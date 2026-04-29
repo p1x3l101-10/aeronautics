@@ -5974,7 +5974,7 @@ hash = "e5bdd793b356a733dbb217de068c31fc8b06f43e36dd3db405a85178c0ef6a05"
 
 [[files]]
 file = "config/neoforge-client.toml"
-hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
+hash = "05ef734ce4aaa26d5e053027f442be074d5db5b7a1b0e49c531841407e402eca"
 
 [[files]]
 file = "config/neoforge-common.toml"
