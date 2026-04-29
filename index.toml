@@ -7513,11 +7513,6 @@ hash = "356285fb960385f591e216c1e4ff1ef808ba95e32c1a0521aedb7d4050aed946"
 metafile = true
 
 [[files]]
-file = "mods/repackagerfix.pw.toml"
-hash = "9373f40226a06ae3801f217761dd0a7a66258d28f6b8e7f15f0beb1a74825c1a"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "f283126d7f3e37f2ad03801e931f7c4581493ff3df4b06e08b5866535b83c4ec"
 metafile = true
