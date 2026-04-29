@@ -6466,11 +6466,11 @@ hash = "a0f0bbcf2adbbd04253c7ec549715c4e3163b21ed2a1438d1e08800f9a77d014"
 
 [[files]]
 file = "kubejs/server_scripts/createbigcannons/castIron.js"
-hash = "64b46dfa668d39b7a461b7255e2f56ba5492e3e5b6b1785a89fe77134aa564a1"
+hash = "f8202588ec8f59c295d6354204211e785d11394d44356ffd0956f7501f4f997a"
 
 [[files]]
 file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
-hash = "d04c7808e84dbfe08ee277e7a2e5868d50fafe4990d78755c510372c4d24cd27"
+hash = "a9ad19b0db6e4a574172bc0bdde3b943948b72c7eb032218537dbb95bf02a039"
 
 [[files]]
 file = "kubejs/server_scripts/iceandfire/dragonsteels.js"

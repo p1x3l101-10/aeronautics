@@ -1,7 +1,6 @@
-const ingot_mb = 144;
-const ingot_processingTime = 180;
-
 ServerEvents.recipes(event => {
+  const ingot_mb = 144;
+  const ingot_processingTime = 180;
   const foundryMelting = (input1, input2, processingTime, outputId, outputMb) => {
     event.custom({
       type: "createbigcannons:melting",

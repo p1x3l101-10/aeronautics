@@ -1,45 +1,45 @@
-const ingot_mb = 144;
-const ingot_processingTime = 180;
-
-const types = {
-  ingot: {
-    mb: ingot_mb,
-    tagPfx: "ingots",
-    processingTime: ingot_processingTime
-  },
-  nugget: {
-    mb: ingot_mb / 9,
-    tagPfx: "nuggets",
-    processingTime: ingot_processingTime / 9
-  },
-  ingot: {
-    mb: ingot_mb * 9,
-    tagPfx: "storage_blocks",
-    processingTime: ingot_processingTime * 9
-  },
-};
-
-const metals = [
-  "cast_iron",
-  "steel",
-  "bronze",
-  "nethersteel"
-];
-
-const problemMetals = [
-  "nethersteel"
-];
-
-const defaultName = "createbigcannons";
-const nameOverrides = {
-  steel: "tfmg"
-};
-
-const itemOverrides = {
-  bronze_nugget: "bronze_scrap"
-};
-
 ServerEvents.recipes(event => {
+  const ingot_mb = 144;
+  const ingot_processingTime = 180;
+
+  const types = {
+    ingot: {
+      mb: ingot_mb,
+      tagPfx: "ingots",
+      processingTime: ingot_processingTime
+    },
+    nugget: {
+      mb: ingot_mb / 9,
+      tagPfx: "nuggets",
+      processingTime: ingot_processingTime / 9
+    },
+    ingot: {
+      mb: ingot_mb * 9,
+      tagPfx: "storage_blocks",
+      processingTime: ingot_processingTime * 9
+    },
+  };
+
+  const metals = [
+    "cast_iron",
+    "steel",
+    "bronze",
+    "nethersteel"
+  ];
+
+  const problemMetals = [
+    "nethersteel"
+  ];
+
+  const defaultName = "createbigcannons";
+  const nameOverrides = {
+    steel: "tfmg"
+  };
+
+  const itemOverrides = {
+    bronze_nugget: "bronze_scrap"
+  };
+
   // Create foundry recipes
   const foundryMelting = (inputTag, processingTime, outputId, outputMb) => {
     event.custom({
