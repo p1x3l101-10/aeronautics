@@ -6948,7 +6948,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-teleporters.pw.toml"
-hash = "2baff3527cbdc8afce121fdc39b596095bcdc87b01fe6db961ff9a48cda2fb5e"
+hash = "a9fdfce6ffedfe29a7df44e8aea2df2a9d56ff8b3da73f9dcafcf6d5a861d2a5"
 metafile = true
 
 [[files]]
@@ -7273,7 +7273,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "26d34518020a4573766158921ba7bc94908c99eb9dd67cafcd4957fe1e49c9e0"
+hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
@@ -7543,7 +7543,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -7693,7 +7693,7 @@ metafile = true
 
 [[files]]
 file = "mods/uranus.pw.toml"
-hash = "5e3f75186b7d4ae09d1934a7d835ccf0d49dfd8b93bd1e5b1bb8be3b80635778"
+hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
 metafile = true
 
 [[files]]
