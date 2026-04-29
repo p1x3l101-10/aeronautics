@@ -1,0 +1,13 @@
+name = "Basic Discord Rich Presence"
+filename = "basic_discord_rich_presence-neoforge-1.21.1-1.3.0.22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3pJvKwph/versions/jAjHxqiz/basic_discord_rich_presence-neoforge-1.21.1-1.3.0.22.jar"
+hash-format = "sha512"
+hash = "49a280147e42ea24d4536f307b66274fd2de4e5d385ea31276972c2585759fb79279c9e25603dcd94de1bc2669b6f9ed161da53d50616e55945ce228b7a38b3a"
+
+[update]
+[update.modrinth]
+mod-id = "3pJvKwph"
+version = "jAjHxqiz"

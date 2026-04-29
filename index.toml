@@ -6761,6 +6761,11 @@ hash = "fa61a542cca52ac08867aa7383dfa8115483c0df0ca3449543207808a1930800"
 metafile = true
 
 [[files]]
+file = "mods/basic-discord-rich-presence.pw.toml"
+hash = "2982529739a8e96663f28e2010076dd1ed95f6948a3eaffa7c485489c327fe9c"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "71a5c64a5a94922535553dbecae320f303c69cc81d57eeb4fbf707118c0c31ab"
 metafile = true
