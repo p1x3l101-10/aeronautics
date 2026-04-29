@@ -5582,7 +5582,7 @@ hash = "b89ca3913f495f51a55fe2082cda7a5d9db33e0d00e42563e7a8ee3c6b1de3a0"
 
 [[files]]
 file = "config/mahoutsukai-server.toml"
-hash = "3d43234928b725c9a78efe6cc1ee63d2d650617598f6ec6aa881c9a257600d60"
+hash = "ebd1f08361534f2239825b3c28f14247832ee1babc040896394d8f8bd793b4f9"
 
 [[files]]
 file = "config/midnightlib.json"

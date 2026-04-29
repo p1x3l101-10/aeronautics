@@ -1190,27 +1190,27 @@
 		#This value is added to mana regen. It is the floor for mana added by leylines. By default, you lose 1 mana from regen for not being near a leyline.
 		# Default: -1
 		# Range: -10000000 ~ 100000000
-		LEY_PUNISHMENT = -1
+		LEY_PUNISHMENT = -20
 		#The factor used in calculating the leyline bonus regen
 		# Default: 0.01
 		# Range: 0.0 ~ 1.0E8
-		LEY_FACTOR = 0.01
+		LEY_FACTOR = 0.1
 		#Whether the bonus regen is flat or based on max mana
 		LEY_FLAT = false
 		#How far away ley points are from each other
 		# Default: 300
 		# Range: 0 ~ 100000000
-		LEY_DISTANCE = 300
+		LEY_DISTANCE = 600
 		#An offset in case you don't want 0,0 to be a leyline
 		# Default: 0
 		# Range: 0 ~ 100000000
-		LEY_OFFSET = 0
+		LEY_OFFSET = 40
 		#Set this to false if you don't like ley lines affecting mana regen
 		LEY_AFFECTS_MANA = true
 		#The Y value Ley Lines should render at
 		# Default: 70
 		# Range: 0 ~ 100000000
-		LEY_RENDER_HEIGHT = 70
+		LEY_RENDER_HEIGHT = 300
 		#Modifier for Fae spawn rate
 		# Default: 1.0
 		# Range: 0.0 ~ 1.0E8
@@ -1220,7 +1220,7 @@
 		#If true, the dimension list is a blacklist. If false it is a whitelist.
 		LEY_BLACKLIST = true
 		#Leyline Eytra boost limited to Fay Sight
-		LEY_ELYTRA_LIMITED_TO_FAY_SIGHT = false
+		LEY_ELYTRA_LIMITED_TO_FAY_SIGHT = true
 		#Whitelist or blacklist of dimension IDs
 		LEY_DIMENSION_LIST = []
 
@@ -1678,7 +1678,7 @@
 	#How much mana regen scaled with max mana is added to player regen
 	# Default: 0.0
 	# Range: 0.0 ~ 1.0E7
-	MANA_ADDED_SCALING_REGEN_PER_TICK = 0.0
+	MANA_ADDED_SCALING_REGEN_PER_TICK = 0.001
 	#How much max mana increases every time it does
 	# Default: 1
 	# Range: 0 ~ 100000000
@@ -1686,7 +1686,7 @@
 	#How much mana players regen per tick
 	# Default: 1
 	# Range: 0 ~ 100000000
-	MANA_REGEN_PER_TICK = 1
+	MANA_REGEN_PER_TICK = 10
 	#Percentage of max mana players get back by sleeping
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0E8
@@ -1694,7 +1694,7 @@
 	#Scaling factor for how much hunger affects regen
 	# Default: 1.0
 	# Range: -1.0E7 ~ 1.0E7
-	MANA_REGEN_HUNGER_FACTOR = 1.0
+	MANA_REGEN_HUNGER_FACTOR = 0.0
 	#If true, mana cost of things is ignored in creative mode
 	CREATIVE_IGNORES_MANA_COSTS = true
 	#Apply logarithmic punishment to mana increase based on current max
