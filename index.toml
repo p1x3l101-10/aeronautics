@@ -4042,7 +4042,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "3bcb3d512b59ab45b23045c8bc15797430ba493ac2bca8e801100c00f33416f7"
+hash = "ad904f05f20824bd07b0189cc067a2b7c4e856be00213f022d35a26cf1705d60"
 
 [[files]]
 file = "config/appex-common.toml"
@@ -6463,6 +6463,10 @@ hash = "a7ee03f1cba09d8535cea00f916c2dfb20dfa2a024a46d47ba6c6109501d6e92"
 [[files]]
 file = "kubejs/server_scripts/ae2/silicon.js"
 hash = "a0f0bbcf2adbbd04253c7ec549715c4e3163b21ed2a1438d1e08800f9a77d014"
+
+[[files]]
+file = "kubejs/server_scripts/createbigcannons/castIron.js"
+hash = "64b46dfa668d39b7a461b7255e2f56ba5492e3e5b6b1785a89fe77134aa564a1"
 
 [[files]]
 file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
