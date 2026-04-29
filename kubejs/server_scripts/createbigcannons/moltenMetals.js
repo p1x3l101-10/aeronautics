@@ -33,7 +33,8 @@ ServerEvents.recipes(event => {
 
   const defaultName = "createbigcannons";
   const nameOverrides = {
-    steel: "tfmg"
+    steel: "tfmg",
+    "cast_iron": "tfmg"
   };
 
   const itemOverrides = {
