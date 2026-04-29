@@ -6721,6 +6721,11 @@ hash = "c63ba9c5c8fa4404c2a549f7475b21e798bd42d100966e8f767727f440c343a0"
 metafile = true
 
 [[files]]
+file = "mods/charging-gadgets.pw.toml"
+hash = "a471ec05d756850dfea0763087dbd1852727e0c00ab06dcd2a3ae8e38e76f8e0"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "44494c5fd58e46513dd746e368fe67a431324edcaa0053cc7381fd6b77cd3964"
 metafile = true
