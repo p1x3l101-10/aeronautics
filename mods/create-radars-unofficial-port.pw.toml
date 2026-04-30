@@ -1,0 +1,13 @@
+name = "Create: Radars Unofficial Port"
+filename = "create_radar-0.4.4-7+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a38d915c6a97657cf101f5c9fed15eac9882ee2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8015672
+project-id = 1528812

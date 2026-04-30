@@ -6860,6 +6860,21 @@ hash = "80a37cf5cce3a03d90ce1f74e9dff0744e07a1cee4f6bbc1d3d8d12e89122556"
 metafile = true
 
 [[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "cc686a2a01e80740c102f62c2989ad5e69c675c86c2687b5d49063943506f010"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
+metafile = true
+
+[[files]]
 file = "mods/charging-gadgets.pw.toml"
 hash = "a471ec05d756850dfea0763087dbd1852727e0c00ab06dcd2a3ae8e38e76f8e0"
 metafile = true
@@ -6935,6 +6950,11 @@ hash = "890f7723e54734476f263b8158c10e2680dfbb7414514f46f1e6f8e852ac2f7f"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-ropes.pw.toml"
+hash = "ac6a37be25c85ba8452e7a9ea13de55b19d10b47d882e4948ce19d233e7d637e"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
 hash = "0bdf45509015fe70c3f9e6084f4aafe69eb279c6883ff21fc928ef5b014d6890"
 metafile = true
@@ -6967,6 +6987,11 @@ metafile = true
 [[files]]
 file = "mods/create-cardboarded-conveynience.pw.toml"
 hash = "250b9b967cb0ecc2b9f4e579b26b81c5d9dbed5a35eb152370cefbe5568485d4"
+metafile = true
+
+[[files]]
+file = "mods/create-ccbr.pw.toml"
+hash = "2c0a8e956e3a1508d12544d59db0db04df6d88460dc56b80a1a8b4bdf1266005"
 metafile = true
 
 [[files]]
@@ -7062,6 +7087,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "ce50374c3fa947c0f78745fa30107defd68bdaf130fb9f9646f8f59614161052"
+metafile = true
+
+[[files]]
+file = "mods/create-radars-unofficial-port.pw.toml"
+hash = "2fe294b50e3a0c7394c0019df30694b6472bdf68df1a1e144353ad9e4502ced2"
 metafile = true
 
 [[files]]
@@ -7657,6 +7687,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "f283126d7f3e37f2ad03801e931f7c4581493ff3df4b06e08b5866535b83c4ec"
+metafile = true
+
+[[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
 
 [[files]]
