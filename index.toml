@@ -7883,6 +7883,21 @@ hash = "c48a5094a94604312b7876341c2116af7da589cef9d0d84b43f91afcbcb1049b"
 metafile = true
 
 [[files]]
+file = "mods/vista-aeronautics-fix.pw.toml"
+hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
+metafile = true
+
+[[files]]
+file = "mods/vista-all-the-cassettes.pw.toml"
+hash = "80d848b00995a2010a583bf6608d82a989319839fddafd877b086ab766f55416"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
+metafile = true
+
+[[files]]
 file = "mods/wwoo.pw.toml"
 hash = "26387f3b21f2ddf5d52ae9eb65b90ce91e4116065007d82774e629f33f5284a9"
 metafile = true
