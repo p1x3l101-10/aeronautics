@@ -7178,6 +7178,11 @@ hash = "61b2e10da412b986bf4a3940bc1e5c1d648031f73f5e580e1b27d4e6ea77d8ba"
 metafile = true
 
 [[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
 file = "mods/create-towed.pw.toml"
 hash = "f3c7ce5ee7fa64eaf447f97da1bbf061bd04825bd6f76904df366a5700a06050"
 metafile = true
@@ -7215,6 +7220,11 @@ metafile = true
 [[files]]
 file = "mods/deployer.pw.toml"
 hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
+metafile = true
+
+[[files]]
+file = "mods/dimthreads.pw.toml"
+hash = "368969d82c72b90e1f9a9ff70007d9a7b2fa0e2b075e1f07221badc562ea03e9"
 metafile = true
 
 [[files]]
