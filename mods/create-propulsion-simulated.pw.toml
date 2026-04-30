@@ -1,13 +1,13 @@
 name = "Create Propulsion: Simulated"
-filename = "createpropulsionsimulated-1.0.4-hotfix1.jar"
+filename = "createpropulsion-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ApkoHNO9/versions/pfpwwJov/createpropulsionsimulated-1.0.4-hotfix1.jar"
+url = "https://cdn.modrinth.com/data/ApkoHNO9/versions/qbgJq3vb/createpropulsion-1.1.0.jar"
 hash-format = "sha512"
-hash = "266cb79d8252a498cf7c6cf52d1320b63922229ca1b4357e85f3de938977af4a4dcbe39d87515e1f02f407d1abc93b71da28b10dc0f2caf9073772d0dc350e7d"
+hash = "b5a5dee59b5011b81b36dfae01feec1695de91e93f729419f9859b0789b397a8383f94e804754a6fb1b59e1bc922da962365bfc0b20a6ed8ae896cc6cbf383f1"
 
 [update]
 [update.modrinth]
 mod-id = "ApkoHNO9"
-version = "pfpwwJov"
+version = "qbgJq3vb"
