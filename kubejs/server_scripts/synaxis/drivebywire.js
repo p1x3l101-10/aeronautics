@@ -25,7 +25,7 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of("drivebywire:controller_hub", 1),
     [
-      "synaxis:wire",
+      "drivebywire:wire",
       "create:brass_casing",
       "create:linked_controller"
     ]
@@ -38,7 +38,7 @@ ServerEvents.recipes(event => {
       "ABA"
     ],
     {
-      A: "synaxis:wire",
+      A: "drivebywire:wire",
       B: "#c:dusts/redstone"
     }
   );
