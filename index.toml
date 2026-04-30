@@ -6629,6 +6629,10 @@ file = "kubejs/server_scripts/removals.js"
 hash = "78a07427f8ec50289fd1dce2b439a1d5334b10d32bb7318875221b3d7976cf64"
 
 [[files]]
+file = "kubejs/server_scripts/synaxis/drivebywire.js"
+hash = "845880eda84f0bd9b8bc2f8845ca4927e38ba27f761ddb240c37ea298be31fdd"
+
+[[files]]
 file = "kubejs/server_scripts/tfmg/basic_steel.js"
 hash = "6824105116bf3af334114657301aee9e95470531a802475b6a1e02b345ec482f"
 
