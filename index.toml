@@ -6642,6 +6642,11 @@ hash = "ea332730dd7da90a4291a5c4c3f98f168617d0c17ed945509fd9739b17df6b10"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
