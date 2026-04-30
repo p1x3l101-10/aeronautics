@@ -7095,11 +7095,6 @@ hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
-file = "mods/create-teleporters.pw.toml"
-hash = "a9fdfce6ffedfe29a7df44e8aea2df2a9d56ff8b3da73f9dcafcf6d5a861d2a5"
-metafile = true
-
-[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "61b2e10da412b986bf4a3940bc1e5c1d648031f73f5e580e1b27d4e6ea77d8ba"
 metafile = true
