@@ -1662,7 +1662,7 @@
 	#How high a player's personal mana can go
 	# Default: 200000
 	# Range: 0 ~ 100000000
-	MAX_MANA_CAP = 200000
+	MAX_MANA_CAP = 800000
 	#How much mana is spent before it increases
 	# Default: 100
 	# Range: 0 ~ 100000000
@@ -1682,7 +1682,7 @@
 	#How much max mana increases every time it does
 	# Default: 1
 	# Range: 0 ~ 100000000
-	MANA_INCREASE = 1
+	MANA_INCREASE = 5
 	#How much mana players regen per tick
 	# Default: 1
 	# Range: 0 ~ 100000000
