@@ -1,0 +1,3 @@
+[player_model_effects]
+	#Toggles the breast model when Estrodial is taken.
+	displayfemmodel = true

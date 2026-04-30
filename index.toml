@@ -97,8 +97,16 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/ReEstrogen.toml"
+hash = "1a162ca51f7d2b850ae45dc88111d961d8e4217efc1bddb7b61ea60927c09bef"
+
+[[files]]
 file = "config/accessories.json5"
 hash = "9cd63ccfacb7c3f2160758db784f5a9e540e9ad2b8e42a467fa7eacbc7c9574a"
+
+[[files]]
+file = "config/accessories_compat.json5"
+hash = "f121e63f366d1aaa0f2a7bbe030d9f9e5473aeaa72eb2898493fd0292703f233"
 
 [[files]]
 file = "config/adchimneys/Emitters/bakery$brick_stove.cfg"
@@ -4030,7 +4038,7 @@ hash = "28969de26284882b050aa680f4b84c833f227f9831debd00b183b83ab5afdbd2"
 
 [[files]]
 file = "config/aeroworks-common.toml"
-hash = "a25382da178b27b295fc7a517cf02264de17bdc086c1c04a20dc30f47fc9e663"
+hash = "6ccfda9bf0ad29197fe3b8a0f6914be1cb9b415ea6e74b54775005cd6f83318c"
 
 [[files]]
 file = "config/aileron.json"
@@ -5130,7 +5138,7 @@ hash = "43dcab48a2e7ce8b1732e0369cc47425919e65986d1b3c140fa07905e4b9ef5f"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "6a16b04be0cca34e964c3a64d7df10389cf58f376cf4381837071336ec5cec3d"
+hash = "cafd579ccf6ebee345f2065f5ead6bcdb57bae414484a8fdefd8820427a3ae53"
 
 [[files]]
 file = "config/cardboarded_conveynience.json"
@@ -5163,6 +5171,10 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 [[files]]
 file = "config/cmpackagecouriers-server.toml"
 hash = "3fcbea7454a97c8ced1201d4ffff10504f674d60abac079ce200f0c9fa252d0c"
+
+[[files]]
+file = "config/computercraft-server.toml"
+hash = "7ba770f3612ebf571a4f18191a3151f16f97102251475f2bbf63c6d0a6d4f12d"
 
 [[files]]
 file = "config/connector.json"
@@ -5285,6 +5297,10 @@ file = "config/create_power_loader-server.toml"
 hash = "1f4b0b0c376b660a33567301e8df9923ef1f10de85c1791c9cd8dc19acd88a65"
 
 [[files]]
+file = "config/create_radar-server.toml"
+hash = "ec2f9d1124630f06797d8d582513b4004ceed68510eadfa871fec73688d81da2"
+
+[[files]]
 file = "config/create_rns-server.toml"
 hash = "1ea4826e44ee474fc15769d4d31a4cdc2ec97681444b8aec6ee9710d29d09e08"
 
@@ -5331,6 +5347,10 @@ hash = "a505deb53c2a76336a5cbd911b3e2a141710bf940bd905d164d7f33b12a06a81"
 [[files]]
 file = "config/createpickywheels-common.toml"
 hash = "b5a940305fbd3fd5acabef3402a7e377067235624e2733be832d73e0581eacd3"
+
+[[files]]
+file = "config/createpropulsion-server.toml"
+hash = "670c0a26f4a52724a32dcb6ce779aed6c8e61bd14e5c5ead25e8c2e99aa9bd09"
 
 [[files]]
 file = "config/createpropulsionsimulated-server.toml"
@@ -5502,7 +5522,7 @@ hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
 [[files]]
 file = "config/infernalmobs.cfg"
-hash = "1e5b9fdb0d1842f2e3ea61e9f4f01d562f5a719dc77de2a100e1d6c4322f6b7f"
+hash = "92c1c4d88333c994cca087ccbaf235723ed687c9831e0d7b9dc45cf16f5a5a61"
 
 [[files]]
 file = "config/inline/client-config.toml"
@@ -6443,6 +6463,10 @@ hash = "31392888f39f5ac21616207f57859fdee4453532471f970292b893f1a319537f"
 [[files]]
 file = "config/vampirism-server.toml"
 hash = "b9c1838881078619d254d842d51651e27d256d048a46ac50cb4627fb6d8a85c1"
+
+[[files]]
+file = "config/vista-common.toml"
+hash = "0b2e3469abd8b5e3a7103826edfcffe0887803ce5c44d4b34d35a8ff96d9ed2e"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"
