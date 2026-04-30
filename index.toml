@@ -98,7 +98,7 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+hash = "e1132dbe206b670b22cdfad5fc134296538ae3d32ef7551eb0dfd4cf8c026902"
 
 [[files]]
 file = "config/adchimneys/Emitters/bakery$brick_stove.cfg"

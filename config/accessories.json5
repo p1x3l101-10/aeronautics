@@ -37,5 +37,54 @@
 			"darkenedOpacity": 1.0
 		}
 	},
-	"modifiers": []
+	"modifiers": [
+    {
+      "slotType": "charm",
+      "amount": 1
+    },
+    {
+      "slotType": "trinket",
+      "amount": 4
+    },
+    {
+      "slotType": "necklace",
+      "amount": 1
+    },
+    {
+      "slotType": "back",
+      "amount": 1
+    },
+    {
+      "slotType": "body",
+      "amount": 1
+    },
+    {
+      "slotType": "bracelet",
+      "amount": 2
+    },
+    {
+      "slotType": "hand",
+      "amount": 2
+    },
+    {
+      "slotType": "ring",
+      "amount": 2
+    },
+    {
+      "slotType": "belt",
+      "amount": 1
+    },
+    {
+      "slotType": "feet",
+      "amount": 1
+    },
+    {
+      "slotType": "charm",
+      "amount": 1
+    },
+    {
+      "slotType": "head",
+      "amount": 2
+    }
+  ]
 }
