@@ -61,7 +61,7 @@ disabled_generic_methods = []
 	#Enable the "http" API on Computers. Disabling this also disables the "pastebin" and
 	#"wget" programs, that many users rely on. It's recommended to leave this on and use
 	#the "rules" config option to impose more fine-grained control.
-	enabled = true
+	enabled = false
 	#Enable use of http websockets. This requires the "http_enable" option to also be true.
 	websocket_enabled = true
 	#The number of http requests a computer can make at one time. Additional requests
