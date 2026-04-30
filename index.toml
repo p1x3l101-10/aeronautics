@@ -6629,6 +6629,10 @@ file = "kubejs/server_scripts/iceandfire/dragonsteels.js"
 hash = "6f4bd14577cc9b51978e8058f62f0a4fd38710fcc9d02ee4692f5732c6765fc1"
 
 [[files]]
+file = "kubejs/server_scripts/noBooks.js"
+hash = "4f59e1cd26278522d0984e5288c4a8f17a64ba6bbc194b7992d14d9be6c05193"
+
+[[files]]
 file = "kubejs/server_scripts/removals.js"
 hash = "78a07427f8ec50289fd1dce2b439a1d5334b10d32bb7318875221b3d7976cf64"
 
