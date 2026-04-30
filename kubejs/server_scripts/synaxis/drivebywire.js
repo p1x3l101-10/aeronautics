@@ -3,11 +3,10 @@ ServerEvents.recipes(event => {
     Item.of("drivebywire:wire_cutter", 1),
     [
       " A ",
-      "B B",
-      " A "
+      "B B"
     ],
     {
-      A: "#c:ingots/iron",
+      A: "#c:plates/iron",
       B: "#c:rods/wood"
     }
   );
@@ -19,7 +18,7 @@ ServerEvents.recipes(event => {
       "A"
     ],
     {
-      A: "#c:ingots/iron",
+      A: "#c:wires/copper",
       B: "#c:dusts/redstone"
     }
   );

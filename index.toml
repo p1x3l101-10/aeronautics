@@ -6630,7 +6630,7 @@ hash = "78a07427f8ec50289fd1dce2b439a1d5334b10d32bb7318875221b3d7976cf64"
 
 [[files]]
 file = "kubejs/server_scripts/synaxis/drivebywire.js"
-hash = "845880eda84f0bd9b8bc2f8845ca4927e38ba27f761ddb240c37ea298be31fdd"
+hash = "77eec92a11ee34df759104bcedc90e884eb415b2e40117d7509d699806aad50e"
 
 [[files]]
 file = "kubejs/server_scripts/tfmg/basic_steel.js"
