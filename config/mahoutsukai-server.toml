@@ -1190,7 +1190,7 @@
 		#This value is added to mana regen. It is the floor for mana added by leylines. By default, you lose 1 mana from regen for not being near a leyline.
 		# Default: -1
 		# Range: -10000000 ~ 100000000
-		LEY_PUNISHMENT = -20
+		LEY_PUNISHMENT = -13
 		#The factor used in calculating the leyline bonus regen
 		# Default: 0.01
 		# Range: 0.0 ~ 1.0E8
@@ -1200,11 +1200,11 @@
 		#How far away ley points are from each other
 		# Default: 300
 		# Range: 0 ~ 100000000
-		LEY_DISTANCE = 600
+		LEY_DISTANCE = 2000
 		#An offset in case you don't want 0,0 to be a leyline
 		# Default: 0
 		# Range: 0 ~ 100000000
-		LEY_OFFSET = 40
+		LEY_OFFSET = 500
 		#Set this to false if you don't like ley lines affecting mana regen
 		LEY_AFFECTS_MANA = true
 		#The Y value Ley Lines should render at
