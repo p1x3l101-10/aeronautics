@@ -1,0 +1,12 @@
+{
+  "minecraft:diamond": {
+    "item_id": "minecraft:diamond",
+    "mass": "0.3",
+    "per_stack": true
+  },
+  "minecraft:iron_ingot": {
+    "item_id": "minecraft:iron_ingot",
+    "mass": "0.5",
+    "per_stack": true
+  }
+}

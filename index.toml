@@ -5009,6 +5009,10 @@ file = "config/attributefix/vampirism/sundamage.json"
 hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
 
 [[files]]
+file = "config/basicdiscordrichpresence-client.toml"
+hash = "2e3f2cc9f452eb1453de73e8bb256f375c7447cf52fee8385c2a9880cff72876"
+
+[[files]]
 file = "config/better_respawn-server.toml"
 hash = "268d178abe306fd6cff34235b06a066a18b31d47f617f073f6ca8057c24c1cba"
 
@@ -5126,7 +5130,7 @@ hash = "43dcab48a2e7ce8b1732e0369cc47425919e65986d1b3c140fa07905e4b9ef5f"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "cafd579ccf6ebee345f2065f5ead6bcdb57bae414484a8fdefd8820427a3ae53"
+hash = "6a16b04be0cca34e964c3a64d7df10389cf58f376cf4381837071336ec5cec3d"
 
 [[files]]
 file = "config/cardboarded_conveynience.json"
@@ -5329,6 +5333,10 @@ file = "config/createpickywheels-common.toml"
 hash = "b5a940305fbd3fd5acabef3402a7e377067235624e2733be832d73e0581eacd3"
 
 [[files]]
+file = "config/createpropulsionsimulated-server.toml"
+hash = "c6369c06f4b2e73bf34518e8d5c2fcbb1fc4c042b93ab9ee2c9082ea357aba01"
+
+[[files]]
 file = "config/createteleportersconfig.toml"
 hash = "aae8efafef196d836fe690606699d7a277f19d4c1a5293c065a6e2bed99545a3"
 
@@ -5422,7 +5430,7 @@ hash = "08294f81c8f43e44a5950f78c9befa9c161fdefdf65ea7d1dfdd124143ad2056"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "aee764dbcc78814e704152d873792184b4d3b4fca1e69dbeeabcb3d24c106bb7"
+hash = "80e8b1b979de13f3548886977cdc4819da80ca840440b3a0ed9ff7cb90980d60"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -6173,6 +6181,14 @@ file = "config/ponder-client.toml"
 hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
 [[files]]
+file = "config/pondus_inventory_fi/blocks.json"
+hash = "3d79f88a383323e3c7b10d93da609d846523bbb5cafd813359dcf6a7299b1490"
+
+[[files]]
+file = "config/pondus_inventory_fi/items.json"
+hash = "af425a8900e79c8c8f798f4da9faa59bcf69526e15f430ecccba60f7ee0ffe9d"
+
+[[files]]
 file = "config/powergrid-client.toml"
 hash = "78af02862314c3fb9b8db7e5b639c6e3fc1f6877754803fddce8aa38b437b671"
 
@@ -6310,7 +6326,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "d9763c729f6fe7997aa6337cae98aded61ee1b2de21a088f54dda23b41388c78"
+hash = "b42e8b3c8b0d51a773d5a03371e04c0ce775e028626e176013bf700e1c69ce9f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6343,6 +6359,10 @@ hash = "14210291891759b831951eba24c65985ed5bd27a7d09b6383aeb9fd3e8f1bc8c"
 [[files]]
 file = "config/suppsquared-common.toml"
 hash = "c1a86ed0860814352417574dc8171924bc52ac9d3e89f7fd3efa0bbbac58253c"
+
+[[files]]
+file = "config/synaxis/control_chair_bindings.json"
+hash = "e3677c58e525dddd7bf0c4b448e3196c787f153cdfc5b4be4def718bfe162a1f"
 
 [[files]]
 file = "config/tectonic.json"
