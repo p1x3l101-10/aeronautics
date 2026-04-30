@@ -6585,6 +6585,10 @@ file = "kubejs/config/web_server.json"
 hash = "4210ef3f72c966ec3136ddac0185ed476a4ff3ded001c9f433b5028dfe12d425"
 
 [[files]]
+file = "kubejs/data/hexcasting/advancements/grant_patchi_book.json"
+hash = "cdd755ddce45a410cc8e8a1cd9cc0d7b050a6a984ba1541402ad24bce56d7741"
+
+[[files]]
 file = "kubejs/data/hexcasting/loot_tables/grant_patchi_book.json"
 hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
 
