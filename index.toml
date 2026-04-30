@@ -6585,14 +6585,6 @@ file = "kubejs/config/web_server.json"
 hash = "4210ef3f72c966ec3136ddac0185ed476a4ff3ded001c9f433b5028dfe12d425"
 
 [[files]]
-file = "kubejs/data/hexcasting/advancements/grant_patchi_book.json"
-hash = "cdd755ddce45a410cc8e8a1cd9cc0d7b050a6a984ba1541402ad24bce56d7741"
-
-[[files]]
-file = "kubejs/data/hexcasting/loot_tables/grant_patchi_book.json"
-hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
-
-[[files]]
 file = "kubejs/data/hexcasting/loot_tables/inject/scroll_loot_few.json"
 hash = "82c39ef8e975d7bb6c2646ef9f4523703a577408d3a0f2013d88501f63910443"
 
@@ -6625,12 +6617,12 @@ file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
 hash = "95fe59c6e4b02cc8e2914806a7a15fdbe2366757c4babb932f19bfafa09f68ff"
 
 [[files]]
-file = "kubejs/server_scripts/iceandfire/dragonsteels.js"
-hash = "6f4bd14577cc9b51978e8058f62f0a4fd38710fcc9d02ee4692f5732c6765fc1"
+file = "kubejs/server_scripts/hexcasting/nobook.js"
+hash = "4f59e1cd26278522d0984e5288c4a8f17a64ba6bbc194b7992d14d9be6c05193"
 
 [[files]]
-file = "kubejs/server_scripts/noBooks.js"
-hash = "4f59e1cd26278522d0984e5288c4a8f17a64ba6bbc194b7992d14d9be6c05193"
+file = "kubejs/server_scripts/iceandfire/dragonsteels.js"
+hash = "6f4bd14577cc9b51978e8058f62f0a4fd38710fcc9d02ee4692f5732c6765fc1"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
