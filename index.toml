@@ -5021,6 +5021,10 @@ file = "config/basicdiscordrichpresence-client.toml"
 hash = "2e3f2cc9f452eb1453de73e8bb256f375c7447cf52fee8385c2a9880cff72876"
 
 [[files]]
+file = "config/better-advanced-tooltips-client.toml"
+hash = "167486d8ac09ab9959c9b98c97c169365eaa9e5be0488b9ff8e6a04695d456e0"
+
+[[files]]
 file = "config/better_respawn-server.toml"
 hash = "268d178abe306fd6cff34235b06a066a18b31d47f617f073f6ca8057c24c1cba"
 
@@ -5157,6 +5161,10 @@ file = "config/carryon-common.toml"
 hash = "76e1fc56e21f2c2a9d8f6587b05c27c6a8995f8fd738d4e21729109633af76ec"
 
 [[files]]
+file = "config/cccbridge/client.toml"
+hash = "0df418e007fa1f1fce7953ba69359ddf3c2d889476045e19236a76321235a4e2"
+
+[[files]]
 file = "config/charginggadgets-server.toml"
 hash = "d792ef7b1befb0bc7c9d673af847f87847fd78bb9cad8f8bd8d4d4808d026351"
 
@@ -5171,6 +5179,10 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 [[files]]
 file = "config/cmpackagecouriers-server.toml"
 hash = "3fcbea7454a97c8ced1201d4ffff10504f674d60abac079ce200f0c9fa252d0c"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "64b707a15cc44b030e85077aad16b485910e2c732d3319d8718e6b84801decb5"
 
 [[files]]
 file = "config/computercraft-server.toml"
@@ -5297,6 +5309,10 @@ file = "config/create_power_loader-server.toml"
 hash = "1f4b0b0c376b660a33567301e8df9923ef1f10de85c1791c9cd8dc19acd88a65"
 
 [[files]]
+file = "config/create_radar-client.toml"
+hash = "3723fc7dcf4930651bb7bad99adbb8840b023e11204772e2c32acddd3fbab1fe"
+
+[[files]]
 file = "config/create_radar-server.toml"
 hash = "ec2f9d1124630f06797d8d582513b4004ceed68510eadfa871fec73688d81da2"
 
@@ -5347,6 +5363,10 @@ hash = "a505deb53c2a76336a5cbd911b3e2a141710bf940bd905d164d7f33b12a06a81"
 [[files]]
 file = "config/createpickywheels-common.toml"
 hash = "b5a940305fbd3fd5acabef3402a7e377067235624e2733be832d73e0581eacd3"
+
+[[files]]
+file = "config/createpropulsion-client.toml"
+hash = "9c892f39307c376c57de7b7ba44f197574f558a89fd44b884e937fb953beb997"
 
 [[files]]
 file = "config/createpropulsion-server.toml"
@@ -6346,7 +6366,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "b42e8b3c8b0d51a773d5a03371e04c0ce775e028626e176013bf700e1c69ce9f"
+hash = "6807b3822954c5dc389c8e34c1431032ac02e5952dda4fd689fef9bd14e2ec97"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6463,6 +6483,10 @@ hash = "31392888f39f5ac21616207f57859fdee4453532471f970292b893f1a319537f"
 [[files]]
 file = "config/vampirism-server.toml"
 hash = "b9c1838881078619d254d842d51651e27d256d048a46ac50cb4627fb6d8a85c1"
+
+[[files]]
+file = "config/vista-client.toml"
+hash = "0746be46358fc8c5d3ecc0d6b4c4c9297dccd8faaa7762dfdb2a351c552e250d"
 
 [[files]]
 file = "config/vista-common.toml"
