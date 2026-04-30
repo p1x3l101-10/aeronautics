@@ -5174,7 +5174,7 @@ hash = "3fcbea7454a97c8ced1201d4ffff10504f674d60abac079ce200f0c9fa252d0c"
 
 [[files]]
 file = "config/computercraft-server.toml"
-hash = "7ba770f3612ebf571a4f18191a3151f16f97102251475f2bbf63c6d0a6d4f12d"
+hash = "ca706c041cd226d416a0b05745eb6a6391c65b9b42ade675ebdc65859d2e5962"
 
 [[files]]
 file = "config/connector.json"
