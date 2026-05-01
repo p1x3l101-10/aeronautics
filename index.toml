@@ -1837,7 +1837,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "bb5d1e72bf11bfe83092ff7642b0c412e66490798111e6796361cafa1b984aa0"
+hash = "9bc2d48df2e387c4003a2c52333e392fbb332b2fcc27899fb43d55ff8328d76e"
 metafile = true
 
 [[files]]
@@ -1902,7 +1902,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "79e4597202a90e32bb2779fd1a0cd003e710ca2ff9922ae1d37343b2d6c3f810"
+hash = "c8416fe79c21e4d747cb9a4a955e185981a298653fd89c2ff73410b3280af35e"
 metafile = true
 
 [[files]]
@@ -2042,7 +2042,7 @@ metafile = true
 
 [[files]]
 file = "mods/reestrogen.pw.toml"
-hash = "f3e1d2f439cf81026a1e7a3b4d7ae9045b944f8c9c9984cddd023f3f6578ab4b"
+hash = "49986f0a94508b69b4855a86d9fe35721670eacab6cb50b512a2465241a5d428"
 metafile = true
 
 [[files]]

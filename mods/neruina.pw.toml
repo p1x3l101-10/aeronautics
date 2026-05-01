@@ -1,13 +1,13 @@
 name = "Neruina - Ticking Entity Fixer"
-filename = "neruina-3.3.0+1.21.1-neoforge.jar"
+filename = "neruina-3.3.1+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1s5x833P/versions/PUPziUYq/neruina-3.3.0%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/1s5x833P/versions/YUUi3gGS/neruina-3.3.1%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "e04285b83bea197ce37b467087df246e7cb07460d744dd5ce488f874edb103d0f252f3c211ac9c6b71d38e8039578b70cba7f6373533ea1037cfb80a8461c7a4"
+hash = "f815924fde01835ea6c69c8a14fa245efdd5a9e3ce6b64f47d3e16f7c52bae47900c60968e1970a85c3f6fa6a8b440e5504ed9ec0b6089b6206ec843bc37ceb6"
 
 [update]
 [update.modrinth]
 mod-id = "1s5x833P"
-version = "PUPziUYq"
+version = "YUUi3gGS"
