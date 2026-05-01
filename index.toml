@@ -6,7 +6,7 @@ hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "92ec6d8b018a55c89547c9cba35bc71ab80dbe97e3716ec3633ff9bd0dda3c5b"
+hash = "2bf2560de385dcf64e43fa96b1a5e07ff0b99b382e45409f34ed1400af417196"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -378,7 +378,7 @@ hash = "c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "64b3a9808f98d547bfc461f41e159cab6ef3c7525a98479e06adcbf65b027997"
+hash = "6b6870147714f9aacc3fc5627084e19ed4c443606853c754049b81db1cfe9720"
 
 [[files]]
 file = "config/cccbridge/client.toml"
@@ -886,7 +886,7 @@ hash = "6ad04ce54095bd22ae0cf919c852bf724e109b0aa43399a3591e70caf15c88c0"
 
 [[files]]
 file = "config/simulated-client.toml"
-hash = "39e1269b6b3cec623ab69a170ee184c7504c302968c0213ccfbb0dcec71e3964"
+hash = "dd3aaee7611fbdf2d8d927aeb4e2042a6a92ce03d2a1ba5e7db5a4872a43c129"
 
 [[files]]
 file = "config/simulated-server.toml"
