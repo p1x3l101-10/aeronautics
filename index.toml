@@ -5,10 +5,6 @@ file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "2bf2560de385dcf64e43fa96b1a5e07ff0b99b382e45409f34ed1400af417196"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1528,11 +1524,6 @@ hash = "e14e545eff3fe3191e87804820e917c36d5fe5d6e7e3395e5f525c39ed87b802"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
-metafile = true
-
-[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "a2c959977399fa0b824aeed2c9894c3bac48555f7f1ae898f91c3cd55971efb0"
 metafile = true
@@ -2116,6 +2107,10 @@ metafile = true
 file = "mods/vista_tv.pw.toml"
 hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
 metafile = true
+
+[[files]]
+file = "mods/voxy-0.2.14-alpha-8a5040c9.jar"
+hash = "1f2dfa3190a2c74c04a122a600ca56bd16d574c7503be3c799ba22d9a5febe4e"
 
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
