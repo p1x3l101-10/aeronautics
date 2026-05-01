@@ -1,0 +1,13 @@
+name = "No Offline Time Passage"
+filename = "no_offline_time_passage.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5GYSv89k/versions/YHb5JttX/no_offline_time_passage.jar"
+hash-format = "sha512"
+hash = "e98359a0be0a2e1836f70a285ac4efe302541c3ffd1179d9bc3ea7ec4742d8d38378c89d81eeef0a9457f78a090a902785bc32d6a3ab9b85efac9698ec422ede"
+
+[update]
+[update.modrinth]
+mod-id = "5GYSv89k"
+version = "YHb5JttX"
