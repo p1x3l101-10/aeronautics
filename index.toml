@@ -7223,11 +7223,6 @@ hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "368969d82c72b90e1f9a9ff70007d9a7b2fa0e2b075e1f07221badc562ea03e9"
-metafile = true
-
-[[files]]
 file = "mods/dimworldborder.pw.toml"
 hash = "e14e545eff3fe3191e87804820e917c36d5fe5d6e7e3395e5f525c39ed87b802"
 metafile = true
