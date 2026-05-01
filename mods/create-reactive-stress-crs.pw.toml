@@ -1,0 +1,13 @@
+name = "Create: Reactive Stress (CRS)"
+filename = "create_reactive_stress-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HVNJg4pX/versions/tTBL3t8h/create_reactive_stress-1.1.jar"
+hash-format = "sha512"
+hash = "852671978fe3f3484c7f65c4db82377d39b0413fc8e46dcd48c712d0b5dcb0f94e2b2f689fa90b0a31d0279b8b737547ba68a199692a14ec615308a68164cad1"
+
+[update]
+[update.modrinth]
+mod-id = "HVNJg4pX"
+version = "tTBL3t8h"

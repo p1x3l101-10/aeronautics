@@ -1321,6 +1321,11 @@ hash = "7cdec9924839929f33c858e179ab940380bf3c2e84a22891b4e5961e6d600220"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
@@ -1426,6 +1431,11 @@ hash = "16d9d7bb059aed1d894379736e6bb861dfc7483ededbdc94a0a940c99edba6eb"
 metafile = true
 
 [[files]]
+file = "mods/create-low-heated.pw.toml"
+hash = "aadfad4297ebebb7b979a07fbd2c8cb4f7df8dfb44baa3b23d608a86b28c4640"
+metafile = true
+
+[[files]]
 file = "mods/create-mechanical-spawner.pw.toml"
 hash = "86c0a3baf071368acc35f51a11bf4db62af199ec5990ebc80932ef53dcc1309c"
 metafile = true
@@ -1463,6 +1473,11 @@ metafile = true
 [[files]]
 file = "mods/create-radars-unofficial-port.pw.toml"
 hash = "2fe294b50e3a0c7394c0019df30694b6472bdf68df1a1e144353ad9e4502ced2"
+metafile = true
+
+[[files]]
+file = "mods/create-reactive-stress-crs.pw.toml"
+hash = "455b8fc15b8e26e36e172b468609b06ff13695b6308db1c44129afbb5bac0d7b"
 metafile = true
 
 [[files]]
