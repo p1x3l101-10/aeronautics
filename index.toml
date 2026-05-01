@@ -6948,6 +6948,11 @@ hash = "09de188becab741d98e66e261228cf8d09b0d20353b7b548512a440e4a52f674"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "0869e78231ca67e18ebdc14af839af47fb046f100f3622a06fc099fce33eee17"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
@@ -6985,6 +6990,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked-forked.pw.toml"
 hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "307c3b45ac96da2472b9856d40c9c7986654f5a4d1507ade813c7995ed0de56e"
 metafile = true
 
 [[files]]
@@ -7065,11 +7075,6 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
-metafile = true
-
-[[files]]
-file = "mods/create-fishing-bobber-detector.pw.toml"
-hash = "d85b97dbe2c596d60c8d4502c6b2d25ef6bb8436c7e3f5976839c3b5059f5dd0"
 metafile = true
 
 [[files]]
@@ -7343,6 +7348,11 @@ hash = "b654d561afbde13dcfd2e3df4180e3c797ecab0e9c46b109376b4b8074702bdf"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "19c09828ce6d394ec1d9906b1a6ff02998052274024182e83027c6e8eee9eb04"
+metafile = true
+
+[[files]]
 file = "mods/flare-guns.pw.toml"
 hash = "81a8bb8883ec6df8d4bad330d987a69e42cb3d48f16fec17388d189ac737b028"
 metafile = true
@@ -7468,11 +7478,6 @@ hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
 metafile = true
 
 [[files]]
-file = "mods/ldlib.pw.toml"
-hash = "43ddaedfd91b2854ea3df113a6b63a6f18616072cfa3a127c6b4a608806d2f52"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b7a5e94b8cab06f7bb38cc331bfa660487f399abcbedde049d9356ae7008cc29"
 metafile = true
@@ -7585,6 +7590,11 @@ metafile = true
 [[files]]
 file = "mods/neocontinuity.pw.toml"
 hash = "e0bad033aa5080281b47f488f75fb7a22dd56e28f32ccd40ee2928ab84cb5d5c"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "79e4597202a90e32bb2779fd1a0cd003e710ca2ff9922ae1d37343b2d6c3f810"
 metafile = true
 
 [[files]]
@@ -7758,11 +7768,6 @@ hash = "48f2a70acebd42c861beee716174a849b6240db1417e11eee5693c657b4b7126"
 metafile = true
 
 [[files]]
-file = "mods/sable-schematic-tool.pw.toml"
-hash = "cd2d4d62cac844a0880dfde30efbfecafebb11d38082d7bddb1d38a9ba25e5bd"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
@@ -7870,11 +7875,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8fd9ed8f6b3da2b234412e349079d29a4ce0e1e39ab211f28756412a417ccf9e"
-metafile = true
-
-[[files]]
-file = "mods/synaxis.pw.toml"
-hash = "d5e8e78c30dafce7d61d181c8595717bf56197a6486e2c4316dd9b129f0e96e5"
 metafile = true
 
 [[files]]
