@@ -1077,6 +1077,10 @@ file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
 hash = "95fe59c6e4b02cc8e2914806a7a15fdbe2366757c4babb932f19bfafa09f68ff"
 
 [[files]]
+file = "kubejs/server_scripts/hexcasting/nobook.js"
+hash = "4f59e1cd26278522d0984e5288c4a8f17a64ba6bbc194b7992d14d9be6c05193"
+
+[[files]]
 file = "kubejs/server_scripts/removals.js"
 hash = "78a07427f8ec50289fd1dce2b439a1d5334b10d32bb7318875221b3d7976cf64"
 
@@ -1653,6 +1657,11 @@ hash = "364c3ef93a1d354b8fa8d11c59fb02c5af7a58be3ac598b6e5654c755e3c5783"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "9fc5559209cba05c1ff0ca925c6a62eda7108557aac3eadece87a3c56f438d09"
+metafile = true
+
+[[files]]
 file = "mods/hypertube.pw.toml"
 hash = "9aed20c67bf8890e5c67607d79270c71af98a8722f29118594bb768e9578b7c0"
 metafile = true
@@ -1670,6 +1679,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ebec601946d71a55324f2418c5173c5072d6b4a0b2d3fdb00e78d15b63776c44"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "5592a8c0d97106286f29cf1c67a5b8979265a7b22fc3ccefd4f7ff8bc2b77ddc"
 metafile = true
 
 [[files]]
@@ -1880,6 +1894,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "3b59e758a7229eba05d6667ebac9f2f6a1a809798267548dced5216bacd14f01"
 metafile = true
 
 [[files]]
