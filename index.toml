@@ -7043,11 +7043,6 @@ hash = "dc2a42264afbf8bbdf6b5c120f54f4eb452afd986efbfdde0f9b07198092cb00"
 metafile = true
 
 [[files]]
-file = "mods/create-cardboarded-conveynience.pw.toml"
-hash = "250b9b967cb0ecc2b9f4e579b26b81c5d9dbed5a35eb152370cefbe5568485d4"
-metafile = true
-
-[[files]]
 file = "mods/create-ccbr.pw.toml"
 hash = "2c0a8e956e3a1508d12544d59db0db04df6d88460dc56b80a1a8b4bdf1266005"
 metafile = true
@@ -7108,11 +7103,6 @@ hash = "0706aeff2b18e0fd46667b1490296d86894dd2e8699176a30844a6ff44857f7d"
 metafile = true
 
 [[files]]
-file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
-hash = "a95e377ae8ab495a5bd6b68e32bc178fe80afe43df1d64a48210a3383f24d5e5"
-metafile = true
-
-[[files]]
 file = "mods/create-more-wrenchables.pw.toml"
 hash = "48c09b085ea03b2ff9ed7d863d2985da3115a93cf12e18487bd2fc3672b666bb"
 metafile = true
@@ -7145,11 +7135,6 @@ metafile = true
 [[files]]
 file = "mods/create-radars-unofficial-port.pw.toml"
 hash = "2fe294b50e3a0c7394c0019df30694b6472bdf68df1a1e144353ad9e4502ced2"
-metafile = true
-
-[[files]]
-file = "mods/create-remote-terminal.pw.toml"
-hash = "75a222522d64a7828d37c8c711fc73cdb69fd3c00311173d9b0d70b3c0978a19"
 metafile = true
 
 [[files]]
