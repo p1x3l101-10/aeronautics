@@ -1,7 +1,0 @@
-{
-  "config": {
-    "chanceToActivateProbability": 10.0,
-    "sonicBoomDamage": 10.0,
-    "isEnable": true
-  }
-}

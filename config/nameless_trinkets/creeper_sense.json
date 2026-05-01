@@ -1,7 +1,0 @@
-{
-  "config": {
-    "explosionLevel": 15.0,
-    "cooldownInTicks": 100,
-    "isEnable": true
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "config": {
-    "invulnerabilityAddTimeInTicks": 20,
-    "invulnerabilityMaxTimeInTicks": 200,
-    "isEnable": true
-  }
-}
