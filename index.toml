@@ -6993,11 +6993,6 @@ hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "307c3b45ac96da2472b9856d40c9c7986654f5a4d1507ade813c7995ed0de56e"
-metafile = true
-
-[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "611455ca9d3d1d7e56bdaf76c17306ab0344847869525ec1e1b9c13198dd4303"
 metafile = true
