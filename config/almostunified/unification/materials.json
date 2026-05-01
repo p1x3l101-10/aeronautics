@@ -1,8 +1,11 @@
 {
   "mod_priorities": [
     "minecraft",
+    "hexcasting",
     "kubejs",
-    "create"
+    "create",
+    "chemia",
+    "tfmg"
   ],
   "priority_overrides": {},
   "stone_variants": [
