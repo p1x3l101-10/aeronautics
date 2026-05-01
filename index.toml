@@ -2217,8 +2217,9 @@ hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0.2.14-alpha-75ad50a9.jar"
-hash = "801af30e273f66b69252ecffcf3a69be06e3d6c257b2bd747d098ca48978e6a3"
+file = "mods/voxy.pw.toml"
+hash = "35977b47b438a24b08f8622867d2047ce5002e8de20806a1b9fe8c245fd502af"
+metafile = true
 
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"

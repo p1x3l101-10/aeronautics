@@ -12,6 +12,7 @@ unsup.sig
 unsup.ini.sig
 subpacks
 debug.json
+dataFiles
 *.toml.bak
 /config/e4mc
 /config/figura.json
