@@ -11,7 +11,7 @@
 	#Thrust scaling for Propeller Bearings
 	# Default: 0.20000000298023224
 	# Range: 0.0 ~ 3.4028234663852886E38
-	propellerBearingThrust = 0.20000000298023224
+	propellerBearingThrust = 2.0000000298023224
 	#.
 	#Airflow scaling for Propeller Bearings
 	# Default: 0.05000000074505806
@@ -31,7 +31,7 @@
 	#Thrust scaling for Andesite Propellers
 	# Default: 1.0
 	# Range: 0.0 ~ 3.4028234663852886E38
-	andesitePropellerThrust = 1.0
+	andesitePropellerThrust = 2.0
 	#.
 	#Airflow scaling for Andesite Propellers
 	# Default: 0.10000000149011612
@@ -41,7 +41,7 @@
 	#Thrust scaling for Smart Propellers
 	# Default: 1.0
 	# Range: 0.0 ~ 3.4028234663852886E38
-	smartPropellerThrust = 1.0
+	smartPropellerThrust = 4.0
 	#.
 	#Airflow scaling for Smart Propellers
 	# Default: 0.10000000149011612
@@ -51,12 +51,12 @@
 	#kpg lifted per cubic meter of Hot Air
 	# Default: 1.5
 	# Range: 0.0 ~ 3.4028234663852886E38
-	hotAirStrength = 1.5
+	hotAirStrength = 2.0
 	#.
 	#kpg lifted per cubic meter of Steam
 	# Default: 1.5
 	# Range: 0.0 ~ 3.4028234663852886E38
-	steamStrength = 1.5
+	steamStrength = 4.0
 
 #.
 #Parameters and abilities of Aeronautics Blocks

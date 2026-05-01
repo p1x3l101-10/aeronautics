@@ -82,7 +82,7 @@ hash = "4b385e767e25e50d1ac109a355429f083bf67d35970d258df60369f188221f35"
 
 [[files]]
 file = "config/aeronautics-server.toml"
-hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
+hash = "41b0aa145286e50528b55d8fd93f7c125f1f24fb4fe4417cf49fe71510d1d6e0"
 
 [[files]]
 file = "config/aeroworks-client.toml"
@@ -890,7 +890,7 @@ hash = "dd3aaee7611fbdf2d8d927aeb4e2042a6a92ce03d2a1ba5e7db5a4872a43c129"
 
 [[files]]
 file = "config/simulated-server.toml"
-hash = "4eb8a653258d8f7aa303fa77c34df800785b543116d5bc41ae613adec8000202"
+hash = "6a110c466b5877e867260cf5e9b2d2fce8df0a8f00e441fcb178f571f71e8175"
 
 [[files]]
 file = "config/skinlayers.json"

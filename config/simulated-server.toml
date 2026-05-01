@@ -86,7 +86,7 @@
 	#.
 	#Whether only the original Physics Assembler can disassemble the Sub-Level it assembled
 	#Disabling allows *ALL* Physics Assemblers to disassemble any Sub-Level
-	"Primary Disassembly" = false
+	"Primary Disassembly" = true
 
 #.
 #Parameters related to the physics of Simulated Contraptions
