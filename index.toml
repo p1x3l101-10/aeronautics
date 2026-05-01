@@ -69,6 +69,14 @@ file = "config/Weather2/Wind.toml"
 hash = "8c6be3c3da3cfa10a539353d843ffb145c0c620a079da3f57058ca3d8462b153"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+
+[[files]]
+file = "config/accessories_compat.json5"
+hash = "f121e63f366d1aaa0f2a7bbe030d9f9e5473aeaa72eb2898493fd0292703f233"
+
+[[files]]
 file = "config/ae2-client.toml"
 hash = "44ef758c12d31f42aba3a158747a478d5c1879e8bff9700744f4238294caeb33"
 
@@ -199,6 +207,30 @@ hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 [[files]]
 file = "config/attributefix/caelus/fall_flying.json"
 hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/hexcasting/ambit_radius.json"
+hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
+
+[[files]]
+file = "config/attributefix/hexcasting/feeble_mind.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/hexcasting/grid_zoom.json"
+hash = "28f7e3cd06e2fef81c87748a06629537131574b3f2f974ab4699f87040b11b15"
+
+[[files]]
+file = "config/attributefix/hexcasting/media_consumption.json"
+hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
+
+[[files]]
+file = "config/attributefix/hexcasting/scry_sight.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/hexcasting/sentinel_radius.json"
+hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
 
 [[files]]
 file = "config/attributefix/insanelib/push_resistance.json"
@@ -417,6 +449,14 @@ file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/copycats-common.toml"
+hash = "14818ac4ed5c487630e917c6bcbb986b6dfad26357111cdb4619ad5456b3a46e"
+
+[[files]]
+file = "config/copycats-server.toml"
+hash = "dac18a20718319d6556a7b2709d8f7a64b5da718d2b05ab9d32604087860322a"
+
+[[files]]
 file = "config/corpse-server.toml"
 hash = "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
 
@@ -513,6 +553,10 @@ file = "config/create_radar-server.toml"
 hash = "ec2f9d1124630f06797d8d582513b4004ceed68510eadfa871fec73688d81da2"
 
 [[files]]
+file = "config/create_reactive_stress-common.toml"
+hash = "4f1181bfeb92443706b234d9d5f4dd75f8f1b3abb888d2cb0dac989cf820dfd8"
+
+[[files]]
 file = "config/create_rns-server.toml"
 hash = "1ea4826e44ee474fc15769d4d31a4cdc2ec97681444b8aec6ee9710d29d09e08"
 
@@ -535,6 +579,10 @@ hash = "3f4b4927a30942747696b6ca87d14f903e4666f84e33dd08c55ca7c87332b1af"
 [[files]]
 file = "config/createdynlight-server.toml"
 hash = "392d9a004db43fd218a0aeb0a22a0daebdd21d2d06acfcab0cb6580ebc6b6f08"
+
+[[files]]
+file = "config/createlowheated-common.toml"
+hash = "3a3ed36ce158b77805e27d53f996c79b12f87aa6a99e88cbbca9962660a70401"
 
 [[files]]
 file = "config/createnuclear-common.toml"
@@ -659,6 +707,14 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 [[files]]
 file = "config/guideme.toml"
 hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
+
+[[files]]
+file = "config/hexcasting-common.toml"
+hash = "ab398f0d779ef77feba20527c54ddd81c82277a32e75ec564b7099405646e65c"
+
+[[files]]
+file = "config/hexcasting-server.toml"
+hash = "f7a1f38ce9d311fb8ed8bfdf4d3f1bd72d6d72026724f76c1051b5874dbc4c55"
 
 [[files]]
 file = "config/illagerinvasion-server.toml"
@@ -863,6 +919,10 @@ hash = "dc5effec24489905bc9964512695ad0ca31fb619e147f3f46962cbcd9dd114b1"
 [[files]]
 file = "config/reactive-server.toml"
 hash = "aeb3b6bfe27fc9fa50147091d008bb573533810b5ad361a3ef93b4bedf965e45"
+
+[[files]]
+file = "config/risingtoxicity-common.toml"
+hash = "c510ae1f8c331f776f422061b4ffefa267d1ac473242c5947d39f3f30a9ace5c"
 
 [[files]]
 file = "config/ritchiesprojectilelib-server.toml"
