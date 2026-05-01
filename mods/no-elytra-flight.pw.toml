@@ -1,0 +1,13 @@
+name = "No elytra flight"
+filename = "elytracancel-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WcQLGi3d/versions/izCiGgn3/elytracancel-1.0.0.jar"
+hash-format = "sha512"
+hash = "2e88ce3411f0f8218538753875dfd6ad0ea5be91e2b8ec5f31446de432f21f3e7d6fc6f0f7e59cdfc904fda456025ae2b7422c7bd1d1e130d22d2ec35876a664"
+
+[update]
+[update.modrinth]
+mod-id = "WcQLGi3d"
+version = "izCiGgn3"

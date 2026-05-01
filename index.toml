@@ -613,10 +613,6 @@ file = "config/easymagic-server.toml"
 hash = "887c00afdd5780ce901d398a9a06c3665edbc163071a823ac675ec3d32953a91"
 
 [[files]]
-file = "config/elytra-speed-cap.json"
-hash = "cc97febdaaa29d2d9b8d3cdc74efb173f4075ee4bc11274653d89303bdc02b4a"
-
-[[files]]
 file = "config/emi_loot_config.toml"
 hash = "aa53ee1c536ad64a934f638c2e7778b27077ef526df666fef0932d428ac7d163"
 
@@ -1577,11 +1573,6 @@ hash = "8766f93f7cd6cfe17fb2d1cec99485243a961e6a7e7e3561b767402d56d3b54d"
 metafile = true
 
 [[files]]
-file = "mods/elytra-speed-cap.pw.toml"
-hash = "aaaefc7cd420b95f7e1de5e66055c990f4ab53b56cf4044714f18b1f8a3ca084"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "340d5068da39137a1f7d04d78b9cef3e05255368638092eef43148569fb4c2ad"
 metafile = true
@@ -1819,6 +1810,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "0faf09a4484bfb003c5ac9039d4b0b311ea2fab7b6aaa2f8aaafbd1d7ca8404f"
+metafile = true
+
+[[files]]
+file = "mods/no-elytra-flight.pw.toml"
+hash = "b06b093935af19cb0a80d422edd81fc993c732247c147386d4fdc8f48c757c8c"
 metafile = true
 
 [[files]]
