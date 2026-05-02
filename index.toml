@@ -1209,10 +1209,6 @@ file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
 hash = "95fe59c6e4b02cc8e2914806a7a15fdbe2366757c4babb932f19bfafa09f68ff"
 
 [[files]]
-file = "kubejs/server_scripts/hexcasting/amethystHiding.js"
-hash = "ed61304f290563b5206bf6755df2ef3589e37dd268a2b2f1a2eb00a735786e12"
-
-[[files]]
 file = "kubejs/server_scripts/hexcasting/nobook.js"
 hash = "4f59e1cd26278522d0984e5288c4a8f17a64ba6bbc194b7992d14d9be6c05193"
 
