@@ -2400,6 +2400,11 @@ hash = "6c78432f3924c6aef11ff6b9b28ffdfe0f76ad23f2053f8343367b73502b8344"
 metafile = true
 
 [[files]]
+file = "mods/voxyserver.pw.toml"
+hash = "e10b841713fa743dbc317e9eef4cd2d5c81835c6c69cbf42bc375dc66c7711b1"
+metafile = true
+
+[[files]]
 file = "mods/wayward-attributes.pw.toml"
 hash = "70d263e0710c55f7de19d662cf5111cef792606611ba44967fa68d486c99c112"
 metafile = true
