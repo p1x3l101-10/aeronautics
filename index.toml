@@ -373,10 +373,6 @@ file = "config/attributefix/sable/player.sub_level_punch_strength.json"
 hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
 
 [[files]]
-file = "config/basicdiscordrichpresence-client.toml"
-hash = "2e3f2cc9f452eb1453de73e8bb256f375c7447cf52fee8385c2a9880cff72876"
-
-[[files]]
 file = "config/better-advanced-tooltips-client.toml"
 hash = "167486d8ac09ab9959c9b98c97c169365eaa9e5be0488b9ff8e6a04695d456e0"
 
