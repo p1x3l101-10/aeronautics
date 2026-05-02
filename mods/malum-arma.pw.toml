@@ -1,0 +1,13 @@
+name = "Malum - Arma"
+filename = "malumarma-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35b34853df23ab0ff254b15384518bed4432b5f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7364021
+project-id = 1396605

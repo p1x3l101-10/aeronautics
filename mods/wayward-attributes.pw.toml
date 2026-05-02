@@ -1,0 +1,13 @@
+name = "Wayward Attributes"
+filename = "wayward_attributes-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "733b7c3eaa715697e50b4b3db1dd688261b02bcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7987281
+project-id = 1389954

@@ -737,6 +737,10 @@ file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
+file = "config/gaze-common.toml"
+hash = "654b9cc8b8d657c4d0488b9eb5b545c0b3f3918134974b19f795d5297e121164"
+
+[[files]]
 file = "config/guideme.toml"
 hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
 
@@ -801,12 +805,28 @@ file = "config/lithostitched.json"
 hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
+file = "config/lodestone-client.toml"
+hash = "964c94d1f00b084d2b017641d3182a8af4846d602db0a26911ec0fdae72f8c43"
+
+[[files]]
 file = "config/lootr-client.toml"
 hash = "4dd03ec5be94c8e56794c8fb0d0d1c907228d6881787d06e2743035e1dd4ca10"
 
 [[files]]
 file = "config/lootr-common.toml"
 hash = "2efbd58d0330a2eb357c51c33a4346bce57ff8f4c9226660d3bf1aa549eead4b"
+
+[[files]]
+file = "config/malstone-common.toml"
+hash = "04bbf0711b9e9bd9e99db8a0e5cffab0ea8185fb761ebc1d4ef7938e7e037408"
+
+[[files]]
+file = "config/malum-client.toml"
+hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
+
+[[files]]
+file = "config/malum-common.toml"
+hash = "eae47b00c21d80e516aebfa6b93406c843fbd824fc01458b52380e1c187cf355"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -1716,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "4687df8f2a2f20ff0b992b5a33a0cd2eae72fb02282b871cea847a08f9d9a3e1"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -1840,6 +1860,11 @@ hash = "c07c53575a3a776a65666876756f28250b7656298acdee10326af4cdf03d1383"
 metafile = true
 
 [[files]]
+file = "mods/gaze-a-malum-addon.pw.toml"
+hash = "be7b66f656d62935f1cf55f121214a465dc7c07860257b414696233e9aef9aa2"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2fa2da22d16bdcf10aaa1d41f67edd800a8a21d6f8450579cd9af8b31212beb4"
 metafile = true
@@ -1945,6 +1970,11 @@ hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
@@ -1957,6 +1987,21 @@ metafile = true
 [[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "675b6790530a7b6cd35bbd77c99789bef371f2b52f5dce7e8dd9d9e5615d4660"
+metafile = true
+
+[[files]]
+file = "mods/malstone.pw.toml"
+hash = "5cc0c635b3da3bcfbd070e095b9a9f2d7b250a17d1bb297ead1fe3c03f29d4ed"
+metafile = true
+
+[[files]]
+file = "mods/malum-arma.pw.toml"
+hash = "07a4770a146f95a236601b348140b5a2ee66125fa6388f9d9734fbf7bd23a258"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
 metafile = true
 
 [[files]]
@@ -2352,6 +2397,11 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "35977b47b438a24b08f8622867d2047ce5002e8de20806a1b9fe8c245fd502af"
+metafile = true
+
+[[files]]
+file = "mods/wayward-attributes.pw.toml"
+hash = "70d263e0710c55f7de19d662cf5111cef792606611ba44967fa68d486c99c112"
 metafile = true
 
 [[files]]

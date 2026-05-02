@@ -1,0 +1,13 @@
+name = "Malstone"
+filename = "malstone-1.0.5.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3217dee7173138f2b2cfd6f7b4b285c3683080d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8020558
+project-id = 1462863
