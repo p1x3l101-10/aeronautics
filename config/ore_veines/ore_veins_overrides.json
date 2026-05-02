@@ -942,6 +942,54 @@
       "min_y": -24,
       "max_y": 72,
       "dimension": "overworld"
+    },
+    "malum:deepslate_quartz_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": 10,
+      "max_y": 120,
+      "dimension": "the_nether"
+    },
+    "malum:natural_quartz_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": 10,
+      "max_y": 120,
+      "dimension": "the_nether"
+    },
+    "malum:soulstone_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "malum:cthonic_gold_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -48,
+      "max_y": 32,
+      "dimension": "overworld"
+    },
+    "malum:blazing_quartz_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": 10,
+      "max_y": 120,
+      "dimension": "the_nether"
+    },
+    "malum:deepslate_soulstone_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
     }
   }
 }

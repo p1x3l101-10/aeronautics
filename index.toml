@@ -66,7 +66,7 @@ hash = "8c6be3c3da3cfa10a539353d843ffb145c0c620a079da3f57058ca3d8462b153"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
 
 [[files]]
 file = "config/accessories_compat.json5"
@@ -123,6 +123,10 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 [[files]]
 file = "config/almostunified/unification/materials.json"
 hash = "9593f40b56a9206c76e428a3d741bfc88f13eff9ec49729563fbc91245f6f666"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
 [[files]]
 file = "config/artifacts/client.toml"
@@ -231,6 +235,130 @@ hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
 [[files]]
 file = "config/attributefix/insanelib/push_resistance.json"
 hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/lodestone/magic_damage.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/lodestone/magic_proficiency.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/lodestone/magic_resistance.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malstone/blood_shield_stronger.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/chaos_erosion.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/damage_res.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/decay_shield_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/decay_shield_stronger.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/eat_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/magic_res.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/max_blood_shield.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/max_decay_shield.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/malstone/super_malicious.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malstone/tough_blood.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/malum/arcane_resonance.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/charge_capacity.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/charge_duration.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/charge_recovery_rate.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/geas_limit.json"
+hash = "47aa0b4848f029f0abf1824185964a53590a4a885e24dc1ad798e28245ea524e"
+
+[[files]]
+file = "config/attributefix/malum/healing_received.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/malignant_aegis_capacity.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/malignant_aegis_recovery_gain.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/malignant_aegis_recovery_rate.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/malignant_conversion.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/malum/scythe_proficiency.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/soul_ward_capacity.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/soul_ward_integrity.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/soul_ward_recovery_gain.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/soul_ward_recovery_rate.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malum/spirit_spoils.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/malumarma/socket_capacity.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
 
 [[files]]
 file = "config/attributefix/minecraft/generic.armor.json"
@@ -373,6 +501,58 @@ file = "config/attributefix/sable/player.sub_level_punch_strength.json"
 hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
 
 [[files]]
+file = "config/attributefix/vampirism/blood_exhaustion.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/vampirism/dbno_duration.json"
+hash = "8ed60ec671d0277ac453b0492018528812127da2bdfa7ccfdf0991af37efaf65"
+
+[[files]]
+file = "config/attributefix/vampirism/neonatal_duration.json"
+hash = "8ed60ec671d0277ac453b0492018528812127da2bdfa7ccfdf0991af37efaf65"
+
+[[files]]
+file = "config/attributefix/vampirism/sundamage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/arrow_damage.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/arrow_velocity.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/detection_radius.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/draw_speed.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/eating_speed.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/jumping_exhaustion.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/sprinting_exhaustion.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/sweeping_damage_radius.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/wayward_attributes/swimming_exhaustion.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
 file = "config/better-advanced-tooltips-client.toml"
 hash = "167486d8ac09ab9959c9b98c97c169365eaa9e5be0488b9ff8e6a04695d456e0"
 
@@ -426,7 +606,7 @@ hash = "64b707a15cc44b030e85077aad16b485910e2c732d3319d8718e6b84801decb5"
 
 [[files]]
 file = "config/computercraft-server.toml"
-hash = "950d1307ee5ce873ac3b86e0ef4ae89bb06071b5a6b0fd587892a20ce6f532f2"
+hash = "4d0318cf2fb1151f946176302ba7aba8eb407e0f730bc8e96db3e4a252c05a96"
 
 [[files]]
 file = "config/connector.json"
@@ -702,7 +882,7 @@ hash = "dc38be15cae51c0235f39c08d7055d09b5916234a7761270cc9035201d6cc788"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "bcb6fa7c7621cc705541f16146676361b92d0a491bdbcf3c2dbe47d72871b95e"
+hash = "89c92fcb469cd3c33bd827c7e1775dc9b27e6054976e9c63c1c973db7b2006da"
 
 [[files]]
 file = "config/fastsuite.cfg"
@@ -922,7 +1102,7 @@ hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
 file = "config/ore_veines/ore_veins_overrides.json"
-hash = "c45bd04e4d49a62ab1d4e5fe9e90317cb874fa9e7df8cb6538a9ecfb6a052e3d"
+hash = "0299252b92eb518f62b9b357ef05dc852bc4678d1ec068e973c55c3607938f90"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
@@ -1070,7 +1250,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "fa8bdef1007770f45503662606aee743976485ba2bf83c79165c9dc6192969f9"
+hash = "69b22ae91d53f3f2a0d160a3801064ec7578f556d481b8adc3f66a13be86650f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1137,6 +1317,30 @@ file = "config/tuningwrench-common.toml"
 hash = "9be8624842a318f37ae1d6d991ea007c88ad03c12c97c17df09e23808884764c"
 
 [[files]]
+file = "config/vampiresneedumbrellas-common.toml"
+hash = "750151329b6e363d079d5d205935b176cba6d903a42df4df1a75d86a1a0f0251"
+
+[[files]]
+file = "config/vampirism-balance.toml"
+hash = "fa648896df60bb2ea45345b48a9dae66dfca2ec12de234020adc76121614c11b"
+
+[[files]]
+file = "config/vampirism-client.toml"
+hash = "dd639c6ac4c8486962c33bc6d7e7fd8a55fe88a23f5f4f77f42b369a5444f3b8"
+
+[[files]]
+file = "config/vampirism-common.toml"
+hash = "31392888f39f5ac21616207f57859fdee4453532471f970292b893f1a319537f"
+
+[[files]]
+file = "config/vampirism-server.toml"
+hash = "b9c1838881078619d254d842d51651e27d256d048a46ac50cb4627fb6d8a85c1"
+
+[[files]]
+file = "config/vampirism_integrations-common.toml"
+hash = "e0d5acf5dc19f8aa2774bfd3658e4172593a81a636edefac387f6cf0ff99d87f"
+
+[[files]]
 file = "config/vista-client.toml"
 hash = "e3e28553b5fd53d8fd0d83ffbef2af9ca2cb420cbbbe7814e7f9ecb88b5cb6da"
 
@@ -1162,7 +1366,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "76208f9f3f9cd58a2ad7d46cf3730d6cb7671affb576e5f546ee5d159e160b30"
+hash = "10f4caac6679d375a11f157e7bb82377bd62157b7509757bf614d54ecb75765f"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -1174,11 +1378,11 @@ hash = "0dab5174ebcc9f526482ec8fa889f127d9eef426587268869777c8bf22fa88f3"
 
 [[files]]
 file = "config/voxyserver-client.json"
-hash = "1fa211e0930f2e86daae013316df2f682114d0126fb03c50f489d40aaf889559"
+hash = "c8241db979559ee7ead4ce44721b42179b929cfb74e36d40dceaa3a7db3b5339"
 
 [[files]]
 file = "config/voxyserver.json"
-hash = "b18e01923bcd081ad1c8fffa08fc991d60b034673e3efdc8370fc0d3dc2641c3"
+hash = "122fc01bb3dc3d814468834d3c782de7644dd2100839600c7bc6b5c104b478cf"
 
 [[files]]
 file = "config/yacl.json5"
