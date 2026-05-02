@@ -722,7 +722,7 @@ hash = "9a8019a2819cf8f27a30c0788b458ed7e9b6d749faea23d8feafa0424c4bb568"
 
 [[files]]
 file = "config/fml.toml"
-hash = "a11d04725467e95df633961989bb76f5e6af8c0c2f2ec7d56ed4a494128d4906"
+hash = "019e3b21ccc880e4da9f3ff0ac54441487819475fd2b4292734897a1e3dde5a1"
 
 [[files]]
 file = "config/fxntstorage-client.toml"
