@@ -2088,7 +2088,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-eyes.pw.toml"
-hash = "05d729cd47f36bd3c4d4ed5c311692e9dcb18eb937ea833d3522fec461042797"
+hash = "dbf0020ba949821f0f0cdaf5161dee9f2cbbfcb3c7c5f7c20562ed5db0eb55e0"
 metafile = true
 
 [[files]]
