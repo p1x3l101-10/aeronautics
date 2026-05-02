@@ -2087,11 +2087,6 @@ hash = "2fa2da22d16bdcf10aaa1d41f67edd800a8a21d6f8450579cd9af8b31212beb4"
 metafile = true
 
 [[files]]
-file = "mods/glowing-eyes.pw.toml"
-hash = "dbf0020ba949821f0f0cdaf5161dee9f2cbbfcb3c7c5f7c20562ed5db0eb55e0"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "ed849b23b725ffa84ab96d8ff5d297b7f5fe428806c7bae1357083896fcfc970"
 metafile = true
