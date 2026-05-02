@@ -1173,6 +1173,14 @@ file = "config/voxy-config.json"
 hash = "0dab5174ebcc9f526482ec8fa889f127d9eef426587268869777c8bf22fa88f3"
 
 [[files]]
+file = "config/voxyserver-client.json"
+hash = "1fa211e0930f2e86daae013316df2f682114d0126fb03c50f489d40aaf889559"
+
+[[files]]
+file = "config/voxyserver.json"
+hash = "b18e01923bcd081ad1c8fffa08fc991d60b034673e3efdc8370fc0d3dc2641c3"
+
+[[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
