@@ -1298,6 +1298,11 @@ hash = "c142b68ba4d58f31f843a8a097b957027803675f0d5065543a146030ec65d77a"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
 file = "mods/applied-kubejs.pw.toml"
 hash = "ad0538feee83c1895b9b080459a054ccd49ae62442494cf6bb9e049b6e965816"
 metafile = true
