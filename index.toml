@@ -426,7 +426,7 @@ hash = "64b707a15cc44b030e85077aad16b485910e2c732d3319d8718e6b84801decb5"
 
 [[files]]
 file = "config/computercraft-server.toml"
-hash = "7ba770f3612ebf571a4f18191a3151f16f97102251475f2bbf63c6d0a6d4f12d"
+hash = "950d1307ee5ce873ac3b86e0ef4ae89bb06071b5a6b0fd587892a20ce6f532f2"
 
 [[files]]
 file = "config/connector.json"

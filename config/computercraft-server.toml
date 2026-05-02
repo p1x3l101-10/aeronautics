@@ -1,7 +1,7 @@
 #The disk space limit for computers and turtles, in bytes.
-computer_space_limit = 1000000
+computer_space_limit = 1048576
 #The disk space limit for floppy disks, in bytes.
-floppy_space_limit = 125000
+floppy_space_limit = 1310720.0
 #The file upload size limit, in bytes. Must be in range of 1 KiB and 16 MiB.
 #Keep in mind that uploads are processed in a single tick - large files or
 #poor network performance can stall the networking thread. And mind the disk space!
@@ -61,7 +61,7 @@ disabled_generic_methods = []
 	#Enable the "http" API on Computers. Disabling this also disables the "pastebin" and
 	#"wget" programs, that many users rely on. It's recommended to leave this on and use
 	#the "rules" config option to impose more fine-grained control.
-	enabled = true
+	enabled = false
 	#Enable use of http websockets. This requires the "http_enable" option to also be true.
 	websocket_enabled = true
 	#The number of http requests a computer can make at one time. Additional requests
