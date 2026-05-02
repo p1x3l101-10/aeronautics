@@ -1432,6 +1432,11 @@ hash = "5b59a27a9d4aed0926f2cd7a5e147597d69754a3b48eacfa3e1a8c756ae6b317"
 metafile = true
 
 [[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
@@ -1452,6 +1457,11 @@ hash = "6585dd3b5e5827ef7a154c6f6a42b261fce089bfffe430c13e8c7df2e22f9c0f"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "59ca697b09cd2339e6bbd524828fed73fa842083846e950a555aa081fedb6c63"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
 metafile = true
@@ -1464,6 +1474,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
+metafile = true
+
+[[files]]
+file = "mods/create-fast-schematic-cannon.pw.toml"
+hash = "4ae12eddd34252c6e344dd3fcc91d3d701b5cd56cdd2cea7f16fd341527cfb2e"
 metafile = true
 
 [[files]]
@@ -1484,6 +1499,11 @@ metafile = true
 [[files]]
 file = "mods/create-low-heated.pw.toml"
 hash = "aadfad4297ebebb7b979a07fbd2c8cb4f7df8dfb44baa3b23d608a86b28c4640"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-chicken.pw.toml"
+hash = "727ed664274ebc3dd632560f4c611d1e04d9f3d138bb300302c1ff712726c34e"
 metafile = true
 
 [[files]]
@@ -1557,6 +1577,26 @@ hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "f1058b2cdd30e361e4631b4d7fc389f9607f7f09fbbb59e31a7c29e13d29b221"
+metafile = true
+
+[[files]]
+file = "mods/create-stone-generators.pw.toml"
+hash = "03618ecf9f2978422867cc0d8ed1809882b841129cd1a0b54eb0e4060ae661ce"
+metafile = true
+
+[[files]]
+file = "mods/create-storage-neo-forge.pw.toml"
+hash = "480b7c7cf1569b1eb98d199c10ce60a8ad13a534b738aa72e7bbcd3ac966d21e"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "61b2e10da412b986bf4a3940bc1e5c1d648031f73f5e580e1b27d4e6ea77d8ba"
 metafile = true
@@ -1577,8 +1617,23 @@ hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
+file = "mods/create-transmission!.pw.toml"
+hash = "7e0ebe1712b52906dd37f9b75d73d5f841d9a8407b0214876881d659172aa772"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/createlazytick.pw.toml"
+hash = "788d9d227f95e98dfc68c0fd14324bf05a14bf067b4388d5f055c2c2321a36bb"
 metafile = true
 
 [[files]]
@@ -1767,6 +1822,11 @@ hash = "e35c180a03e29022e7f78366b9c11932fa0a49b34bc5fb32049e68392b93d310"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "1226fd2b80358c5571a00b963a4f1f9aad4bb7d494a01ad538a2726f4a8f7256"
 metafile = true
@@ -1919,6 +1979,11 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "7a7bb1209d50749e546d8ae5c483693bb7afa9e7a5da13e6f1da68a51dd08af1"
+metafile = true
+
+[[files]]
+file = "mods/northstar-redux.pw.toml"
+hash = "4d7e9989b35a90db762ee26254bd0b52bb28f0d959bd557ae4dc7a4dc1caa362"
 metafile = true
 
 [[files]]
@@ -2179,6 +2244,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "49fb27f04c4ec26614fd121a7a8f7764d59949d0b6a3c32a63fb57fd2b3c8ea9"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "a0e335d1f72c93571ed78abaf7ae038ddc66e35ef8706f07b60f5eaee6ae1375"
 metafile = true
 
 [[files]]
