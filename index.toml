@@ -1883,6 +1883,11 @@ hash = "2fa2da22d16bdcf10aaa1d41f67edd800a8a21d6f8450579cd9af8b31212beb4"
 metafile = true
 
 [[files]]
+file = "mods/glowing-eyes.pw.toml"
+hash = "05d729cd47f36bd3c4d4ed5c311692e9dcb18eb937ea833d3522fec461042797"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "ed849b23b725ffa84ab96d8ff5d297b7f5fe428806c7bae1357083896fcfc970"
 metafile = true
@@ -2385,6 +2390,21 @@ metafile = true
 [[files]]
 file = "mods/uranus.pw.toml"
 hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
+metafile = true
+
+[[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "c0a0bb919ffb39c7165f42b11a2aaae14b4f510bb9f1ac5133440c1245156c45"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "6cdf1ccf0f610d73abd435e900671f2d1f6d2f7aee8b037e27dca6d12577a58b"
+metafile = true
+
+[[files]]
+file = "mods/vampirism.pw.toml"
+hash = "ff01b930ef58526c8895041adecf8e7b5e0a678c373caa28032438e6130aeee3"
 metafile = true
 
 [[files]]
