@@ -1238,7 +1238,7 @@ hash = "4f59e1cd26278522d0984e5288c4a8f17a64ba6bbc194b7992d14d9be6c05193"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "78a07427f8ec50289fd1dce2b439a1d5334b10d32bb7318875221b3d7976cf64"
+hash = "86579b2fece41e8edc63ef618fb8d17d42da70f99b9df304b89aa8bcc9ce16c8"
 
 [[files]]
 file = "kubejs/server_scripts/synaxis/drivebywire.js"
