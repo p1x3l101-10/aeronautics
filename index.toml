@@ -2662,6 +2662,11 @@ hash = "b4e3059b55fbe5bdaac0feb58dcd6b74acc19497d083c76989e755ae6c5e451b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/acclimate.pw.toml"
+hash = "cab19a082a18d481083b51c5f4c933db84b9f989f78164517959890b4b3ef53a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/portal-2-menu-splashes.pw.toml"
 hash = "2c57c12ce05385706409925bbe3a56391ec7307c852610d5196b9ac7942cbc2f"
 metafile = true
