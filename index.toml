@@ -1118,7 +1118,7 @@ hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+hash = "1881433290df1296faf17aac519cd5e5d0e77ceb78b3f4844cdad5bbbccc3532"
 
 [[files]]
 file = "config/pipeorgans-client.toml"
@@ -2682,6 +2682,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/acclimate.pw.toml"
 hash = "cab19a082a18d481083b51c5f4c933db84b9f989f78164517959890b4b3ef53a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/c4music.pw.toml"
+hash = "7874d5c0314854e2db9630f08b94107d5f00d3dd930ad0622a7c2dc6d3d745a1"
 metafile = true
 
 [[files]]

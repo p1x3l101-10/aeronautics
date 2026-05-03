@@ -1,0 +1,13 @@
+name = "C4Music - C418 Music Pack"
+filename = "C4Music_v4.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QSKCFxWX/versions/miSlkDOm/C4Music_v4.2.zip"
+hash-format = "sha512"
+hash = "03dfd4917b7cd4f933d49dc1bad5a3e6efb96d7ea659d5c70a2ec3b40fdee586d753cb4055ed16225a46afaf6bd0c5734925f022b1f81bd0132154243dc9c066"
+
+[update]
+[update.modrinth]
+mod-id = "QSKCFxWX"
+version = "miSlkDOm"
