@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/p1x3l101-10/aeronautics/refs/heads/main/dataFiles/voxy.jar"
 hash-format = "sha256"
-hash = "801af30e273f66b69252ecffcf3a69be06e3d6c257b2bd747d098ca48978e6a3"
-
-# BUILD ORIGIN
-## This is to let myself find the correct repo when building an updated version
-## https://github.com/m3t4f1v3/voxy
+hash = "714de0c650f93a73e5f502c3ef29e710fdafe8c87e24d85cdb533f7b71f4d252"
