@@ -882,7 +882,7 @@ hash = "dc38be15cae51c0235f39c08d7055d09b5916234a7761270cc9035201d6cc788"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "89c92fcb469cd3c33bd827c7e1775dc9b27e6054976e9c63c1c973db7b2006da"
+hash = "738e19f11afe7fcd874961d4252b386478b49e7e45d6f1b989fddaeb8ab41038"
 
 [[files]]
 file = "config/fastsuite.cfg"
@@ -902,7 +902,7 @@ hash = "9a8019a2819cf8f27a30c0788b458ed7e9b6d749faea23d8feafa0424c4bb568"
 
 [[files]]
 file = "config/fml.toml"
-hash = "019e3b21ccc880e4da9f3ff0ac54441487819475fd2b4292734897a1e3dde5a1"
+hash = "ec145b3aebd48a561f680bd6700aefbeecd25c696f6361e9121ea3870ce5a088"
 
 [[files]]
 file = "config/fxntstorage-client.toml"
@@ -1111,6 +1111,14 @@ hash = "ae881bce6d0104ea591f9d2d18e47e2d82539a2b1334f88c880d4ad4e8732c3b"
 [[files]]
 file = "config/patchouli-client.toml"
 hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
+
+[[files]]
+file = "config/paxi-neoforge-1_21.toml"
+hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/pipeorgans-client.toml"
@@ -2372,6 +2380,11 @@ hash = "3b59e758a7229eba05d6667ebac9f2f6a1a809798267548dced5216bacd14f01"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "6ade0327d7103487f7ef0bec778ae3a12a4fe8c2d20ddb7c5aea9a191e3a2763"
 metafile = true
@@ -2659,6 +2672,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "b4e3059b55fbe5bdaac0feb58dcd6b74acc19497d083c76989e755ae6c5e451b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
