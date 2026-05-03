@@ -1,0 +1,13 @@
+name = "RE:ZERO Return by Death Sound"
+filename = "§dReturn by §5Death.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRqEh96O/versions/lfJU0HLE/%C2%A7dReturn%20by%20%C2%A75Death.zip"
+hash-format = "sha512"
+hash = "d301d1f4cdcb27db9470d91e30365c2848bdd31fa07b7122ac8a338803a0e2387fcd3c206f0f6b979016671deee228eb77445d9f953aa06fc434abad461b82e9"
+
+[update]
+[update.modrinth]
+mod-id = "vRqEh96O"
+version = "lfJU0HLE"

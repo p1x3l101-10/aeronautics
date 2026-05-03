@@ -1122,7 +1122,7 @@ hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "1881433290df1296faf17aac519cd5e5d0e77ceb78b3f4844cdad5bbbccc3532"
+hash = "48e9651449a78642973a5bd0b3971d7ab5147f473162d6ed80a72a848a6cabcf"
 
 [[files]]
 file = "config/pipeorgans-client.toml"
@@ -2706,6 +2706,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/portal-2-menu-splashes.pw.toml"
 hash = "2c57c12ce05385706409925bbe3a56391ec7307c852610d5196b9ac7942cbc2f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/returnbydeathsound.pw.toml"
+hash = "9b5a19272de1abecb05896f1e65ce4fc46665a0fe4e16f4136239170e0d308e3"
 metafile = true
 
 [[files]]
