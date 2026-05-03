@@ -1342,7 +1342,7 @@ hash = "31392888f39f5ac21616207f57859fdee4453532471f970292b893f1a319537f"
 
 [[files]]
 file = "config/vampirism-server.toml"
-hash = "b9c1838881078619d254d842d51651e27d256d048a46ac50cb4627fb6d8a85c1"
+hash = "b0b8f461ec5e668107d42275f2b6a6fe9de363ab34f0db16bb66f779b383805c"
 
 [[files]]
 file = "config/vampirism_integrations-common.toml"
@@ -2092,6 +2092,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2fa2da22d16bdcf10aaa1d41f67edd800a8a21d6f8450579cd9af8b31212beb4"
+metafile = true
+
+[[files]]
+file = "mods/guide-api.pw.toml"
+hash = "d973a76275a2ed58cda27e322b6bebe217144f1083f5a3eb41074dd2785a4fd5"
 metafile = true
 
 [[files]]

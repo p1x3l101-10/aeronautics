@@ -17,14 +17,14 @@
 	#Whether players can infect other players
 	playersCanTurnPlayers = true
 	#Whether to color player names in chat based on their current faction
-	factionColorInChat = true
+	factionColorInChat = false
 	#Whether to add a prefix title based on the current lord level to the player names
 	lordPrefixInChat = true
 	#Changes if entities are recognized as hostile by other mods. See https://github.com/TeamLapen/Vampirism/issues/199. Smart falls back to Never on servers 
 	#Allowed Values: ALWAYS_IMOB, NEVER_IMOB, SMART
 	entitiesIMob = "SMART"
 	#If enabled, creatures are infected with Sanguinare Vampirism first instead of immediately being converted to a vampire when their blood is sucked dry
-	infectCreaturesSanguinare = false
+	infectCreaturesSanguinare = true
 	#Prevent players from enabling the rendering of debug bounding boxes. This can allow them to see certain entities they are not supposed to see (e.g. disguised hunter
 	preventDebugBoundingBoxes = false
 	#Prevent vampire players to transform into a bat
@@ -55,7 +55,7 @@
 	#Disabling these things might reduce fun or interfere with gameplay
 	[server.disable]
 		#Disable vampire fangs being usable to infect yourself
-		disableFangInfection = false
+		disableFangInfection = true
 		#Prevent vampire mobs from infecting players when attacking
 		disableMobBiteInfection = false
 		#Prevent villagers in hunter controlled villages to turn into guard villager when the village is attacked
