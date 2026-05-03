@@ -1869,11 +1869,6 @@ hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
 metafile = true
 
 [[files]]
-file = "mods/create-prismatic-shine.pw.toml"
-hash = "1c1803c7ce39a0abdcd38b836c364a1f1b92a41a0022f5598492a6eb68997664"
-metafile = true
-
-[[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "3edfafbfac38ea2e740090a34812f022fd5b73611af59b0155dfce1d04ead0d0"
 metafile = true
