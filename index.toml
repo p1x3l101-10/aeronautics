@@ -1210,7 +1210,7 @@ hash = "1a4676e6136f117f2587d32991720455c0a1b204498ebc7eb21e83f5912df222"
 
 [[files]]
 file = "config/sable-common.toml"
-hash = "9a1ba0617b4544eb8bded0995de05f26837fdc53215453ccc58012b468ff9dde"
+hash = "5e7b125333efe949f27b02d59f0d91d65f2c8c3372744d7e69895a8ad0c74a50"
 
 [[files]]
 file = "config/sablecollisiondamage-common.toml"
@@ -2076,6 +2076,11 @@ metafile = true
 [[files]]
 file = "mods/floating-purpur.pw.toml"
 hash = "a52d3ba3af210789b24da806a04ebec827d24c66e8a21d8f8980f14278ab092d"
+metafile = true
+
+[[files]]
+file = "mods/flw-vanillin.pw.toml"
+hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
 metafile = true
 
 [[files]]
