@@ -1949,6 +1949,11 @@ hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
+file = "mods/create-train-physics.pw.toml"
+hash = "acbe3562310df185fd34c1161f02e4369b1088516ddc3577a289e312ca8e60c7"
+metafile = true
+
+[[files]]
 file = "mods/create-transmission!.pw.toml"
 hash = "7e0ebe1712b52906dd37f9b75d73d5f841d9a8407b0214876881d659172aa772"
 metafile = true
