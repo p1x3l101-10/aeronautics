@@ -921,6 +921,10 @@ file = "config/gaze-common.toml"
 hash = "654b9cc8b8d657c4d0488b9eb5b545c0b3f3918134974b19f795d5297e121164"
 
 [[files]]
+file = "config/guideapi_vp-common.toml"
+hash = "bc75277d66f0187d3c5e53fece14571af053158fe68599474a56c1d2436253da"
+
+[[files]]
 file = "config/guideme.toml"
 hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
 
