@@ -2234,8 +2234,8 @@ hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay.pw.toml"
-hash = "b005c8168c11898a2b3883f5a96fe0fdb3e21119ad2ebb27a921443c86e065e0"
+file = "mods/lighty.pw.toml"
+hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
 
 [[files]]
@@ -2501,6 +2501,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "356285fb960385f591e216c1e4ff1ef808ba95e32c1a0521aedb7d4050aed946"
+metafile = true
+
+[[files]]
+file = "mods/reworked-phantoms.pw.toml"
+hash = "0a8c004aef338d9f8550e93a2dc7156fbfdf717bf4c934134b85f5d0a4e46651"
 metafile = true
 
 [[files]]
