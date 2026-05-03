@@ -1122,7 +1122,7 @@ hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "48e9651449a78642973a5bd0b3971d7ab5147f473162d6ed80a72a848a6cabcf"
+hash = "c40cda1a53965901937e15fc69de2656d3c4dc9dc11328b6687b576d37bc2173"
 
 [[files]]
 file = "config/pipeorgans-client.toml"
@@ -2739,8 +2739,43 @@ hash = "cab19a082a18d481083b51c5f4c933db84b9f989f78164517959890b4b3ef53a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-create-glass-pipes.pw.toml"
+hash = "dea3e9380502f03e3606863b6ae80f156c97e15d97c4d53b57e8b00259cd95ed"
+metafile = true
+
+[[files]]
 file = "resourcepacks/c4music.pw.toml"
 hash = "7874d5c0314854e2db9630f08b94107d5f00d3dd930ad0622a7c2dc6d3d745a1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "5acf665b02f3a79024123c7824fd13bcb29b955c8d03c13806e13253352fb012"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-energistics.pw.toml"
+hash = "efdabbe479082038ff594282e61a11f247192e82acd18abd0927a7df3f4fd554"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-lootr.pw.toml"
+hash = "c71ace624089251e32aadec70c34e921de8e2bece0c2f6edeeabe1bb795f3a03"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sound-of-steam-better-console.pw.toml"
+hash = "4f83296c3000b6aec07cc0d76bd18b338cf80170874546e4420a0bd65690fcde"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-vanilla-reimagined.pw.toml"
+hash = "f48985a3661e5879d917fa2506b588bd2d52834559971ad2af87474df677fb4c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hatsune-miku-created-minecraft.pw.toml"
+hash = "950446e2ccfef95ead12b33d32ed2512cf2158035fce039639b789c66010bf26"
 metafile = true
 
 [[files]]

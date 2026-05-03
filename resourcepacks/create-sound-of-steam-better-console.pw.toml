@@ -1,0 +1,13 @@
+name = "Create: Sound of Steam: Better Console"
+filename = "CoolConsole.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o6AqAKcu/versions/eaOXsRwo/CoolConsole.zip"
+hash-format = "sha512"
+hash = "956db66465d4aff232d10e289c2e21416f8e25b5e09d67b6609830375f445c4c4e4b878c57fa8336563b101c1dc284e830a2638f58aee233d0cb02c2163f3489"
+
+[update]
+[update.modrinth]
+mod-id = "o6AqAKcu"
+version = "eaOXsRwo"

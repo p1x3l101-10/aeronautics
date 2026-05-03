@@ -1,0 +1,13 @@
+name = "Hatsune Miku Created Minecraft"
+filename = "HatsuneMikuCreatedMinecraft.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZZyFjJNg/versions/gEkyUDKo/HatsuneMikuCreatedMinecraft.zip"
+hash-format = "sha512"
+hash = "c54f706bb73ea1bf9c60af1bb50c7a4da8536001cd51660a1b611dfea1db02d09d74cf96e30f753f95abb28b17ea8f4d911243ca7e20ff9d8a2729a16ed0980c"
+
+[update]
+[update.modrinth]
+mod-id = "ZZyFjJNg"
+version = "gEkyUDKo"
