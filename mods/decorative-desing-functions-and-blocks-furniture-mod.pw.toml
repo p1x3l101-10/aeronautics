@@ -1,0 +1,13 @@
+name = "Decorative-Desing Functions And Blocks: Furniture Mod"
+filename = "ddfabfm-1.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J8pSKrlD/versions/iFUQsIgB/ddfabfm-1.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c345529c055991800066b3d1a4d990d99ccbc1350781d5e70bfa98c79d4322d54c4f481ef775833c5369429cd5f575cad6d2b5622a7577f526e8218a1b88cc54"
+
+[update]
+[update.modrinth]
+mod-id = "J8pSKrlD"
+version = "iFUQsIgB"

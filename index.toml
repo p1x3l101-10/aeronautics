@@ -1474,6 +1474,11 @@ hash = "ea332730dd7da90a4291a5c4c3f98f168617d0c17ed945509fd9739b17df6b10"
 metafile = true
 
 [[files]]
+file = "mods/abyssal-decor.pw.toml"
+hash = "4d4669d4726cbb2813a2fef496b0863a56598244ce6a08d2e8172604cce7f92f"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
@@ -1764,6 +1769,11 @@ hash = "2c0a8e956e3a1508d12544d59db0db04df6d88460dc56b80a1a8b4bdf1266005"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
+metafile = true
+
+[[files]]
 file = "mods/create-copper-oxidizing.pw.toml"
 hash = "ee56d6d64cbf099726202d60a6330aed87deb15dc3f90839cfc7b3a202cae65b"
 metafile = true
@@ -1771,6 +1781,11 @@ metafile = true
 [[files]]
 file = "mods/create-copper-zinc.pw.toml"
 hash = "6585dd3b5e5827ef7a154c6f6a42b261fce089bfffe430c13e8c7df2e22f9c0f"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
@@ -1851,6 +1866,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
+metafile = true
+
+[[files]]
+file = "mods/create-prismatic-shine.pw.toml"
+hash = "1c1803c7ce39a0abdcd38b836c364a1f1b92a41a0022f5598492a6eb68997664"
 metafile = true
 
 [[files]]
@@ -1971,6 +1991,11 @@ metafile = true
 [[files]]
 file = "mods/darkmobs.pw.toml"
 hash = "3e8adc98ba0e9908e5038c1bbc5bb302f9a9773730ac3a3664ffb6cdfb46e50a"
+metafile = true
+
+[[files]]
+file = "mods/decorative-desing-functions-and-blocks-furniture-mod.pw.toml"
+hash = "95bcd95fd024668afe04f8c069b601893f9b7573e0c13b220e039cd93913fc63"
 metafile = true
 
 [[files]]
@@ -2099,6 +2124,11 @@ hash = "be7b66f656d62935f1cf55f121214a465dc7c07860257b414696233e9aef9aa2"
 metafile = true
 
 [[files]]
+file = "mods/gears-n-kinetics.pw.toml"
+hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2fa2da22d16bdcf10aaa1d41f67edd800a8a21d6f8450579cd9af8b31212beb4"
 metafile = true
@@ -2191,6 +2221,16 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture-compat.pw.toml"
+hash = "450f3adc3d59a76798adba4d3943c77673b6ef0c86169353998cc238a168fcbb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
 metafile = true
 
 [[files]]
@@ -2611,6 +2651,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "mods/unusual-furniture.pw.toml"
+hash = "2441abf8ae001e8f2ddede167b559fd9ab1a402618ad95d22f4f9d1b2fdcef14"
 metafile = true
 
 [[files]]
