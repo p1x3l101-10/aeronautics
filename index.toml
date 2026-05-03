@@ -898,7 +898,7 @@ hash = "102bcaa251d858d61ca0e90c5a26657cb02ecee56e68bf35903661f24be4e37a"
 
 [[files]]
 file = "config/flywheel-client.toml"
-hash = "9a8019a2819cf8f27a30c0788b458ed7e9b6d749faea23d8feafa0424c4bb568"
+hash = "30d706707c49b85535c84170314ce130ab4e5e9c928534d1cdfd2756393f0359"
 
 [[files]]
 file = "config/fml.toml"
