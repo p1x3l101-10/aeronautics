@@ -1,0 +1,13 @@
+name = "Elton's Wind meter for PMWeather"
+filename = "windmeter-0.0.321.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wgQjOBvx/versions/BSnuS3bq/windmeter-0.0.321.jar"
+hash-format = "sha512"
+hash = "6b32e5259fecb787407f6c2672c3fa691f95a67411057e048307897c767d1e8f70b16ff1863a3a08566d6f5874c6881c2bc2dc1fd11fae49986fd0e9b123ce41"
+
+[update]
+[update.modrinth]
+mod-id = "wgQjOBvx"
+version = "BSnuS3bq"

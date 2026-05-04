@@ -990,6 +990,30 @@
       "min_y": -64,
       "max_y": 8,
       "dimension": "overworld"
+    },
+    "ddfabfm:deepslate_tin_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
+    },
+    "ddfabfm:tin_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "abyssal_decor:seabrass_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
     }
   }
 }

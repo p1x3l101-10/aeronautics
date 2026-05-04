@@ -1,0 +1,13 @@
+name = "Saturation Plus"
+filename = "saturation_plus-1.2.0-neoforge-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AgApeolo/versions/DXHDUnyt/saturation_plus-1.2.0-neoforge-1.21.jar"
+hash-format = "sha512"
+hash = "4921f292ec05a8be42e01996f3559ab8c605a7e9b46889aa5ed51ff94ed8c6d1dbdeb53d8dd989fc9c944e46d6043cacd4e2a4c47df70f6e7d0134aeae53623f"
+
+[update]
+[update.modrinth]
+mod-id = "AgApeolo"
+version = "DXHDUnyt"
