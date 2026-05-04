@@ -582,7 +582,7 @@ hash = "c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "6b6870147714f9aacc3fc5627084e19ed4c443606853c754049b81db1cfe9720"
+hash = "09776724e082d6b69b010659369a6634fec7c0d84630b36e88d8a66179d54a61"
 
 [[files]]
 file = "config/cccbridge/client.toml"
