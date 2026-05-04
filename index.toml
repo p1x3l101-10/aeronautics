@@ -749,10 +749,6 @@ file = "config/create_radar-server.toml"
 hash = "ec2f9d1124630f06797d8d582513b4004ceed68510eadfa871fec73688d81da2"
 
 [[files]]
-file = "config/create_reactive_stress-common.toml"
-hash = "4f1181bfeb92443706b234d9d5f4dd75f8f1b3abb888d2cb0dac989cf820dfd8"
-
-[[files]]
 file = "config/create_rns-server.toml"
 hash = "1ea4826e44ee474fc15769d4d31a4cdc2ec97681444b8aec6ee9710d29d09e08"
 
@@ -1916,11 +1912,6 @@ metafile = true
 [[files]]
 file = "mods/create-radars-unofficial-port.pw.toml"
 hash = "ae6a5acdf89198b55c9f515ba05521a5b867fe3fd034941f18a6d2c6b475484c"
-metafile = true
-
-[[files]]
-file = "mods/create-reactive-stress-crs.pw.toml"
-hash = "455b8fc15b8e26e36e172b468609b06ff13695b6308db1c44129afbb5bac0d7b"
 metafile = true
 
 [[files]]
