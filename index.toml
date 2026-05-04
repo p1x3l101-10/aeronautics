@@ -29,6 +29,42 @@ file = "config/ReEstrogen.toml"
 hash = "1a162ca51f7d2b850ae45dc88111d961d8e4217efc1bddb7b61ea60927c09bef"
 
 [[files]]
+file = "config/Weather2/Debug.toml"
+hash = "1836ce5db7760371352a284d82d05f04343144c5c6ba822f4ffcf8d8dea85a00"
+
+[[files]]
+file = "config/Weather2/Misc.toml"
+hash = "1c07b03f80789e01001f4b28f2f6d15a6c5cea7da860e07be0783fab17af8286"
+
+[[files]]
+file = "config/Weather2/Particle.toml"
+hash = "28adcb7237924f9f6124d7bd29d4a925028845e21d9bcaa1e7f63c8500284af0"
+
+[[files]]
+file = "config/Weather2/Sand.toml"
+hash = "617cf15679d0d949707098a2d9583f91479305b4aea2b03091020ceec34bfa76"
+
+[[files]]
+file = "config/Weather2/Snow.toml"
+hash = "9884e8501ee819868c99ffd0b8d6681eceb7885b4997f830e0eb0b6290ed41e6"
+
+[[files]]
+file = "config/Weather2/Sound.toml"
+hash = "d8608a7b6755b3b802fd9eb096d2214e7b9b3a65881f0805f8d96b21c225ba91"
+
+[[files]]
+file = "config/Weather2/Storm.toml"
+hash = "02e2c5013373134cb257c452f285bb5af520813d94d2b51bed869a2b21294570"
+
+[[files]]
+file = "config/Weather2/Tornado.toml"
+hash = "5acfddaeea2429786823909b309a4412bf9b8d63635acc39f225975bf997af20"
+
+[[files]]
+file = "config/Weather2/Wind.toml"
+hash = "8c6be3c3da3cfa10a539353d843ffb145c0c620a079da3f57058ca3d8462b153"
+
+[[files]]
 file = "config/accessories.json5"
 hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
 
@@ -1141,14 +1177,6 @@ file = "config/plastic_fix-common.toml"
 hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
 
 [[files]]
-file = "config/pmweather-client.toml"
-hash = "1e8bde3f27b729fd79c7c0de30e8e9e5c763f5607fed1b06766a5336465fee20"
-
-[[files]]
-file = "config/pmweather-server.toml"
-hash = "aea38609fbe37dae0ba9e454ab30cd87c68da2b95c97a9c026ddc5eb7d833a79"
-
-[[files]]
 file = "config/ponder-client.toml"
 hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
@@ -1270,7 +1298,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "597af73fc89cdea0685715d6c7640f444e7c5a9f5df0a0a470608804d947bfe9"
+hash = "69b22ae91d53f3f2a0d160a3801064ec7578f556d481b8adc3f66a13be86650f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1407,14 +1435,6 @@ hash = "c8241db979559ee7ead4ce44721b42179b929cfb74e36d40dceaa3a7db3b5339"
 [[files]]
 file = "config/voxyserver.json"
 hash = "122fc01bb3dc3d814468834d3c782de7644dd2100839600c7bc6b5c104b478cf"
-
-[[files]]
-file = "config/windmeter-client.toml"
-hash = "24204d2da610938a14f0caa04b7c22f9c8875b7a9b5f5763dd815a699dc97378"
-
-[[files]]
-file = "config/windmeter-server.toml"
-hash = "151870c2902da284206b92fbb5cd7d6de8fe598140b0d21693b7bc17550c0457"
 
 [[files]]
 file = "config/yacl.json5"
@@ -2469,11 +2489,6 @@ hash = "6ade0327d7103487f7ef0bec778ae3a12a4fe8c2d20ddb7c5aea9a191e3a2763"
 metafile = true
 
 [[files]]
-file = "mods/pmweather-plus.pw.toml"
-hash = "bebb51f6d31348e312db89981b11d027afe4420e173fd355b9f63041f385c4ce"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8fc94fac22ceb42b6ea13e2d099b7fd9814b4ad3e69e49159485d8b6c9b101d3"
 metafile = true
@@ -2496,11 +2511,6 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
-metafile = true
-
-[[files]]
-file = "mods/protomanlys-weather.pw.toml"
-hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
 metafile = true
 
 [[files]]
@@ -2591,11 +2601,6 @@ metafile = true
 [[files]]
 file = "mods/simulated-gauges.pw.toml"
 hash = "276db967822721cc23954e22e796e6e68435b69613a69d12fc35a09effabab27"
-metafile = true
-
-[[files]]
-file = "mods/sirens.pw.toml"
-hash = "1f3199110eab5c1f43a5912abaf26fbb7e9a832c25761ae1d2bb049650b344fe"
 metafile = true
 
 [[files]]
@@ -2764,8 +2769,8 @@ hash = "70d263e0710c55f7de19d662cf5111cef792606611ba44967fa68d486c99c112"
 metafile = true
 
 [[files]]
-file = "mods/wind-meter.pw.toml"
-hash = "a23af1ac504fb363e93e5415028b18d4d777077ee54a3284dbf50f2f947ed5b3"
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "fc84548addfafabdc70c6d79a555f96bfb05016f1db9f8854ce0bfa95f61a561"
 metafile = true
 
 [[files]]
