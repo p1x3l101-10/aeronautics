@@ -1346,7 +1346,7 @@ hash = "a72d83034580a020e58a7f2bcf61b2e6e990352bcbe3ffd0592cecd755083bc7"
 
 [[files]]
 file = "config/tacz-pre.toml"
-hash = "7760750454ef480008f25f13dd654ee1146a92b12bf7dbc104404ad3499c782b"
+hash = "83a94cc9bb0e758d0abdb840d3af78325060a84937c5cc1f66eee065e02781d8"
 
 [[files]]
 file = "config/tacz-server.toml"
