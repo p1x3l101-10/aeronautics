@@ -1346,7 +1346,7 @@ hash = "a72d83034580a020e58a7f2bcf61b2e6e990352bcbe3ffd0592cecd755083bc7"
 
 [[files]]
 file = "config/tacz-pre.toml"
-hash = "83a94cc9bb0e758d0abdb840d3af78325060a84937c5cc1f66eee065e02781d8"
+hash = "7760750454ef480008f25f13dd654ee1146a92b12bf7dbc104404ad3499c782b"
 
 [[files]]
 file = "config/tacz-server.toml"
@@ -2722,6 +2722,11 @@ metafile = true
 [[files]]
 file = "mods/tacz-aeronautics-compat.pw.toml"
 hash = "16528decd748d833f16c7013272d1510143cf9806a30f38ab0d39ebc57241e5c"
+metafile = true
+
+[[files]]
+file = "mods/tacz-js.pw.toml"
+hash = "879e53da7d95d6e39ace8d57cd5799cb12a9601a9432d99ee680ba0f731d85d9"
 metafile = true
 
 [[files]]
