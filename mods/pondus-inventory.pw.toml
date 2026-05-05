@@ -1,13 +1,13 @@
 name = "Pondus Inventory"
-filename = "pondus_inventory_fi-0.3-Alpha.jar"
+filename = "pondus_inventory_fi-0.5-Alpha.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f85a4c5aa3ed0051a52bc53a7d78011439a0753c"
+hash = "f2bb52a5495675bc5ac1b060fcddd9f0ff8d70ef"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8029594
+file-id = 8040932
 project-id = 1528664
