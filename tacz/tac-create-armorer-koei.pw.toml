@@ -1,0 +1,13 @@
+name = "[TaCZ]Create Armorer"
+filename = "Create Armorer-v1.2.0.1-for117.zip"
+side = "both"
+
+[download]
+hash-format = "md5"
+hash = "d85e791155e8779550187ee9f50b243d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7598625
+project-id = 1092101

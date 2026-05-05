@@ -1866,6 +1866,11 @@ hash = "4ae12eddd34252c6e344dd3fcc91d3d701b5cd56cdd2cea7f16fd341527cfb2e"
 metafile = true
 
 [[files]]
+file = "mods/create-immersive-tacz-integration-unofficial-port.pw.toml"
+hash = "be3c3939f6e78810ba7e04082b3896e376721357d44e1e7429e40cb738fd47fa"
+metafile = true
+
+[[files]]
 file = "mods/create-jei-compat.pw.toml"
 hash = "b50cad2053fa06974f8f902b13a3ab79ad4fb06ca5e0a95dfc59bc9c93638faa"
 metafile = true
@@ -2686,6 +2691,26 @@ hash = "ec7a83525d0e5e848acd1dbac0b24526cbc89604bbc44b29d09910dfd5f87ab2"
 metafile = true
 
 [[files]]
+file = "mods/tacz-1.21.1.pw.toml"
+hash = "ca7dfd270e023e59f53eb533dc089f9d427ed0284b5b11f2b9f523f9490125f6"
+metafile = true
+
+[[files]]
+file = "mods/tacz-aeronautics-compat.pw.toml"
+hash = "16528decd748d833f16c7013272d1510143cf9806a30f38ab0d39ebc57241e5c"
+metafile = true
+
+[[files]]
+file = "mods/tacz-mechanics.pw.toml"
+hash = "877b76fe35b9e9e6c2fddc13af99bfc552628e59d897c4ca35c3445d585129ac"
+metafile = true
+
+[[files]]
+file = "mods/tacz-pack-upgrader.pw.toml"
+hash = "6e10e86458ec852890a74ca4dfc22cc067732f1e4368325086441e490132708a"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "5bd3ccdbdedc00b95e0ba47d60860760a4857b3c6317952e822fdac7ac1eaa73"
 metafile = true
@@ -2863,6 +2888,11 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "b4e8b0c7a3c9f2727eb3d3b99a414f33c28cc98064ee092525671f4fed43cfde"
+
+[[files]]
+file = "tacz/tac-create-armorer-koei.pw.toml"
+hash = "1f1734c730406227aede2e9a3a52c03ca9e52704f44d80d9f8480b3ec48f3909"
+metafile = true
 
 [[files]]
 file = "unsup.ini"

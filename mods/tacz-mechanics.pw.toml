@@ -1,0 +1,13 @@
+name = "TaCZ Mechanics"
+filename = "tacz_mechanics-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2442fc587082446291212657df9af1a7a9cf6fe7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7781329
+project-id = 1490290

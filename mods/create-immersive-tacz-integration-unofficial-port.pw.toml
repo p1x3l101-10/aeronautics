@@ -1,0 +1,13 @@
+name = "Create: Immersive TaCZ Integration Unofficial PORT"
+filename = "createimmersivetacz-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99e67fcab1be505ee0344475e28a24180c5e106d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8008288
+project-id = 1528355
