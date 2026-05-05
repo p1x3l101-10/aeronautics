@@ -5,7 +5,7 @@
     "attempt_multiplier": 1.0,
     "nether_generation_enabled": true,
     "auto_discover_modded_ores": true,
-    "auto_enable_discovered_modded_ores": true,
+    "auto_enable_discovered_modded_ores": false,
     "debug_logging": false
   },
   "overrides": {

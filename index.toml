@@ -1134,7 +1134,7 @@ hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
 file = "config/ore_veines/ore_veins_overrides.json"
-hash = "23d8f7c48c3d09ac55500f2d59ab9e3690842a680727898dad6894dc3a441171"
+hash = "aa829209764e1957d6e96e2e239169a9c6315f06ff94025388f6080a6ffc9f73"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
