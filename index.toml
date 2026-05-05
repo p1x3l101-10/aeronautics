@@ -1049,6 +1049,10 @@ file = "config/lootr-common.toml"
 hash = "2efbd58d0330a2eb357c51c33a4346bce57ff8f4c9226660d3bf1aa549eead4b"
 
 [[files]]
+file = "config/magnumtorch-server.toml"
+hash = "ee70d0858486aee23cf649883ecfd0a956592c7e2970b8e8a7791909e8b420b9"
+
+[[files]]
 file = "config/malstone-common.toml"
 hash = "04bbf0711b9e9bd9e99db8a0e5cffab0ea8185fb761ebc1d4ef7938e7e037408"
 
