@@ -3,8 +3,8 @@ filename = "createimmersivetacz-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "99e67fcab1be505ee0344475e28a24180c5e106d"
+hash-format = "sha512"
+hash = "d6adfac47b835583122e9f958793d60886ded9aead3da1a74db53c63a4bc46311150955819ad1f4ffbc1b32f92917fca4c49d10a52c554ed42cfdaa2201bce4c"
 mode = "metadata:curseforge"
 
 [update]

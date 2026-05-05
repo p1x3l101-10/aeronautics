@@ -3,8 +3,8 @@ filename = "aeroworks-1.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f761daaacb7eb3f64b160daca5122866b6f758f4"
+hash-format = "sha512"
+hash = "fca54c588de15462613158e65d29f1148623514429d6394fd960b3d8a20f5dbdb478c7ecf18831f0a137f0d480b7f3744feda5ea636e639b6f54cb454a731409"
 mode = "metadata:curseforge"
 
 [update]

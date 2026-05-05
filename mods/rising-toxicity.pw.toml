@@ -3,8 +3,8 @@ filename = "risingtoxicity-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "45bcfde33b92983505c2247593cfb4a7aa0c6e98"
+hash-format = "sha512"
+hash = "d39d6930e7180d9dbf8002dd2d0a99299ffd010481a658cdea703a5616bf45f1e13293b5ff62f380a731ffa0430072f8ca39cabd51ca927f6cbf4ba779dccd74"
 mode = "metadata:curseforge"
 
 [update]

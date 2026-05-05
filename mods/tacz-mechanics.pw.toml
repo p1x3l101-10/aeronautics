@@ -3,8 +3,8 @@ filename = "tacz_mechanics-0.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2442fc587082446291212657df9af1a7a9cf6fe7"
+hash-format = "sha512"
+hash = "f006de2ce9e99c943c0c22ace509aa8a15b9aa9e7c14379123db8727337a56b4776ee91eef42b9226a9f8f777315519b433237c875e4dd85a8160bb4e352acb0"
 mode = "metadata:curseforge"
 
 [update]

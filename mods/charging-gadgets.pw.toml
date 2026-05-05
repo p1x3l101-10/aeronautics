@@ -3,8 +3,8 @@ filename = "charginggadgets-1.14.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3208ea2ca10d786895d03c2cd3a124d14393b357"
+hash-format = "sha512"
+hash = "4974a9a2772befe11e7315b8869b28f25e370084ae21b9cdc09f37b1160a841a2dce6583841c47deac9894e64da7deef2a08dfc51fe170a3e88a42ad5f965f46"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/p1x3l101-10/aeronautics/refs/heads/main/dataFiles/voxy.jar"
-hash-format = "sha256"
-hash = "714de0c650f93a73e5f502c3ef29e710fdafe8c87e24d85cdb533f7b71f4d252"
+hash-format = "sha512"
+hash = "55b9c09a41f137ee47419e69a9e40fe75addd5e1fc7cb002c329bc4dc500f72b5f0a74ccb834dcf378ea58f500e8cfa70a91c157b26edec50da21c6b18c7c03e"

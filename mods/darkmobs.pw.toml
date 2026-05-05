@@ -3,8 +3,8 @@ filename = "darkmobs-neoforge-1.21.1-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "332d6ba455ecc61910ac027b6805f826c6ed99f2"
+hash-format = "sha512"
+hash = "a4c2a03cf8d3dd1190096e2b7a4d2e3ff5e973ec66e0d1b525587469cd598c30c2854ea66b9a7b5bfb77babcff1deda2cefda109b471f6ed5d3a2de89054ae4f"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "towed-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6519f68d4fd12dd08f2a67dab03b32a661a1902"
+hash-format = "sha512"
+hash = "8bb89ca6c611c92e54d550b4319cdbc6343828334c53f55aa565385a819a5162a7d50fd09fdc575e4cdf6cac226672ac7237d44d3b8df8a59b3c895137eadb87"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "climbable_ropes-1.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9dbf45f8fb440da8ab29e5e07906722a2f54f7f9"
+hash-format = "sha512"
+hash = "2b25df0cc5538d327047996bcc2d19a71a9498ff9bb0cd8d4bb1f5ed619e607fdd899232fdb8393715cfd5ed0dac216c158d51e0d267fbc5cf296a3d28c8dc0e"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "createsensors-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f224cc698f4ee2160d8ef139e3e82cc188908ddd"
+hash-format = "sha512"
+hash = "e5487810756ed483cf3cdcbfd7c6cd1ec89cf1920864700aa20eec6979e1ee89963fa911b79a56d3b8ba6b472b5fdba8d70861a659495f90144389c18b9b917e"
 mode = "metadata:curseforge"
 
 [update]

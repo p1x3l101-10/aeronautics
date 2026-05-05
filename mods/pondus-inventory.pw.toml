@@ -3,8 +3,8 @@ filename = "pondus_inventory_fi-0.5-Alpha.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2bb52a5495675bc5ac1b060fcddd9f0ff8d70ef"
+hash-format = "sha512"
+hash = "a7910b4f11cd3c212fa46dfd209342e4ace9150e07ebe49629d0303e8dfd5d5f9723d6bd1020bcbc853c4e22f4839e6fc7d954859984251cba6766a827d62376"
 mode = "metadata:curseforge"
 
 [update]

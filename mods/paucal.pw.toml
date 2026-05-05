@@ -3,5 +3,5 @@ filename = "paucal-0.7.1-pre-26+1.21.1-neoforge.jar"
 
 [download]
 url = "https://ci.blamejared.com/job/petrakat/job/PAUCAL/job/1.21/26/artifact/Neoforge/build/libs/paucal-0.7.1-pre-26+1.21.1-neoforge.jar"
-hash-format = "sha256"
-hash = "845a410008cc8f61e1648a8ca2988ddfee4b337b6fb9d314bfa588e6655a9506"
+hash-format = "sha512"
+hash = "e2077920296af2923c7f27906909357858f1414af8ad93dd65f487f7e1a8fc2d0bef2ed0beb495de878ef606c0e0490d2048ad05fce24d2ef17dc14331605ab6"

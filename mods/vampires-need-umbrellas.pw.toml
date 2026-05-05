@@ -3,8 +3,8 @@ filename = "VampiresNeedUmbrellas-1.21.1-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "80b0bde4bb57fc3109585232df348e1820277d1b"
+hash-format = "sha512"
+hash = "a15d8336f7f73b9b12245b7f222bfd2acf452572406661ba720b768528934dbfa558c4014bdcb466795aaea22d39c1b6122c975249e9e0c4738120acc4d0d57e"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,9 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/p1x3l101-10/aeronautics/refs/heads/main/dataFiles/voxyserver.jar"
-hash-format = "sha256"
-hash = "fe5b506ca4a0db5fe12576d6a75fc8a4e0b2caa48ea93bf036c475c5a401f234"
-
-# BUILD ORIGIN
-## This is to let myself find the correct repo when building an updated version
-## https://github.com/Neon402/VoxyServer-1.21.1
+hash-format = "sha512"
+hash = "d049a34e6316e3f657920ae7a0e7c7acfd07c011e17f9664c40b72b6fb8aaa78ccbc0eaa4249be44b695cae65286a0a22774d59888fb9a668e64f9980b6a8e15"

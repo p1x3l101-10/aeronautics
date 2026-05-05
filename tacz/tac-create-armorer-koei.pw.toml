@@ -3,8 +3,8 @@ filename = "Create Armorer-v1.2.0.1-for117.zip"
 side = "both"
 
 [download]
-hash-format = "md5"
-hash = "d85e791155e8779550187ee9f50b243d"
+hash-format = "sha512"
+hash = "77066929381d42d379c29aa8b2f86efe1242860e623ffe5e3ecf9b9581b53b46b6346953c6b85403c64103aac75828a86e038fd7249ae686942e9f2f43d9afe8"
 mode = "metadata:curseforge"
 
 [update]

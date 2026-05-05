@@ -3,8 +3,8 @@ filename = "wayward_attributes-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "733b7c3eaa715697e50b4b3db1dd688261b02bcc"
+hash-format = "sha512"
+hash = "da73967be2455ffce5b7e4c8bb2b5854897231419c2bbbef1424ea817ee63b6f1beca6606a032ececc45499f84a6b3786c7826a58e67acba7098b8f7019d91e8"
 mode = "metadata:curseforge"
 
 [update]

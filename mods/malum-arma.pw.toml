@@ -3,8 +3,8 @@ filename = "malumarma-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "35b34853df23ab0ff254b15384518bed4432b5f5"
+hash-format = "sha512"
+hash = "20d6fc306de0121e0cf1b5392ccfe85b36c7ec87a71599542a62ff20ae974de402af593ab64f686c03d4377b8774fdabeb83f51bdf0726379b7522b57ab6d5db"
 mode = "metadata:curseforge"
 
 [update]

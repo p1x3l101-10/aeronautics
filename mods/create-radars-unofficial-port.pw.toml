@@ -3,8 +3,8 @@ filename = "create_radar-0.4.4-8+mc1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ad4729dc358a4439262dc4aa94b4b6a2425f2ca7"
+hash-format = "sha512"
+hash = "0d93d2d7c1d91a748e1bb282a634c7d7120bdd17877ee67d845a5b5a84882b89e5b7e11b63dde1d1a4b228505b6557362d756f9301b7618d2ab433d1f7b3525f"
 mode = "metadata:curseforge"
 
 [update]
