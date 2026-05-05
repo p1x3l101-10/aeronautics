@@ -12,6 +12,11 @@
 	# Default: 0.42
 	# Range: 0.0 ~ 5.0
 	jumpOffVelocity = 0.42
+	#Maximum angle from vertical (in degrees) at which a hanging rope segment can be grabbed for climbing.
+	#0 = only perfectly vertical ropes; 90 = any angle including horizontal. Increase to climb diagonal lines.
+	# Default: 31.79
+	# Range: 0.0 ~ 90.0
+	maxClimbAngleFromVertical = 31.79
 
 #Sprint-while-descending slide mechanics.
 [sliding]
@@ -34,3 +39,7 @@
 	allowVerticalRopeClimbing = true
 	#Allow climbing rope lines between two plungers.
 	allowPlungerClimbing = true
+	#Allow ziplining along plunger rope lines while holding a CHAIN_RIDEABLE-tagged item (e.g. Create's wrench), mirroring Simulated's existing zipline on hanging rope strands.
+	allowPlungerZipline = true
+	#Allow mantling onto the block above the rope when jumping off at its top end. When disabled, jumping off at the top performs a normal upward impulse instead.
+	allowBlockMantle = true

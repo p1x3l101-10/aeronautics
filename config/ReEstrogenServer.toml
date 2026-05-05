@@ -1,0 +1,5 @@
+[dashing]
+	#Allows the player to use the Dash ability.
+	enabledashing = true
+	#Number of ticks to cooldown Dash ability.
+	dashingcooldown = 20.0

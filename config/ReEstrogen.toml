@@ -1,3 +1,7 @@
 [player_model_effects]
-	#Toggles the breast model when Estrodial is taken.
+	#Toggles the breast model when Estradiol is taken.
 	displayfemmodel = true
+
+[dashing]
+	#Toggles the dash cooldown overlay.
+	dashoverlay = true
