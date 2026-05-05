@@ -1902,7 +1902,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-wrenchables.pw.toml"
-hash = "472e370225f9cbfa532cf8166eb1d1e93431866939cfeb31c7b33d0caba9fd79"
+hash = "48c09b085ea03b2ff9ed7d863d2985da3115a93cf12e18487bd2fc3672b666bb"
 metafile = true
 
 [[files]]
