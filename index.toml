@@ -505,6 +505,10 @@ file = "config/attributefix/sable/player.sub_level_punch_strength.json"
 hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
 
 [[files]]
+file = "config/attributefix/tacz/tacz.bullet_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
 file = "config/attributefix/vampirism/blood_exhaustion.json"
 hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
 
@@ -787,6 +791,10 @@ hash = "392d9a004db43fd218a0aeb0a22a0daebdd21d2d06acfcab0cb6580ebc6b6f08"
 [[files]]
 file = "config/createfastschematiccannon-common.toml"
 hash = "4650ed37670150a9b17bccae3f3268f02dcd387ca2acc098afc246aaa3972fbd"
+
+[[files]]
+file = "config/createimmersivetacz-common.toml"
+hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
 
 [[files]]
 file = "config/createlazytick-client.toml"
@@ -1331,6 +1339,22 @@ hash = "14210291891759b831951eba24c65985ed5bd27a7d09b6383aeb9fd3e8f1bc8c"
 [[files]]
 file = "config/suppsquared-common.toml"
 hash = "c1a86ed0860814352417574dc8171924bc52ac9d3e89f7fd3efa0bbbac58253c"
+
+[[files]]
+file = "config/tacz-common.toml"
+hash = "a72d83034580a020e58a7f2bcf61b2e6e990352bcbe3ffd0592cecd755083bc7"
+
+[[files]]
+file = "config/tacz-pre.toml"
+hash = "7760750454ef480008f25f13dd654ee1146a92b12bf7dbc104404ad3499c782b"
+
+[[files]]
+file = "config/tacz-server.toml"
+hash = "75687a8525a1f77336861901c6f2d1814ab045c6d2d816e404d9bf8e9e766905"
+
+[[files]]
+file = "config/tacz_mechanics-server.toml"
+hash = "da87eff21bc50bcd53a89a326498cc547473f3a359e9db1bbbe0c6d4869416f5"
 
 [[files]]
 file = "config/tectonic.json"
