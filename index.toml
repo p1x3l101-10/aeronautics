@@ -1050,7 +1050,7 @@ hash = "2efbd58d0330a2eb357c51c33a4346bce57ff8f4c9226660d3bf1aa549eead4b"
 
 [[files]]
 file = "config/magnumtorch-server.toml"
-hash = "ee70d0858486aee23cf649883ecfd0a956592c7e2970b8e8a7791909e8b420b9"
+hash = "a8d9020044396b5d634fb9a76b92de0d1d49365bdfdff25b20827bc417a1be4b"
 
 [[files]]
 file = "config/malstone-common.toml"
