@@ -32,14 +32,7 @@
     "c:wires/{material}"
   ],
   "ignored_tags": [],
-  "ignored_items": [
-    "createbigcannons:steel_ingot",
-    "createbigcannons:steel_nugget",
-    "createbigcannons:steel_block",
-    "createbigcannons:cast_iron_ingot",
-    "createbigcannons:cast_iron_nugget",
-    "createbigcannons:cast_iron_block"
-  ],
+  "ignored_items": [],
   "ignored_recipe_types": [
     "cucumber:shaped_tag"
   ],

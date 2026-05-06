@@ -126,7 +126,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "420ac98736d77de8bdf69c288d6bf86025d71214d82b31161c91bb69bd136807"
+hash = "9593f40b56a9206c76e428a3d741bfc88f13eff9ec49729563fbc91245f6f666"
 
 [[files]]
 file = "config/appleskin-client.toml"
@@ -1529,12 +1529,20 @@ file = "kubejs/data/pneumaticcraft/recipe/explosion_crafting/compressed_iron_ing
 hash = "a7ee03f1cba09d8535cea00f916c2dfb20dfa2a024a46d47ba6c6109501d6e92"
 
 [[files]]
+file = "kubejs/server_scripts/createbigcannons/castIron.js"
+hash = "f8202588ec8f59c295d6354204211e785d11394d44356ffd0956f7501f4f997a"
+
+[[files]]
+file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
+hash = "95fe59c6e4b02cc8e2914806a7a15fdbe2366757c4babb932f19bfafa09f68ff"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting/nobook.js"
 hash = "4f59e1cd26278522d0984e5288c4a8f17a64ba6bbc194b7992d14d9be6c05193"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "1c8359298ad4a3725eb4cba7146d12e746d95fecb7059c61f66a4e7b102fc6af"
+hash = "86579b2fece41e8edc63ef618fb8d17d42da70f99b9df304b89aa8bcc9ce16c8"
 
 [[files]]
 file = "kubejs/server_scripts/synaxis/drivebywire.js"
