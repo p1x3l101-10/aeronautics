@@ -82,7 +82,7 @@ ServerEvents.recipes(event => {
         tag: inputTag
       }],
       processing_time: castingTime,
-      results [{
+      results: [{
         id: outputId
       }]
     });
