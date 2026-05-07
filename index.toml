@@ -1534,7 +1534,7 @@ hash = "f8202588ec8f59c295d6354204211e785d11394d44356ffd0956f7501f4f997a"
 
 [[files]]
 file = "kubejs/server_scripts/createbigcannons/moltenMetals.js"
-hash = "d8a25d89bb9a674a78254006f728a898e7f970c66fde738604bf56c5917833f6"
+hash = "a957372df55fff790dd23868c4830dc61b0682006c72fcaf2c6953a096599d44"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting/nobook.js"

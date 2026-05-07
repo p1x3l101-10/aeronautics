@@ -102,7 +102,7 @@ ServerEvents.recipes(event => {
     }
     // Add casting recipes (omitting steel because TFMG has that already)
     const castItemNameProto = metal + "_ingot";
-    const castItemName = (castItemNameProto in itemOverrides) ? itemOverrides[castItemNameProto] : itemNameProto;
+    const castItemName = (castItemNameProto in itemOverrides) ? itemOverrides[castItemNameProto] : castItemNameProto;
     if (metal != "steel") {
       foundryCasting("c:molten_" + metal, ingot_mb, ingot_castingTime, modNamespace + ":" + castItemName);
     }
