@@ -31,25 +31,25 @@
 		natural = true
 		#Iron golems from villagers.
 		#Default Value: false
-		summoned = false
+		summoned = true
 		#Pillager patrols.
 		#Default Value: true
 		patrol = true
 		#Skeleton horse traps and warden from sculk shriekers.
 		#Default Value: false
-		triggered = false
+		triggered = true
 		#All kinds of mobs summoned by monster spawners.
 		#Default Value: false
-		spawner = false
+		spawner = true
 		#Mobs spawned by game events, mainly zombie sieges, raids, wandering trader visits.
 		#Default Value: false
-		event = false
+		event = true
 		#Zombified piglin from nether portals.
 		#Default Value: true
 		structure = true
 		#Zombie reinforcements spawned when a zombie is hurt.
 		#Default Value: false
-		reinforcement = false
+		reinforcement = true
 
 	#Mobs of this category are prevented from spawning through natural means (meaning mob spawners and breeding will still work).
 	#For refining affected mobs use blacklist and whitelist options.
