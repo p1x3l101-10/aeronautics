@@ -1,0 +1,13 @@
+name = "Civillis Minecolonies Compatibility"
+filename = "civilis_minecolonies-1.0.1-universal-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b25a1724293e58242c73a1ad041926428c4e1e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7899399
+project-id = 1499759

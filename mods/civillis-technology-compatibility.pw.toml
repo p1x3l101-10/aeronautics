@@ -1,0 +1,13 @@
+name = "Civillis Technology Compatibility"
+filename = "civilis_technology-1.0.1-universal-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca5bd6764973be94f82572e0c2a1a21dd8457809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8033226
+project-id = 1499755

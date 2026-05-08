@@ -1030,6 +1030,22 @@
       "min_y": -64,
       "max_y": 8,
       "dimension": "overworld"
+    },
+    "theurgy:sal_ammoniac_ore": {
+      "enabled": true,
+      "vein_size": 24,
+      "attempts": 1,
+      "min_y": -24,
+      "max_y": 72,
+      "dimension": "overworld"
+    },
+    "theurgy:deepslate_sal_ammoniac_ore": {
+      "enabled": true,
+      "vein_size": 20,
+      "attempts": 1,
+      "min_y": -64,
+      "max_y": 8,
+      "dimension": "overworld"
     }
   }
 }

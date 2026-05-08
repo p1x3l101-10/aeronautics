@@ -1,0 +1,13 @@
+name = "Pathfinding Edition for MineColonies"
+filename = "colonypathingedition-1.21.1-1.0.5-ALPHA-8.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UFGyxCZm/versions/EDqGq7s6/colonypathingedition-1.21.1-1.0.5-ALPHA-8.4.jar"
+hash-format = "sha512"
+hash = "86df133fe7cbf22a27b945734848cf6bdd7ea91930b888a83404b2eb3a3c7cab31447f129f46f4cf510544e1c5dc1d7d559fe2f817b60d0750e8f29c03983c99"
+
+[update]
+[update.modrinth]
+mod-id = "UFGyxCZm"
+version = "EDqGq7s6"

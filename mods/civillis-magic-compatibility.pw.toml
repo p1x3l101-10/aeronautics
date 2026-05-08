@@ -1,0 +1,13 @@
+name = "Civillis Magic Compatibility"
+filename = "civilis_magic-1.0.0-universal-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "537cb59b1b20540473f2ccf2647cb71987a85a8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7899538
+project-id = 1499753

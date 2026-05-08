@@ -365,6 +365,10 @@ file = "config/attributefix/malumarma/socket_capacity.json"
 hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
 
 [[files]]
+file = "config/attributefix/minecolonies/mc_mob_damage.json"
+hash = "8487e75bbbf7f53dd917e68b4c9ca8ad233888f97bd32715ab1f1684cd1684c3"
+
+[[files]]
 file = "config/attributefix/minecraft/generic.armor.json"
 hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
 
@@ -609,8 +613,16 @@ file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
+file = "config/civil.properties"
+hash = "91815ca69aa67261d107e4ec808d912dadbcd9efc88b30bd65754d5638f3ecc5"
+
+[[files]]
 file = "config/climbable_ropes-server.toml"
 hash = "736d4d3f367c126114ba2b1d7ff58539bbd104c46a6c19237d30c2e9c528ad70"
+
+[[files]]
+file = "config/colonypathingedition-common.toml"
+hash = "4746299645dec71c83604a02db65db651d3f44c22a548f6a2fbafaf3e430c3f6"
 
 [[files]]
 file = "config/computercraft-client.toml"
@@ -1069,8 +1081,24 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
+file = "config/minecolonies-client.toml"
+hash = "dfbbeeddbace9814c3431efe4cd1f43fc2898f9d517909c4dd1cd3f9860e974b"
+
+[[files]]
+file = "config/minecolonies-common.toml"
+hash = "552997c64c67252063c3ea798abb4441946aa7dc16e69b09cc9357704ce6f70c"
+
+[[files]]
+file = "config/minecolonies-server.toml"
+hash = "df4b47068443d44ec1d4c86fa9fa0fd05e69bb0cba29d1b1b55a20aaeffa24b1"
+
+[[files]]
 file = "config/mixed_litter-startup.toml"
 hash = "d59b44501c85488fe1765710c5d1550c93621650188fd8ae034be0ab1d6e3c39"
+
+[[files]]
+file = "config/modonomicon-client.toml"
+hash = "0249260b8d14a9341be9a512be7eddacf6f2b2b8b8461fb80793cee1f09bf8b9"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -1158,7 +1186,7 @@ hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
 file = "config/ore_veines/ore_veins_overrides.json"
-hash = "01ae618f92bed3a305f6eb5c50a30db5d330b80f9aff4d39c434d3ef54e528d9"
+hash = "02bb33f66a7770a04e5d0f4e7ff282db5ac79186c312b3b2ca81743c11fa13cc"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
@@ -1306,7 +1334,7 @@ hash = "add9c117a262f8702f084308a731ce1b1fb8db63c4ad1d031adb717db4bcb9fc"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
-hash = "5b36aeb152da44539b205ccf3e87f0edf46079f7be97aa677bf53c2f370d62d9"
+hash = "b9710b79f15937fe256e1e98951392caa73a8a59b0d63d60bba9fa81094ccb33"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -1318,7 +1346,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "05c735590ad8ab242559cbf46ffce6a627f3dce2138af5d3d03d88c73dc99e7e"
+hash = "2c93489713967419dddfb4d98e5a572c8258e12f1d8ccedf33c35b74b89d20b7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1335,6 +1363,14 @@ hash = "208db3e4a920d34d9d72e8bee35ea202f59c018cc8d5d53c83896947f75cf205"
 [[files]]
 file = "config/storagedrawers-common.v2.toml"
 hash = "fb5a3961a468da1b57e5d5773a3810254c310880bb268fc323c542734dc08a76"
+
+[[files]]
+file = "config/structurize-client.toml"
+hash = "53606807c781e6dd34f151b617caf47d254d4eadae62433c758b7c07a02b382d"
+
+[[files]]
+file = "config/structurize-server.toml"
+hash = "83934466c1b4bd82dce494e1f6e86b8f295d1ff9e474c00b8b53949e986dea9f"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -1383,6 +1419,14 @@ hash = "59aa4c66b0533991c42f4e1305ed7ab3f54621679be86bd8f7362b91a8517d46"
 [[files]]
 file = "config/tfmg-server.toml"
 hash = "6b1f369aed48e1dff6ce4cb5d89014fc986eeedbcdb3f8a853191a4bb6d8c84b"
+
+[[files]]
+file = "config/theurgy-client.toml"
+hash = "a27500693a95e2fa0d4c4a5d3d2670b58705aa9b4abed1756497e377585d3290"
+
+[[files]]
+file = "config/theurgy-server.toml"
+hash = "0601a34ae33546d6417e0ab6a6e52be00138e0a5596dcef8d8e8d09fb4cd24e4"
 
 [[files]]
 file = "config/towed-server.toml"
@@ -1682,6 +1726,11 @@ hash = "15283daeefa9f974a5bcd46014f063fe901b94b572768bd4b01d3a419d74a736"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
+metafile = true
+
+[[files]]
 file = "mods/blur-perfected.pw.toml"
 hash = "89401b2e70c62faefb6e84fb975c100a967d3c7f48f62805e908b6c837c6e78e"
 metafile = true
@@ -1749,6 +1798,26 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/civillis-magic-compatibility.pw.toml"
+hash = "a83c5247e3ea36682fef0ed95200f68e8cfe734f4e411bc5c8c8cc45efb10f65"
+metafile = true
+
+[[files]]
+file = "mods/civillis-minecolonies-compatibility.pw.toml"
+hash = "041d8da8c1fe23feb71a78f018b7d393fdfa11a0fbff40c9a5093c46c5b2b61d"
+metafile = true
+
+[[files]]
+file = "mods/civillis-technology-compatibility.pw.toml"
+hash = "d31bf5b0089d77da253857c464e9be6e8436eec40c5ace8cabd3806748e591c5"
+metafile = true
+
+[[files]]
+file = "mods/civillis.pw.toml"
+hash = "2135f9832a960911cb65adda96988624bd438978fd81eb19e892294f4a5470e2"
 metafile = true
 
 [[files]]
@@ -2107,6 +2176,11 @@ hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
 metafile = true
 
 [[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "acf14ebf63e023fd7b1a58c187f88f2091d5632e1723a816c460e511f6df711d"
+metafile = true
+
+[[files]]
 file = "mods/drive-by-wire-sable.pw.toml"
 hash = "10b4667fda9920f6a68577d61d17b318d97a988f5a8e9efcacc8c83c665cdc4b"
 metafile = true
@@ -2407,6 +2481,16 @@ hash = "17f414e91b6144e755671297997bcdcfafde5ccb63bd399c61ebf88e74682aa4"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "3ea53a3421a50217c28e1aed057fd7baf08e946e90013ba12e84d3e04fad4600"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
@@ -2424,6 +2508,11 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
 metafile = true
 
 [[files]]
@@ -2529,6 +2618,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/pathfinding-edition-for-minecolonies.pw.toml"
+hash = "a4eafa8ce00a8297e14f52db58c88c9417a1e3f00b7282acc8f37f1d16747bac"
 metafile = true
 
 [[files]]
@@ -2722,6 +2816,11 @@ hash = "a54cf630b4b9a4b1fc076a1d6a07a5774aca5a2172bec1444ccdefdeddac5f1f"
 metafile = true
 
 [[files]]
+file = "mods/structurize.pw.toml"
+hash = "9ef81e3a2eedc119c659940b940e5ab1a1ed6e37fbbc83c3edf53a8ea859aaeb"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "7caef1a25c557f177067d3f487c95508eaef0b08f07871b39bbefeacf78d4bf2"
 metafile = true
@@ -2772,8 +2871,18 @@ hash = "eb353f2259242b820b43ac90e24dd08b0fbb7d099cce381a7f86a09d9c931594"
 metafile = true
 
 [[files]]
+file = "mods/theurgy.pw.toml"
+hash = "06b9be0844753a7085072e2cfaa7186b0c9e3ab0a4d094c442ef203fb54095ff"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "49fb27f04c4ec26614fd121a7a8f7764d59949d0b6a3c32a63fb57fd2b3c8ea9"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
 metafile = true
 
 [[files]]
