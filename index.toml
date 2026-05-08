@@ -646,7 +646,7 @@ hash = "dac18a20718319d6556a7b2709d8f7a64b5da718d2b05ab9d32604087860322a"
 
 [[files]]
 file = "config/corpse-server.toml"
-hash = "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
+hash = "4f20f0af247f943d9db9c447936a44ffdfd6247a2a9a5e2d67304798dfadf5bf"
 
 [[files]]
 file = "config/corpsecurioscompat-common.toml"
