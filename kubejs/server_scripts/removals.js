@@ -7,6 +7,7 @@ const badRecipes = [
   "ae2:inscriber/silicon_press",
   "tfmg:compacting/cast_iron",
   "createbigcannons:mixing/alloy_steel",
+  "createbigcannons:compacting/iron_to_cast_iron_ingot",
   "createnuclear:mixing/steel"
 ];
 
