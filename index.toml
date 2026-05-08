@@ -1334,7 +1334,7 @@ hash = "208db3e4a920d34d9d72e8bee35ea202f59c018cc8d5d53c83896947f75cf205"
 
 [[files]]
 file = "config/storagedrawers-common.v2.toml"
-hash = "f85f909e20ab3a7b9db17013e21bca303dfb8f677a0308d7e64cdc85fcd1ac58"
+hash = "fb5a3961a468da1b57e5d5773a3810254c310880bb268fc323c542734dc08a76"
 
 [[files]]
 file = "config/supplementaries-client.toml"
