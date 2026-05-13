@@ -2636,6 +2636,11 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "6ade0327d7103487f7ef0bec778ae3a12a4fe8c2d20ddb7c5aea9a191e3a2763"
 metafile = true
