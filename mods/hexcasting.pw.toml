@@ -1,7 +1,0 @@
-name = "hexcasting"
-filename = "hexcasting-neoforge-1.21.1-0.12.0+8f6089ad.jar"
-
-[download]
-url = "https://repo.pool.net.eu.org/pub/at/petra-k/hexcasting/hexcasting-neoforge-1.21.1/0.12.0+8f6089ad/hexcasting-neoforge-1.21.1-0.12.0+8f6089ad.jar"
-hash-format = "sha512"
-hash = "3c455b25a3684b25d0a71e61c4d215ed4e08349c343dfd3ffb7aa12916ea0cf8b94abeb633d02af9c52a19a2fceeab6620029b78abe0f9967fb09b31b01c41d2"

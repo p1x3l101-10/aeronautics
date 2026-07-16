@@ -1,0 +1,13 @@
+name = "Create: Horse DECIMATION"
+filename = "create_horse_decimation-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ccYleyc4/versions/3Nq0pK2w/create_horse_decimation-1.1.1.jar"
+hash-format = "sha512"
+hash = "5491ab29e35c672bcfafbfabba3fe803d27b7df5d08847a2d7e27416c97782dd133696ed70f13375a4c794d5930e424f0c8962a6774d981463b8f1013d44f4ad"
+
+[update]
+[update.modrinth]
+mod-id = "ccYleyc4"
+version = "3Nq0pK2w"
