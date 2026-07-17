@@ -380,11 +380,6 @@ hash = "a8dd1afb86afca8f2abe8bfb7da401053ef635768c0e733a83465df41642f99e"
 metafile = true
 
 [[files]]
-file = "mods/create-geology.pw.toml"
-hash = "3887eb39e370c8220f09e694266dd1f48d9e6b97f5de5148159c119bf2c8875c"
-metafile = true
-
-[[files]]
 file = "mods/create-horse-decimation.pw.toml"
 hash = "9a7337e3e7ffed6975e14f652f6d5ee0d8ebc418c0f7102532cd22922834ea26"
 metafile = true
@@ -621,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "666741d658265a825d4dd736c7edf104f3029eae9d3d4df522e9eafe203729e5"
+hash = "ddb020f79147ba466c2152fd4878c03ca5ce09d6a775d49df6103d32df489d2c"
 
 [[files]]
 file = "unsup.toml"
