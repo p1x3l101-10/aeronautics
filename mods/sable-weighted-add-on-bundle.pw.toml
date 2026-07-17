@@ -1,0 +1,13 @@
+name = "Sable: Weighted - Add-On Bundle"
+filename = "sable-weighted_addons-1.0.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gIGuk9m4/versions/1UnVcp9j/sable-weighted_addons-1.0.21.jar"
+hash-format = "sha512"
+hash = "d8384fc0c257ac34e4d04d8268886f50229d33e51d4159f415776f4059d91285e94180ab8a7df58c9f6c6f37ccc2597fa897e71339bd0e10b86470a43c5d58b6"
+
+[update]
+[update.modrinth]
+mod-id = "gIGuk9m4"
+version = "1UnVcp9j"

@@ -1,0 +1,7 @@
+[texture_selection]
+	#Enabled textures (client-only). Keys are full ResourceLocations.
+	enabledTextures = {}
+
+[sound_selection]
+	#Enabled sound entries (client-only). Keys are generated ResourceLocations.
+	enabledSounds = {}

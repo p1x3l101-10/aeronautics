@@ -1,0 +1,13 @@
+name = "Pulsetech"
+filename = "pulsetech-1.21.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bvQYgDE/versions/ZI9VvtOo/pulsetech-1.21.1-1.1.4.jar"
+hash-format = "sha512"
+hash = "21207c097622951cf2e1b7499a7ccf12617e0a9f5b48199866f6802d581ae026a8682a6e73c1624b3e8af1c305d134c9a522b9aa413843bff5b95d016cf8dd1b"
+
+[update]
+[update.modrinth]
+mod-id = "1bvQYgDE"
+version = "ZI9VvtOo"

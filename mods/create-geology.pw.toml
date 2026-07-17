@@ -1,0 +1,13 @@
+name = "Create: Geology"
+filename = "create_geology-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RyBM5Kmd/versions/HKbJCVmM/create_geology-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "4cafa2ac247a879f658d4bc40442bcfe3617a2ce9b119b001d814b058669b3eaad5c6e5fe8f72abcb6083b636c19a1cbb1eb39f5d8db49fedd787289cc4ee028"
+
+[update]
+[update.modrinth]
+mod-id = "RyBM5Kmd"
+version = "HKbJCVmM"

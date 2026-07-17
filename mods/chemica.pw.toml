@@ -1,0 +1,13 @@
+name = "Chemica"
+filename = "chemica-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6GusVzz/versions/hzLufTiW/chemica-0.6.0.jar"
+hash-format = "sha512"
+hash = "3094a89db935f02839285783e90767b9a4337d52b5ac63e6701d96e7c47d3d41703b7a4704e9d815f463821b75d4749f8c400d405843fd3a2c6c01694990e3fb"
+
+[update]
+[update.modrinth]
+mod-id = "E6GusVzz"
+version = "hzLufTiW"

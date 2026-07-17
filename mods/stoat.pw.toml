@@ -1,0 +1,13 @@
+name = "Stoat"
+filename = "stoat-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fhMTnqBJ/versions/ZL2e5acP/stoat-1.1.jar"
+hash-format = "sha512"
+hash = "4385b1d5c73fdae4f5641e737d2c496406e4f86d964cb43626acd97a48c69c746315f1051184efff1e2bcd3a002e526d2eb2b5755c92d29674e70d7a0588ced7"
+
+[update]
+[update.modrinth]
+mod-id = "fhMTnqBJ"
+version = "ZL2e5acP"

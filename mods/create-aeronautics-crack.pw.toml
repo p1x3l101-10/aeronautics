@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Crack"
+filename = "CreateAeronauticsCrack-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3VVq9tzm/versions/jLOWz4Un/CreateAeronauticsCrack-1.0.0.jar"
+hash-format = "sha512"
+hash = "0601179747d2500d79ddd1a582fc60bdd223b33c7394e49e79ab813abb8aef35858b7ed24c64824b5bc3739073840ce477e6eb3f0a8198239d6215be0e55ab51"
+
+[update]
+[update.modrinth]
+mod-id = "3VVq9tzm"
+version = "jLOWz4Un"

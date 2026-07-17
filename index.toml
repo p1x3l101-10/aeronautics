@@ -1,6 +1,275 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ArPhEx Configurations.toml"
+hash = "24df2d72519d5d26d0cd366caddc9963033c50b41779b76800bb224725bab477"
+
+[[files]]
+file = "config/TFMG_engine_controllerfix.toml"
+hash = "51afdbeda26898376059f6a1a9f8e95eb6822d658c0c6af0ad54ed6ece8dfe42"
+
+[[files]]
+file = "config/WildfireGender/client.toml"
+hash = "0524fa175760e165038aa7b0a61bb3755f1670d415289b442c785135c502a101"
+
+[[files]]
+file = "config/aeroworks-client.toml"
+hash = "c523bbcf8abba9b7a3545600263b63ebed2f91ca79150579cd9be1dfe2832ae8"
+
+[[files]]
+file = "config/aeroworks-common.toml"
+hash = "9e2f787a29f86594d6cbbf9918be00b6e68664d393413c2cb78e7a227ce86bd8"
+
+[[files]]
+file = "config/alchemancy-client.toml"
+hash = "6da02cf42a2cee134d73d698925d832c9e3a2e4630a1767c351b174fab70f259"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
+
+[[files]]
+file = "config/awakened_islands-common.toml"
+hash = "2a863912a4d9445a2b6abce07f32522b5ae086af15e8fa749d85cc166ee45b67"
+
+[[files]]
+file = "config/betteradvancements-client.toml"
+hash = "5b965898d5b13c5557b603c68ed4ac79a4f850f3a7205eb3dbfc6116f2caf19a"
+
+[[files]]
+file = "config/capsulecorp-common.toml"
+hash = "81d63ff981959074529d13e406ff6392e9b524f68c8de48f4026140b7bb10148"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "64b3a9808f98d547bfc461f41e159cab6ef3c7525a98479e06adcbf65b027997"
+
+[[files]]
+file = "config/climbable_ropes-client.toml"
+hash = "f8ffe28d0054cfa5aebc8e5a86da175bb0dbf01461034bdaf4aa6ad1bd53bbc4"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "16774bad3d5684a5ecfb6e9e9a8ca5c158fbc8bb3c97568af830be925e6d3d2a"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
+
+[[files]]
+file = "config/create_horse_decimation-client.toml"
+hash = "30a918be2c4d52af8b46347cf345602f9ab71a2385a7b5c16a48aa8fab6995b6"
+
+[[files]]
+file = "config/create_submarine-common.toml"
+hash = "b38d4a268cf6c90c406b48dcd162313931171d23e446c31a7e4469499e2a31de"
+
+[[files]]
+file = "config/create_submarine_client_state.json"
+hash = "08b6e82ddd47db0d09dbbd7bebd4c0bc2a013ea2a1dc80e85ae28a19827fa374"
+
+[[files]]
+file = "config/createaeronauticsphysics-common.toml"
+hash = "54cd3323e18389626f7d925bbd4118554bbbfc2bc0d1c8ce06a4429072e710a9"
+
+[[files]]
+file = "config/createburnerfuel-common.toml"
+hash = "af1fa688171c8847eaac2e1359a93a96b8ff14f94a3dc81efcb3a093191e6697"
+
+[[files]]
+file = "config/createdynlight-client.toml"
+hash = "3f4b4927a30942747696b6ca87d14f903e4666f84e33dd08c55ca7c87332b1af"
+
+[[files]]
+file = "config/createpropulsion-client.toml"
+hash = "ed4c5599ccd8916b39fd40ec83b9b665cd7ed511bf4c773cb56e1e9a22d34055"
+
+[[files]]
+file = "config/createpropulsion-common.toml"
+hash = "b9f866f4b410c501d7fb3e8866f9f53065c1de4403846113b5f0f561d983a401"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "f1e31eed2ff11e1c6eda6517dc8b24dabd5b752ba1f8a3503c5ce750af1fc7b4"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
+
+[[files]]
+file = "config/face_of_horror-client.toml"
+hash = "0cbf8574a22e2709a1a27fe573e591627d4f5512e6341238aab6b8dd0a9e194e"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "9a8019a2819cf8f27a30c0788b458ed7e9b6d749faea23d8feafa0424c4bb568"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
+
+[[files]]
+file = "config/highfloaty-common.toml"
+hash = "99220102241dedd3b742e042acd80cd85737d181e559bbc541bba5912b162123"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+
+[[files]]
+file = "config/immersiveengineering-client.toml"
+hash = "912425e0f8128c386af08b3ffe7caf82b3a01eac44b617e466295d5078696827"
+
+[[files]]
+file = "config/immersiveengineering-startup.toml"
+hash = "776cf15a4474e30ac7bdf944f44d0dca25851efad95b8d8055f3d3de29aad705"
+
+[[files]]
+file = "config/ldfix-common.toml"
+hash = "f99c631f4b4054062f992e8b7bf337577852d26d4ee7fe1dfbb0a36fb223a1f6"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
+
+[[files]]
+file = "config/powergrid-client.toml"
+hash = "78af02862314c3fb9b8db7e5b639c6e3fc1f6877754803fddce8aa38b437b671"
+
+[[files]]
+file = "config/powergrid-common.toml"
+hash = "84ccea01cf443aec50e3ba787a2d6d865752e98e919f45512868a41861a56732"
+
+[[files]]
+file = "config/pulsetech-client.toml"
+hash = "140bdbaa785dddb5f173432193d9dccc1b196166bc59d933b709ce209d40d3d4"
+
+[[files]]
+file = "config/pulsetech-common.toml"
+hash = "258f044ac16f2e7922f5d4057b3464aebc54522a43072817c1e79d8667192c84"
+
+[[files]]
+file = "config/ragdoll_corpse-common.toml"
+hash = "5cb5a738db6cd483961c6d3bbacf7517015034375aaa281141ab6ed0682dc0a5"
+
+[[files]]
+file = "config/reactive-client.toml"
+hash = "83d7f0eb7e36c950c28843267bf1b607ac5ff83deb317c0c89a47eb80cc9b98f"
+
+[[files]]
+file = "config/reactive-common.toml"
+hash = "dc5effec24489905bc9964512695ad0ca31fb619e147f3f46962cbcd9dd114b1"
+
+[[files]]
+file = "config/sable-client.toml"
+hash = "0dd32460fb2fc6a4e438784924c377f11ba416732be1daff68c951e2e197d42d"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "0614f722541191b6ddcfb686f97d5ea9a3280d32f8e0607c0d31dffe9a2dc5d7"
+
+[[files]]
+file = "config/sable_player_ragdoll-client.toml"
+hash = "5280e3af69512a59012b7570be618a4f5faff99458de2a2f990e2282e62b5048"
+
+[[files]]
+file = "config/simulated-client.toml"
+hash = "944ba0d36dfe00436e814fffd736acdd51292da18a01a060ea6ffbcf3dc7388b"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "20c476311ac9857d2d69b397de9472de7c80e89ff9a3dbd39208462cbe223936"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "5b36aeb152da44539b205ccf3e87f0edf46079f7be97aa677bf53c2f370d62d9"
+
+[[files]]
+file = "config/submarine_hull.json"
+hash = "7d88a0853c49e948c577f8525d145aac2e0ef988a17bac0e14f580965382b13c"
+
+[[files]]
+file = "config/tfmg-common.toml"
+hash = "59aa4c66b0533991c42f4e1305ed7ab3f54621679be86bd8f7362b91a8517d46"
+
+[[files]]
+file = "config/trinketsandbaubles-common.toml"
+hash = "1d468c3f4580947f45b886fd502637084caef8463671bb087cb9f138e93ee661"
+
+[[files]]
+file = "config/trinketsandbaubles-modifiers.json"
+hash = "145e7ef34bf382a628720fb3de6a73552bc4120d9f3ae06981c696f3da8ef497"
+
+[[files]]
+file = "config/vanillabackport-client.toml"
+hash = "4b6f99955f574707a5d2e5b6bcfefd9c5391559c6a0e5ab1dc0bd36aeb93c03f"
+
+[[files]]
+file = "config/vanillabackport-common.toml"
+hash = "0c8eca696f9811ad4af1bdac9ca5b5ac06c6dabe50aac551401a1a40e30d20d8"
+
+[[files]]
+file = "config/vanillin-client.toml"
+hash = "4b5fd5be33607e8084259858bf4986f163d4baa6239e2b215fb932c8018f6a78"
+
+[[files]]
+file = "mods/aeronauticsvoidseas.pw.toml"
+hash = "fa34e3e26e7d47f94e7e7b6bd75a71cfcbf743f5a5bd997eaf0e95088b56ee07"
+metafile = true
+
+[[files]]
+file = "mods/alchemancy-cannon.pw.toml"
+hash = "33b82930e253cbfaf1316f2026d3d7905c12d5f578fe7d4538938b14cd09db7a"
+metafile = true
+
+[[files]]
+file = "mods/alchemancy-x-create-compat.pw.toml"
+hash = "6033915b2fccb1d8d130912732bcaab07633fe6c0dbf27dccbca3ec82c38eed5"
+metafile = true
+
+[[files]]
+file = "mods/alchemancy.pw.toml"
+hash = "ac2cfa5fb189661485f6e9809e3a4cad13b81b2311ca880ed927b2e669728f65"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -13,6 +282,16 @@ metafile = true
 [[files]]
 file = "mods/attributes.pw.toml"
 hash = "7b8b82bf778a7930edbf2ea63c177f07202c519b6982306eee2fe7c9acbd9dc6"
+metafile = true
+
+[[files]]
+file = "mods/awakened-islands.pw.toml"
+hash = "d7f8ae89c163e9dd181f0f900637489f38a7b8e7be678a7b994f0c6dc0169c70"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
@@ -31,8 +310,113 @@ hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
 metafile = true
 
 [[files]]
+file = "mods/chemica.pw.toml"
+hash = "65f74f40a3348d7407904828840cfa25d635661c604c564be0eed711c1799add"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-burner-fuel.pw.toml"
+hash = "90f8323031d6bbb7f764562c68783014a7dfd177b0f7a8c6a9c512f9d74516b6"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "932b0d9f28a5058c41bc2faf0cc09b68ef368e0cad3259efa2bace45e128fe29"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-crack.pw.toml"
+hash = "0c76b6494e516fb839496736c6ee006cf0378323db63b9a17973774cac835fb4"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-lift-patch.pw.toml"
+hash = "434d92388783bd89bfad57891f43b7bab9b9c3b16800fd1d8de5f76049a2f304"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-paddlewheels.pw.toml"
+hash = "a8b459bfb86f6ec9ff8502f58a8ad82a028e95f5521d7d67b2d78581850d1af6"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-physics-gantry.pw.toml"
+hash = "64a8a6838b669dba08ba6e7c551f107791e0c2f1dae3e4f089a828108c148b86"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "ff5cc2cb323fcfc334b4975b2d23ddffa01a6c42fb9b73128f7409bc617d9f4b"
+metafile = true
+
+[[files]]
+file = "mods/create-capsule-corp..pw.toml"
+hash = "f4399ea0e3f6238bfffd93bf252a265d7e47a20d8f948dd7f6199f87e43ca12f"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas-lava-fix.pw.toml"
+hash = "cdee1d0e7cdd515fd5f9171ab4f553a127850d5a584685d125495712db0e94e9"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
+metafile = true
+
+[[files]]
+file = "mods/create-drill-levitite.pw.toml"
+hash = "a8dd1afb86afca8f2abe8bfb7da401053ef635768c0e733a83465df41642f99e"
+metafile = true
+
+[[files]]
+file = "mods/create-geology.pw.toml"
+hash = "3887eb39e370c8220f09e694266dd1f48d9e6b97f5de5148159c119bf2c8875c"
+metafile = true
+
+[[files]]
 file = "mods/create-horse-decimation.pw.toml"
 hash = "9a7337e3e7ffed6975e14f652f6d5ee0d8ebc418c0f7102532cd22922834ea26"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
+metafile = true
+
+[[files]]
+file = "mods/create-the-factory-must-backport.pw.toml"
+hash = "1fd833dbb78b8d00fec27254f7c57d0c0f42fab58222f93fcd0985dfc0ab8a78"
+metafile = true
+
+[[files]]
+file = "mods/create-transmission!.pw.toml"
+hash = "f81e4d339828288b77584cce5d0942c058cb68f00e70d623b8b12c6691874e1b"
+metafile = true
+
+[[files]]
+file = "mods/create-weighted-items.pw.toml"
+hash = "1cdb88963f90748de50b3a00aa18f36b3baccced9bd62846717765b985193504"
 metafile = true
 
 [[files]]
@@ -46,6 +430,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
 file = "mods/face-of-horror.pw.toml"
 hash = "9fc1e4b53264f756a33d3b13e47186c4e33a7507a4408e511c07bc750d384b78"
 metafile = true
@@ -56,13 +445,83 @@ hash = "882b7ef150e03885865ae89ff47e072058999f743d449ca96ed9a6f71d412c8d"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/flw-vanillin.pw.toml"
+hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1e5d37a3fb41e78708215f521e8b3f3a661b2157bd9e15abf4c39c4eb87621ba"
 metafile = true
 
 [[files]]
+file = "mods/highfloaty.pw.toml"
+hash = "7b3f60f49ced03272cb6ed4b8f9454c388ae1ca3eae3ca5f71b71b89f9036605"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
+metafile = true
+
+[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "636d90c851ff6f3d8668140cec978a05b9078d1b8a0b85f300bb795ed0a55572"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "8235067b5b119172d8eb5b9b98f1a11b94736b1bdaf203a67a4c4666d4477a70"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
+metafile = true
+
+[[files]]
+file = "mods/more-generators.pw.toml"
+hash = "d195d36294dfea62b2eb4c4b2030ae0d4d7f2e26ba7ab875667c466ea91d6199"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
+metafile = true
+
+[[files]]
+file = "mods/pulsetech.pw.toml"
+hash = "76a936043563758781e0345794d8c3b5c05a7ac67645095027dd8b778147e606"
+metafile = true
+
+[[files]]
+file = "mods/reactive.pw.toml"
+hash = "88ed3ad28743cb00c0070b7579eedf9d9309d4f63be4886cb48260115e289512"
 metafile = true
 
 [[files]]
@@ -76,13 +535,88 @@ hash = "e9e14d73ca14d8a6eb35eb3d022861df49a3bee02693be70d31be011d87962c4"
 metafile = true
 
 [[files]]
+file = "mods/sable-ragdoll-corpse.pw.toml"
+hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
+hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
+metafile = true
+
+[[files]]
+file = "mods/sable-schematic-tool.pw.toml"
+hash = "1689ab92b06bdbb37a960d9c820d13b5ec91fc1108ec9e40c19be1090c121adc"
+metafile = true
+
+[[files]]
+file = "mods/sable-true-impact.pw.toml"
+hash = "34558f7895a60eee3b49418385f0b347090ece59048b836016cd020bf779a340"
+metafile = true
+
+[[files]]
+file = "mods/sable-weighted-add-on-bundle.pw.toml"
+hash = "ae629b55e9c0950089799bc12a7e1bab176bfd2c4e7e08016df877f1b12d1eb1"
+metafile = true
+
+[[files]]
+file = "mods/sable-weighted-create-deco.pw.toml"
+hash = "54a090b46698cc6330f65739b82983508850c15596bac67da651176b6aa9feae"
+metafile = true
+
+[[files]]
+file = "mods/sable-weighted-create-tfmg.pw.toml"
+hash = "bb49356e42c7f206696fc7fcc56b0cc2a0d4b4014ad084addc97f1b35975f243"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+metafile = true
+
+[[files]]
+file = "mods/sablecompat.pw.toml"
+hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/skills.pw.toml"
 hash = "c17ec242bcbb6cd66cfd1a5fa8005b19134bc26b0040b94bfaabab02f19db80b"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+metafile = true
+
+[[files]]
+file = "mods/stoat.pw.toml"
+hash = "21d617ff2c762149531476491f0db598bd7eeeb6fa6ab60bb73eed9870013cc7"
+metafile = true
+
+[[files]]
+file = "mods/tfmg-fix-engine-controller.pw.toml"
+hash = "0f184387b47483cadc1392bf7d1ac96a183b2f7966f7761df7b6c3942fc19c79"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-and-baubles-reforked.pw.toml"
 hash = "c530cb40d3b01fe0a41ca9c69c9e2ab85f05dca43190b3c5256d98d221324ac0"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
 
 [[files]]
