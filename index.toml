@@ -485,6 +485,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace-reforged.pw.toml"
+hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
+metafile = true
+
+[[files]]
 file = "mods/more-generators.pw.toml"
 hash = "d195d36294dfea62b2eb4c4b2030ae0d4d7f2e26ba7ab875667c466ea91d6199"
 metafile = true
