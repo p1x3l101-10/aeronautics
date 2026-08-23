@@ -1529,12 +1529,12 @@ metafile = true
 
 [[files]]
 file = "mods/myotus-lib.pw.toml"
-hash = "19a5c0cb183b0ec1f2f50592389686f152b811800a2f4a8960259aa79b633b43"
+hash = "817543015530eb23da8e4a90e6eba6539aae3a630e3a0555f9a6630d8dd58ba3"
 metafile = true
 
 [[files]]
 file = "mods/neoecoae.pw.toml"
-hash = "4174cbb836d0f80086dcfe6e6c1195f08f749ae69b93a693f9763d7251438508"
+hash = "93347b57b3b258fe65b1d05c729a9c71f327618b4ad75eaa6318930ac6aff6da"
 metafile = true
 
 [[files]]
