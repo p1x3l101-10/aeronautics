@@ -1143,11 +1143,6 @@ hash = "149e6ad5c0f65b56bfd74863c6d3541f78cf0838c082d97133ba44476d01149c"
 metafile = true
 
 [[files]]
-file = "mods/c2me-ocl.pw.toml"
-hash = "e0bc448ffc9dc8eaf9bfd9c23ab162319a363545bdfce77cda2ba91e405189b0"
-metafile = true
-
-[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "bb7957568533b01a0c2ef9fd178e9598a39717c656ed1671e078c81894e94d99"
 metafile = true
