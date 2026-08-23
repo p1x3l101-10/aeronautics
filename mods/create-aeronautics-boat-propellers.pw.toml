@@ -6,7 +6,7 @@ side = "both"
 hash = "041ca6a33c52695b6f93e42ece34b30ab3fcfd7045fb68dc1cce7eb440fc1ba8cd2209896dee16d8b1d6cad0c6bd55291010ace25bfd020d6988f8caf898b581"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/Rzsvsn8U/versions/iMJISpM8/create%20aeronautics boatpropellers.jar"
+url = "https://cdn.modrinth.com/data/Rzsvsn8U/versions/iMJISpM8/create%20aeronautics%20boatpropellers.jar"
 
 [update.modrinth]
 mod-id = "Rzsvsn8U"
