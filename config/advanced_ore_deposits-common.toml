@@ -1,0 +1,42 @@
+#Master switch for Advanced Ore Deposits world generation.
+generateDeposits = true
+#Deposit candidate cells are this many chunks wide. Larger values spread patches farther apart.
+# Default: 8
+# Range: 2 ~ 128
+depositSpacingChunks = 8
+#Chance for an eligible cell anchor chunk to actually generate a deposit.
+# Default: 0.35
+# Range: 0.0 ~ 1.0
+depositChance = 0.35
+#Lowest remaining mine cycles assigned to deposit edge blocks.
+# Default: 4096
+# Range: > 1
+minRemainingBlocks = 4096
+#Highest remaining mine cycles assigned near the center of large deposits.
+# Default: 32768
+# Range: > 1
+maxRemainingBlocks = 32768
+#Global lower bound for deposit patch diameter.
+# Default: 16
+# Range: 4 ~ 256
+minPatchDiameter = 16
+#Global upper bound for deposit patch diameter.
+# Default: 64
+# Range: 4 ~ 256
+maxPatchDiameter = 64
+#Raw chunks dropped per mined deposit block cycle.
+# Default: 1
+# Range: 1 ~ 64
+chunkDropCount = 1
+#When true, automation only consumes a deposit cycle if the chunk can be inserted into an inventory above or below the deposit. Player mining and explosions still consume and drop normally. When false, automation drops loose chunk items if no inventory accepts them.
+onlyDropIfMinedByPlayer = true
+#Keep chunks around mined deposits loaded for 15 seconds.
+loadChunksWhenMined = true
+#Square radius of chunks to keep loaded. 1 loads only the mined block's chunk, 2 loads a 3x3 area, 3 loads a 5x5 area.
+# Default: 2
+# Range: 1 ~ 16
+loadedChunkRadius = 2
+#If true, Jade and Create goggles show deposit remaining blocks when those mods are installed.
+showHudInfo = true
+#If true, zinc deposits only generate when Create is installed.
+zincRequiresCreate = true

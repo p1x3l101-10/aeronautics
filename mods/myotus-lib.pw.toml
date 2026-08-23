@@ -1,0 +1,25 @@
+filename = 'Myotus-1.21.1-19.1.1.jar'
+name = 'Myotus Lib'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-19.1.1'
+
+[download]
+hash = 'b086c1e333673887746e250e8af065cee124c35917a9749174b4a7ca3b21a62d4d022bb2ab3e8b0042fa792bc2d9601057a824e749a0558d046c0620cae21acc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/32YA23Pp/versions/uqvIHRrm/Myotus-1.21.1-19.1.1.jar'
+
+[update.modrinth]
+mod-id = '32YA23Pp'
+version = 'uqvIHRrm'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XxWD5pD3'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'pNabrMMw'
+type = 'OPTIONAL'

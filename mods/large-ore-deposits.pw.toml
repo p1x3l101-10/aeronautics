@@ -1,0 +1,29 @@
+filename = 'AdLods-1.21.1-9.1.7.0-NeoForge-build.1080.jar'
+name = 'Large Ore Deposits'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '9.1.7.0'
+
+[download]
+hash = '1528675c4a749821edce331ce25ea9c0495349903434b81395f414b871aa3f022620ff2cf89e09727699d59429f13cb69703679845686d877e542a317c215536'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y3a9lWnU/versions/GivDumYJ/AdLods-1.21.1-9.1.7.0-NeoForge-build.1080.jar'
+
+[update.modrinth]
+mod-id = 'Y3a9lWnU'
+version = 'GivDumYJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9ppAg1XD'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'SqCie2yJ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'EgS8gGp8'
+type = 'REQUIRED'

@@ -1,0 +1,177 @@
+#Ragdoll-on-tilt options
+[ragdoll]
+	#Force players into ragdoll when the sub-level they stand on tilts past the threshold.
+	ragdollEnabled = true
+	#Base tilt angle, in degrees away from level, at which a WALKING player ragdolls.
+	#Standing still raises this threshold; sprinting lowers it (see the values below).
+	# Default: 50.0
+	# Range: 0.0 ~ 90.0
+	ragdollAngle = 50.0
+	#Degrees ADDED to the threshold while standing still (harder to fall when planted).
+	# Default: 10.0
+	# Range: 0.0 ~ 45.0
+	standingStillAngleBonus = 10.0
+	#Degrees SUBTRACTED from the threshold while sprinting (easier to fall when running).
+	# Default: 10.0
+	# Range: 0.0 ~ 45.0
+	sprintingAngleReduction = 10.0
+
+#Ragdoll flailing — limbs whip around while airborne, purely for juice
+[flail]
+	#Make a conscious ragdolled player's arms and legs flail while airborne
+	#(falling, or launched by an explosion). Unconscious players stay limp.
+	flailEnabled = true
+	#Overall strength of the flailing torque. Higher = wilder limbs.
+	#First-guess default; tune to taste in-game.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	flailStrength = 1.0
+
+#Knockback — hitting a ragdoll shoves it, and can knock it off balance
+[knockback]
+	#Let a hit shove a ragdoll: the blow pushes the body the way it was swung and tips it
+	#off its feet, based on which part was struck and from where. Works with plain vanilla
+	#melee and with combat overhauls like Better Combat alike, with no hard dependency.
+	knockbackEnabled = true
+	#Overall strength of the shove. Higher = harder knockback and easier to topple.
+	#First-guess default; tune to taste in-game.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	knockbackStrength = 1.0
+	#Scale the shove by the damage dealt, so a heavy weapon knocks harder than a fist.
+	#Disable for a fixed shove regardless of the weapon used.
+	knockbackScaleWithDamage = true
+
+#Active balance — conscious ragdolls fight to stay standing (Euphoria-style)
+[balance]
+	#Conscious ragdolled players actively struggle to stay upright: legs step to catch
+	#the fall, the head is held level, and a stably standing body gets back up.
+	balanceEnabled = true
+	#Muscle strength scale for the joint motors (legs/arms/neck) while balancing.
+	#Higher = snappier, more coordinated recovery; lower = drunker.
+	# Default: 1.0
+	# Range: 0.0 ~ 6.0
+	balanceStrength = 1.0
+	#How hard the legs can push against the ground, in multiples of the base cap
+	#(~1.7x body weight per planted leg). Legs only push while a foot touches ground,
+	#so this can never levitate a body.
+	# Default: 1.0
+	# Range: 0.0 ~ 6.0
+	legStrength = 1.0
+	#Strength of the torso-righting 'core muscles', the main thing keeping a balancing
+	#ragdoll's torso upright (the legs alone don't right it). 1.0 stands firm; lower is
+	#drunker/floppier; 0 disables righting entirely (the torso just folds over).
+	# Default: 1.0
+	# Range: 0.0 ~ 6.0
+	uprightAssist = 1.0
+	#On a tilted sub-level, treat the DECK as the floor: stand perpendicular to it and
+	#hold position, instead of trying to be world-upright and sliding downhill off it.
+	#Matches the tilted view/entity rendering. Disable for pure world-vertical balancing.
+	deckRelativeBalance = true
+	#Deck tilt (degrees from level) up to which the ragdoll fully holds its ground on the
+	#deck, stands on it and resists sliding. Below this it plants firmly.
+	# Default: 10.0
+	# Range: 0.0 ~ 90.0
+	deckHoldTiltDegrees = 10.0
+	#Deck tilt beyond which the ragdoll stops fighting and tumbles/slides down the slope
+	#(a genuine fall). Between hold and release the hold fades out. Must be >= the hold tilt.
+	# Default: 40.0
+	# Range: 0.0 ~ 90.0
+	deckReleaseTiltDegrees = 40.0
+	#Log ragdoll-brain telemetry (masses, state, speeds) once a second per ragdoll.
+	#Turn on when tuning or reporting balance problems.
+	debugLogging = false
+
+#Recovery gate — every condition under which a player may leave ragdoll mode
+#(standing back up, manually dismounting, or the safety-valve failsafe) is
+#independently toggleable and tunable here.
+[recovery]
+	#Master switch. While enabled, a player cannot leave ragdoll mode except through
+	#the rules below (auto stand-up, manual dismount, or the failsafe); the ragdoll mod's
+	#own auto-expiry timers are suppressed. While disabled, the ragdoll mod's stock
+	#rules apply (sneak-dismount after its own minDismountTicks/duration settings).
+	recoveryGateEnabled = true
+	#Ticks after any ragdoll ends before the tilt trigger will launch a new one for the
+	#same player — gives them a beat to scramble clear of a still-tilted floor.
+	# Default: 20
+	# Range: 0 ~ 200
+	releaseGraceTicks = 20
+	#On leaving ragdoll, snap the player's view to where the ragdoll's head was actually
+	#aiming (rather than the free-look camera direction it left the ragdoll with), so the
+	#camera picks up facing the way the body was pointing.
+	restoreViewOnExit = true
+
+	#Standing back up automatically once the body is stably on its feet.
+	[recovery.standUp]
+		#Let a stably standing ragdoll end automatically and pop the player back up.
+		#If disabled, standing up requires the manual dismount rules below (or the failsafe).
+		autoStandUpEnabled = true
+		#Maximum lean from vertical, in degrees, still counted as 'standing'.
+		# Default: 18.0
+		# Range: 0.0 ~ 90.0
+		standUpMaxTiltDegrees = 18.0
+		#Maximum center-of-mass speed (m/s) still counted as 'standing' (not still falling/sliding).
+		# Default: 0.3
+		# Range: 0.0 ~ 20.0
+		standUpMaxComSpeed = 0.3
+		#Maximum torso angular speed (rad/s) still counted as 'standing'.
+		# Default: 0.9
+		# Range: 0.0 ~ 60.0
+		standUpMaxSpin = 0.9
+		#How many consecutive ticks the 'standing' criteria above must hold before the
+		#player automatically gets back up.
+		# Default: 10
+		# Range: 1 ~ 200
+		standUpHoldTicks = 10
+		#For tilt-triggered ragdolls, require the floor that threw the player to have
+		#leveled back out before letting them auto-stand (otherwise they'd instantly
+		#re-trigger the tilt ragdoll). Ignored for ragdolls from other sources.
+		standUpRequireFloorStandable = true
+		#With the check above enabled, how many degrees below the tilt-ragdoll threshold
+		#the floor must be before auto stand-up is allowed (a safety margin).
+		# Default: 2.0
+		# Range: 0.0 ~ 45.0
+		standUpRelaunchMarginDegrees = 2.0
+
+	#Manually leaving ragdoll mode (sneak) while not stably standing.
+	[recovery.manualDismount]
+		#Let the player sneak-dismount once the criteria below hold, even if they never
+		#stand back up on their own (e.g. lying down at rest). If disabled, only auto
+		#stand-up or the failsafe can end the ragdoll.
+		manualDismountEnabled = true
+		#Require at least one foot touching ground to unlock manual dismount — i.e.
+		#forbid leaving ragdoll mode while airborne.
+		dismountRequireGrounded = false
+		#Maximum lean from vertical, in degrees, still allowed for manual dismount.
+		#180 = any orientation (lying down is fine); lower this to require near-standing.
+		# Default: 180.0
+		# Range: 0.0 ~ 180.0
+		dismountMaxTiltDegrees = 180.0
+		#Maximum speed (m/s) of the fastest-moving body part still allowed for manual
+		#dismount — i.e. forbid leaving ragdoll mode while still moving.
+		# Default: 0.5
+		# Range: 0.0 ~ 20.0
+		dismountMaxSpeed = 0.5
+		#Maximum angular speed (rad/s) of the fastest-spinning body part still allowed
+		#for manual dismount.
+		# Default: 0.8
+		# Range: 0.0 ~ 60.0
+		dismountMaxSpin = 0.8
+		#How many consecutive ticks the criteria above must hold before manual dismount
+		#unlocks.
+		# Default: 25
+		# Range: 1 ~ 400
+		dismountHoldTicks = 25
+
+	#Safety valve so a player can never be stuck in ragdoll mode indefinitely.
+	[recovery.failsafe]
+		#Force-release a player who has been locked in ragdoll too long, regardless of
+		#stability (prevents softlocks from an unreachable stand-up/dismount state).
+		failsafeEnabled = true
+		#How long a player may be locked in ragdoll before the failsafe releases them.
+		# Default: 90
+		# Range: 5 ~ 600
+		failsafeSeconds = 90
+		#Only apply the failsafe to CONSCIOUS players. If disabled, unconscious players are
+		#also force-released after failsafeSeconds instead of staying down indefinitely.
+		failsafeRequireConscious = true

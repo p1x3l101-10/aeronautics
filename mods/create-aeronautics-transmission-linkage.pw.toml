@@ -1,0 +1,18 @@
+filename = 'create_aeronautics_transmission_linkage-0.2.6.jar'
+name = 'Create Aeronautics: Transmission & Linkage'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.6'
+
+[download]
+hash = '1c041a1fe8acb3799047a1e23c5f9984df50d02cc19197a4ee03df5d49f3f9278e96fff20bb71bee61a76b8ae69bfca97b6b0b55cd7c15cb9f1344cfba7a4a24'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y1dq5ioE/versions/i5cG7iGg/create_aeronautics_transmission_linkage-0.2.6.jar'
+
+[update.modrinth]
+mod-id = 'Y1dq5ioE'
+version = 'i5cG7iGg'

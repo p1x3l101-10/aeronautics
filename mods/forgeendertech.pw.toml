@@ -1,0 +1,18 @@
+filename = 'ForgeEndertech-1.21.1-12.1.3.0-NeoForge-build.1100.jar'
+name = 'ForgeEndertech'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '12.1.3.0'
+
+[download]
+hash = '5d1e74382c5473eb93ea89ecf7438c2ea95b7576ce5bee46f7dd88a87494ea75744946df94323a0d0a61da7f23cb899bbe3f9d8d3ca79984aabb4c8b0d499322'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EgS8gGp8/versions/fumbwaIS/ForgeEndertech-1.21.1-12.1.3.0-NeoForge-build.1100.jar'
+
+[update.modrinth]
+mod-id = 'EgS8gGp8'
+version = 'fumbwaIS'
