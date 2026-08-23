@@ -1,10 +1,6 @@
 filename = "AE2-TangibleBookmarks-1.21.1-19.1.3.jar"
 name = "AE2 Tangible Bookmarks"
 side = "both"
-x-prismlauncher-loaders = ["neoforge"]
-x-prismlauncher-mc-versions = ["1.21.1"]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.21.1-19.1.3"
 
 [download]
 hash = "57642f15b5c64b3db67b44817175f28a3d3b0527488b84dd0ac6b65c5faae1337b9ba4f6b421a0631d7d065ad38896f9ef2eb2c15e85456efeb58fc2bbb18a71"
@@ -15,23 +11,3 @@ url = "https://cdn.modrinth.com/data/gpwwX5bd/versions/zbXkTZdU/AE2-TangibleBook
 [update.modrinth]
 mod-id = "gpwwX5bd"
 version = "zbXkTZdU"
-
-[[x-prismlauncher-dependencies]]
-addonId = "fRiHVvU7"
-type = "OPTIONAL"
-
-[[x-prismlauncher-dependencies]]
-addonId = "XxWD5pD3"
-type = "REQUIRED"
-
-[[x-prismlauncher-dependencies]]
-addonId = "u6dRKJwZ"
-type = "OPTIONAL"
-
-[[x-prismlauncher-dependencies]]
-addonId = "nfn13YXA"
-type = "OPTIONAL"
-
-[[x-prismlauncher-dependencies]]
-addonId = "32YA23Pp"
-type = "REQUIRED"

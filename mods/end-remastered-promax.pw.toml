@@ -1,10 +1,6 @@
 filename = "end_remastered_promax-1.0.5.jar"
 name = "End Remastered ProMax"
 side = "both"
-x-prismlauncher-loaders = ["neoforge"]
-x-prismlauncher-mc-versions = ["1.21.1"]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.0.5"
 
 [download]
 hash = "48d9497bca5eec316f40b690be88d3bec58d7a09d4bd5871b2f6771ac67734d4de32bbdcc85976402c8e8aba4abeba744516115887ad7dcb5af4f3cdd0679864"
@@ -15,11 +11,3 @@ url = "https://cdn.modrinth.com/data/9bIWo80j/versions/5QNPo4y9/end_remastered_p
 [update.modrinth]
 mod-id = "9bIWo80j"
 version = "5QNPo4y9"
-
-[[x-prismlauncher-dependencies]]
-addonId = "vvuO3ImH"
-type = "REQUIRED"
-
-[[x-prismlauncher-dependencies]]
-addonId = "ZJTGwAND"
-type = "REQUIRED"

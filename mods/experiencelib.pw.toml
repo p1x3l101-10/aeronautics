@@ -1,14 +1,6 @@
 filename = "experiencelib-1.21.1-1.2.1.jar"
 name = "ExperienceLib"
 side = "both"
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = ["neoforge"]
-x-prismlauncher-mc-versions = [
-    "1.21",
-    "1.21.1",
-]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.21.1-1.2.1"
 
 [download]
 hash = "4e9757f770fda51495e3f63a1d84cf470994efa5482b32d9807d3903a6f3f07d01019561bdac54706d07722e985911307f357e7c5621c5e038786e7023e29e04"

@@ -1,11 +1,6 @@
 filename = "vaportrails-2.4.0.jar"
 name = "Create Aeronautics: Vapor Trails"
 side = "client"
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = ["neoforge"]
-x-prismlauncher-mc-versions = ["1.21.1"]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "2.4.0"
 
 [download]
 hash = "c9793fac5984a683bcd4c3c8f83a803cc1c305558a42e9175863806e873db44b9dc3d52d26c75209b51c1205cc71e5b8c5259e51db695de7fa524dda6be39c0d"

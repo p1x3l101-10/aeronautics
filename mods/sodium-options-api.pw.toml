@@ -1,10 +1,6 @@
 filename = "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
 name = "Sodium Options API"
 side = "client"
-x-prismlauncher-loaders = ["neoforge"]
-x-prismlauncher-mc-versions = ["1.21.1"]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "neoforge-1.21.1-1.0.10"
 
 [download]
 hash = "f2f022183f300961d7d0503461daa59e3e606c32f189f1cb3307edaf765986c541929205b7bf6f40c4c88319696e9d863c1bf711bd441dc9b7081c198ddb445b"
@@ -15,7 +11,3 @@ url = "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi
 [update.modrinth]
 mod-id = "Es5v4eyq"
 version = "lrsX3TMS"
-
-[[x-prismlauncher-dependencies]]
-addonId = "AANobbMI"
-type = "REQUIRED"

@@ -1,10 +1,6 @@
 filename = "powerchip-2.0.5.jar"
 name = "Create: Power chip"
 side = "both"
-x-prismlauncher-loaders = ["neoforge"]
-x-prismlauncher-mc-versions = ["1.21.1"]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "powerchip-vd7783"
 
 [download]
 hash = "080569fc16a158d20700ee8af89330bedb8c16f37fe77a7f456e038d29505ed0489ce5e182403e8ff48d91d3db70c46447c13b3d102948792f5ea55384868e34"
@@ -15,7 +11,3 @@ url = "https://cdn.modrinth.com/data/xjCy9IA8/versions/6Q5ZdxqO/powerchip-2.0.5.
 [update.modrinth]
 mod-id = "xjCy9IA8"
 version = "6Q5ZdxqO"
-
-[[x-prismlauncher-dependencies]]
-addonId = "eWiBLJ9R"
-type = "REQUIRED"

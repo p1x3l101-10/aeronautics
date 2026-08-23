@@ -1,10 +1,6 @@
 filename = "downhillrivers-1.0.0.3.jar"
 name = "Downhill Rivers"
 side = "both"
-x-prismlauncher-loaders = ["neoforge"]
-x-prismlauncher-mc-versions = ["1.21.1"]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.0.0.3"
 
 [download]
 hash = "5c4c4ed2d5b163a3f4d6c5261907ce0a69d668ce8a5ae74641767f7f727e2c2c5fbbef8eb1d7ce6f2f15a395a838b3c47539fc07d7b1336cba330291f8c49561"
@@ -15,8 +11,3 @@ url = "https://cdn.modrinth.com/data/52d6KT1Q/versions/T1OccrTC/downhillrivers-1
 [update.modrinth]
 mod-id = "52d6KT1Q"
 version = "T1OccrTC"
-
-[[x-prismlauncher-dependencies]]
-addonId = "XaDC71GB"
-type = "REQUIRED"
-version = "wiffJSbz"
