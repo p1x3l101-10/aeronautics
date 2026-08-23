@@ -1,25 +1,25 @@
-filename = 'c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.120.jar'
-name = 'C2ME OpenCL Acceleration Module'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '0.4.0-alpha.0.120+1.21.1'
+filename = "c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.120.jar"
+name = "C2ME OpenCL Acceleration Module"
+side = "server"
+x-prismlauncher-loaders = ["neoforge"]
+x-prismlauncher-mc-versions = ["1.21.1"]
+x-prismlauncher-release-type = "alpha"
+x-prismlauncher-version-number = "0.4.0-alpha.0.120+1.21.1"
 
 [download]
-hash = 'fe2a273e60002937f3d2eb869d8f1b3cc7419d0158e686a140c07a299d2cb14aa0779838a47ad01dca4e568683be379c4be7e987ff5b50c018d13512eac47da2'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/qtPMklut/versions/y4i7wWua/c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.120.jar'
+hash = "fe2a273e60002937f3d2eb869d8f1b3cc7419d0158e686a140c07a299d2cb14aa0779838a47ad01dca4e568683be379c4be7e987ff5b50c018d13512eac47da2"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/qtPMklut/versions/y4i7wWua/c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.120.jar"
 
 [update.modrinth]
-mod-id = 'qtPMklut'
-version = 'y4i7wWua'
+mod-id = "qtPMklut"
+version = "y4i7wWua"
 
 [[x-prismlauncher-dependencies]]
-addonId = 'Ps1zyz6x'
-type = 'REQUIRED'
+addonId = "Ps1zyz6x"
+type = "REQUIRED"
 
 [[x-prismlauncher-dependencies]]
-addonId = 'COlSi5iR'
-type = 'REQUIRED'
+addonId = "COlSi5iR"
+type = "REQUIRED"

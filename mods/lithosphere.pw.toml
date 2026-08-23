@@ -1,42 +1,47 @@
-filename = 'lithosphere-1.8.1.jar'
-name = 'Lithosphere'
-side = 'both'
+filename = "lithosphere-1.8.1.jar"
+name = "Lithosphere"
+side = "both"
 x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [
-    '1.20',
-    '1.20.1',
-    '1.20.2',
-    '1.20.3',
-    '1.20.4',
-    '1.20.5',
-    '1.20.6',
-    '1.21',
-    '1.21.1',
-    '1.21.2',
-    '1.21.3',
-    '1.21.4',
-    '1.21.5',
-    '1.21.6',
-    '1.21.7',
-    '1.21.8',
-    '1.21.9',
-    '1.21.10',
-    '1.21.11',
-    '26.1',
-    '26.1.1',
-    '26.1.2',
-    '26.2'
+x-prismlauncher-loaders = [
+    "neoforge",
+    "forge",
+    "quilt",
+    "fabric",
 ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.8.1+mod'
+x-prismlauncher-mc-versions = [
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.8.1+mod"
 
 [download]
-hash = 'bc5b3960ca2a2d7e3fa1e18c3d207b3ac0188fc409e60bf59514f63e51c021782f63ccd8f789939033367632e15a3aa98539a61a06bae7454cbca0b8b1e2bb82'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/iv9jp2k9/versions/Cu9qQGut/lithosphere-1.8.1.jar'
+hash = "bc5b3960ca2a2d7e3fa1e18c3d207b3ac0188fc409e60bf59514f63e51c021782f63ccd8f789939033367632e15a3aa98539a61a06bae7454cbca0b8b1e2bb82"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/iv9jp2k9/versions/Cu9qQGut/lithosphere-1.8.1.jar"
 
 [update.modrinth]
-mod-id = 'iv9jp2k9'
-version = 'Cu9qQGut'
+mod-id = "iv9jp2k9"
+version = "Cu9qQGut"

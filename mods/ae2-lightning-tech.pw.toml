@@ -1,21 +1,21 @@
-filename = 'ae2lt-2.0.9.jar'
-name = 'AE2 Lightning Tech'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.0.9'
+filename = "ae2lt-2.0.9.jar"
+name = "AE2 Lightning Tech"
+side = "both"
+x-prismlauncher-loaders = ["neoforge"]
+x-prismlauncher-mc-versions = ["1.21.1"]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "2.0.9"
 
 [download]
-hash = '8a2a4c65d3b467c72f0c4a4be2ef2af9b6d92347ad982280e2e46f406d0ced5b3fe1e51a62f0ca0275e87ae167eb9a87de54091a2b472570d63bb88fe5a9882e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ArHeh5Fz/versions/TVxBklYH/ae2lt-2.0.9.jar'
+hash = "8a2a4c65d3b467c72f0c4a4be2ef2af9b6d92347ad982280e2e46f406d0ced5b3fe1e51a62f0ca0275e87ae167eb9a87de54091a2b472570d63bb88fe5a9882e"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/ArHeh5Fz/versions/TVxBklYH/ae2lt-2.0.9.jar"
 
 [update.modrinth]
-mod-id = 'ArHeh5Fz'
-version = 'TVxBklYH'
+mod-id = "ArHeh5Fz"
+version = "TVxBklYH"
 
 [[x-prismlauncher-dependencies]]
-addonId = 'M5jhzZXH'
-type = 'REQUIRED'
+addonId = "M5jhzZXH"
+type = "REQUIRED"

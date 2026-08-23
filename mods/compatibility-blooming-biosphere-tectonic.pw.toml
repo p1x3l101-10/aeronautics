@@ -1,18 +1,33 @@
-filename = 'blooming-biosphere-tectonic-compat-v1.1.jar'
-name = '[Compatibility] Blooming Biosphere & Tectonic'
-side = 'both'
+filename = "blooming-biosphere-tectonic-compat-v1.1.jar"
+name = "[Compatibility] Blooming Biosphere & Tectonic"
+side = "both"
 x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1'
+x-prismlauncher-loaders = [
+    "neoforge",
+    "forge",
+    "quilt",
+    "fabric",
+]
+x-prismlauncher-mc-versions = [
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.1"
 
 [download]
-hash = 'd548c829f5d3b172b620fd4785eb88fc038ad444b647cb9ac370625cb9c22a0ac78e9a03c9b3efc94a991a4b85c3932b76d980b70732a0468ff8825f3187f73e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/GDnm1VHj/versions/r3G1R7EJ/blooming-biosphere-tectonic-compat-v1.1.jar'
+hash = "d548c829f5d3b172b620fd4785eb88fc038ad444b647cb9ac370625cb9c22a0ac78e9a03c9b3efc94a991a4b85c3932b76d980b70732a0468ff8825f3187f73e"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/GDnm1VHj/versions/r3G1R7EJ/blooming-biosphere-tectonic-compat-v1.1.jar"
 
 [update.modrinth]
-mod-id = 'GDnm1VHj'
-version = 'r3G1R7EJ'
+mod-id = "GDnm1VHj"
+version = "r3G1R7EJ"

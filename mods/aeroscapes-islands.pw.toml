@@ -1,22 +1,22 @@
-filename = 'aeroscapes-1.1.1.jar'
-name = 'Aero Islands [for Create Aeronautics]'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.1'
+filename = "aeroscapes-1.1.1.jar"
+name = "Aero Islands [for Create Aeronautics]"
+side = "both"
+x-prismlauncher-loaders = ["neoforge"]
+x-prismlauncher-mc-versions = ["1.21.1"]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.1.1"
 
 [download]
-hash = '6ced9b88562a3f14f3fc2cbc8b496557a7b1e5908b27f5813bc5784a9246bd7560f83b6045f85455aa8b93b54ac2613d3cf0032a53229a1a336732f9b03eb5a5'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/tGVwBATM/versions/bzJ2edxy/aeroscapes-1.1.1.jar'
+hash = "6ced9b88562a3f14f3fc2cbc8b496557a7b1e5908b27f5813bc5784a9246bd7560f83b6045f85455aa8b93b54ac2613d3cf0032a53229a1a336732f9b03eb5a5"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/tGVwBATM/versions/bzJ2edxy/aeroscapes-1.1.1.jar"
 
 [update.modrinth]
-mod-id = 'tGVwBATM'
-version = 'bzJ2edxy'
+mod-id = "tGVwBATM"
+version = "bzJ2edxy"
 
 [[x-prismlauncher-dependencies]]
-addonId = 'XaDC71GB'
-type = 'REQUIRED'
-version = 'qPASucBM'
+addonId = "XaDC71GB"
+type = "REQUIRED"
+version = "qPASucBM"
