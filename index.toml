@@ -1164,6 +1164,11 @@ hash = "6718f3c295bdc7bdfca4631bee0e911b9b0b0c464ac96e24c46344a4eb98a350"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "b360c0438bf09e6cec799babe7db640e64e54c778f9da65e10996e24c3f8e065"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -1541,6 +1546,11 @@ metafile = true
 [[files]]
 file = "mods/neoecoae.pw.toml"
 hash = "93347b57b3b258fe65b1d05c729a9c71f327618b4ad75eaa6318930ac6aff6da"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "33ad46116b505111571c4058f5e804a265d7f93c08c1b16a47ac050e65a835f7"
 metafile = true
 
 [[files]]
