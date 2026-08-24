@@ -1324,6 +1324,11 @@ hash = "9a6c1ab03fd557f05f9b0554b8d53965ec21710dbd82ac02889d92a211784ee4"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
+metafile = true
+
+[[files]]
 file = "mods/create-transmission!.pw.toml"
 hash = "f975b183e374978b134e8deec50a330ee604cec3a4b5acd65a0472535f456f40"
 metafile = true
