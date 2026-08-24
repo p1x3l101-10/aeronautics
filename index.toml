@@ -741,10 +741,6 @@ file = "config/mca.json"
 hash = "52903fb9dd575ad4d44cda58a9aab89d1d71fa0c4dc1c01c42ccf4ba8dcd2c05"
 
 [[files]]
-file = "config/mca/presets/Nova.json"
-hash = "2f207e8d1bb61dfd6109f5fbb8ff64846b354987893d3b18c4b2470b03fa2c07"
-
-[[files]]
 file = "config/mcaromanticexpansion-client.toml"
 hash = "dd7c30a44a909557bdaeb00c3d4e3c9d4539d33e42f421c671a048dbc1ff1d01"
 
