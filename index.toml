@@ -1514,6 +1514,11 @@ hash = "3aa1f7eb6615adf00940a3a66740645e0f363f8a810b75188889cff5c2a081d1"
 metafile = true
 
 [[files]]
+file = "mods/lever-drugster.pw.toml"
+hash = "8424713cff9ab8667f0c10791a3777aa331c7ea928c563a668b153cb7dbe3a67"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2a005f5add806517f3c4bf71ad079fc6eab05398aa40bed07ef30953e3bef67e"
 metafile = true
