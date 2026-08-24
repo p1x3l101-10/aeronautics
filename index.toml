@@ -738,7 +738,7 @@ hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
 file = "config/mca.json"
-hash = "52903fb9dd575ad4d44cda58a9aab89d1d71fa0c4dc1c01c42ccf4ba8dcd2c05"
+hash = "9eebbb8bde271af1c2dfadcff825daa421dee15e1429210829637c7498a7443e"
 
 [[files]]
 file = "config/mcaromanticexpansion-client.toml"
@@ -1076,6 +1076,11 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "354e823bd0ec19173de0416889894b4286df41dcabfd4be7ae737fe0f754bdd1"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-propeller-blur.pw.toml"
+hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
 metafile = true
 
 [[files]]
@@ -1554,11 +1559,6 @@ hash = "08e437c20319f4841714d77f5eda8418f05d30c4646cafa2ff1c8a8907ecec94"
 metafile = true
 
 [[files]]
-file = "mods/pmweather-aeronautics-compat.pw.toml"
-hash = "4d88b32d45e2df4d3bd40b0eba75fe9ce50e388234077273a77538ae796650ca"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8fc94fac22ceb42b6ea13e2d099b7fd9814b4ad3e69e49159485d8b6c9b101d3"
 metafile = true
@@ -1566,11 +1566,6 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "eabdf2ae62872db5ccea38743cecea46733eab79cb237f77a404b7f0f694210a"
-metafile = true
-
-[[files]]
-file = "mods/protomanlys-weather.pw.toml"
-hash = "a6d057a241be37bb79b29d20a76808ce95ff6c73981908ed90f82e4b22fb1287"
 metafile = true
 
 [[files]]
@@ -1616,6 +1611,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "b991f757232cdbd5b412e38635208e78c6324816a5140e44b5838f0caf92f4e6"
+metafile = true
+
+[[files]]
+file = "mods/sablecompat.pw.toml"
+hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
 metafile = true
 
 [[files]]
