@@ -1,0 +1,13 @@
+name = "Markdown Manual"
+filename = "markdown_manual-MC1.21.1-neoforge-1.2.7+f05450f.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nPQ9xkPg/versions/DXJD7b8A/markdown_manual-MC1.21.1-neoforge-1.2.7%2Bf05450f.jar"
+hash-format = "sha512"
+hash = "c4526de6f8975561d12a4119c7f5fb81726c2b67e087f868fea4931eaadbc4b977f1c6370ac1dbcaf81ce8be9b391df5c2008d6da21a9033d62ef81d34898604"
+
+[update]
+[update.modrinth]
+mod-id = "nPQ9xkPg"
+version = "DXJD7b8A"

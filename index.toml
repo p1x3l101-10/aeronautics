@@ -1079,6 +1079,11 @@ hash = "354e823bd0ec19173de0416889894b4286df41dcabfd4be7ae737fe0f754bdd1"
 metafile = true
 
 [[files]]
+file = "mods/aeroengine.pw.toml"
+hash = "3637f8c7e237525c908ef902ab13765be9b7c885e22a5ec0532561a13af7ba48"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-propeller-blur.pw.toml"
 hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
 metafile = true
@@ -1539,6 +1544,11 @@ hash = "0a523da7ed026cdbf876dfd4a6644cacc0d55cc728facfac58741b46a35671c1"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "82cef575ea8b9d7c6d0026cd2f3c41a0923863506af441dfb4d7031e32e379a6"
+metafile = true
+
+[[files]]
 file = "mods/mca-romantic-expansion.pw.toml"
 hash = "3736868ad54e5edb2de819788c2f5996d85b51ac365823ef0173562c4f5a05d9"
 metafile = true
@@ -1701,6 +1711,11 @@ metafile = true
 [[files]]
 file = "mods/thunderbolt-core.pw.toml"
 hash = "d56733c2dfdfb673af61483da5fb50df341d2cda64fad02eaa2c2b678f2100fb"
+metafile = true
+
+[[files]]
+file = "mods/tis3d.pw.toml"
+hash = "b3598e652d045d51088529dd64525337414d6db296e97a699741adfdba0dc9d6"
 metafile = true
 
 [[files]]
