@@ -342,7 +342,7 @@ hash = "18894f2fb101d59d2740d60c8a630fda90edfc59700acad1ae012ceade58a5d5"
 
 [[files]]
 file = "config/aeronautics-server.toml"
-hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
+hash = "59875bd4715f9fed1e596638eb36ce86ac1593494c88539d75e069661b5fc221"
 
 [[files]]
 file = "config/aeronautics_utility_objects-server.toml"
@@ -534,7 +534,7 @@ hash = "472ba660b492df1e794c785c00182cb4fc5689200e34aa17b863fbfc09394c3a"
 
 [[files]]
 file = "config/create_submarine-common.toml"
-hash = "b38d4a268cf6c90c406b48dcd162313931171d23e446c31a7e4469499e2a31de"
+hash = "fddbaddc6d970868b638be0c6475958d24092fa6ec06c9379ec258517cece36e"
 
 [[files]]
 file = "config/create_submarine_client_state.json"

@@ -10,13 +10,13 @@
 	#Deepen the ocean floor below vanilla.
 	#Off = vanilla ocean depth. Set the amount with deeperOceansDepth.
 	#Requires the 'Lithostitched' mod to be installed.
-	enableDeeperOceans = false
+	enableDeeperOceans = true
 	#How many blocks deeper to push the ocean floor when enableDeeperOceans is on.
 	#WARNING: large values generate and render far more terrain below the sea floor
 	#and can badly hurt world-generation and rendering performance. Raise it carefully.
 	# Default: 10
 	# Range: 1 ~ 256
-	deeperOceansDepth = 10
+	deeperOceansDepth = 20
 
 [hullStrength]
 	#Cap applied to maxWaterDepth of all non-create_submarine blocks.
@@ -84,9 +84,9 @@
 
 [experimental]
 	#Experimental: hide the ocean surface seen inside floating boats (sub-levels without an oxygen system).
-	enableBoatWaterCulling = false
+	enableBoatWaterCulling = true
 
 [client]
 	#Disable all Deep Seas startup UI screens (Welcome screen and Update notifications).
 	#Highly recommended to set this to TRUE if you are creating a modpack to avoid annoying your players.
-	disableStartupScreens = false
+	disableStartupScreens = true
