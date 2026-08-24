@@ -1,13 +1,13 @@
-filename = "offbalance-1.1.1.jar"
 name = "Sable: Off-Balance"
+filename = "offbalance-1.1.1.jar"
 side = "both"
 
 [download]
-hash = "279a36cbbe779e16cd34749e49be50b26d2fb8f2532524aa927c49c6e9e9cd3c65c67d8dbb8a622b7e5bbc255231cf0cfa2fe11259c997b8cfe39cec38461f98"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/ZRCKPZxZ/versions/oGam00uK/offbalance-1.1.1.jar"
+hash-format = "sha512"
+hash = "279a36cbbe779e16cd34749e49be50b26d2fb8f2532524aa927c49c6e9e9cd3c65c67d8dbb8a622b7e5bbc255231cf0cfa2fe11259c997b8cfe39cec38461f98"
 
+[update]
 [update.modrinth]
 mod-id = "ZRCKPZxZ"
 version = "oGam00uK"

@@ -1620,7 +1620,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-off-balance.pw.toml"
-hash = "8d550ccf89706be227f1b0b87d1640fc48ae80ccead991efab010a275daf1333"
+hash = "aaaa9b6acf0bab581382e6d1e30bd3e14fa78ccd1b0b358471ce733b3db5f803"
 metafile = true
 
 [[files]]
