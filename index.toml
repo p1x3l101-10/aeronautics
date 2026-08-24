@@ -1164,6 +1164,11 @@ hash = "6718f3c295bdc7bdfca4631bee0e911b9b0b0c464ac96e24c46344a4eb98a350"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "0fb071f2d12499e18381d5efe17c358500cc842f9ed70fc86550adb83955eaab"
 metafile = true
@@ -1616,6 +1621,11 @@ metafile = true
 [[files]]
 file = "mods/sablecompat.pw.toml"
 hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
