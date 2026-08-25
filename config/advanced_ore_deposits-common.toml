@@ -3,7 +3,7 @@ generateDeposits = true
 #Deposit candidate cells are this many chunks wide. Larger values spread patches farther apart.
 # Default: 8
 # Range: 2 ~ 128
-depositSpacingChunks = 8
+depositSpacingChunks = 16
 #Chance for an eligible cell anchor chunk to actually generate a deposit.
 # Default: 0.35
 # Range: 0.0 ~ 1.0

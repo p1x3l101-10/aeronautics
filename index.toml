@@ -306,7 +306,7 @@ hash = "ee782e852bb055aca57edf023c7f98fa1b2f85080c211e714c00f97253678ddc"
 
 [[files]]
 file = "config/advanced_ore_deposits-common.toml"
-hash = "8195fbf1044d2eec6faa85552caaa4329e97ef8d05741556a836d41364c70286"
+hash = "49b6c83ccc4092fab585c5194a218b974b54a23a82bc7db8ddac95253bd9ecd4"
 
 [[files]]
 file = "config/ae2-client.toml"
@@ -695,26 +695,6 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 [[files]]
 file = "config/iris.properties"
 hash = "3bf5dc9390aa78ddd3c12cbdce4ed491acff31441336a2f1be38e0724de00e3c"
-
-[[files]]
-file = "config/jade/hide-blocks.json"
-hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
-
-[[files]]
-file = "config/jade/jade.json"
-hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
-
-[[files]]
-file = "config/jade/plugins.json"
-hash = "31e05aaebfb16899bc6b1ee6e6812640e623c9c799e537276a91728a995453f1"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "c9c411826a3f463d30fd254f65ab61a82b6979a3ded416b0792785d614e4971a"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -1209,11 +1189,6 @@ hash = "3b907568b6b6aaad66c6e3cb8cd36388b05b20f66ed19c9617ab7bc3a1e70441"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-burner-fuel.pw.toml"
-hash = "03ece98b87438eaa303ba89f4af79bbc54c9ba76ff9a9c8f7de9f64257bb4210"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "e5386f5b7b982c4b7c4e70420793a39c45a37bf296a94bb67452121f254b356d"
 metafile = true
@@ -1496,11 +1471,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c4b8252238a02f88272247d91a71f91c8aef69b794d759399e80dbcf2e4fa36d"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "d305b0065c7e6080e958277943fd21b7780f7d8fbfafdc617ac2a49ff99ba16b"
 metafile = true
 
 [[files]]
