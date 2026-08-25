@@ -1,13 +1,13 @@
-filename = "thunderbolt-1.0.6.jar"
 name = "Thunderbolt Core"
+filename = "thunderbolt-2.0.0-beta.1.jar"
 side = "both"
 
 [download]
-hash = "a6d91f3bdd86f86e032bddeddf647918b02b7eb0da8c79edef53401d56eaa767c5fe6a897ce9e7edd447cacb0f6802731f21666752b5288fc26221d1a84cba4c"
+url = "https://cdn.modrinth.com/data/M5jhzZXH/versions/cs4e3E2e/thunderbolt-2.0.0-beta.1.jar"
 hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/M5jhzZXH/versions/EpKQ3ID1/thunderbolt-1.0.6.jar"
+hash = "9675733b63cddd0d078e3de1b0d3870fe9da0a2894c9c587261cccd3bf145e9c4039c601ba0ec1d9c166549b2709d228a9fd129205c88a6a0c4fcd0732786624"
 
+[update]
 [update.modrinth]
 mod-id = "M5jhzZXH"
-version = "EpKQ3ID1"
+version = "cs4e3E2e"

@@ -1,13 +1,13 @@
-filename = "mcaromanticexpansion-1.1.2-1.21.1.jar"
 name = "MCA: Romantic Expansion"
+filename = "mcaromanticexpansion-1.1.3-1.21.1.jar"
 side = "both"
 
 [download]
-hash = "9eaa1f586cb47f44d66b733d561584817722e075c5cce091f317b548a14eedc116af185e373d57da9e918d3397813ed901ce389986c13cb8eba4f45919626b33"
+url = "https://cdn.modrinth.com/data/yGNIAsvP/versions/irwRgaml/mcaromanticexpansion-1.1.3-1.21.1.jar"
 hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/yGNIAsvP/versions/VVsk6oGG/mcaromanticexpansion-1.1.2-1.21.1.jar"
+hash = "f9f109566f433731c5b1a2c9ef8b9a762d93320afa6049d88afc3aa481363936fdcd38df2d8c16a5b3e3226255785a52fb5bf1c58d0ac284bc84d39f07c097de"
 
+[update]
 [update.modrinth]
 mod-id = "yGNIAsvP"
-version = "VVsk6oGG"
+version = "irwRgaml"

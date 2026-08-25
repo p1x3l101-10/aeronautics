@@ -1,13 +1,13 @@
-filename = "ae2lt-2.0.9.jar"
 name = "AE2 Lightning Tech"
+filename = "ae2lt-2.1.0-beta.1.jar"
 side = "both"
 
 [download]
-hash = "8a2a4c65d3b467c72f0c4a4be2ef2af9b6d92347ad982280e2e46f406d0ced5b3fe1e51a62f0ca0275e87ae167eb9a87de54091a2b472570d63bb88fe5a9882e"
+url = "https://cdn.modrinth.com/data/ArHeh5Fz/versions/Ap2OL0DS/ae2lt-2.1.0-beta.1.jar"
 hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/ArHeh5Fz/versions/TVxBklYH/ae2lt-2.0.9.jar"
+hash = "c46fbf9f0f4ab3b18bfae27c633457794d53138e244a07aa83c621711c0e32821524899e7c8d6ce71b612fd1896a6a9e8f8de4ae09fb969d378c05e2702ab1e1"
 
+[update]
 [update.modrinth]
 mod-id = "ArHeh5Fz"
-version = "TVxBklYH"
+version = "Ap2OL0DS"
