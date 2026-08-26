@@ -1735,6 +1735,11 @@ hash = "88819b9f54c063ea9f200f94bb43aa9e44e6eca1150f2fed421e94da3b72213a"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "08e437c20319f4841714d77f5eda8418f05d30c4646cafa2ff1c8a8907ecec94"
 metafile = true
@@ -1862,6 +1867,11 @@ metafile = true
 [[files]]
 file = "mods/unseaworthy.pw.toml"
 hash = "e7ab7f193beba6c0d9a4cf21ccd85cded0269f22ab76601c6c74764022e4b525"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
 
 [[files]]
