@@ -1,0 +1,13 @@
+name = "Unseaworthy"
+filename = "unseaworthy-neoforge-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9OuwP2Qv/versions/dpLyjdJ9/unseaworthy-neoforge-1.21.1-1.4.0.jar"
+hash-format = "sha512"
+hash = "3babc94c6a9e2862bae9d2b9a409c95127442a17f75f873fc911e88cc872264345ad0b1c54afaa30cdff8e2bd2e4c2cfc1720b55b8e812621b6f3c62390f10e9"
+
+[update]
+[update.modrinth]
+mod-id = "9OuwP2Qv"
+version = "dpLyjdJ9"

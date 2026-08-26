@@ -1,0 +1,13 @@
+name = "Sea Creeps"
+filename = "seacreeps-1.2.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DgUQhGp4/versions/vwGFGtec/seacreeps-1.2.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "7521bf47ee687b716bbe9ed5453ed12770f875249adef0632a39f49752d9e6963dd1c3158c89bd70f6f7e265b91629d824a8e1ef8d6d5582f3432d24fb32e98a"
+
+[update]
+[update.modrinth]
+mod-id = "DgUQhGp4"
+version = "vwGFGtec"

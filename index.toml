@@ -1144,6 +1144,11 @@ hash = "f1f94f39d02694f5a88640f14985068aa6eb68d7ef1fc6b0717cf03b7f34b930"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "55cd3468bfcb3ec42416c132a991f9133f8ac3d7aa2537bc6d43bde66547f7c6"
 metafile = true
@@ -1324,6 +1329,11 @@ hash = "4687df8f2a2f20ff0b992b5a33a0cd2eae72fb02282b871cea847a08f9d9a3e1"
 metafile = true
 
 [[files]]
+file = "mods/deepabyss.pw.toml"
+hash = "6bf6bd0d7e1f2fbbb435f5133423d0677bceeaf9a8705ce8b06988277419e8cf"
+metafile = true
+
+[[files]]
 file = "mods/deployer.pw.toml"
 hash = "c7e4a2826a2eca336339424d72a647af32c11021be629f55a6a20f921f5ca681"
 metafile = true
@@ -1459,6 +1469,11 @@ hash = "c07c53575a3a776a65666876756f28250b7656298acdee10326af4cdf03d1383"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
 file = "mods/glodium.pw.toml"
 hash = "325869c8d89d9aab62da424b5d651ce70fb9ad2a9cb82dc6e41b69449c574f92"
 metafile = true
@@ -1569,6 +1584,11 @@ hash = "7a7bb1209d50749e546d8ae5c483693bb7afa9e7a5da13e6f1da68a51dd08af1"
 metafile = true
 
 [[files]]
+file = "mods/ocean-lily-pad-village.pw.toml"
+hash = "fe8130b8575cdae42125711e231b551e96475795655817b5dc5ef3d4a5bff2de"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "88819b9f54c063ea9f200f94bb43aa9e44e6eca1150f2fed421e94da3b72213a"
 metafile = true
@@ -1634,6 +1654,11 @@ hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
 metafile = true
 
 [[files]]
+file = "mods/sea-creeps.pw.toml"
+hash = "fe2b2b40e774996f89053f53d515240df66a07881590096e6ae81d8efb1f2e5d"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -1681,6 +1706,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "768488cb97c18bd20faff4c183ec48a0b36a73e04d0ff8cdf2ffe6a85d6aad58"
+metafile = true
+
+[[files]]
+file = "mods/unseaworthy.pw.toml"
+hash = "e7ab7f193beba6c0d9a4cf21ccd85cded0269f22ab76601c6c74764022e4b525"
 metafile = true
 
 [[files]]

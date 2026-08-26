@@ -1,0 +1,13 @@
+name = "Abyss"
+filename = "abyss-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S6PDmVRS/versions/3AxcQtTx/abyss-2.2.2.jar"
+hash-format = "sha512"
+hash = "37a3ad675154fb9e4ce7d1cc707703eeb3d387c028db42084d53ebd9e924111f536e8dd032c37bba81227d17c09f11717d4ab32213a2522d16d0a2430a4e91c9"
+
+[update]
+[update.modrinth]
+mod-id = "S6PDmVRS"
+version = "3AxcQtTx"
