@@ -1604,11 +1604,6 @@ hash = "7e7c0e3f229579e506934e4de07a3d769cdc0b9a9bc68fa245b177ec50e1ea80"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options-compat-rewrite.pw.toml"
-hash = "28a01cba897aba7c0dd1e23b179a11680ecb3375a990f0a4543d3072c5d4da0e"
-metafile = true
-
-[[files]]
 file = "mods/rpl.pw.toml"
 hash = "20ca29d50825c812d60126a12069526e75a0dd66c382c330248054e242aa053c"
 metafile = true
@@ -1646,16 +1641,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "72a3d60926aa71b3ee4219ebadcab2a81f93300bb1bae5ed5ac1e9940c73ec36"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "e657d37ff8fc4681f1e57f2988b7a7671640311ce5707f5c3a837398d5c970c4"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "ad144bd6864c8ee8b62fbbbf0855e8c1c94d14be66d72ee8c67e8aec83956fdd"
 metafile = true
 
 [[files]]
