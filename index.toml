@@ -1210,6 +1210,11 @@ hash = "4131991433547746eadc775e831c41bc66163b3b1ae77b7bafa6645dbc3a231e"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "e9d3884d7dbcb129fd1e293d33b5f4b0d57faa3f11b4d60b7dbb8fda1ef7d627"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "c181ebeb97b7fe5448d0d904136f525a0a746f54c2ab76df938a54e277305d53"
 metafile = true
@@ -1246,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
+hash = "e07f48b7d95e2e542126e03eae1a70b2c6663fdcb5b954b9d902336f93be07f9"
 metafile = true
 
 [[files]]
@@ -1305,13 +1310,18 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "0fb071f2d12499e18381d5efe17c358500cc842f9ed70fc86550adb83955eaab"
 metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "2f6a345c8124dd87b60c8ebbbaa35d9efa27c2d1947357b3247ab98fae9db210"
+hash = "c3231a39045da71b6bda6d2c2b380fb048edf40629d6fdaffbf1c9576d7282e8"
 metafile = true
 
 [[files]]
@@ -1460,6 +1470,11 @@ hash = "54e345cc0c8efe7d89fe53f2489bfe4be9baeb0d26ede95ab3630caa5a72ceaa"
 metafile = true
 
 [[files]]
+file = "mods/createmelatonin.pw.toml"
+hash = "c5a85bd12d6b634936a2c77483c839a82d9e0eef86f9235cb04c8a284757e32c"
+metafile = true
+
+[[files]]
 file = "mods/createparachute.pw.toml"
 hash = "396ca5ba2a71bfee7f95a4db815fe027a231362a9c8eae9f18b7f1e9e409a826"
 metafile = true
@@ -1467,6 +1482,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "4687df8f2a2f20ff0b992b5a33a0cd2eae72fb02282b871cea847a08f9d9a3e1"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "bdc409a5eb4e06535a0387250fc4002ea578213bc2a1c5fbcdd4a836f54281c0"
 metafile = true
 
 [[files]]
@@ -1550,6 +1570,16 @@ hash = "a090f67b4ed565f1e06c874ec7ab8518d3f0a24732216ec1e7521ea715d0717a"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials-2-core.pw.toml"
+hash = "36edc2b37e8f170327a9cc1fcfbe5a72e0cc29dbb4b8d7011402a0c4ed04869b"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-2-default-lunar-events.pw.toml"
+hash = "a0dc68563bd92963c92bfcaaaf1f66f8649626e7b56e8904aa6797d31133a870"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "222d8f4590df3d61aa899c7e86f819922708b1b14511d155061554565e37478f"
 metafile = true
@@ -1630,8 +1660,23 @@ hash = "c4b8252238a02f88272247d91a71f91c8aef69b794d759399e80dbcf2e4fa36d"
 metafile = true
 
 [[files]]
+file = "mods/it-takes-a-pillage-continuation.pw.toml"
+hash = "59f143c0c7bc463e09ef4f6c6172e3e45208a1a4c01663d2a0a4637a4df3eb73"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "efcc335852f09bbf66eafd1a20f42403cdd9e64a51dd660211ce4fb717734598"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "3f44721c554a06b9e922c6102bed6402fed57d6d340de0299ee4237544724c48"
+metafile = true
+
+[[files]]
+file = "mods/kawaii-dishes.pw.toml"
+hash = "37b396f46138061fe62f310fce2081594f057d50df9545e6bab6ee1840232011"
 metafile = true
 
 [[files]]
@@ -1670,6 +1715,11 @@ hash = "0e1046e1bb16b42706ba58700f294787dc8fe643518bc5fb26eeaea8e96fd320"
 metafile = true
 
 [[files]]
+file = "mods/logical-iframes.pw.toml"
+hash = "daab67c6460a59e1ae872e5ac2322b0e8da5c044a6d202bc8b81a905cefa0e99"
+metafile = true
+
+[[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "82cef575ea8b9d7c6d0026cd2f3c41a0923863506af441dfb4d7031e32e379a6"
 metafile = true
@@ -1705,6 +1755,11 @@ hash = "817543015530eb23da8e4a90e6eba6539aae3a630e3a0555f9a6630d8dd58ba3"
 metafile = true
 
 [[files]]
+file = "mods/mythic-origins.pw.toml"
+hash = "7c3513ed6fef82e3441e022a7d79062022099229b12e4520ba854e9f1aa1c44b"
+metafile = true
+
+[[files]]
 file = "mods/neoecoae.pw.toml"
 hash = "93347b57b3b258fe65b1d05c729a9c71f327618b4ad75eaa6318930ac6aff6da"
 metafile = true
@@ -1730,8 +1785,18 @@ hash = "fe8130b8575cdae42125711e231b551e96475795655817b5dc5ef3d4a5bff2de"
 metafile = true
 
 [[files]]
+file = "mods/origins-neoforge.pw.toml"
+hash = "13db9dd1621e5247305a3cfd1aeea8b4e1c395d73872de92aa78e9c1f4d4553d"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "88819b9f54c063ea9f200f94bb43aa9e44e6eca1150f2fed421e94da3b72213a"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
 metafile = true
 
 [[files]]
@@ -1770,6 +1835,11 @@ hash = "7e7c0e3f229579e506934e4de07a3d769cdc0b9a9bc68fa245b177ec50e1ea80"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
 file = "mods/room-for-two.pw.toml"
 hash = "bf061766a3a0158683e9b3aceb6b00bf61a5115b5ef94a5a9efd6ab9b9e8bd96"
 metafile = true
@@ -1801,7 +1871,7 @@ metafile = true
 
 [[files]]
 file = "mods/sablecompat.pw.toml"
-hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+hash = "af2d290d8d4bb8dd3c3ab11e45cf15bc84a42c68e4f6fb49d8c4ac4723ef92b7"
 metafile = true
 
 [[files]]
