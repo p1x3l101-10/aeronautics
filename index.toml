@@ -529,6 +529,10 @@ file = "config/corpse-server.toml"
 hash = "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
 
 [[files]]
+file = "config/corpsecurioscompat-common.toml"
+hash = "067560f2da682722e831b15c64cee6e0efaf4adc2523a53a0eb91aa9182534d3"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "16774bad3d5684a5ecfb6e9e9a8ca5c158fbc8bb3c97568af830be925e6d3d2a"
 
@@ -559,6 +563,10 @@ hash = "13be96f265a8f669e033ace91eb77d6550691a4d7cdeb1cfc488ba6f29a6ccc7"
 [[files]]
 file = "config/create_horse_decimation-server.toml"
 hash = "1bfdadde63f8d5f457ee6dfab16216e8a307b8bd1ea81743e67e749b98fcc832"
+
+[[files]]
+file = "config/create_parachute-common.toml"
+hash = "ed218800fd0a79bfa37b60bb762fd4a43ef5d1b07c64812eb2ce5774744c1b80"
 
 [[files]]
 file = "config/create_power_loader-server.toml"
@@ -685,6 +693,10 @@ file = "config/end_remastered_promax-common.toml"
 hash = "aaa73c8296d0a5aff5ccd2d022071df6df81b9f2d06b708fce420b3e6fe2a54e"
 
 [[files]]
+file = "config/enhancedcelestials2core-mixins.properties"
+hash = "188f59de0598973abd6255886c285da7191829e67292fb959fc1a83a45ff388f"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
 
@@ -797,6 +809,10 @@ file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
 [[files]]
+file = "config/jupiter.json"
+hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
+
+[[files]]
 file = "config/ldfix-common.toml"
 hash = "f99c631f4b4054062f992e8b7bf337577852d26d4ee7fe1dfbb0a36fb223a1f6"
 
@@ -885,6 +901,10 @@ file = "config/offroad-server.toml"
 hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
+file = "config/origins.json"
+hash = "03409a2fb12088726b4ac37120bf45beace0fb49d7a4ae3936a15f573b6e1049"
+
+[[files]]
 file = "config/paddlewheels-server.toml"
 hash = "d9d4182f55e6e167c95b87e780b7f19a342942070232f2f6b7968f5d24f1d180"
 
@@ -899,6 +919,14 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/pehkui-client.toml"
+hash = "d6a05a680afa06a7de77bee6d147ae5a629693843d53ca22600fcd17fbc87111"
+
+[[files]]
+file = "config/pehkui-common.toml"
+hash = "22981c471442655695fab8120f105faa765a067b39782ef162743bfb7ec03b64"
 
 [[files]]
 file = "config/pmweather-client.toml"
@@ -1009,6 +1037,10 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "config/sodium-fingerprint.json"
+hash = "d65b7e27544bcda12ea13f89e76c6bf7c7926cca9f6d82f8b48ed83867433b73"
+
+[[files]]
 file = "config/sodium-mixins.properties"
 hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
@@ -1057,6 +1089,10 @@ file = "config/submarine_hull.json"
 hash = "af9cf8a5ee72f12f54145f018e4ddbbb6b6812ca9e20a3da081a2c9d9ab0a7ef"
 
 [[files]]
+file = "config/takesapillage.json"
+hash = "7db0f52b6068154e92b7685dd1b3ec2a754bfeb2a523af3eccbc9840dbfe9d6e"
+
+[[files]]
 file = "config/tectonic.json"
 hash = "88ac9fd71410c3ba66e5a775a4d38ebd3fec819184996f3d6c3091188532adb1"
 
@@ -1089,6 +1125,14 @@ file = "config/unseaworthy.json5"
 hash = "e756c9244822391cb75650c082576c79be5056432fdf926c0297fb0d9ade40d8"
 
 [[files]]
+file = "config/vanillabackport-client.toml"
+hash = "4b6f99955f574707a5d2e5b6bcfefd9c5391559c6a0e5ab1dc0bd36aeb93c03f"
+
+[[files]]
+file = "config/vanillabackport-common.toml"
+hash = "0c8eca696f9811ad4af1bdac9ca5b5ac06c6dabe50aac551401a1a40e30d20d8"
+
+[[files]]
 file = "config/vanillin-client.toml"
 hash = "aada874e27c706c56da7503a65caeadff92f542e51536f2d78aec56f9b97a097"
 
@@ -1099,6 +1143,26 @@ hash = "923d5f1b1546428a3fc5451d9a30d6b6d9ba889e2579c47ee16e9847a6ef1654"
 [[files]]
 file = "config/vestalihy-common.toml"
 hash = "e44c5720e8f52e275e2b71366c3f275262c3b0fc8e447b2e542311a4774e99f3"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "7e9e281d187518e3ca751d9750827c5a378c12730c0889e99ceb72363f20e071"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "987c83fb0abec10cf4a08b1a20c89442329384a06b33e4dc22397e16d3a119a4"
 
 [[files]]
 file = "config/watut-client.toml"
