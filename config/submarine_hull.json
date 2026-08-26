@@ -1,6 +1,22 @@
 {
   "_README": "Per-block hull strength. Edit maxWaterDepth (int) and implosionChance (0..1). Keys starting with _ are ignored.",
   "_version": 2,
+  "abyss:abysstone": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.12
+  },
+  "abyss:bulkhead": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.06
+  },
+  "abyss:grate": {
+    "maxWaterDepth": 69,
+    "implosionChance": 0.15
+  },
+  "abyss:reinforced_abysstone": {
+    "maxWaterDepth": 150,
+    "implosionChance": 0.08
+  },
   "advanced_ore_deposits:andesite_deposit": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -772,6 +788,186 @@
   "aeroencasedpipe:yellow_envelope_encased_pipe": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "aeroengineering:adjustable_copycat_sail": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_sail_bottom": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_sail_top": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_symmetric_sail": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_symmetric_sail_bottom": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_symmetric_sail_top": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:airborne_radar": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:airflow_engine_afterburner": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:airflow_nozzle": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:aviation_kerosene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "aeroengineering:copycat_casing_base": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_casing": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_casing_slab": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_casing_stairs": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_nozzle": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_nozzle_slab": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_nozzle_stairs": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_nozzle_base": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_afterburner": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_casing": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_combustor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_compressor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_encased_fluid_pipe": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_encased_shaft": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:engine_exhaust_cone": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_exhaust_nozzle": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_fan": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:engine_gearbox": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:engine_propeller": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:engine_turbine": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:folding_landing_gear_bearing": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:gas_turbine_gearbox": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:hud_display": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:large_engine_fan": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:missile_assembly_station": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_attitude_controller": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_guidance_fuse": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_pylon": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_thruster": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_warhead": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:pilot_helmet_skull": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:pilot_helmet_wall_skull": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:propeller_pitch_controller": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:turboshaft_gearbox": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:vector_bearing": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "aeronautics:adjustable_burner": {
     "maxWaterDepth": 50,
@@ -4456,6 +4652,10 @@
   "create_aeronautics_throwable_rope_connector:mounted_rope_launcher": {
     "maxWaterDepth": 73,
     "implosionChance": 0.56
+  },
+  "create_aeronautics_toolgun:portable_structure_printer": {
+    "maxWaterDepth": 46,
+    "implosionChance": 0.725
   },
   "create_power_loader:andesite_chunk_loader": {
     "maxWaterDepth": 55,
@@ -10445,1202 +10645,6 @@
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
-  "nomansland:acacia_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:aconite": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:ancestral_carving": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:ancestral_effigy": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:ancient_pot": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.81666666
-  },
-  "nomansland:apple": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:apple_crate": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "nomansland:apple_fruit_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:autumn_crocus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:autumnal_oak_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:autumnal_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:bamboo_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:barrel_cactus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:beard_moss": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:billhook_bass_barrel": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "nomansland:birch_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:blue_flowerbed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:blue_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:budding_quartzite": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.85
-  },
-  "nomansland:cattail": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:cave_weeds": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:cherry_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:chiseled_siltstone": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "nomansland:clover_patch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:coarse_brick_slab": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:coarse_brick_stairs": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:coarse_brick_wall": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:coarse_bricks": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:coarse_silt": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:cobbled_deepslate_brick_slab": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.5233333
-  },
-  "nomansland:cobbled_deepslate_brick_stairs": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.5233333
-  },
-  "nomansland:cobbled_deepslate_brick_wall": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.5233333
-  },
-  "nomansland:cobbled_deepslate_bricks": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.5233333
-  },
-  "nomansland:cobblestone_brick_slab": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:cobblestone_brick_stairs": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:cobblestone_brick_wall": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:cobblestone_bricks": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:cod_barrel": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "nomansland:cracked_cobblestone_bricks": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:crimson_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:crude_door": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:crude_trapdoor": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:cut_sugar_cane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:cut_vine": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:dark_oak_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:dirt_path": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:dried_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:dross_tile_slab": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:dross_tile_stairs": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:dross_tiles": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:duckweed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:earthen_tile_slab": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:earthen_tile_stairs": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:earthen_tiles": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:extinguished_sconce_soul_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:extinguished_sconce_soul_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:extinguished_sconce_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:extinguished_sconce_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:extinguished_soul_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:extinguished_soul_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:extinguished_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:extinguished_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:faded_stone_bricks": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:fiddlehead": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:field_mushroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:field_mushroom_block": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:frosted_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:frosted_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:grass_sprouts": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:gravel_path": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:ground_ivy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:honey_cauldron": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "nomansland:icicles": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:inverted_bell": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "nomansland:jungle_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:large_ancient_pot": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.81666666
-  },
-  "nomansland:large_quartzite_bud": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.85
-  },
-  "nomansland:lavender_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:mangrove_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "nomansland:maple_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_syrup_cauldron": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "nomansland:maple_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "nomansland:maple_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:maple_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:medium_quartzite_bud": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.85
-  },
-  "nomansland:milk_cauldron": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "nomansland:monster_anchor": {
-    "maxWaterDepth": 117,
-    "implosionChance": 0.3
-  },
-  "nomansland:moon_carving": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:moonlight_basin": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "nomansland:moonlight_candle": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "nomansland:mossy_coarse_brick_slab": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:mossy_coarse_brick_stairs": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:mossy_coarse_brick_wall": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:mossy_coarse_bricks": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:mossy_cobblestone_brick_slab": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:mossy_cobblestone_brick_stairs": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:mossy_cobblestone_brick_wall": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:mossy_cobblestone_bricks": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "nomansland:mundane_tile_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:mundane_tile_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:mundane_tiles": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:mycelium_growths": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:mycelium_path": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:mycelium_sprouts": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:oat_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:pale_cherry_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:pale_cherry_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:pear": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:pear_crate": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "nomansland:pear_fruit_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:pebbles": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:pickleweed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "nomansland:pine_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "nomansland:pine_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:pine_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:pink_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:podzol_path": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:polished_siltstone": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "nomansland:polished_siltstone_slab": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "nomansland:polished_siltstone_stairs": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "nomansland:polished_stone": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:polished_stone_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:polished_stone_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:potted_aconite": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_autumn_crocus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_autumnal_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_barrel_cactus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_blue_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_field_mushroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_pale_cherry_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_pickleweed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_pine_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_pink_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_red_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_red_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_starflower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_succulent": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_thistle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_walnut_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_wild_mint": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_willow_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_yellow_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:potted_yellow_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:pufferfish_barrel": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "nomansland:quartzite": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.85
-  },
-  "nomansland:quartzite_cluster": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.85
-  },
-  "nomansland:rafflesia": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:red_flowerbed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:red_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:red_maple_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:red_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:red_sand_path": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:reeds": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:remains": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "nomansland:resin_cauldron": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "nomansland:resin_oil_cauldron": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "nomansland:rose_vines": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:salmon_barrel": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "nomansland:sand_path": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:sconce_soul_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:sconce_soul_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:sconce_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:sconce_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:seashells": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:shelf_mushroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:shelf_mushroom_block": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:short_beachgrass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:silt": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:silt_brick_slab": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:silt_brick_stairs": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:silt_bricks": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "nomansland:silt_path": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:siltstone": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "nomansland:siltstone_brick_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:siltstone_brick_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:siltstone_brick_wall": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:siltstone_bricks": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:siltstone_slab": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "nomansland:siltstone_stairs": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "nomansland:siltstone_wall": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "nomansland:small_quartzite_bud": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.85
-  },
-  "nomansland:snow_path": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:snowy_grass_path": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:spike_trap": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "nomansland:spruce_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:starflower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:straw_bed": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:stripped_maple_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:stripped_maple_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:stripped_pine_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:stripped_pine_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:stripped_walnut_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:stripped_walnut_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:stripped_willow_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:stripped_willow_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:succulent": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:tall_beachgrass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:tap": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "nomansland:thatch": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:thatch_slab": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:thatch_stairs": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "nomansland:thistle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:tortoise_egg": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_acacia_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_bamboo_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "nomansland:trimmed_birch_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_cherry_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "nomansland:trimmed_crimson_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "nomansland:trimmed_dark_oak_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_jungle_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_mangrove_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_maple_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_oak_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_pine_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_spruce_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_walnut_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:trimmed_warped_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "nomansland:trimmed_willow_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:tropical_fish_barrel": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "nomansland:vermilion_froglight": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:violet_flowerbed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "nomansland:walnut_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "nomansland:walnut_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:walnut_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:warding_effigy": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "nomansland:warped_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:water_mosaic": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:white_flowerbed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:wild_mint": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_bookshelf": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "nomansland:willow_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "nomansland:willow_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "nomansland:willow_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "nomansland:wooden_platform": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "nomansland:wooden_platform_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "nomansland:wooden_scaffolding": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:yellow_birch_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "nomansland:yellow_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:yellow_flowerbed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "nomansland:yellow_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "offroad:borehead_bearing": {
     "maxWaterDepth": 67,
     "implosionChance": 0.6
@@ -11652,406 +10656,6 @@
   "offroad:wheel_mount": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
-  },
-  "pmweather:anemometer": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.775
-  },
-  "pmweather:ash_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "pmweather:balloon_platform": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "pmweather:charred_dirt": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "pmweather:charred_dirt_slight": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "pmweather:charred_door": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "pmweather:charred_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "pmweather:charred_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "pmweather:charred_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "pmweather:charred_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "pmweather:fire": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:heavy_scouring": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:ice_layer": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:icicle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:iron_reinforcement_core": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pmweather:linked_metar": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "pmweather:medium_scouring": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:metar": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "pmweather:plants": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:plants1": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:plants2": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:plants3": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:plants4": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:radar": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "pmweather:radome": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "pmweather:range_upgrade_module": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "pmweather:reinforced_black_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_black_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_blue_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_blue_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_brown_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_brown_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_cyan_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_cyan_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_glass": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "pmweather:reinforced_glass_pane": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.835
-  },
-  "pmweather:reinforced_gray_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_gray_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_green_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_green_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_light_blue_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_light_blue_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_light_gray_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_light_gray_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_lime_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_lime_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_magenta_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_magenta_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_orange_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_orange_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_pink_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_pink_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_purple_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_purple_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_red_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_red_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_white_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_white_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:reinforced_yellow_concrete": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.615
-  },
-  "pmweather:reinforced_yellow_concrete_powder": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "pmweather:rotted_log": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "pmweather:rotted_planks": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:rotted_slab": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:rotted_stairs": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:rotted_wood": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "pmweather:scalded_brick_slab": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "pmweather:scalded_brick_stairs": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "pmweather:scalded_bricks": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "pmweather:scalded_cobblestone": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "pmweather:scalded_cobblestone_slab": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "pmweather:scalded_cobblestone_stairs": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "pmweather:scalded_concrete": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.802
-  },
-  "pmweather:scalded_concrete_slab": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.802
-  },
-  "pmweather:scalded_concrete_stairs": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.802
-  },
-  "pmweather:scalded_deepslate": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "pmweather:scalded_deepslate_slab": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "pmweather:scalded_deepslate_stairs": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "pmweather:scalded_metal": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pmweather:scalded_stone": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "pmweather:scalded_stone_brick_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "pmweather:scalded_stone_brick_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "pmweather:scalded_stone_bricks": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "pmweather:scalded_stone_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "pmweather:scalded_stone_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "pmweather:scoured_grass": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "pmweather:sleet_layer": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "pmweather:smoldering_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "pmweather:smoldering_dirt": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "pmweather:smoldering_dirt_slight": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "pmweather:smoldering_door": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "pmweather:smoldering_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "pmweather:smoldering_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "pmweather:smoldering_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "pmweather:smoldering_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "pmweather:sounding_viewer": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "pmweather:stripped_rotted_log": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "pmweather:stripped_rotted_wood": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "pmweather:tornado_sensor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "pmweather:tornado_siren": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "pmweather:wsr88d_core": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
   },
   "powergrid:acid": {
     "maxWaterDepth": 300,
@@ -12353,6 +10957,18 @@
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
+  "protection_pixel:armorhanger": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "protection_pixel:armorloadplatform": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "protection_pixel:foldedsteamectoskeleton": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
   "pulsetech:analog_number_emitter": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -12433,6 +11049,4662 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
+  "railways:big_buffer": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:black_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:black_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:black_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:black_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:black_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:black_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:black_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:black_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:black_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:black_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:black_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:blue_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:blue_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:blue_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:blue_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:blue_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:blue_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:blue_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:blue_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:blue_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:blue_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:blue_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:brown_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:brown_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:brown_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:brown_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:brown_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:brown_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:brown_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:brown_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:brown_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:brown_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:brown_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:buffer": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:buffer_mono": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:buffer_narrow": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:buffer_wide": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:casing_collision": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:chartreuse_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:chartreuse_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:chartreuse_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:chartreuse_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:chartreuse_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:chartreuse_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:chartreuse_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:chartreuse_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:chartreuse_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:chartreuse_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:chartreuse_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:chartreuse_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:conductor_vent": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:conductor_whistle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:copycat_headstock": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:copycat_headstock_bars": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:cyan_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:cyan_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:cyan_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:cyan_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:cyan_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:cyan_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:cyan_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:cyan_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:cyan_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:cyan_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:cyan_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:diorite_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:diorite_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:diorite_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:diorite_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:diorite_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:diorite_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:diorite_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:diorite_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:diorite_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:diorite_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:diorite_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:doubleaxle_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:dripstone_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:dripstone_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:dripstone_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:dripstone_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:dripstone_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:dripstone_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:dripstone_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:dripstone_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:dripstone_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:dripstone_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:dripstone_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:fuel_tank": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:generic_crossing": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:granite_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:granite_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:granite_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:granite_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:granite_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:granite_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:granite_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:granite_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:granite_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:granite_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:granite_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:granite_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:gray_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:gray_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:gray_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:gray_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:gray_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:gray_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:gray_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:gray_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:gray_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:gray_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:gray_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:green_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:green_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:green_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:green_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:green_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:green_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:green_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:green_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:green_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:green_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:green_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:handcar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:headstock": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:invisible_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:invisible_mono_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_10_0": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_12_0": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_4_0": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_6_0": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_8_0": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:large_platform_doubleaxle_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:light_blue_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:light_blue_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:light_blue_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:light_blue_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:light_blue_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:light_blue_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:light_blue_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:light_blue_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:light_blue_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:light_blue_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:light_gray_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:light_gray_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:light_gray_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:light_gray_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:light_gray_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:light_gray_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:light_gray_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:light_gray_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:light_gray_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:light_gray_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:lime_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:lime_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:lime_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:lime_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:lime_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:lime_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:lime_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:lime_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:lime_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:lime_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:lime_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:limestone_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:limestone_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:limestone_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:limestone_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:limestone_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:limestone_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:limestone_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:limestone_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:limestone_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:limestone_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:limestone_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:link_and_pin": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:magenta_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:magenta_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:magenta_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:magenta_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:magenta_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:magenta_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:magenta_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:magenta_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:magenta_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:magenta_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:maroon_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:maroon_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:maroon_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:maroon_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:maroon_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:maroon_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:maroon_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:maroon_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:maroon_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:maroon_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:maroon_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:medium_2_0_2_trailing": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:medium_4_0_4_trailing": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:medium_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:medium_quadruple_wheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:medium_quintuple_wheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:medium_triple_wheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:mono_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:narrow_double_scotch_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:narrow_scotch_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:narrow_small_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:ochrum_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:ochrum_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:ochrum_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:ochrum_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:ochrum_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:ochrum_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:ochrum_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:ochrum_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:ochrum_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:ochrum_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:ochrum_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:olive_green_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:olive_green_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:olive_green_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:olive_green_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:olive_green_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:olive_green_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:olive_green_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:olive_green_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:olive_green_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:olive_green_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:olive_green_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:orange_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:orange_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:orange_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:orange_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:orange_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:orange_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:orange_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:orange_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:orange_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:orange_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:orange_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:pine_green_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:pine_green_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:pine_green_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:pine_green_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:pine_green_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:pine_green_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:pine_green_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:pine_green_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pine_green_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:pine_green_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:pine_green_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:pink_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:pink_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:pink_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:pink_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:pink_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:pink_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:pink_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:pink_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:pink_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:pink_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:pink_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:portable_fuel_interface": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:purple_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:purple_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:purple_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:purple_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:purple_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:purple_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:purple_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:purple_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:purple_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:purple_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:purple_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:red_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:red_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:red_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:red_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:red_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:red_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:red_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:red_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:red_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:red_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:red_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:royal_blue_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:royal_blue_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:royal_blue_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:royal_blue_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:royal_blue_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:royal_blue_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:royal_blue_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:royal_blue_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:royal_blue_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:royal_blue_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:royal_blue_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:royal_blue_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:scorchia_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:scorchia_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:scorchia_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:scorchia_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:scorchia_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:scorchia_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:scorchia_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:scorchia_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:scorchia_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:scorchia_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:scorchia_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:sea_green_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:sea_green_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:sea_green_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:sea_green_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:sea_green_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:sea_green_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:sea_green_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:sea_green_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sea_green_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:sea_green_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:sea_green_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:semaphore": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:singleaxle_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:small_buffer": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_caboosestyle": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_coalburner": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_coalburner_extension": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_diesel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_long": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_long_extension": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_oilburner": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_oilburner_extension": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_streamlined": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_streamlined_extension": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_woodburner": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_woodburner_extension": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:track_acacia": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_acacia_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_acacia_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_bamboo": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_bamboo_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_bamboo_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_birch": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_birch_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_birch_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_blackstone": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_blackstone_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_blackstone_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_cherry": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_cherry_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_cherry_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_coupler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:track_create_andesite_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_create_andesite_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_crimson": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_crimson_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_crimson_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_dark_oak": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_dark_oak_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_dark_oak_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_ender": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_ender_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_ender_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_jungle": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_jungle_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_jungle_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_mangrove": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_mangrove_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_mangrove_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_monorail": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_oak": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_oak_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_oak_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_phantom": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_phantom_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_phantom_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_spruce": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_spruce_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_spruce_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_stripped_bamboo": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_stripped_bamboo_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_stripped_bamboo_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_switch_andesite": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:track_switch_brass": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:track_tieless": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_tieless_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_tieless_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_warped": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_warped_narrow": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:track_warped_wide": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "railways:tripleaxle_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:tuff_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:tuff_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:tuff_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:tuff_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:tuff_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:tuff_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:tuff_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:tuff_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:tuff_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:tuff_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:tuff_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:turquoise_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:turquoise_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:turquoise_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:turquoise_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:turquoise_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:turquoise_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:turquoise_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:turquoise_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:turquoise_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:turquoise_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:turquoise_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:vermilion_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:vermilion_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:vermilion_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:vermilion_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:vermilion_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:vermilion_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:vermilion_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:vermilion_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:vermilion_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:vermilion_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:vermilion_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:vermilion_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:white_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:white_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:white_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:white_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:white_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:white_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:white_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:white_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:white_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:white_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:white_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:wide_comically_large_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:wide_doubleaxle_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:wide_scotch_bogey": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_brass_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_copper_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_copper_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_flat_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_flat_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_folding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:yellow_four_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:yellow_hazard_stripes_chevron_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_hazard_stripes_chevron_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_hazard_stripes_diagonal_on_black": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_hazard_stripes_diagonal_on_white": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_hinged_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:yellow_iron_wrapped_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_iron_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_locometal_boiler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_locometal_end_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:yellow_locometal_flywheel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_locometal_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_locometal_rung_ladder": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "railways:yellow_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_locometal_trapdoor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:yellow_locometal_vent": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_plated_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_riveted_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_round_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:yellow_single_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:yellow_slashed_locometal": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_sliding_locometal_door": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "railways:yellow_two_pane_locometal_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:yellow_wrapped_locometal_smokebox": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
   "sable_player_ragdoll:mob_ragdoll_part": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -12444,6 +15716,82 @@
   "sable_player_ragdoll:ragdoll_seat": {
     "maxWaterDepth": 36,
     "implosionChance": 0.78
+  },
+  "seacreeps:chill_sea_creep_head": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:chill_sea_creep_trophy": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:deep_sea_creep_head": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:deep_sea_creep_trophy": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:froze_tnt": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "seacreeps:koipy_cat_sea_creep_head": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:koipy_cat_sea_creep_trophy": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:sandy_sea_creep_head": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:sandy_sea_creep_trophy": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:scorched_sea_creep_head": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "seacreeps:scorched_sea_creep_trophy": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "seacreeps:scortched_tnt": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "seacreeps:sea_creep_head": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:sea_creep_trophy": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:swamp_sea_creep_head": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:swamp_sea_creep_trophy": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:warm_sea_creep_head": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:warm_sea_creep_trophy": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "seacreeps:wet_tnt_block": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
   },
   "simulated:altitude_sensor": {
     "maxWaterDepth": 20,
@@ -12824,6 +16172,14 @@
   "simulated:yellow_symmetric_sail": {
     "maxWaterDepth": 33,
     "implosionChance": 0.8
+  },
+  "tis3d:casing": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "tis3d:controller": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
   },
   "vestalihy:aiming_block_btr": {
     "maxWaterDepth": 105,

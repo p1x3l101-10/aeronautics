@@ -36,6 +36,12 @@ grabEnabled = true
 	ragdollMaxLaunchSpeed = 128.0
 	#When true, the body parts of a ragdoll collide with each other.
 	partSelfCollision = true
+	#When true, a hand grip slips loose once it is stretched past the break distance under load.
+	grabBreakEnabled = true
+	#How far (blocks) the hand can be pulled from the spot it grabbed before the grip slips.
+	# Default: 0.275
+	# Range: 0.05 ~ 5.0
+	grabBreakDistance = 0.275
 
 #Damage from hard ragdoll impacts.
 [impact_damage]

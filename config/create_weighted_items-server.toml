@@ -1,0 +1,12 @@
+#.
+#Mass assigned to each non-block item when Sable does not define a weight for it.
+#The value is counted per item before the inventory mass divisor is applied.
+# Default: 0.25
+# Range: 0.0 ~ 3.4028234663852886E38
+defaultItemMass = 0.25
+#.
+#Divides the total mass of all stored items before adding it to the inventory block.
+#Lower values make filled inventories heavier. For example, 50 doubles the added mass compared to 100.
+# Default: 100.0
+# Range: 1.0 ~ 3.4028234663852886E38
+inventoryMassDivisor = 100.0
