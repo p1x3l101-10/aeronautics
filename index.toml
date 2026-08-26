@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ","
-hash = "b4e8b0c7a3c9f2727eb3d3b99a414f33c28cc98064ee092525671f4fed43cfde"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
@@ -1786,6 +1782,10 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "1b690dbed3fa2ce487fd93629a07dc0486f1dc5cdf5b1970118129ffe045efb3"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "b4e8b0c7a3c9f2727eb3d3b99a414f33c28cc98064ee092525671f4fed43cfde"
 
 [[files]]
 file = "unsup.ini"
