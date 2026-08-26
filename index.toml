@@ -1756,7 +1756,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythic-origins.pw.toml"
-hash = "7c3513ed6fef82e3441e022a7d79062022099229b12e4520ba854e9f1aa1c44b"
+hash = "23c8e0afda0f5e76e8b060b1e6ad0ac17462f6bb2b9f876b7b20d4bce49bccba"
 metafile = true
 
 [[files]]
