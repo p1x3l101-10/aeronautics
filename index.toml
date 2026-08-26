@@ -761,6 +761,10 @@ file = "config/forgeendertech/Biomes/minecraft$soul_sand_valley.cfg"
 hash = "c8ed5414da4d84bf56038976aef25fc1713ccd76f42133d95e9750069585d7d0"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$stony_peaks.cfg"
+hash = "aa722a7388a8bc6cb80fc0fb86352512305959c54104dab950d32cb347631808"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$stony_shore.cfg"
 hash = "9b85f9fe7d62fc31b92d9bad47462fba42466d8f8959a0a2b03c02a8722bacd6"
 
@@ -811,6 +815,10 @@ hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 [[files]]
 file = "config/jupiter.json"
 hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
+
+[[files]]
+file = "config/kawaiidishes-server.toml"
+hash = "0322afdd3275f72126cdd42612aeb8e68cac921916507592c7e175badc792c3d"
 
 [[files]]
 file = "config/ldfix-common.toml"
@@ -927,6 +935,10 @@ hash = "d6a05a680afa06a7de77bee6d147ae5a629693843d53ca22600fcd17fbc87111"
 [[files]]
 file = "config/pehkui-common.toml"
 hash = "22981c471442655695fab8120f105faa765a067b39782ef162743bfb7ec03b64"
+
+[[files]]
+file = "config/pehkui-server.toml"
+hash = "284f4a9c881016e1302487e26d60085971d5fb1087d5e2a215523c56e029de3e"
 
 [[files]]
 file = "config/pmweather-client.toml"
@@ -1155,6 +1167,10 @@ hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
 [[files]]
 file = "config/voicechat/translations.properties"
 hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
