@@ -669,6 +669,10 @@ file = "config/dynamictreesplus-server.toml"
 hash = "da10b357ac3463325b636fb5754d414675ff874ccc124d9f3c87c96291709a04"
 
 [[files]]
+file = "config/emi.css"
+hash = "80ae7ce3a5f4a5f3da4b876bd848dee4f3ab7258a87bf40235580ec36923f3bd"
+
+[[files]]
 file = "config/emi_loot_config.toml"
 hash = "374a21b90368302fd58761d913159113f827700d255ee17880d0c6c92ba97b34"
 
