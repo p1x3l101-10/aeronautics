@@ -1765,6 +1765,11 @@ hash = "7e7c0e3f229579e506934e4de07a3d769cdc0b9a9bc68fa245b177ec50e1ea80"
 metafile = true
 
 [[files]]
+file = "mods/room-for-two.pw.toml"
+hash = "bf061766a3a0158683e9b3aceb6b00bf61a5115b5ef94a5a9efd6ab9b9e8bd96"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "20ca29d50825c812d60126a12069526e75a0dd66c382c330248054e242aa053c"
 metafile = true
@@ -1802,6 +1807,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
 metafile = true
 
 [[files]]
