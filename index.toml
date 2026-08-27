@@ -1754,6 +1754,11 @@ hash = "2bf1b69bf69c33953e7addc4f24f2d1224ea767c8dfba7d30ddfba0dfe247bb7"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "d89cdf74a4e4e5a0678614dd95573496985f1f7f6dfac96c0cba4930c4bd0055"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c4b8252238a02f88272247d91a71f91c8aef69b794d759399e80dbcf2e4fa36d"
 metafile = true
