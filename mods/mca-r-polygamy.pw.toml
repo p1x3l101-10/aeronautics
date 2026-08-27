@@ -1,0 +1,13 @@
+name = "MCA:R Polygamy"
+filename = "mca_polygamy-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57e27d41f8dcdb9b3fb9412c28e705514943394e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8496362
+project-id = 1561306

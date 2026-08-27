@@ -1824,6 +1824,11 @@ hash = "82cef575ea8b9d7c6d0026cd2f3c41a0923863506af441dfb4d7031e32e379a6"
 metafile = true
 
 [[files]]
+file = "mods/mca-r-polygamy.pw.toml"
+hash = "715e4b83fd3743ba3f3337245d53df0539db4bbd33ac939c722a142454a4f781"
+metafile = true
+
+[[files]]
 file = "mods/mca-romantic-expansion.pw.toml"
 hash = "042501a004877fef39a46cbef7a10ec9af143092c17ea198f1ed4b276ce8cc16"
 metafile = true
