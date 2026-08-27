@@ -1,0 +1,13 @@
+name = "Make Kisses"
+filename = "makekisses-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uwfY8IP7/versions/ajHsgUMD/makekisses-1.0.0.jar"
+hash-format = "sha512"
+hash = "69e2745b73d9517ab2da61a1350ffde613de2e6cb00be31cc28dbce9de9002db8da3da1ba821aaf37a9caf941d76c6cc6ed3ab090065945e07805bd6a0be647f"
+
+[update]
+[update.modrinth]
+mod-id = "uwfY8IP7"
+version = "ajHsgUMD"
