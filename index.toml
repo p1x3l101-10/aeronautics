@@ -1379,11 +1379,6 @@ hash = "149e6ad5c0f65b56bfd74863c6d3541f78cf0838c082d97133ba44476d01149c"
 metafile = true
 
 [[files]]
-file = "mods/caelum.pw.toml"
-hash = "c29086750cb2ac40b6c584459b22990792571ebe8a301c7ed9fe18cabe3b0f8d"
-metafile = true
-
-[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "bb7957568533b01a0c2ef9fd178e9598a39717c656ed1671e078c81894e94d99"
 metafile = true
