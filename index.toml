@@ -1434,6 +1434,11 @@ hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
+file = "mods/cosmeticarmours.pw.toml"
+hash = "45b709bb128383a81b60741d0e06931fec774a6a6fc4b0a72472dd7c64ec0bc7"
+metafile = true
+
+[[files]]
 file = "mods/create-aero-radars.pw.toml"
 hash = "6a742978ceb2034b6c969d7aa79761c5f54d397ac3fee2625ce08b46c2a4f7d1"
 metafile = true
@@ -1906,6 +1911,11 @@ metafile = true
 [[files]]
 file = "mods/origins-neoforge.pw.toml"
 hash = "13db9dd1621e5247305a3cfd1aeea8b4e1c395d73872de92aa78e9c1f4d4553d"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
