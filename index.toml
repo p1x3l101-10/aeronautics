@@ -1794,6 +1794,11 @@ hash = "e2942e8b57d3f6e39e9461bc4afc0e0a01e853a3fcb0786a91ad750ccde7d140"
 metafile = true
 
 [[files]]
+file = "mods/leashable-collars-(unofficial-port).pw.toml"
+hash = "d0e86a36a1427ee256f2145948170f4fb5c322f255d6c3c0f84f339a34f532c3"
+metafile = true
+
+[[files]]
 file = "mods/lever-drugster.pw.toml"
 hash = "8424713cff9ab8667f0c10791a3777aa331c7ea928c563a668b153cb7dbe3a67"
 metafile = true
