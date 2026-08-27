@@ -1381,16 +1381,6 @@ hash = "b360c0438bf09e6cec799babe7db640e64e54c778f9da65e10996e24c3f8e065"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -1711,6 +1701,11 @@ hash = "d6ff1a7358aed4a7d15498755341bfa080a25166a1746a832b7c509a7c7371d3"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "08511bb15a0e73377181df7a13caa6546d685e9c55ab6e8a20aeb32c4ef1b6d1"
 metafile = true
@@ -1926,6 +1921,11 @@ hash = "bf061766a3a0158683e9b3aceb6b00bf61a5115b5ef94a5a9efd6ab9b9e8bd96"
 metafile = true
 
 [[files]]
+file = "mods/roxy.pw.toml"
+hash = "f26c1f15a56d4ceaaf528c09941b5b931bf032268200325e611f5c5c5cf52d26"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "20ca29d50825c812d60126a12069526e75a0dd66c382c330248054e242aa053c"
 metafile = true
@@ -1977,7 +1977,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d39cc9399b0721eb2cba14a136066952a0bc9c5625b3e4d1c0199ee24a661b83"
+hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]
@@ -2032,12 +2032,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "362cc26842a4b631d7ccf6c2f4b6f934fa33174f5cfd7852037f4a88a58b724f"
-metafile = true
-
-[[files]]
-file = "mods/voxyserver.pw.toml"
-hash = "9d6ba47df3e29927e59ed7463bee1a1f104876528a0d51c339df47712e315505"
+hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
 metafile = true
 
 [[files]]

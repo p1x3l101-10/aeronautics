@@ -1,8 +1,0 @@
-name = "voxy server"
-filename = "voxyserver.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/p1x3l101-10/aeronautics/refs/heads/main/dataFiles/voxyserver.jar"
-hash-format = "sha512"
-hash = "d049a34e6316e3f657920ae7a0e7c7acfd07c011e17f9664c40b72b6fb8aaa78ccbc0eaa4249be44b695cae65286a0a22774d59888fb9a668e64f9980b6a8e15"
