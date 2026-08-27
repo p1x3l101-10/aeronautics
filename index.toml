@@ -1379,6 +1379,16 @@ hash = "149e6ad5c0f65b56bfd74863c6d3541f78cf0838c082d97133ba44476d01149c"
 metafile = true
 
 [[files]]
+file = "mods/caelum.pw.toml"
+hash = "c29086750cb2ac40b6c584459b22990792571ebe8a301c7ed9fe18cabe3b0f8d"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "bb7957568533b01a0c2ef9fd178e9598a39717c656ed1671e078c81894e94d99"
 metafile = true
@@ -1764,6 +1774,11 @@ hash = "c4b8252238a02f88272247d91a71f91c8aef69b794d759399e80dbcf2e4fa36d"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "5592a8c0d97106286f29cf1c67a5b8979265a7b22fc3ccefd4f7ff8bc2b77ddc"
+metafile = true
+
+[[files]]
 file = "mods/it-takes-a-pillage-continuation.pw.toml"
 hash = "59f143c0c7bc463e09ef4f6c6172e3e45208a1a4c01663d2a0a4637a4df3eb73"
 metafile = true
@@ -1901,6 +1916,11 @@ metafile = true
 [[files]]
 file = "mods/origins-neoforge.pw.toml"
 hash = "13db9dd1621e5247305a3cfd1aeea8b4e1c395d73872de92aa78e9c1f4d4553d"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "51b0b44901aa98943a87ba02446b497b7acbc7177b8f320ed64ec5ddc3b1ccd8"
 metafile = true
 
 [[files]]
