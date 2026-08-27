@@ -1639,11 +1639,6 @@ hash = "4cceea5e6533d4d42afe938fac2303b223c26f72fe87cc115c6efaa8cd7b6845"
 metafile = true
 
 [[files]]
-file = "mods/emi-for-create-stock.pw.toml"
-hash = "cd3ffc95761459e2c509135f4178d317024ada24c345d19d1cc0dac3f70b9b0a"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "340d5068da39137a1f7d04d78b9cef3e05255368638092eef43148569fb4c2ad"
 metafile = true
@@ -1654,18 +1649,8 @@ hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
 metafile = true
 
 [[files]]
-file = "mods/emi-recipe-sharing.pw.toml"
-hash = "609238116b626bb1b513352aad7c1b1b00835cd2a3c38365e3f12e633a177ef4"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "0549c838275b560adb242891e099b625e3273b24cee2e1e705c96a0af03b0220"
-metafile = true
-
-[[files]]
-file = "mods/emiaccelerator.pw.toml"
-hash = "e9fbc5439ee6f35669a9e3dc7eedd1244bd173caba3045b45d9ee6c7e5a4f2ef"
 metafile = true
 
 [[files]]
