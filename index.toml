@@ -1784,6 +1784,11 @@ hash = "59f143c0c7bc463e09ef4f6c6172e3e45208a1a4c01663d2a0a4637a4df3eb73"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "b0bff9917d9b90cfbc76f7946f1cbf62a25ef516a2410949d22c6a16218fc7bf"
+metafile = true
+
+[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "3f44721c554a06b9e922c6102bed6402fed57d6d340de0299ee4237544724c48"
 metafile = true
@@ -2066,11 +2071,6 @@ metafile = true
 [[files]]
 file = "mods/tis3d.pw.toml"
 hash = "b3598e652d045d51088529dd64525337414d6db296e97a699741adfdba0dc9d6"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
-hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 metafile = true
 
 [[files]]
