@@ -5,10 +5,6 @@ file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "8cf607ed310186265e7a372acd10c541f9ad3d431b0b7cc8edfcb767c62db5d7"
-
-[[files]]
 file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
 hash = "0ce694b7842011f30705cbadc1140a105e15eabe5983dd62605d82e57fefd201"
 
@@ -1580,11 +1576,6 @@ hash = "c7e4a2826a2eca336339424d72a647af32c11021be629f55a6a20f921f5ca681"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "efe1d7bfd3c011c0eec4b7528806aa3cf74558e0e62724d35a6ebdb19fdc5aa6"
-metafile = true
-
-[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "a2c959977399fa0b824aeed2c9894c3bac48555f7f1ae898f91c3cd55971efb0"
 metafile = true
@@ -2027,6 +2018,16 @@ metafile = true
 [[files]]
 file = "mods/vestalihy.pw.toml"
 hash = "faed0351131342951f127194750e64fee1d4cf6bd745411ced978c5bb7e44704"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "362cc26842a4b631d7ccf6c2f4b6f934fa33174f5cfd7852037f4a88a58b724f"
+metafile = true
+
+[[files]]
+file = "mods/voxyserver.pw.toml"
+hash = "9d6ba47df3e29927e59ed7463bee1a1f104876528a0d51c339df47712e315505"
 metafile = true
 
 [[files]]
