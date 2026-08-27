@@ -2069,6 +2069,11 @@ hash = "52abf6c817b1d2d9f4f8ce82641abbd44f0ce80176f18b0e721fbaad060fe0cc"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7eafc3d508a531acce9edd4794bb68c2aa3433b83d9d43fd9de5463cc0b9ead9"
 metafile = true
