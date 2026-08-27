@@ -1551,11 +1551,6 @@ hash = "c5a85bd12d6b634936a2c77483c839a82d9e0eef86f9235cb04c8a284757e32c"
 metafile = true
 
 [[files]]
-file = "mods/createparachute.pw.toml"
-hash = "396ca5ba2a71bfee7f95a4db815fe027a231362a9c8eae9f18b7f1e9e409a826"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "4687df8f2a2f20ff0b992b5a33a0cd2eae72fb02282b871cea847a08f9d9a3e1"
 metafile = true
