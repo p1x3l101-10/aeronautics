@@ -490,7 +490,7 @@ hash = "8f1fe57382a9bd3be98be2cd2ab28e49558385123b044111c04cd20f3b557f0f"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "d462785c337cc2e56c37a2e223d6a54c3bbaff43bca6c9c845a672aea9ba36de"
+hash = "084055f6ff3875679dd1d0e6dc52148a07f366b97153de26534d7569134d2121"
 
 [[files]]
 file = "config/cardboarded_conveynience.json"
@@ -519,6 +519,14 @@ hash = "f8ffe28d0054cfa5aebc8e5a86da175bb0dbf01461034bdaf4aa6ad1bd53bbc4"
 [[files]]
 file = "config/climbable_ropes-server.toml"
 hash = "f72f094ea3c2af730edcadf11e4d883ec348acae5dfff66984ca3bc19a7d4bf2"
+
+[[files]]
+file = "config/connector.json"
+hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
+
+[[files]]
+file = "config/connectorextras_energy_bridge-common.toml"
+hash = "2427c9e930e69fae4ffff0913608be1cd8076421a28dc721264f0366ec87e24d"
 
 [[files]]
 file = "config/corpse-server.toml"
@@ -706,7 +714,7 @@ hash = "6967be2354a821d42b93572dc97f725ce16e704fb7fca1412f4981c12331ddd5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "7ef35b5e90eabe3c18bb9dd5019dd5347d410d00d200ee231a18a36452ed6a81"
+hash = "fb2c49980f179ade9e69b037dad001d8d9e3da99a31c46e0bd1cab1ea21818ce"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -739,6 +747,10 @@ hash = "6e772e3d1dd20bf03a14530661462ec8073594442aece9c3d3068f0328faf5c8"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$deep_dark.cfg"
 hash = "f4747426e9f8b1e9ef3da09812840656f1190c3247fc0a3f81a51c4306a45354"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$desert.cfg"
+hash = "a29cb5ba7e6510c85fb3e41bb217771cd2c75d8042fd5e2f77f4ed8d0f70240b"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$dripstone_caves.cfg"
@@ -1025,6 +1037,14 @@ file = "config/sable_player_ragdoll-server.toml"
 hash = "94a25a591c1ee571f5d1c26d279cca89eeb71a1bbbd2c473a2595607566ebbeb"
 
 [[files]]
+file = "config/seeu-client.json"
+hash = "9bde0d778e2026341329a460a308c50cb729a6fea533c1efe2a420797fb09e28"
+
+[[files]]
+file = "config/seeu-server.json"
+hash = "9e05e9d49b243a6d57f5872084cc4d11febe44557f940b1ba0c95ed2fa278956"
+
+[[files]]
 file = "config/simulated-client.toml"
 hash = "944ba0d36dfe00436e814fffd736acdd51292da18a01a060ea6ffbcf3dc7388b"
 
@@ -1078,7 +1098,7 @@ hash = "1de627728709ba4c6b973b5cbaca92bcc9d06777dc6de9ccb96aa8bed28b8262"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "a9b73a1bff215804429c9edb4b3d6efdf8588976e5e3f441102e47deb44d604c"
+hash = "93f54d969ae24942fae75b23ad8cff40a98061f2d991ebf725464f3e891a9fa1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1094,7 +1114,7 @@ hash = "babdb5083193dc3a611bed58ea011db3e8ce10282477bd7f78241452da7eece6"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "af9cf8a5ee72f12f54145f018e4ddbbb6b6812ca9e20a3da081a2c9d9ab0a7ef"
+hash = "34525852d4ef132b504df74c60b88eca34632a02240982d904de5cf91407eeb2"
 
 [[files]]
 file = "config/takesapillage.json"
@@ -1170,11 +1190,19 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "7e9e281d187518e3ca751d9750827c5a378c12730c0889e99ceb72363f20e071"
+hash = "40bb432572979c89993f66b3dd69f97bbf63af9dcadd2e0475fa7c7a03900d62"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "987c83fb0abec10cf4a08b1a20c89442329384a06b33e4dc22397e16d3a119a4"
+
+[[files]]
+file = "config/voxy-config.json"
+hash = "f2d282f6d5d217c7a6c09ce7ba18cf16feba9a058746119b332110dab7f3a9f1"
+
+[[files]]
+file = "config/voxyserver.json"
+hash = "dc4e4c785c8d06d6aa0e5822e5a8542f5030708503d45b1e01161eda22861072"
 
 [[files]]
 file = "config/watut-client.toml"

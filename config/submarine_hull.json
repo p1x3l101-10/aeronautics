@@ -1261,6 +1261,22 @@
     "maxWaterDepth": 50,
     "implosionChance": 0.7
   },
+  "catears:acetone": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "catears:bleach": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "catears:chloroform": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "catears:vinegar": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "cbc_at:armor_piercing_cartridge": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -4657,6 +4673,10 @@
     "maxWaterDepth": 46,
     "implosionChance": 0.725
   },
+  "create_parachute:parachute_block": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.835
+  },
   "create_power_loader:andesite_chunk_loader": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -6093,6 +6113,102 @@
     "maxWaterDepth": 9,
     "implosionChance": 0.85
   },
+  "kawaiidishes:apple_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:blender": {
+    "maxWaterDepth": 80,
+    "implosionChance": 0.52
+  },
+  "kawaiidishes:capuccino_coffee": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:cheese_cake": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:cherry_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:chocolate_cheese_cake": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:coffee_bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:coffee_machine": {
+    "maxWaterDepth": 80,
+    "implosionChance": 0.52
+  },
+  "kawaiidishes:dark_coffee": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:display_case": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:doppio_coffee": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:espresso_coffee": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:glow_berry_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:honey_cheese_cake": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:hot_cocoa": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:ice_cream_maker": {
+    "maxWaterDepth": 80,
+    "implosionChance": 0.52
+  },
+  "kawaiidishes:incense_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:kitchen_tiles": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "kawaiidishes:latte_coffee": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:macchiato_coffee": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:mocha_coffee": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:mug": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:seat": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "kawaiidishes:sweet_berry_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
   "ldlib2:renderer_block": {
     "maxWaterDepth": 24,
     "implosionChance": 0.85
@@ -6749,8 +6865,16 @@
     "maxWaterDepth": 25,
     "implosionChance": 0.85
   },
+  "minecraft:bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "minecraft:cactus": {
     "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "minecraft:cactus_flower": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "minecraft:cake": {
@@ -6889,6 +7013,10 @@
     "maxWaterDepth": 25,
     "implosionChance": 0.85
   },
+  "minecraft:chiseled_cinnabar": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
   "minecraft:chiseled_copper": {
     "maxWaterDepth": 67,
     "implosionChance": 0.6
@@ -6913,6 +7041,10 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
+  "minecraft:chiseled_resin_bricks": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
   "minecraft:chiseled_sandstone": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -6920,6 +7052,10 @@
   "minecraft:chiseled_stone_bricks": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
+  },
+  "minecraft:chiseled_sulfur": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
   },
   "minecraft:chiseled_tuff": {
     "maxWaterDepth": 50,
@@ -6937,8 +7073,44 @@
     "maxWaterDepth": 4,
     "implosionChance": 0.85
   },
+  "minecraft:cinnabar": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:cinnabar_brick_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:cinnabar_brick_stairs": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:cinnabar_brick_wall": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:cinnabar_bricks": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:cinnabar_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:cinnabar_stairs": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:cinnabar_wall": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
   "minecraft:clay": {
     "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "minecraft:closed_eyeblossom": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "minecraft:coal_block": {
@@ -7064,6 +7236,10 @@
   "minecraft:crafting_table": {
     "maxWaterDepth": 25,
     "implosionChance": 0.85
+  },
+  "minecraft:creaking_heart": {
+    "maxWaterDepth": 168,
+    "implosionChance": 0.05
   },
   "minecraft:creeper_head": {
     "maxWaterDepth": 18,
@@ -7533,6 +7709,10 @@
     "maxWaterDepth": 18,
     "implosionChance": 0.85
   },
+  "minecraft:dried_ghast": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "minecraft:dried_kelp_block": {
     "maxWaterDepth": 19,
     "implosionChance": 0.85
@@ -7658,6 +7838,10 @@
     "implosionChance": 0.85
   },
   "minecraft:fire_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:firefly_bush": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -8072,6 +8256,10 @@
   "minecraft:lava_cauldron": {
     "maxWaterDepth": 36,
     "implosionChance": 0.78
+  },
+  "minecraft:leaf_litter": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
   },
   "minecraft:lectern": {
     "maxWaterDepth": 25,
@@ -8637,6 +8825,10 @@
     "maxWaterDepth": 5,
     "implosionChance": 0.85
   },
+  "minecraft:open_eyeblossom": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "minecraft:orange_banner": {
     "maxWaterDepth": 10,
     "implosionChance": 0.85
@@ -8744,6 +8936,86 @@
   "minecraft:packed_mud": {
     "maxWaterDepth": 27,
     "implosionChance": 0.8333333
+  },
+  "minecraft:pale_hanging_moss": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_moss_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_moss_carpet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "minecraft:pale_oak_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "minecraft:pale_oak_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "minecraft:pale_oak_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
   },
   "minecraft:pearlescent_froglight": {
     "maxWaterDepth": 5,
@@ -8917,6 +9189,22 @@
     "maxWaterDepth": 61,
     "implosionChance": 0.6333333
   },
+  "minecraft:polished_cinnabar": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:polished_cinnabar_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:polished_cinnabar_stairs": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:polished_cinnabar_wall": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
   "minecraft:polished_deepslate": {
     "maxWaterDepth": 72,
     "implosionChance": 0.56666666
@@ -8957,6 +9245,22 @@
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
+  "minecraft:polished_sulfur": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:polished_sulfur_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:polished_sulfur_stairs": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:polished_sulfur_wall": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
   "minecraft:polished_tuff": {
     "maxWaterDepth": 50,
     "implosionChance": 0.7
@@ -8980,6 +9284,10 @@
   "minecraft:potatoes": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "minecraft:potent_sulfur": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
   },
   "minecraft:potted_acacia_sapling": {
     "maxWaterDepth": 1,
@@ -9018,6 +9326,10 @@
     "implosionChance": 0.85
   },
   "minecraft:potted_cherry_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:potted_closed_eyeblossom": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -9069,11 +9381,19 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "minecraft:potted_open_eyeblossom": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "minecraft:potted_orange_tulip": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "minecraft:potted_oxeye_daisy": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:potted_pale_oak_sapling": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -9413,6 +9733,30 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "minecraft:resin_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:resin_brick_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:resin_brick_stairs": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:resin_brick_wall": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:resin_bricks": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:resin_clump": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "minecraft:respawn_anchor": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -9478,6 +9822,10 @@
     "implosionChance": 0.85
   },
   "minecraft:seagrass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:short_dry_grass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -9801,6 +10149,14 @@
     "maxWaterDepth": 20,
     "implosionChance": 0.85
   },
+  "minecraft:stripped_pale_oak_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "minecraft:stripped_pale_oak_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
   "minecraft:stripped_spruce_log": {
     "maxWaterDepth": 20,
     "implosionChance": 0.85
@@ -9829,6 +10185,42 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "minecraft:sulfur": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:sulfur_brick_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:sulfur_brick_stairs": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:sulfur_brick_wall": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:sulfur_bricks": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:sulfur_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:sulfur_spike": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "minecraft:sulfur_stairs": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "minecraft:sulfur_wall": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
   "minecraft:sunflower": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -9842,6 +10234,10 @@
     "implosionChance": 0.85
   },
   "minecraft:sweet_berry_bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "minecraft:tall_dry_grass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -10313,6 +10709,10 @@
     "maxWaterDepth": 13,
     "implosionChance": 0.85
   },
+  "minecraft:wildflowers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "minecraft:wither_rose": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -10656,6 +11056,10 @@
   "offroad:wheel_mount": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
+  },
+  "origins:temporary_cobweb": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
   },
   "powergrid:acid": {
     "maxWaterDepth": 300,
