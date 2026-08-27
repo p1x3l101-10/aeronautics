@@ -1645,12 +1645,22 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "dd16467cf359483ed4bcae4b035ce2a79f1b6a053ae77e8d18a38ae3a79987ae"
+hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
+metafile = true
+
+[[files]]
+file = "mods/emi-recipe-sharing.pw.toml"
+hash = "609238116b626bb1b513352aad7c1b1b00835cd2a3c38365e3f12e633a177ef4"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "0549c838275b560adb242891e099b625e3273b24cee2e1e705c96a0af03b0220"
+metafile = true
+
+[[files]]
+file = "mods/emiaccelerator.pw.toml"
+hash = "e9fbc5439ee6f35669a9e3dc7eedd1244bd173caba3045b45d9ee6c7e5a4f2ef"
 metafile = true
 
 [[files]]
@@ -1766,11 +1776,6 @@ metafile = true
 [[files]]
 file = "mods/it-takes-a-pillage-continuation.pw.toml"
 hash = "59f143c0c7bc463e09ef4f6c6172e3e45208a1a4c01663d2a0a4637a4df3eb73"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "efcc335852f09bbf66eafd1a20f42403cdd9e64a51dd660211ce4fb717734598"
 metafile = true
 
 [[files]]
@@ -2051,6 +2056,11 @@ metafile = true
 [[files]]
 file = "mods/tis3d.pw.toml"
 hash = "b3598e652d045d51088529dd64525337414d6db296e97a699741adfdba0dc9d6"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 metafile = true
 
 [[files]]

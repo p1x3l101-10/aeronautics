@@ -1,0 +1,13 @@
+name = "EMI Recipe Sharing (EMIRS)"
+filename = "emirecipesharing-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hAwuJJg9/versions/6HYC0laX/emirecipesharing-neoforge-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "87297602ea9d553d25e2dc1c44d83a02d5234b92654837d35497527cdf575df0b05cf95a2ec96034cca303bf3274efd260340f6da4f03195e7ce31d3c4e7d883"
+
+[update]
+[update.modrinth]
+mod-id = "hAwuJJg9"
+version = "6HYC0laX"
