@@ -1519,8 +1519,18 @@ hash = "d68bfe7c5dc283a5d9f1af1b6ca2f9d8bed952abc5bb3fef2ebf6f55a90f92eb"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "80547db2ebfc71d0d649534fe6fee7dabcf2a58770e8ff38218f6db874382204"
+metafile = true
+
+[[files]]
 file = "mods/create-dynamic-lights.pw.toml"
 hash = "e2b0b0f9f93b5589b4e0fb9a32c3830be596680f8c49d501543aef0a4dac7d62"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "a7fd8286646b1d7ae52507c6ccfa7767389803f30e5f891c59d26c1463808e59"
 metafile = true
 
 [[files]]
