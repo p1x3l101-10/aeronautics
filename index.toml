@@ -1565,6 +1565,11 @@ hash = "647d39ed28e0e460dd002e9997a59f98ff87dbeed2f13e9a10bc60107649265d"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
+metafile = true
+
+[[files]]
 file = "mods/create-ballast.pw.toml"
 hash = "bfe2988430045c1de73c69a6b3073fca12139f3c74ca44ee1e7058deadf9bb10"
 metafile = true
