@@ -858,7 +858,7 @@ hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
 
 [[files]]
 file = "config/kawaiidishes-server.toml"
-hash = "0322afdd3275f72126cdd42612aeb8e68cac921916507592c7e175badc792c3d"
+hash = "a85da268815cdcea8598242246c823e69d5b713d286311fec39b33c9b992f158"
 
 [[files]]
 file = "config/ldfix-common.toml"
