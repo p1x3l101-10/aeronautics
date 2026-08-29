@@ -1620,6 +1620,11 @@ hash = "683a4f26e88265b91d8a5a64ea7f9af7016bb01c1b555d23dd88f2ff2a8f5567"
 metafile = true
 
 [[files]]
+file = "mods/create-horse-decimation.pw.toml"
+hash = "18d8afc9ed14dbac813e0b6cde851a0c62560086a4e925b9e7caee6cbc584807"
+metafile = true
+
+[[files]]
 file = "mods/create-power-chip.pw.toml"
 hash = "77eaf042bf752df20590318b4fd8cf34994eef8d500150aef3f6e8997a4a3ac6"
 metafile = true
