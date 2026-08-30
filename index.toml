@@ -1912,6 +1912,11 @@ hash = "4f272767f160c3c4402b74f777ed02aea7323d73b27ac0486d87471fae6b60a8"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "b654d561afbde13dcfd2e3df4180e3c797ecab0e9c46b109376b4b8074702bdf"
 metafile = true
@@ -2102,6 +2107,11 @@ hash = "7a7bb1209d50749e546d8ae5c483693bb7afa9e7a5da13e6f1da68a51dd08af1"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
 file = "mods/ocean-lily-pad-village.pw.toml"
 hash = "fe8130b8575cdae42125711e231b551e96475795655817b5dc5ef3d4a5bff2de"
 metafile = true
@@ -2119,6 +2129,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "a80d243759a5998d1f61cab61a9769526c21e1a9ac2f328ec1f213bb97311bfe"
 metafile = true
 
 [[files]]
@@ -2209,6 +2224,11 @@ metafile = true
 [[files]]
 file = "mods/seeu.pw.toml"
 hash = "1a8b88e564f9383a6b625191608e07f543752916a647f32cd3ea90af5510dbc8"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
