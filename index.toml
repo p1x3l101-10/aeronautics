@@ -774,7 +774,7 @@ hash = "6967be2354a821d42b93572dc97f725ce16e704fb7fca1412f4981c12331ddd5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "cd6d1fb9ea9157d3b6144bc1098bc89cd7c387979407de31c14035805e6ef078"
+hash = "a240f1b047909c085323e8d20f6222a2bed85bc32a01a13108fbe95bfd4e48ac"
 
 [[files]]
 file = "config/fastsuite.cfg"
@@ -807,6 +807,10 @@ hash = "aefda3aaf571c6ba908372b015595ab96d678094c4809fab6be0d22536fd1eb7"
 [[files]]
 file = "config/forgeendertech/Biomes/catears$idontevenknowbro.cfg"
 hash = "cbc2226bd4574ec9f19e8960fec10bfe5a8a5bf6acde0f5826e07c1c362088f9"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$badlands.cfg"
+hash = "6608ef6f87e0d83f6041bfa46dcf0d5a96b7bdac104246672c0a8b4a40ced6e1"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$birch_forest.cfg"
@@ -975,6 +979,14 @@ hash = "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
 [[files]]
 file = "config/neoforge-server.toml"
 hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
+
+[[files]]
+file = "config/nerb/compat/emi.yaml"
+hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"
+
+[[files]]
+file = "config/nerb/general.yaml"
+hash = "ec614cafa950e8fb5c77d497a8bb0b0fa44b8f88c0a0b7767515fdb94f116340"
 
 [[files]]
 file = "config/neruina.json5"
