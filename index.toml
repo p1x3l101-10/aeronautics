@@ -1769,6 +1769,11 @@ hash = "7cf157c711b62215a2b149f65571f04c54c79d94459be3316b7c65e40efad857"
 metafile = true
 
 [[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
 file = "mods/create-transmission!.pw.toml"
 hash = "d0f989895c3c035338ccc6529f58ab616c233163c8da522ba5fca6de27c9fbbf"
 metafile = true
