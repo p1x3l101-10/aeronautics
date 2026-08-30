@@ -1,12 +1,12 @@
 name = "Aeronautics"
 author = "P1x3l101"
-version = "5.1.13"
+version = "5.1.14"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "839d517c430d647393e068e999d22f59e771fde10622226c148fc3d5d3dc3566"
+hash = "089fa2c67540c06ca9ce9c9a68c3b415000e76d9230e556cb44295d22e5a278c"
 
 [versions]
 lwjgl3 = "3.3.3"

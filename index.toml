@@ -1719,6 +1719,16 @@ hash = "bddc951331f176661cfa097f2b9dc5deba1219827e7ff2faf41047bf9ffa2107"
 metafile = true
 
 [[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "3956311952e50e1b437d8e7c5af4537feebd3d95bd5435192b78b251cab38bf2"
+metafile = true
+
+[[files]]
+file = "mods/create-package.pw.toml"
+hash = "3a62291371125f74456c8161cb7c12f7b4b245742d0afea45393df586f03353f"
+metafile = true
+
+[[files]]
 file = "mods/create-power-chip.pw.toml"
 hash = "63b86d3a9cfa7f8c49c57c9bbeaa1ac5cefb4ed4393b012df6d4ee841fd8761f"
 metafile = true
@@ -2146,6 +2156,11 @@ metafile = true
 [[files]]
 file = "mods/origins-neoforge.pw.toml"
 hash = "11a8ffa7e1a820695d09f82f0c54a386f0738ae5b7e718ebe46793a9cba71eb4"
+metafile = true
+
+[[files]]
+file = "mods/packagerspsic.pw.toml"
+hash = "b7434a2da8f6c68e3e77e7288d19d979dbd97cec43e827e86be2270b70a7741e"
 metafile = true
 
 [[files]]
