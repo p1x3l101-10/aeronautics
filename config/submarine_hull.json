@@ -1237,6 +1237,38 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
+  "aeroworks:control_desk": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:control_stand": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:copycat_control_desk": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:copycat_control_stand": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:gyroscope": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:joystick": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroworks:mechanical_servo": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:stepper_servo": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
   "appex:experience_acceptor": {
     "maxWaterDepth": 155,
     "implosionChance": 0.076
@@ -4673,9 +4705,165 @@
     "maxWaterDepth": 46,
     "implosionChance": 0.725
   },
-  "create_parachute:parachute_block": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.835
+  "create_dragons_plus:black_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:blue_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:brown_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:cyan_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:dragon_breath": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:dragon_breath_cauldron": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "create_dragons_plus:fluid_hatch": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_dragons_plus:fragile_fluid_tank": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_dragons_plus:gray_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:green_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:levitite_fragile_fluid_tank": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_dragons_plus:light_blue_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:light_gray_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:lime_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:magenta_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:orange_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:pink_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:purple_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:red_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:white_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_dragons_plus:yellow_dye": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_enchantment_industry:blaze_enchanter": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_enchantment_industry:blaze_forger": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_enchantment_industry:classic_blaze_enchanter": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_enchantment_industry:experience": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_enchantment_industry:experience_hatch": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_enchantment_industry:experience_lantern": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_enchantment_industry:grindstone_drain": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_enchantment_industry:mechanical_grindstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "create_enchantment_industry:printer": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_enchantment_industry:super_experience_block": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_horse_decimation:horse_abductor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "create_horse_decimation:horse_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "create_horse_decimation:horse_door": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "create_horse_decimation:horse_glue": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_hypertube:hypertube": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_hypertube:hypertube_accelerator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_hypertube:hypertube_entrance": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_hypertube:hypertube_junction": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_hypertube:tube_path": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "create_power_loader:andesite_chunk_loader": {
     "maxWaterDepth": 55,
@@ -6212,6 +6400,42 @@
   "ldlib2:renderer_block": {
     "maxWaterDepth": 24,
     "implosionChance": 0.85
+  },
+  "lootr:decorated_pot": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "lootr:lootr_barrel": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "lootr:lootr_chest": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "lootr:lootr_inventory": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "lootr:lootr_shulker": {
+    "maxWaterDepth": 46,
+    "implosionChance": 0.725
+  },
+  "lootr:lootr_trapped_chest": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "lootr:suspicious_gravel": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "lootr:suspicious_sand": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "lootr:trophy": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "mca:cobblestone_slanted_headstone": {
     "maxWaterDepth": 80,
@@ -11060,6 +11284,138 @@
   "origins:temporary_cobweb": {
     "maxWaterDepth": 73,
     "implosionChance": 0.56
+  },
+  "playercollars:black_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:black_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:blue_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:blue_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:brown_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:brown_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:cyan_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:cyan_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:gray_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:gray_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:green_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:green_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:invisible_fence": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "playercollars:light_blue_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:light_blue_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:light_gray_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:light_gray_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:lime_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:lime_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:magenta_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:magenta_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:orange_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:orange_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:pink_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:pink_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:purple_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:purple_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:red_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:red_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:white_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:white_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "playercollars:yellow_dog_bed": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "playercollars:yellow_dog_bowl": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
   },
   "powergrid:acid": {
     "maxWaterDepth": 300,

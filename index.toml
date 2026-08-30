@@ -353,6 +353,14 @@ file = "config/aeronautics_utility_objects-server.toml"
 hash = "c16f2363ae6500501d83bf53da22ef81c4c69eb82bda7ad68a264d0f09adf9b2"
 
 [[files]]
+file = "config/aeroworks-client.toml"
+hash = "df9b02b4d3c74f9ea6ea89003b160e4fe9585574ff8d51fff59020e61713b72f"
+
+[[files]]
+file = "config/aeroworks-common.toml"
+hash = "9793245f332dcc8b700f16d297d5c7b17923b13e74e0070e032719268daf3243"
+
+[[files]]
 file = "config/alchemancy-server.toml"
 hash = "2b47b0e10d2ffdd34092ee2e3cc6dc2b2c706f8145772ecea6855bb25d8d52f0"
 
@@ -593,8 +601,20 @@ file = "config/create_enchantment_industry-server.toml"
 hash = "74d6bf333342576057cb0da6252a0aa836191090ec30d75d5e100de2b1fb6f68"
 
 [[files]]
+file = "config/create_horse_decimation-client.toml"
+hash = "30a918be2c4d52af8b46347cf345602f9ab71a2385a7b5c16a48aa8fab6995b6"
+
+[[files]]
 file = "config/create_horse_decimation-server.toml"
 hash = "1bfdadde63f8d5f457ee6dfab16216e8a307b8bd1ea81743e67e749b98fcc832"
+
+[[files]]
+file = "config/create_hypertube-client.toml"
+hash = "1e656302c25b03ffb6410e1e8aaa54abbaa38059072de303dd6736cb116c3c69"
+
+[[files]]
+file = "config/create_hypertube-server.toml"
+hash = "f050b43daa7a9dd2b5e6271aac0715f5076399ff70acd5619480b97dbf66e5e6"
 
 [[files]]
 file = "config/create_parachute-common.toml"
@@ -742,7 +762,7 @@ hash = "6967be2354a821d42b93572dc97f725ce16e704fb7fca1412f4981c12331ddd5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "fb2c49980f179ade9e69b037dad001d8d9e3da99a31c46e0bd1cab1ea21818ce"
+hash = "4d0b9558bc1afc5a02f59d14922b574f7fd9410cb7b4726a66399719474e7238"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -767,6 +787,10 @@ hash = "867208436af0abb3508d1ba1239059d26a3f2243e7d2c807cf181de3c2911454"
 [[files]]
 file = "config/forgeendertech/Biomes/aeroscapes$void_shores.cfg"
 hash = "aefda3aaf571c6ba908372b015595ab96d678094c4809fab6be0d22536fd1eb7"
+
+[[files]]
+file = "config/forgeendertech/Biomes/catears$idontevenknowbro.cfg"
+hash = "cbc2226bd4574ec9f19e8960fec10bfe5a8a5bf6acde0f5826e07c1c362088f9"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$birch_forest.cfg"
@@ -807,6 +831,10 @@ hash = "aa722a7388a8bc6cb80fc0fb86352512305959c54104dab950d32cb347631808"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$stony_shore.cfg"
 hash = "9b85f9fe7d62fc31b92d9bad47462fba42466d8f8959a0a2b03c02a8722bacd6"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$swamp.cfg"
+hash = "9ca12ff20e26f26cab375513d0ab45af3d4d49b941b199408a377cb8006706b4"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$warm_ocean.cfg"
@@ -1130,7 +1158,7 @@ hash = "6cd7b8251d83ee6080772835d37b955bb854f400e52e6fea2740cebf1b3a6ae7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "bcbe83f0f04e88b4885e4c09b699f0d2e6517eb55d23901e69607f4b193a0d28"
+hash = "d27b47d1f94e5d743dd91a29a787079dbed6dd91c9e9a433ce1cd760d578c4fa"
 
 [[files]]
 file = "config/sound_physics_remastered/propeller_occlusion_overrides.properties"
@@ -1138,11 +1166,11 @@ hash = "bf7ca7c5885da82caf8d1e710ec206dd6461653a9eaa089dfb8c9cccdf5cefce"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "1de627728709ba4c6b973b5cbaca92bcc9d06777dc6de9ccb96aa8bed28b8262"
+hash = "b1a9c184de8db083a422dc1a4f4d96527801f44c6b8f65ab539f870ba64d9aa1"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "93f54d969ae24942fae75b23ad8cff40a98061f2d991ebf725464f3e891a9fa1"
+hash = "4ae6084195a423d634792fbbf19f419a5326438a09bf3e662a48daa6b7520cff"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1158,7 +1186,7 @@ hash = "babdb5083193dc3a611bed58ea011db3e8ce10282477bd7f78241452da7eece6"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "34525852d4ef132b504df74c60b88eca34632a02240982d904de5cf91407eeb2"
+hash = "4cb6cd14bd67b3c82ee4cf367c25a892e6770b7ef164a92d48843e26ab289a91"
 
 [[files]]
 file = "config/takesapillage.json"
@@ -1234,7 +1262,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "40bb432572979c89993f66b3dd69f97bbf63af9dcadd2e0475fa7c7a03900d62"
+hash = "b667f88f3f2aa068b8d4f1d1516c0261b1d1e1b58e53a73d882fd004aaef121f"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -1334,7 +1362,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaerohud.txt"
-hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
+hash = "9f80258cf24ec3f16a8e3b7d1694aaf6dc6ba177c3ea20f6219bc5af1a1fda90"
 
 [[files]]
 file = "config/xaeropatreon.txt"
