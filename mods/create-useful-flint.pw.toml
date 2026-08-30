@@ -1,0 +1,13 @@
+name = "Create: Useful Flint"
+filename = "create_useful_flint-1.0.0-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GDejwYeK/versions/yK2qRjIU/create_useful_flint-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "79ab11b2c3580d92863d7655253d5cfc4e45091031b32239a3fc0a8b84b5095de12ac459e19dfaa3e960674bf4ecb48acef226f405edb32771308ff994a7a4bd"
+
+[update]
+[update.modrinth]
+mod-id = "GDejwYeK"
+version = "yK2qRjIU"

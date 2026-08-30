@@ -1618,8 +1618,33 @@ hash = "9d01eb445683f1e84fa3afabf81a83f4a80a34f0b808604ab1f47b269282964d"
 metafile = true
 
 [[files]]
+file = "mods/create-blaze-burner-fuels.pw.toml"
+hash = "cf2f91931925be47f0db6435d9878945f880258d579f3840496644cd940e6f05"
+metafile = true
+
+[[files]]
 file = "mods/create-cardboarded-conveynience.pw.toml"
 hash = "3f89778aad95829e0344420e86996ea238ed163026a7f12e95a10b669de1542d"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblestone-deepslate-generators.pw.toml"
+hash = "5c6a6de1c89aa5a7f356867567a2cc2422fbe4fbaa61abd8d868bd9165fb9ea9"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "4d1e7881798e3e72bf619c45f384cd284b1d31ebad84bb4615eeeaa3ecf3ca77"
+metafile = true
+
+[[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "6585dd3b5e5827ef7a154c6f6a42b261fce089bfffe430c13e8c7df2e22f9c0f"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
 metafile = true
 
 [[files]]
@@ -1653,6 +1678,11 @@ hash = "18d8afc9ed14dbac813e0b6cde851a0c62560086a4e925b9e7caee6cbc584807"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "157b009cd9b2a7f55f2b7d0abdc2f9f7d49eade208a786c71cc6d2f8430bba4a"
+metafile = true
+
+[[files]]
 file = "mods/create-power-chip.pw.toml"
 hash = "77eaf042bf752df20590318b4fd8cf34994eef8d500150aef3f6e8997a4a3ac6"
 metafile = true
@@ -1673,8 +1703,23 @@ hash = "a04705033bce9b561dc53a6762dd123159bf490d3d017f54a75ace8eb757a933"
 metafile = true
 
 [[files]]
+file = "mods/create-ranged.pw.toml"
+hash = "d60a1f5dab3658ac74a957e02b60fac95db9a6f8ad79a214851b46abf05156e2"
+metafile = true
+
+[[files]]
+file = "mods/create-renewable-netherrack.pw.toml"
+hash = "757af7b768c61390f813b0ee2f6fc8f4922b8c416be95318f9114e18f08a99b7"
+metafile = true
+
+[[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "d66e1c7ea1d371afc32aba7bdba9cc363e4242857550e789e89ef03bc83c3110"
+metafile = true
+
+[[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "aeca18f6b833fe752266dfbd45c7d933fce2e85e6d6abbe7782b515b3b674d3d"
 metafile = true
 
 [[files]]
@@ -1690,6 +1735,11 @@ metafile = true
 [[files]]
 file = "mods/create-transmission!.pw.toml"
 hash = "f975b183e374978b134e8deec50a330ee604cec3a4b5acd65a0472535f456f40"
+metafile = true
+
+[[files]]
+file = "mods/create-useful-flint.pw.toml"
+hash = "a916ce2d33031ecc4becc1ead89f2180d436b74a68a368f09f10c65f5c1b065c"
 metafile = true
 
 [[files]]
