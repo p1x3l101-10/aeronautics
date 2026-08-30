@@ -1723,6 +1723,11 @@ hash = "c7e4a2826a2eca336339424d72a647af32c11021be629f55a6a20f921f5ca681"
 metafile = true
 
 [[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
+metafile = true
+
+[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "a2c959977399fa0b824aeed2c9894c3bac48555f7f1ae898f91c3cd55971efb0"
 metafile = true
