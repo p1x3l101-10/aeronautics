@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rf0JE0fv/versions/LeimYgNR/ocean_lily_pad_village-1.0.1-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "f82187e69cee65b2109722908869c124eaaaa085c214fe62f6bc6796300de085009d57b06d4876373d834d20a95b4f7e0f023d4d85f791eb46a85f2a6914ac77"
+hash-format = "sha256"
+hash = "dfd2ae8d8eb538dc56e23bc63064477f6a9035544845a9265ee8ef68631ffe69"
 
 [update]
 [update.modrinth]

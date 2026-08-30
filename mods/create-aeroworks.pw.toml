@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/P26k79kP/versions/6kk7ruR3/aeroworks-1.5.0.jar"
-hash-format = "sha512"
-hash = "d79435aaf9c8d8697d1cb5a95b2189ab00ac1387dcbcdc0fbd701a25a22678eba2107e55b8da47bf0089282280ee2b3ff36418d9d7bda744b210d5fa5f4ca697"
+hash-format = "sha256"
+hash = "7e9745569a75eb613a9f75c9308aa2c806d3f0fab3a272d98647a13d3fa41641"
 
 [update]
 [update.modrinth]

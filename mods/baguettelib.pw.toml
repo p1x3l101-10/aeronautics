@@ -4,9 +4,10 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar"
-hash-format = "sha512"
-hash = "3def04f7f11ba743516594b69250ca7c54c11e0c4ffeeb718bfd9736096bfb25768642eb210f6cf716f33b8c12faf2e998df2db98cf495f0527620e8bec80a79"
+hash-format = "sha256"
+hash = "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5"
 
+[update]
 [update.modrinth]
 mod-id = "OfKzpbRU"
 version = "guIAbyuH"

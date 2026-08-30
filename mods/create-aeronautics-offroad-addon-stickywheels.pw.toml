@@ -1,13 +1,14 @@
-filename = "stickywheels-1.21.1-0.0.3.jar"
 name = "Create Aeronautics [Offroad] Addon: StickyWheels"
+filename = "stickywheels-1.21.1-0.0.3.jar"
 side = "both"
 
 [download]
-hash = "efbf2f4c6ea67be0a8f7ad14783df96b2f96726ab164cb1f42f836b0f0b5469ae6f263c755b70cdbe6344f0dd1709d89ef14e16377622dd671e9b2e69eb6f9c7"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/WHj1Nss6/versions/deDogNwF/stickywheels-1.21.1-0.0.3.jar"
+hash-format = "sha256"
+hash = "83f9b5fe1283920f98a6a7791e4ab6e101ebeba17e366aac035346e63e4a975d"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "WHj1Nss6"
 version = "deDogNwF"

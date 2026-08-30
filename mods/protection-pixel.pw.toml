@@ -3,8 +3,8 @@ filename = "protection_pixel-2.2.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c35da610425f735eea4d027ad159c88de6ec6e3f"
+hash-format = "sha256"
+hash = "a496e6263a0c2cd4341f05a1a71085e467cfe85b453a6aef1c38f614b61129f4"
 mode = "metadata:curseforge"
 
 [update]

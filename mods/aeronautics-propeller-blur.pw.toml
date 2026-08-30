@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uKFK3MBp/versions/27nROiTP/AeroPropBlur-1.21.1-1.0a.jar"
-hash-format = "sha512"
-hash = "f2ede22f36f535792723f035693c039dd64e7b254cc19ae53310e4446cdc24b618ae63590b688810306a1f3d4ef9166908ac8871b388250ee4f464bac186fd4a"
+hash-format = "sha256"
+hash = "5efc1fd59e42f1cb86bce4bed04fc026a70cc2b5b8c9d0ffe6097475d4526ad7"
 
 [update]
 [update.modrinth]

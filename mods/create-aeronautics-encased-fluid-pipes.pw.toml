@@ -1,13 +1,14 @@
-filename = "aeroencasedpipe-1.0.7.jar"
 name = "Create Aeronautics: Encased Fluid Pipes"
+filename = "aeroencasedpipe-1.0.7.jar"
 side = "both"
 
 [download]
-hash = "d53004c07dc0778e369d8040f0dcba5ccb126f52caf9f0a2dfc4b555856085d44e7242307c4d0e6eda4cfc5bab03f2f17cf69b9781397f634986e7ef7a8bf090"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/DdAlVT8M/versions/pKFEfjEB/aeroencasedpipe-1.0.7.jar"
+hash-format = "sha256"
+hash = "1791aa8ca581a0bbfaec604ca4ac1acd4cccb77345adfad5660e86aa3f11ccb4"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "DdAlVT8M"
 version = "pKFEfjEB"

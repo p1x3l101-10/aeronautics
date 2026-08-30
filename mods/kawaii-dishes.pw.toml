@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/FnRZHGB5/kawaiidishes-1.13.jar"
-hash-format = "sha512"
-hash = "8f16b9ab944e56aea40c495d0052e31ebf6f4d325ffb3d7b6e9d93b1d9594b2f8873bf74155208333ca81656786d5322e89e5da20621bb44492110cfd4e03aec"
+hash-format = "sha256"
+hash = "1227f2252c123e0d3cec22282327d5a483d4fe58f865f16d4a86ed93645033f9"
 
 [update]
 [update.modrinth]

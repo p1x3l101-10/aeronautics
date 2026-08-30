@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ccYleyc4/versions/R5OV3LRc/create_horse_decimation-1.1.2.jar"
-hash-format = "sha512"
-hash = "b088bab91984f6612f91b2712c87bb4ebe45a55dc952d4b3f00f46020e5364428b8900e8d24233cb29f14bd1fb279a771fdd20460b55bf549326c0609e5cf7bb"
+hash-format = "sha256"
+hash = "4c0f9352c8c67025a2587319529ce22bb85cdbdbcaf9a31152bd19cbe287f847"
 
 [update]
 [update.modrinth]

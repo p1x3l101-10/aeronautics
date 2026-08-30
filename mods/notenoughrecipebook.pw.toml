@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bQh7xzFq/versions/8SBaRv1t/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar"
-hash-format = "sha512"
-hash = "544f83caec2e894e7422571f154bb5a470e9156d5b5b70e6352c754f1bac47ac2c055893064faae2d05ca3a8bef699343c851c925c2c1f8c3ace7de38cfd67ed"
+hash-format = "sha256"
+hash = "ad4abc829b00061d4e162dee0dfa74219b3474d7f21385388aca8d5f27bf23d0"
 
 [update]
 [update.modrinth]

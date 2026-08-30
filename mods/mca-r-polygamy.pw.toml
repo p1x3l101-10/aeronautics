@@ -3,8 +3,8 @@ filename = "mca_polygamy-1.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "57e27d41f8dcdb9b3fb9412c28e705514943394e"
+hash-format = "sha256"
+hash = "98392f1da334841b4aa848714309805237f6327b6c0aa1872d1880f87cb98ba2"
 mode = "metadata:curseforge"
 
 [update]

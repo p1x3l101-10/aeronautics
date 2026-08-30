@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/p19vrgc2/versions/LlLqATR6/fusion-1.3.14a-neoforge-mc1.21.1.jar"
-hash-format = "sha512"
-hash = "5fa517b3807bb1fbaa5e779cf0ace91a75dc4101c5a986c640e026dfe61d93d6a9e2d78051614e5e64ae9d536fd68fec9bbe57709e8eabad842cab445a009f4f"
+hash-format = "sha256"
+hash = "b2c0108c4cbed865ff4e5e435506781fb47daa6249c2ee6003677bea6445af54"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/L23x7zL8/versions/cCNnqZKV/tis3d-MC1.21.1-neoforge-1.7.7%2B58cd1ea.jar"
-hash-format = "sha512"
-hash = "d9eacad72051d1cd004d300f638c01b5d82442f6bf551b701f6ecce23392d10548003f6de909c57b9567370f4db727959c80feb87e51f37abe8b30a82824f768"
+hash-format = "sha256"
+hash = "39c2f156a8c2a2aba2b4f899d43d800e41f7af12db88f69fa42ac73328408730"
 
 [update]
 [update.modrinth]

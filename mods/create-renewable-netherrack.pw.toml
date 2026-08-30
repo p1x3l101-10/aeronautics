@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2K0g56Od/versions/9jgKarrx/create-renewable-netherrack-1.1-1.12.1.jar"
-hash-format = "sha512"
-hash = "803d0f59f1fb77f3273cee3a34987f0b922c7b0be7a67a3f735839a28eac255bb842f68c2b57289de47c3411fbe48712fad1013237642c085e8955cb50aa1322"
+hash-format = "sha256"
+hash = "8eb6c2ca5b92242ad7ddb8b49d693fbea9d4863d67ff8615bea9413049176cd0"
 
 [update]
 [update.modrinth]

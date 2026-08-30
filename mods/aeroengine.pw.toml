@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CRh10iJF/versions/eqi1VZul/AeroEngine-1.3.0.jar"
-hash-format = "sha512"
-hash = "4312cde8482ded0f1a01010660313ac7af53ca3851d3fadb327c240297c7dc39e3f384cf4c8baf0ee88440b170f6b2cfb388a6c7ff6aeb8955d22aab82815833"
+hash-format = "sha256"
+hash = "5d9f86d8345beb25189e21044ecd19c9140c77c6e9010fb1a7f2250fde775e05"
 
 [update]
 [update.modrinth]

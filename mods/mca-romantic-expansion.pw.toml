@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yGNIAsvP/versions/irwRgaml/mcaromanticexpansion-1.1.3-1.21.1.jar"
-hash-format = "sha512"
-hash = "f9f109566f433731c5b1a2c9ef8b9a762d93320afa6049d88afc3aa481363936fdcd38df2d8c16a5b3e3226255785a52fb5bf1c58d0ac284bc84d39f07c097de"
+hash-format = "sha256"
+hash = "82ea835b1145958fce450739d91d41b78850e4ba3232350cd3510fb207a321c0"
 
 [update]
 [update.modrinth]

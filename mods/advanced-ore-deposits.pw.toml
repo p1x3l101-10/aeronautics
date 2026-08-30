@@ -1,13 +1,14 @@
-filename = "advanced_ore_deposits-1.0.1.jar"
 name = "Advanced Ore Deposits"
+filename = "advanced_ore_deposits-1.0.1.jar"
 side = "both"
 
 [download]
-hash = "78678abf42b85b21f29d9d2c66dfd7a65a4a31b409fd3a166c333322d011712ae8822ccba3b0cb08b3a0a94a254c15d10725a60ad38b0b693460c211cd5a01d6"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/3c2ddL9M/versions/fwceHtyj/advanced_ore_deposits-1.0.1.jar"
+hash-format = "sha256"
+hash = "ddb327414cc83ef4a3f5f3bd1e1fcfcb2cd50ced9aacd5dd96090ba7f9078a34"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "3c2ddL9M"
 version = "fwceHtyj"

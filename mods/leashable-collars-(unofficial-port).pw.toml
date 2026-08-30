@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/v1r5aCae/versions/uxjrctGj/playercollars-1.21.1-neoforge-1.0.5.jar"
-hash-format = "sha512"
-hash = "03958a6a2e3fbf0014d765c65c5b97591a42e558d5499eb5e53cb9765d8c2fd5f3f1d14cc79671846f215c9f255ae9efbdacbd1d563577960178dc2e2219eb26"
+hash-format = "sha256"
+hash = "05d1e2dc5161078232b9f909c043515e9ef92bf0df981d18a8d90847f4a573b1"
 
 [update]
 [update.modrinth]

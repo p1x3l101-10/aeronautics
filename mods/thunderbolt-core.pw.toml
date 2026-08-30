@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/M5jhzZXH/versions/cs4e3E2e/thunderbolt-2.0.0-beta.1.jar"
-hash-format = "sha512"
-hash = "9675733b63cddd0d078e3de1b0d3870fe9da0a2894c9c587261cccd3bf145e9c4039c601ba0ec1d9c166549b2709d228a9fd129205c88a6a0c4fcd0732786624"
+hash-format = "sha256"
+hash = "e627a8dacd6562d26f14a08ecbe7e084615b253efca5cc1f00d8c3066720ab30"
 
 [update]
 [update.modrinth]

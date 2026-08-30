@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JHKPj7kB/versions/rgrMIQVX/sound-physics-aeronautics-1.4.0.jar"
-hash-format = "sha512"
-hash = "94ae7e051d4153d6f09d8ea6951c110aa6602e705abb6059a736e7b4ee341a6b298c14bc19dedaa396d49e75b80bca2d3b32b89d2578e7d597a30138f34dfc6d"
+hash-format = "sha256"
+hash = "27c8073afaff56bf7951f1a0cdf892de9cd7a25e3e3721df97742189f3ae1329"
 
 [update]
 [update.modrinth]

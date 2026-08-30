@@ -1,13 +1,14 @@
-filename = "deployer-0.1.2.jar"
 name = "Create: Deployer API"
+filename = "deployer-0.1.2.jar"
 side = "both"
 
 [download]
-hash = "1d2ad848e5342758ac6199396c53c2d43419d57337259dfea25a1477b9e7ad76578d02ec8c8eb26acbb21df5b3275d8c5fad89aad2b5a148ece4e23c65c3a517"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/OZhUIuou/versions/XrLW2FiE/deployer-0.1.2.jar"
+hash-format = "sha256"
+hash = "a6fc332b19b38a37a67be8285e837ddd172f51f8026eacb6c4037a0eeb331b76"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "OZhUIuou"
 version = "XrLW2FiE"

@@ -1,13 +1,14 @@
-filename = "YungsBetterCaves-1.21.1-NeoForge-3.1.5.jar"
 name = "YUNG's Better Caves"
+filename = "YungsBetterCaves-1.21.1-NeoForge-3.1.5.jar"
 side = "both"
 
 [download]
-hash = "7546c24f299fbb094ead014467eb646252463c9e320a14e1faf63e06dac603cbab173da847b2850aa530f71658a8681f4756bfdb8a263b842bbbf56699a976c8"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/Dfu00ggU/versions/GtxWLCtj/YungsBetterCaves-1.21.1-NeoForge-3.1.5.jar"
+hash-format = "sha256"
+hash = "e7d8d94a0c528c9e5761572ee039f4ef3f7f01b4968d63df4ebd6ca91a8e928b"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "Dfu00ggU"
 version = "GtxWLCtj"

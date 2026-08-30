@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xjCy9IA8/versions/esRymPbD/powerchip-2.0.6.jar"
-hash-format = "sha512"
-hash = "a069a3725ff6b647b7e65a765652d4f75ededde26db55ad9e1010d6086340b076b1f8b9fe4c19257324eff6628a5658442d35760e8bf6bf4cd88f0e43008646e"
+hash-format = "sha256"
+hash = "802068fae1cf7d494d97166cc35dae1303df2e85387c47c59fe59aeb954c7d1f"
 
 [update]
 [update.modrinth]

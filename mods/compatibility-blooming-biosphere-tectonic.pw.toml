@@ -1,13 +1,14 @@
-filename = "blooming-biosphere-tectonic-compat-v1.1.jar"
 name = "[Compatibility] Blooming Biosphere & Tectonic"
+filename = "blooming-biosphere-tectonic-compat-v1.1.jar"
 side = "both"
 
 [download]
-hash = "d548c829f5d3b172b620fd4785eb88fc038ad444b647cb9ac370625cb9c22a0ac78e9a03c9b3efc94a991a4b85c3932b76d980b70732a0468ff8825f3187f73e"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/GDnm1VHj/versions/r3G1R7EJ/blooming-biosphere-tectonic-compat-v1.1.jar"
+hash-format = "sha256"
+hash = "250d56761a7cf8a1738d23bc7ff03f4c5886901f2029daa6093f20d221c1b03b"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "GDnm1VHj"
 version = "r3G1R7EJ"

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ifakw1hH/versions/dRM8u5o7/catears-1.6.1-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "23c829fea90de142f3a1f0387edfa19bbe3bbd2395dd3e2390046397c3bc9b8a7d6c433cdffba25b7921e2cf65d45c098693dd431df47f1b215dfaa08235961b"
+hash-format = "sha256"
+hash = "3cbe40893cc77691f23d997dcbc84e5927b29bc88092abc85c9991c164d1acea"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DgUQhGp4/versions/vwGFGtec/seacreeps-1.2.5-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "7521bf47ee687b716bbe9ed5453ed12770f875249adef0632a39f49752d9e6963dd1c3158c89bd70f6f7e265b91629d824a8e1ef8d6d5582f3432d24fb32e98a"
+hash-format = "sha256"
+hash = "ec3ac2810cc7e32db4cabfff5557220e9c5708a8c237a895e20a80692578c7e5"
 
 [update]
 [update.modrinth]

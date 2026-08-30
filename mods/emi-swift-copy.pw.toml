@@ -3,8 +3,8 @@ filename = "emi_swift_copy-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b22ebe2212b8869891cee63a79a5740b12dad44"
+hash-format = "sha256"
+hash = "28b8583bc532f41c5d37aab306d3fe4c73d60be2979adcebe376c4bfbbc39c8a"
 mode = "metadata:curseforge"
 
 [update]

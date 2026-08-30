@@ -1,13 +1,14 @@
-filename = "create_aero_radar-0.1.1-1.21.1.jar"
 name = "Create Aero Radars"
+filename = "create_aero_radar-0.1.1-1.21.1.jar"
 side = "both"
 
 [download]
-hash = "743fb4f8051eb1f361455e125383e67b7681e979d082f75b89fc3c4f1c818727651a6962274edf56aaf8dbcef567ca74d85ae0ea69a52dfdfd51c91afad88da6"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/Gxj4Ihed/versions/uDnC1TSw/create_aero_radar-0.1.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "77da138d202ed9fa95f57ee45c411f7af4b6addfa55ff5175bd379b68cd079a6"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "Gxj4Ihed"
 version = "uDnC1TSw"

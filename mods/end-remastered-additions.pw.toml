@@ -1,13 +1,14 @@
-filename = "endrem_additions-neoforge-1.1.2.jar"
 name = "End Remastered Additions"
+filename = "endrem_additions-neoforge-1.1.2.jar"
 side = "both"
 
 [download]
-hash = "e9f034288c96b21d16a79475a290687856e6f2c20f9554f37d486c6192223fe86c62f57f19136e14deae018cd6fbdcbb50855d190d73e7d3c283f6c28d28c88f"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/z3QkIKOR/versions/kpk4g0ld/endrem_additions-neoforge-1.1.2.jar"
+hash-format = "sha256"
+hash = "b78788512f1dc88a2603d70a2af07e4b530459c7627dfa3fd7e81ca7a2139700"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "z3QkIKOR"
 version = "kpk4g0ld"

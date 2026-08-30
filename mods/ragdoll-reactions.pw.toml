@@ -1,13 +1,14 @@
-filename = "ragdoll_reactions-1.21.1-0.7.0.jar"
 name = "Ragdoll Reactions"
+filename = "ragdoll_reactions-1.21.1-0.7.0.jar"
 side = "both"
 
 [download]
-hash = "aab94063635d8790a33a9eb2191d7fc8b3b38b1b2885c0de96573ab3fbcb9a62b904f1512e6f39c3e13648b65b76f211f1b816608535174aac713b3d61364765"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/6awFMFjR/versions/yx32Af0N/ragdoll_reactions-1.21.1-0.7.0.jar"
+hash-format = "sha256"
+hash = "d61a118c0b5ad2f3e761af6b3d71726bc2887bb3d0c7c90c2dc604bb4d3792b8"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "6awFMFjR"
 version = "yx32Af0N"

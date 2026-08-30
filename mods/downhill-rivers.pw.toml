@@ -1,13 +1,14 @@
-filename = "downhillrivers-1.0.0.3.jar"
 name = "Downhill Rivers"
+filename = "downhillrivers-1.0.0.3.jar"
 side = "both"
 
 [download]
-hash = "5c4c4ed2d5b163a3f4d6c5261907ce0a69d668ce8a5ae74641767f7f727e2c2c5fbbef8eb1d7ce6f2f15a395a838b3c47539fc07d7b1336cba330291f8c49561"
-hash-format = "sha512"
-mode = "url"
 url = "https://cdn.modrinth.com/data/52d6KT1Q/versions/T1OccrTC/downhillrivers-1.0.0.3.jar"
+hash-format = "sha256"
+hash = "0b0bdd220bde8c098ff08ee6918022bbce214306e85a409b19f3137af55e1d80"
+mode = "url"
 
+[update]
 [update.modrinth]
 mod-id = "52d6KT1Q"
 version = "T1OccrTC"

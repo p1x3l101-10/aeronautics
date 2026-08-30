@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vBTYRDSu/versions/1gzt1Jg9/Mythic-Origins-1.1.0-neoforge-1.21.jar"
-hash-format = "sha512"
-hash = "66aadd3db3b0a4fe5acd32067692558285dff29831392470b190aa86b4384bb3fce2cd956f9c9c4e86ba8711304c0d9f981289884585d6e5aa0ce12f91bc8686"
+hash-format = "sha256"
+hash = "67e985c9c0b260213214f65398ecabd8baaf4fef01fecf5943766f13b93a1e22"
 
 [update]
 [update.modrinth]

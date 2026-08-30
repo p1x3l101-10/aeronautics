@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6sYYcZFx/versions/Vf0oWYOW/logical-iframes-1.1.1.jar"
-hash-format = "sha512"
-hash = "4fdb6a9bfd5706299114810751b43b22fa1e8565f2666ba07bca24c5c9b09af2ae2a311ac02062a7453f4c6a38001525868486a111134335a0e60392759202cc"
+hash-format = "sha256"
+hash = "2e191fd81ad7ffdbdfef93dcfa3c1c8f68e75693846fde61d666ee3b2098f519"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YZlvzIFq/versions/T7zzN9HQ/roomfortwo-neoforge-1.21.1-0.2.0.jar"
-hash-format = "sha512"
-hash = "fcde5bd83da3f3e537a2bac1785c58bb4c3556814879712a77da578642acb62df971be9446a54c2a2321382908cc3a6461be5eea376a57559888bce8f31a036e"
+hash-format = "sha256"
+hash = "816100ec6d8c862da975289583e833a7f0d601a8c801869a99c232c0e3e1891f"
 
 [update]
 [update.modrinth]

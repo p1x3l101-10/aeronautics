@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/z2XEADmE/versions/XORWPtYC/Data_Anchor-neoforge-1.21.1-2.0.0.16.jar"
-hash-format = "sha512"
-hash = "89244cc912b4349fcd4acd30cac0d7f12ce7c8e79a26b93f1e1a7e35a30d52c4322426ba0ea86b88c905b26c6e347c4ba8406c92d6444e0984fb0f21eaf7963d"
+hash-format = "sha256"
+hash = "4965cdb056939f6298fed1ff2b1c2aa99c481fe0be3f4006a296abd11a5f9c0f"
 
 [update]
 [update.modrinth]

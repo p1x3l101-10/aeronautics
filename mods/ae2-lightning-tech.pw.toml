@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ArHeh5Fz/versions/Ap2OL0DS/ae2lt-2.1.0-beta.1.jar"
-hash-format = "sha512"
-hash = "c46fbf9f0f4ab3b18bfae27c633457794d53138e244a07aa83c621711c0e32821524899e7c8d6ce71b612fd1896a6a9e8f8de4ae09fb969d378c05e2702ab1e1"
+hash-format = "sha256"
+hash = "f1718d97a9f1042a3c9aab41f45c6e02f714cea9f64afc7e29905bf88c26585b"
 
 [update]
 [update.modrinth]

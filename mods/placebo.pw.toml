@@ -3,8 +3,8 @@ filename = "Placebo-1.21.1-9.9.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d44335094cf2db64998cb3ee31e58d8c01e80b4a"
+hash-format = "sha256"
+hash = "1a844a5b081813b1edb82656329e54d38389ed470f6a6516a5887f5303d7daad"
 mode = "metadata:curseforge"
 
 [update]

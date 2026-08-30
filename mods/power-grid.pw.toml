@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eWiBLJ9R/versions/ip4gJrgx/powergrid-mc1.21.1-0.6.1.jar"
-hash-format = "sha512"
-hash = "d5d7075b1977b449f196468963cdf24910844823ea0c67d7a3698ac4702e399978337b38aaf60b6cf7ebb089f712cb8b2dc0c2920e6bf39273bae608de5c13c4"
+hash-format = "sha256"
+hash = "b2835c36af6794a963737c617b5f9dd6b41aba5078d418c88847193fbcf702e5"
 
 [update]
 [update.modrinth]

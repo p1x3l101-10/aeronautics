@@ -3,8 +3,8 @@ filename = "JsonThings-1.21.1-0.13.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "17705ae23d6547178e6b0f576b9af127fb613990"
+hash-format = "sha256"
+hash = "d9866612a7942f4a98ed297edfd2349b9d5e3d35900076381f5870283777fdee"
 mode = "metadata:curseforge"
 
 [update]
