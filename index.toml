@@ -617,6 +617,14 @@ file = "config/create_hypertube-server.toml"
 hash = "f050b43daa7a9dd2b5e6271aac0715f5076399ff70acd5619480b97dbf66e5e6"
 
 [[files]]
+file = "config/create_jetpack-client.toml"
+hash = "f1ff4ff046a25fed273e475f244a5ce965796c262e4c9999a01241a595862e52"
+
+[[files]]
+file = "config/create_jetpack-common.toml"
+hash = "fab1264bd6b309ef0207728116aab07b97e0d9dec99c4266dd9f353669bec1a2"
+
+[[files]]
 file = "config/create_parachute-common.toml"
 hash = "ed218800fd0a79bfa37b60bb762fd4a43ef5d1b07c64812eb2ce5774744c1b80"
 
@@ -659,6 +667,10 @@ hash = "ed1f99827104bc23ebb8b1fbaa42dd7c298cbd0ac7c7068a115bb8247ffc1e01"
 [[files]]
 file = "config/createburnerfuel-common.toml"
 hash = "af1fa688171c8847eaac2e1359a93a96b8ff14f94a3dc81efcb3a093191e6697"
+
+[[files]]
+file = "config/createcobblestone-common.toml"
+hash = "0ad17da933e97f96d7691f2deee7f23bfc8aa282ce9af2f79c709842519d4fb6"
 
 [[files]]
 file = "config/createdynlight-client.toml"
@@ -762,7 +774,11 @@ hash = "6967be2354a821d42b93572dc97f725ce16e704fb7fca1412f4981c12331ddd5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "4d0b9558bc1afc5a02f59d14922b574f7fd9410cb7b4726a66399719474e7238"
+hash = "cd6d1fb9ea9157d3b6144bc1098bc89cd7c387979407de31c14035805e6ef078"
+
+[[files]]
+file = "config/fastsuite.cfg"
+hash = "4d26b4c93838e3e912a8e09f9be0395cd0b7a264f250ea8aa72d68507ce12250"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -807,6 +823,10 @@ hash = "a29cb5ba7e6510c85fb3e41bb217771cd2c75d8042fd5e2f77f4ed8d0f70240b"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$dripstone_caves.cfg"
 hash = "d92995189ebfc1d36ed06a76b9a152ca7b1693a4865074271d30c0c371eef47f"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$frozen_peaks.cfg"
+hash = "052bdad4a9d1b83e68ede639d6e33e93f25f832d53b35a278bc9f5029887f422"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$frozen_river.cfg"
@@ -1017,6 +1037,10 @@ file = "config/pehkui-server.toml"
 hash = "284f4a9c881016e1302487e26d60085971d5fb1087d5e2a215523c56e029de3e"
 
 [[files]]
+file = "config/placebo.cfg"
+hash = "6bbc71c6dc18b1ba4952e1bc54ed2b98c3a90f04cec4257ec3f7566cdf0c0e2a"
+
+[[files]]
 file = "config/playercollars-neoforge.properties"
 hash = "fae63666a086246274d751f4387b43b0f56beb9ee776c3645196afdef081bd06"
 
@@ -1170,7 +1194,7 @@ hash = "b1a9c184de8db083a422dc1a4f4d96527801f44c6b8f65ab539f870ba64d9aa1"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "4ae6084195a423d634792fbbf19f419a5326438a09bf3e662a48daa6b7520cff"
+hash = "140da68fbaa564d638c2fa8442f189c211dc776c3bb974368509885d3a3977f9"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1186,7 +1210,7 @@ hash = "babdb5083193dc3a611bed58ea011db3e8ce10282477bd7f78241452da7eece6"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "4cb6cd14bd67b3c82ee4cf367c25a892e6770b7ef164a92d48843e26ab289a91"
+hash = "aaf9dd96e5daed362c90bb0e5ee081d86b2d27e096e1cedef1563c551297cc5b"
 
 [[files]]
 file = "config/takesapillage.json"

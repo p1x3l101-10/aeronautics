@@ -4705,6 +4705,30 @@
     "maxWaterDepth": 46,
     "implosionChance": 0.725
   },
+  "create_blaze_burner_fuels:peat_brick_slab": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "create_blaze_burner_fuels:peat_brick_stairs": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "create_blaze_burner_fuels:peat_brick_wall": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "create_blaze_burner_fuels:peat_bricks": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "create_blaze_burner_fuels:stick_bundle": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "create_blaze_burner_fuels:stick_trapdoor": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
   "create_dragons_plus:black_dye": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -4865,6 +4889,14 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "create_jetpack:jetpack": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_jetpack:netherite_jetpack": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "create_power_loader:andesite_chunk_loader": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -4936,6 +4968,10 @@
   "create_radar:radar_warning_receiver": {
     "maxWaterDepth": 15,
     "implosionChance": 0.85
+  },
+  "create_simple_ore_doubling:slag_block": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
   },
   "create_simulated_additions:ckb_redstone_computator": {
     "maxWaterDepth": 1,
@@ -5572,6 +5608,10 @@
   "createbigcannons:yaw_controller": {
     "maxWaterDepth": 67,
     "implosionChance": 0.6
+  },
+  "createcobblestone:mechanical_generator": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
   },
   "createpropulsion:advanced_tilt_adapter": {
     "maxWaterDepth": 70,
