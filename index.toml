@@ -625,6 +625,14 @@ file = "config/create_jetpack-common.toml"
 hash = "fab1264bd6b309ef0207728116aab07b97e0d9dec99c4266dd9f353669bec1a2"
 
 [[files]]
+file = "config/create_mobile_packages-client.toml"
+hash = "1e66bca0afcd097f4299b01789f288f5d381e48855c9d2ab17040622cbd307b0"
+
+[[files]]
+file = "config/create_mobile_packages-server.toml"
+hash = "694e3cb2c3e0fd1da670a669a0c573df9661abc358de3e93a7682930ced2d689"
+
+[[files]]
 file = "config/create_parachute-common.toml"
 hash = "ed218800fd0a79bfa37b60bb762fd4a43ef5d1b07c64812eb2ce5774744c1b80"
 
@@ -679,6 +687,10 @@ hash = "3f4b4927a30942747696b6ca87d14f903e4666f84e33dd08c55ca7c87332b1af"
 [[files]]
 file = "config/createdynlight-server.toml"
 hash = "392d9a004db43fd218a0aeb0a22a0daebdd21d2d06acfcab0cb6580ebc6b6f08"
+
+[[files]]
+file = "config/createpackage-server.toml"
+hash = "0ce9fe28b221c48e462b991ad988c4ec180cb464422c628c42f8b080f4630d2c"
 
 [[files]]
 file = "config/createpropulsion-client.toml"
@@ -774,7 +786,7 @@ hash = "6967be2354a821d42b93572dc97f725ce16e704fb7fca1412f4981c12331ddd5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "a240f1b047909c085323e8d20f6222a2bed85bc32a01a13108fbe95bfd4e48ac"
+hash = "a06ec43954df2ff3258cffc132b8b1d5d6acbfade86e1125001d015f9d266243"
 
 [[files]]
 file = "config/fastsuite.cfg"
@@ -839,6 +851,10 @@ hash = "c416d43d738454865ee3b549bfaacd6b437e9eb54a69d5f6f395099b9d119879"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$jagged_peaks.cfg"
 hash = "117c729f5df7529318eb8b8e0b7057570751f5ab2eaea6d03623b889b88c2900"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$snowy_plains.cfg"
+hash = "5b7eb4d0b3154e2ef034d471caa776204214c4d06f1f0bc90d72d9e8e77a3c14"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$snowy_taiga.cfg"
@@ -1206,7 +1222,7 @@ hash = "b1a9c184de8db083a422dc1a4f4d96527801f44c6b8f65ab539f870ba64d9aa1"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "140da68fbaa564d638c2fa8442f189c211dc776c3bb974368509885d3a3977f9"
+hash = "0f9ed0acce030bd10cdd63b8e5479649a40081e6e78d952b8baa1bc13c6df389"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1222,7 +1238,7 @@ hash = "babdb5083193dc3a611bed58ea011db3e8ce10282477bd7f78241452da7eece6"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "aaf9dd96e5daed362c90bb0e5ee081d86b2d27e096e1cedef1563c551297cc5b"
+hash = "18298322bafc4334a084d2ca8457eb20e336b35f2d5b08d8b2298e18ad91cf8f"
 
 [[files]]
 file = "config/takesapillage.json"

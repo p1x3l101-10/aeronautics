@@ -4897,6 +4897,10 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "create_mobile_packages:bee_port": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
   "create_power_loader:andesite_chunk_loader": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -5612,6 +5616,26 @@
   "createcobblestone:mechanical_generator": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "createpackage:advanced_package_distributor": {
+    "maxWaterDepth": 161,
+    "implosionChance": 0.05
+  },
+  "createpackage:basic_package_distributor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createpackage:extended_kinetic_pattern_provider": {
+    "maxWaterDepth": 161,
+    "implosionChance": 0.05
+  },
+  "createpackage:kinetic_pattern_provider": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createpackage:package_distributor": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
   },
   "createpropulsion:advanced_tilt_adapter": {
     "maxWaterDepth": 70,
