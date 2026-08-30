@@ -1,6 +1,6 @@
 name = "Create: Useful Flint"
 filename = "create_useful_flint-1.0.0-neoforge-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GDejwYeK/versions/yK2qRjIU/create_useful_flint-1.0.0-neoforge-1.21.1.jar"

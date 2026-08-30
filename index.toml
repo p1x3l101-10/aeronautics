@@ -1763,7 +1763,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-useful-flint.pw.toml"
-hash = "3227e00f0bd27ee402f45de6e58ce677eb6771e44a735a054fa8c027f03d7266"
+hash = "58a4a263a45c90377eae8a002b0d5de8b817b0654be12e937d174d5110d55ad2"
 metafile = true
 
 [[files]]
