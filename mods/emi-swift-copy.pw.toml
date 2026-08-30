@@ -1,0 +1,13 @@
+name = "EMI Swift Copy"
+filename = "emi_swift_copy-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b22ebe2212b8869891cee63a79a5740b12dad44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8511880
+project-id = 1626017

@@ -1847,6 +1847,11 @@ hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
 metafile = true
 
 [[files]]
+file = "mods/emi-swift-copy.pw.toml"
+hash = "abf5f73f0c816a8ab1cb7fa287c5c34c319f0e7c1f9044c3edb598b415069ec5"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "0549c838275b560adb242891e099b625e3273b24cee2e1e705c96a0af03b0220"
 metafile = true
@@ -1979,6 +1984,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "efcc335852f09bbf66eafd1a20f42403cdd9e64a51dd660211ce4fb717734598"
+metafile = true
+
+[[files]]
+file = "mods/json-things.pw.toml"
+hash = "1029437c2f4ca5c7b3a4fd4b2c88a8eff7d54d5be31057e8f035494dc323fe75"
 metafile = true
 
 [[files]]
