@@ -1094,7 +1094,7 @@ hash = "0dd32460fb2fc6a4e438784924c377f11ba416732be1daff68c951e2e197d42d"
 
 [[files]]
 file = "config/sable-common.toml"
-hash = "0614f722541191b6ddcfb686f97d5ea9a3280d32f8e0607c0d31dffe9a2dc5d7"
+hash = "f10e60d0ccd1b0194c02a823d70b8616a9c90125a6ed523a26c94a3cb0b12692"
 
 [[files]]
 file = "config/sable-server.toml"

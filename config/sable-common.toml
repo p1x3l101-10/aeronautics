@@ -39,6 +39,6 @@ disable_udp_pipeline = false
 #If Sable should attempt to authenticate with clients and send them sub-level movement data over UDP
 attempt_udp_networking = true
 #If Sable should log when saving sub-levels for a dimension.
-sub_level_saving_log_message = true
+sub_level_saving_log_message = false
 #If Sable should use verbose logging for its serialization system and the holding chunk-map. Not recommended- for debugging purposes only.
 verbose_serialization_logging = false
