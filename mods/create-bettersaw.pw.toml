@@ -1,0 +1,13 @@
+name = "Create: BetterSaw"
+filename = "createbettersaw-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3bbPSuE6/versions/angIAtQA/createbettersaw-1.0.0.jar"
+hash-format = "sha512"
+hash = "757467198654dc7d7ff32a1229dd299e1c3b2fb7d8650ca48be60902ba3cb2495efe7bfdd2d1358cd6c77c13f0b422e8674b547d69bbbf45145614d9fcb1ea57"
+
+[update]
+[update.modrinth]
+mod-id = "3bbPSuE6"
+version = "angIAtQA"

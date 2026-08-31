@@ -1655,6 +1655,11 @@ hash = "3d0a07ff1a9f8df02a5e57e36e73f80eae1d74359d4392c18c46f0f0aac68e2c"
 metafile = true
 
 [[files]]
+file = "mods/create-bettersaw.pw.toml"
+hash = "3f0c31beb364ca017565815b168ba1e7c8d3a2f16dd4ac0c6bd2601fa9d25808"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons-advanced-technologies.pw.toml"
 hash = "5acbbdcb34ae4143404b2a8d613d4dfeebf6f64ec25f64585fe3079d273c810b"
 metafile = true
