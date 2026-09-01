@@ -725,10 +725,6 @@ file = "config/distraction_free_recipes-client.toml"
 hash = "2a0e761f7293d92e3700aad72acc63c00140c3bfc95ac305eba41cfec8197f2c"
 
 [[files]]
-file = "config/downhillrivers-common.toml"
-hash = "29faec1832d2c38fdd4ebc20d6ef52bcc1338ed1549be1f1edbf5416ba397af4"
-
-[[files]]
 file = "config/dynamic_fps.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -1245,10 +1241,6 @@ file = "config/takesapillage.json"
 hash = "7db0f52b6068154e92b7685dd1b3ec2a754bfeb2a523af3eccbc9840dbfe9d6e"
 
 [[files]]
-file = "config/tectonic.json"
-hash = "88ac9fd71410c3ba66e5a775a4d38ebd3fec819184996f3d6c3091188532adb1"
-
-[[files]]
 file = "config/thunderbolt-common.toml"
 hash = "f5c542d2329ec31a6442cf223e0933d06400a43debbab303d512d9912cfc6fac"
 
@@ -1465,11 +1457,6 @@ hash = "1713fccad4386296395876c0dd5ef8038d356cbe46f6091ad13a6c0a1e14f24a"
 metafile = true
 
 [[files]]
-file = "mods/aeroscapes-islands.pw.toml"
-hash = "2b9d661da7e42f300981587e0fc25bf1f5efc8835308c4178fbf4aa1bfc43d71"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "5f1e2cd6d3770955a29a71604555e0d7e66fb62b8abe9ad735bc9b0fa7d8acd0"
 metafile = true
@@ -1552,11 +1539,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "495d608f52e672b4fdb4c7abbe81353d779b9ee38151cbac6e56ed9c96677962"
-metafile = true
-
-[[files]]
-file = "mods/compatibility-blooming-biosphere-tectonic.pw.toml"
-hash = "ebeff72eed8a52d5315b0273244155e8ca30130b66eae7162d98ec54d0d6d065"
 metafile = true
 
 [[files]]
@@ -1840,11 +1822,6 @@ hash = "425b3d47489808762f895dfcbb588bbda16116ee6b3fb923ebfbaf7f4741c6d3"
 metafile = true
 
 [[files]]
-file = "mods/deepabyss.pw.toml"
-hash = "3e6d4cc265586733a955e2cbacefe1d7aa8f87707c52aefa542c4b3969c48816"
-metafile = true
-
-[[files]]
 file = "mods/deployer.pw.toml"
 hash = "136b0529ee9cad75ab7fee76b907118350cad556e4b2b2077780bb61f894b27e"
 metafile = true
@@ -1857,11 +1834,6 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "9b87fe7c249d15945d7bc7501fa81a927fbd3e63d607e043da82ecb532f15d36"
-metafile = true
-
-[[files]]
-file = "mods/downhill-rivers.pw.toml"
-hash = "945c9070201e8aef6f4265cdd945437a5d603a04597c357e13f2e8162ef73937"
 metafile = true
 
 [[files]]
@@ -2322,11 +2294,6 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "8e9a947a5075f989b44291b847eeb6b5d857235a268ae6bbcb0aaca378c86ea0"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "dc650bca1b8961fcb0f2550a073011aabb583054b78ae292b56dc3d0ab72601f"
 metafile = true
 
 [[files]]
