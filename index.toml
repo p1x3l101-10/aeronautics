@@ -1740,6 +1740,11 @@ hash = "bddc951331f176661cfa097f2b9dc5deba1219827e7ff2faf41047bf9ffa2107"
 metafile = true
 
 [[files]]
+file = "mods/create-meta-logistics.pw.toml"
+hash = "fdce46060dbc0033029338e92dabae981a780c80bcc6705a43cb7060925bfb78"
+metafile = true
+
+[[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "3956311952e50e1b437d8e7c5af4537feebd3d95bd5435192b78b251cab38bf2"
 metafile = true
