@@ -301,10 +301,6 @@ file = "config/adlods/VanillaOres/tuff.cfg"
 hash = "ee782e852bb055aca57edf023c7f98fa1b2f85080c211e714c00f97253678ddc"
 
 [[files]]
-file = "config/advanced_ore_deposits-common.toml"
-hash = "49b6c83ccc4092fab585c5194a218b974b54a23a82bc7db8ddac95253bd9ecd4"
-
-[[files]]
 file = "config/ae2-client.toml"
 hash = "44ef758c12d31f42aba3a158747a478d5c1879e8bff9700744f4238294caeb33"
 
@@ -1419,11 +1415,6 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "4f51b64f3725f5fb39a1f364b1419901ff757e28dbe9aac30718082cf0f9908d"
-metafile = true
-
-[[files]]
-file = "mods/advanced-ore-deposits.pw.toml"
-hash = "3477c40c79320245d856e6aba2e290212c20e0838605851c4d74efa17e1f28d8"
 metafile = true
 
 [[files]]
