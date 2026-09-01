@@ -1533,6 +1533,11 @@ hash = "5f1e2cd6d3770955a29a71604555e0d7e66fb62b8abe9ad735bc9b0fa7d8acd0"
 metafile = true
 
 [[files]]
+file = "mods/always-shield.pw.toml"
+hash = "d581b656932f2469e8e33ef7875ea611a2e4709c1ab91e9bb0361dcbeec4f79c"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "c27f5e62209a68143ea8ca4d2a99a037a910499b1beb06a382ca5cf30936837b"
 metafile = true
@@ -1563,6 +1568,11 @@ hash = "6e2c8cc4e38533f4bd17ca86b6d5cc9b76ff32a41813f5a05cfa135b78118668"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "2273a7bb5ae75eed1b58a085a3c0191020bffb75a14f1b616ef3934a51f14610"
 metafile = true
@@ -1585,6 +1595,11 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "b0d5cec2c37cb9ad9dc2889132e0014a18fb21c25e989544091deb8f47ef6afb"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
@@ -1928,6 +1943,11 @@ hash = "9b87fe7c249d15945d7bc7501fa81a927fbd3e63d607e043da82ecb532f15d36"
 metafile = true
 
 [[files]]
+file = "mods/dodospyglass-spyglass-curios-compat.pw.toml"
+hash = "503c682f2c740db7e67f5f50cd9f5a326683854b197d379f8629f9d1120f7d33"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "d8e5f4856cbf96e20d0ef6e6ec8f8e3844c3bf40b85ab85cd6eaaf264a5cee46"
 metafile = true
@@ -2238,6 +2258,11 @@ hash = "49ae06f9b1558e1a40fad86d436787c934d2269e4baa57c141d683a2c065ca57"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
 file = "mods/packagerspsic.pw.toml"
 hash = "b7434a2da8f6c68e3e77e7288d19d979dbd97cec43e827e86be2270b70a7741e"
 metafile = true
@@ -2278,6 +2303,11 @@ hash = "0e7e29a7b041dc5dc759860dadace67677cf693c68a9980cb4a79118a06c53d8"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
 file = "mods/protection-pixel.pw.toml"
 hash = "f5319f9769da4d203e5cd103c173a9c559ac696eabcf05ebafcfd63736e1aedc"
 metafile = true
@@ -2285,6 +2315,11 @@ metafile = true
 [[files]]
 file = "mods/pulsetech.pw.toml"
 hash = "3b4426af57b14a2169e2d07e6c03022b9f51d6c0d5703ac04ad1d406bc6aae89"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "ac245e55621b2c36689db9068a9c6bfd01f98b89c66e344399a4a5a9fca209be"
 metafile = true
 
 [[files]]

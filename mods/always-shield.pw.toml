@@ -1,0 +1,13 @@
+name = "Always Shield"
+filename = "AlwaysShield-1.2.0+mc1.21.1-NeoForge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/f5J5N4a3/versions/RlBJJ9Gf/AlwaysShield-1.2.0%2Bmc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "8712b579720ab650f348dde029a296bf7c5883c075489ea0d5dd2982de1d2b49548354735ac036f306c40947d8b9222bf7db8fb4ec6052f79012cbd5fa4c4b86"
+
+[update]
+[update.modrinth]
+mod-id = "f5J5N4a3"
+version = "RlBJJ9Gf"
