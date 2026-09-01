@@ -645,6 +645,10 @@ file = "config/create_radar-server.toml"
 hash = "472ba660b492df1e794c785c00182cb4fc5689200e34aa17b863fbfc09394c3a"
 
 [[files]]
+file = "config/create_rns-server.toml"
+hash = "1ea4826e44ee474fc15769d4d31a4cdc2ec97681444b8aec6ee9710d29d09e08"
+
+[[files]]
 file = "config/create_submarine-common.toml"
 hash = "fddbaddc6d970868b638be0c6475958d24092fa6ec06c9379ec258517cece36e"
 
@@ -683,6 +687,14 @@ hash = "3f4b4927a30942747696b6ca87d14f903e4666f84e33dd08c55ca7c87332b1af"
 [[files]]
 file = "config/createdynlight-server.toml"
 hash = "392d9a004db43fd218a0aeb0a22a0daebdd21d2d06acfcab0cb6580ebc6b6f08"
+
+[[files]]
+file = "config/createmetalogistics-server.toml"
+hash = "cb8f8b257eb98e2b87e93e73fae697c4794cbf2470b87bf616c9b010d69800cd"
+
+[[files]]
+file = "config/createnuclear-common.toml"
+hash = "a505deb53c2a76336a5cbd911b3e2a141710bf940bd905d164d7f33b12a06a81"
 
 [[files]]
 file = "config/createpackage-server.toml"
@@ -778,7 +790,7 @@ hash = "6967be2354a821d42b93572dc97f725ce16e704fb7fca1412f4981c12331ddd5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "a06ec43954df2ff3258cffc132b8b1d5d6acbfade86e1125001d015f9d266243"
+hash = "470d511e4d45cf0bb8f9e61b3c2f6ef90bad26b381b1c733981e27d1a1fc2aad"
 
 [[files]]
 file = "config/fastsuite.cfg"
@@ -794,7 +806,7 @@ hash = "9a8019a2819cf8f27a30c0788b458ed7e9b6d749faea23d8feafa0424c4bb568"
 
 [[files]]
 file = "config/fml.toml"
-hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
+hash = "065f28b12d982bea13b3adfe4248f9bcd8d84804f5d48339b498478763c3fa2c"
 
 [[files]]
 file = "config/forgeendertech-common.toml"
@@ -825,6 +837,10 @@ file = "config/forgeendertech/Biomes/minecraft$deep_dark.cfg"
 hash = "f4747426e9f8b1e9ef3da09812840656f1190c3247fc0a3f81a51c4306a45354"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$deep_ocean.cfg"
+hash = "0bf4a1784ac50d873bc289bf4658114660d792c57d09be07adb0511757b62642"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$desert.cfg"
 hash = "a29cb5ba7e6510c85fb3e41bb217771cd2c75d8042fd5e2f77f4ed8d0f70240b"
 
@@ -845,6 +861,10 @@ file = "config/forgeendertech/Biomes/minecraft$jagged_peaks.cfg"
 hash = "117c729f5df7529318eb8b8e0b7057570751f5ab2eaea6d03623b889b88c2900"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$pale_garden.cfg"
+hash = "4bec4fe9790415f4ba620d2e7553e3dd524a760704709fa7554c312c77c96ce8"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$snowy_plains.cfg"
 hash = "5b7eb4d0b3154e2ef034d471caa776204214c4d06f1f0bc90d72d9e8e77a3c14"
 
@@ -863,6 +883,10 @@ hash = "aa722a7388a8bc6cb80fc0fb86352512305959c54104dab950d32cb347631808"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$stony_shore.cfg"
 hash = "9b85f9fe7d62fc31b92d9bad47462fba42466d8f8959a0a2b03c02a8722bacd6"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$sunflower_plains.cfg"
+hash = "1df73d019bbbd33fb4c2a8782bdfa49b1ec15864212fc602ab7e38a031af757e"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$swamp.cfg"
@@ -967,6 +991,62 @@ hash = "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "d3a3839bec8e21825fe791a24d6226c1dd3fc94b38588fa52d42cf773868b7c7"
+
+[[files]]
+file = "config/molten_vents-common.toml"
+hash = "ab5fa7aa8213c39439300a9e18720624fa2dcfa86a61f86c413ca9353cc65be5"
+
+[[files]]
+file = "config/molten_vents/conductive/asurine.json"
+hash = "533f9fc880ca06a2a2af0b902fe8c968cb7fe48c3f0f75614995dabed25eff02"
+
+[[files]]
+file = "config/molten_vents/conductive/crimsite.json"
+hash = "8d8f085f239fbb8c62bc6dcbfc4ec1598fb41b32d26f8eaa63d94dd1800892f2"
+
+[[files]]
+file = "config/molten_vents/conductive/ochrum.json"
+hash = "1442f0f1c356efe2778353ad417f14fcdfafd881769eb516be260a6428fcaf3f"
+
+[[files]]
+file = "config/molten_vents/conductive/scorchia.json"
+hash = "c93785af456f56c5fdea194e9e21083c61e68335710f6b1368e113c55de0374c"
+
+[[files]]
+file = "config/molten_vents/conductive/scoria.json"
+hash = "e7ab7fa2a7e4b28e5c3cb4ef8c5b2eae54f9c0a353345db808c1361a182b376a"
+
+[[files]]
+file = "config/molten_vents/conductive/veridium.json"
+hash = "bdfec69ffd4909885a1b2221f264193ecf084e829d86397a61b4f86cde1a9a60"
+
+[[files]]
+file = "config/molten_vents/convertible/asurine.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/crimsite.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/ochrum.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/scorchia.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/scoria.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/veridium.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/custom_blocks.json"
+hash = "1c4b2f085de10ae681570669250bfcf06a1f04c1e53ae70e3de49300ed0d8498"
 
 [[files]]
 file = "config/myotus-client.toml"
@@ -1214,7 +1294,7 @@ hash = "b1a9c184de8db083a422dc1a4f4d96527801f44c6b8f65ab539f870ba64d9aa1"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "0f9ed0acce030bd10cdd63b8e5479649a40081e6e78d952b8baa1bc13c6df389"
+hash = "178df21ca436f38634523bc01eb74228389702f179d33adae06610d7af4d6fff"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1230,7 +1310,7 @@ hash = "babdb5083193dc3a611bed58ea011db3e8ce10282477bd7f78241452da7eece6"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "18298322bafc4334a084d2ca8457eb20e336b35f2d5b08d8b2298e18ad91cf8f"
+hash = "855e9b4f5952f9f33400819f8efa6a4cd5bde0f7f470c9956d608ea8d9c5a1a2"
 
 [[files]]
 file = "config/takesapillage.json"

@@ -1,62 +1,6 @@
 {
   "_README": "Per-block hull strength. Edit maxWaterDepth (int) and implosionChance (0..1). Keys starting with _ are ignored.",
   "_version": 2,
-  "abyss:abysstone": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "abyss:bulkhead": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.06
-  },
-  "abyss:grate": {
-    "maxWaterDepth": 69,
-    "implosionChance": 0.15
-  },
-  "abyss:reinforced_abysstone": {
-    "maxWaterDepth": 150,
-    "implosionChance": 0.08
-  },
-  "advanced_ore_deposits:andesite_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "advanced_ore_deposits:coal_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "advanced_ore_deposits:copper_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "advanced_ore_deposits:diamond_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "advanced_ore_deposits:gold_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "advanced_ore_deposits:iron_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "advanced_ore_deposits:lapis_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "advanced_ore_deposits:nether_quartz_deposit": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "advanced_ore_deposits:redstone_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "advanced_ore_deposits:zinc_deposit": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
   "ae2:16k_crafting_storage": {
     "maxWaterDepth": 155,
     "implosionChance": 0.076
@@ -1172,70 +1116,6 @@
   "aeronautics_utility_objects:universal_joint": {
     "maxWaterDepth": 131,
     "implosionChance": 0.22
-  },
-  "aeroscapes:aerolite": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:chiseled_quickslate": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:gold_aerolite": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:pointed_basalt": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "aeroscapes:polished_quickslate": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:polished_quickslate_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:polished_quickslate_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:polished_quickslate_wall": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:quickslate": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:quickslate_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:quickslate_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:quickslate_wall": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "aeroscapes:selenite_block": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "aeroscapes:selenite_crystal": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "aeroscapes:selenite_lamp": {
-    "maxWaterDepth": 58,
-    "implosionChance": 0.65
-  },
-  "aeroscapes:selenite_tiles": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
   },
   "aeroworks:control_desk": {
     "maxWaterDepth": 120,
@@ -4973,6 +4853,110 @@
     "maxWaterDepth": 15,
     "implosionChance": 0.85
   },
+  "create_rns:coal_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:cobalt_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:copper_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:depleted_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:gold_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:iron_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:lapis_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:lead_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:mine_head": {
+    "maxWaterDepth": 161,
+    "implosionChance": 0.05
+  },
+  "create_rns:mine_head_part": {
+    "maxWaterDepth": 161,
+    "implosionChance": 0.05
+  },
+  "create_rns:miner_bearing": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "create_rns:nickel_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:osmium_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:platinum_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:quartz_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:redstone_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:resonance_buffer": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_rns:resonator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_rns:shattering_resonator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_rns:silver_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:stabilizing_resonator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_rns:thorium_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:tin_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:uranium_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:wolframite_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:zinc_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "create_simple_ore_doubling:slag_block": {
     "maxWaterDepth": 39,
     "implosionChance": 0.76666665
@@ -5617,6 +5601,186 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createmetalogistics:expansion_module": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "createmetalogistics:filter_requester": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.64599997
+  },
+  "createmetalogistics:station_chunk_loader": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "createmetalogistics:stock_manifest_compiler": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createmetalogistics:stock_manifest_reader": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createmetalogistics:ticket_crate": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.79
+  },
+  "createnuclear:autunite": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:autunite_pillar": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:cut_autunite": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:cut_autunite_brick_slab": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:cut_autunite_brick_stairs": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:cut_autunite_brick_wall": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:cut_autunite_bricks": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:cut_autunite_slab": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:cut_autunite_stairs": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:cut_autunite_wall": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:deepslate_lead_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createnuclear:deepslate_uranium_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createnuclear:enriched_soul_soil": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "createnuclear:enriching_campfire": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createnuclear:enriching_fire": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createnuclear:layered_autunite": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:lead_block": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createnuclear:lead_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createnuclear:polished_cut_autunite": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:polished_cut_autunite_slab": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:polished_cut_autunite_stairs": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:polished_cut_autunite_wall": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:raw_lead_block": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createnuclear:raw_uranium_block": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createnuclear:reactor_casing": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "createnuclear:reactor_controller": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "createnuclear:reactor_cooler": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "createnuclear:reactor_core": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "createnuclear:reactor_frame": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "createnuclear:reactor_input": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "createnuclear:reactor_output": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "createnuclear:reinforced_glass": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "createnuclear:small_autunite_brick_slab": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:small_autunite_brick_stairs": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:small_autunite_brick_wall": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:small_autunite_bricks": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.68833333
+  },
+  "createnuclear:steel_block": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createnuclear:uranium": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createnuclear:uranium_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
   "createpackage:advanced_package_distributor": {
     "maxWaterDepth": 161,
     "implosionChance": 0.05
@@ -5780,10 +5944,6 @@
   "createtransmission:transmission_chain": {
     "maxWaterDepth": 13,
     "implosionChance": 0.85
-  },
-  "downhillrivers:river_water": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
   },
   "dynamictrees:acacia_branch": {
     "maxWaterDepth": 30,
@@ -11077,6 +11237,54 @@
     "maxWaterDepth": 18,
     "implosionChance": 0.85
   },
+  "molten_vents:active_molten_asurine": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "molten_vents:active_molten_crimsite": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "molten_vents:active_molten_ochrum": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "molten_vents:active_molten_scorchia": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "molten_vents:active_molten_scoria": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "molten_vents:active_molten_veridium": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "molten_vents:dormant_molten_asurine": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "molten_vents:dormant_molten_crimsite": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "molten_vents:dormant_molten_ochrum": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "molten_vents:dormant_molten_scorchia": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "molten_vents:dormant_molten_scoria": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "molten_vents:dormant_molten_veridium": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
   "myotus:charged_ender_pearl_block": {
     "maxWaterDepth": 7,
     "implosionChance": 0.85
@@ -11344,10 +11552,6 @@
   "offroad:wheel_mount": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
-  },
-  "origins:temporary_cobweb": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
   },
   "playercollars:black_dog_bed": {
     "maxWaterDepth": 3,
