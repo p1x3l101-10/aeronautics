@@ -3,11 +3,11 @@ filename = "create_rns-1.3.1-1.21.1-6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "20eabac84670b418b96f357eb202c1ed0cd48546"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wy2arhik/versions/e0ie2eDk/create_rns-1.3.1-1.21.1-6.jar"
+hash-format = "sha512"
+hash = "29c4d5e1fbefe5e09d453ac3dbb1fab53090e956823051b4dfffb5a2856811d3ffc07f27401fbf181f793a034efda1991040ad6805bc47312ab91e5e2b632047"
 
 [update]
-[update.curseforge]
-file-id = 8729955
-project-id = 1370563
+[update.modrinth]
+mod-id = "wy2arhik"
+version = "e0ie2eDk"
