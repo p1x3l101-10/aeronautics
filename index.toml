@@ -2108,11 +2108,6 @@ hash = "427a59e1520b9b19e50015a71101f7d151bb203c6379a7fcdcfb186c6418c65a"
 metafile = true
 
 [[files]]
-file = "mods/mythic-origins.pw.toml"
-hash = "00f60a2a2682e8db0414d59bab89abee5723fc7eef8cf75eb2ae851474afa2ea"
-metafile = true
-
-[[files]]
 file = "mods/neoecoae.pw.toml"
 hash = "6680aff808b6b2a4281144d7af29dd41c8ecf7c95b48f09973510c7f2bcaaba0"
 metafile = true
@@ -2140,11 +2135,6 @@ metafile = true
 [[files]]
 file = "mods/ocean-lily-pad-village.pw.toml"
 hash = "49ae06f9b1558e1a40fad86d436787c934d2269e4baa57c141d683a2c065ca57"
-metafile = true
-
-[[files]]
-file = "mods/origins-neoforge.pw.toml"
-hash = "11a8ffa7e1a820695d09f82f0c54a386f0738ae5b7e718ebe46793a9cba71eb4"
 metafile = true
 
 [[files]]
