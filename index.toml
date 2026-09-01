@@ -1798,6 +1798,11 @@ hash = "d0f989895c3c035338ccc6529f58ab616c233163c8da522ba5fca6de27c9fbbf"
 metafile = true
 
 [[files]]
+file = "mods/create-uranium-vents.pw.toml"
+hash = "d17bc904d85cf463ccbbe5ca45901b101b4c622aa2d8093a96a9c62003fee9d0"
+metafile = true
+
+[[files]]
 file = "mods/create-useful-flint.pw.toml"
 hash = "58a4a263a45c90377eae8a002b0d5de8b817b0654be12e937d174d5110d55ad2"
 metafile = true
@@ -1810,6 +1815,11 @@ metafile = true
 [[files]]
 file = "mods/createmelatonin.pw.toml"
 hash = "4cf66a484308ca31b1ad40b10921b0173d4f992a1ff9f657f6f8c114c1e235cc"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
 
 [[files]]
