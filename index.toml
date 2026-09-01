@@ -1758,6 +1758,11 @@ hash = "9f933da427ddb832fa056bb82c294cedd69fb6f99033d314a97fbfbd436ebf35"
 metafile = true
 
 [[files]]
+file = "mods/create-rns.pw.toml"
+hash = "b2746b808336fb515fbf1b3f42d8cfdf3f60b1ed70e36fb3ded5111fc7efb23d"
+metafile = true
+
+[[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "42c164ff918f3cac1cbf3477d0fee2c339e09d34177221b7591fb07ccbf78525"
 metafile = true
