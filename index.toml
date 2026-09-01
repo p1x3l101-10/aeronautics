@@ -1723,6 +1723,11 @@ hash = "3956311952e50e1b437d8e7c5af4537feebd3d95bd5435192b78b251cab38bf2"
 metafile = true
 
 [[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
+metafile = true
+
+[[files]]
 file = "mods/create-package.pw.toml"
 hash = "3a62291371125f74456c8161cb7c12f7b4b245742d0afea45393df586f03353f"
 metafile = true
