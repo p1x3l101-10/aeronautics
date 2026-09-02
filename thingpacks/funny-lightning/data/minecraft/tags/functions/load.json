@@ -1,0 +1,8 @@
+{
+  "values": [
+    "awlightning:load",
+    "awlightning:main",
+    "awlightning:resetvalue",
+    "awlightning:slowcountdown"
+  ]
+}

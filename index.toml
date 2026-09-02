@@ -2288,6 +2288,11 @@ hash = "b7434a2da8f6c68e3e77e7288d19d979dbd97cec43e827e86be2270b70a7741e"
 metafile = true
 
 [[files]]
+file = "mods/parry-it!.pw.toml"
+hash = "7f3bba66c5b64ee4558922cdbef758b50d14c9582409971b7f71dfcb7a5a1212"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "218e5b58749e0b860a0fa16452134f0f95a268969350cf0aea416f4688b5e8a4"
 metafile = true
@@ -2565,6 +2570,50 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "b4e8b0c7a3c9f2727eb3d3b99a414f33c28cc98064ee092525671f4fed43cfde"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/functions/load.mcfunction"
+hash = "147ea0ae5d9c6bf6d866346773c30604f3d8e512d43f7fab72cf0998bb64105c"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/functions/main.mcfunction"
+hash = "307fd7a9c01ef82f19d5204a831d186c6d49db0c518298894d67f4430f76eb18"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/functions/main2.mcfunction"
+hash = "fbefd3882652bcfff6c62ebec1375d8c1ac3466cecf804ffa879f9b0b61e6d3d"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/functions/resetvalue.mcfunction"
+hash = "22c00095a32406acd77208473f0970338bb58d061dae20a2bccdab5067cb0272"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/functions/resetvalue_func1.mcfunction"
+hash = "56cfac187f7c5651bc486346220ce09b1af84eacc7362b10f30248333526f577"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/functions/resetvalue_func2.1.mcfunction"
+hash = "78fd37bccd423740e4d88a278efc542aec15c9e110ad1e6c6415b9426bd83b2a"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/functions/slowcountdown.mcfunction"
+hash = "4d4869e9b777140c98ce9bbeed0856529fc2f9dcfd5ff9be4b5f25118a6132fb"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/functions/smlight.mcfunction"
+hash = "d33bc2b26606417065063df697ffb20408c50c5375251ebdcadfb383199af3e7"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/awlightning/predicates/is_raining.json"
+hash = "393dd29d59eeff3edc597bc39204b4eab9a3573e451b6d8cffd2e1cdc5e4e4b1"
+
+[[files]]
+file = "thingpacks/funny-lightning/data/minecraft/tags/functions/load.json"
+hash = "7a2d193bcd4b8fc701e5aa9225d65ce53f1d83cb00eda8acadc96ab54e7122aa"
+
+[[files]]
+file = "thingpacks/funny-lightning/pack.mcmeta"
+hash = "e5186ac806d389e84bbf1cbe09907b6f7a25f933cfc8785a191cee254b61c108"
 
 [[files]]
 file = "unsup.ini"

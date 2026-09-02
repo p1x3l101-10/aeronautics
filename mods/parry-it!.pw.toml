@@ -1,0 +1,13 @@
+name = "Parry It!"
+filename = "parry-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YTc8TDa2/versions/6ZQVM54U/parry-2.0.0.jar"
+hash-format = "sha512"
+hash = "610525c6d0b152357c924d350be96c0c3f9a0a7582e6bf2ff9a99b27b8245cb6dbaa0a79b1470b8078cfec736e0b929a5320ddbab856344fba7ccc039a0085f0"
+
+[update]
+[update.modrinth]
+mod-id = "YTc8TDa2"
+version = "6ZQVM54U"
