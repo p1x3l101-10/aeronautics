@@ -1,0 +1,13 @@
+name = "lightning rod zombie"
+filename = "lightning_rod_zombie-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sEAyIjEv/versions/yVxqxLcM/lightning_rod_zombie-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1607b08125b5731a71dec44f3e47f30a256f46422a8bbbc8d1aa7b7a8167d2781c40e86cf5cafabc37b3b5128b10e8c2bb6154d20e0b6997d5dc67b810a54c5d"
+
+[update]
+[update.modrinth]
+mod-id = "sEAyIjEv"
+version = "yVxqxLcM"
