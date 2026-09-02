@@ -1,0 +1,13 @@
+name = "Adrenaline Rush : Second Chance"
+filename = "Adrenalinerush-v1.9_MOD.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4DyE5RZ4/versions/yQIdsAcD/Adrenalinerush-v1.9_MOD.jar"
+hash-format = "sha512"
+hash = "12e6ecab5cc39dc06b21a7c6983b34d6b6826a0a03d21935dce3ace1353ebaf05fc307b3b34474e850fb21af26206c7b17cd2ecb597d8067dad07297964a924e"
+
+[update]
+[update.modrinth]
+mod-id = "4DyE5RZ4"
+version = "yQIdsAcD"

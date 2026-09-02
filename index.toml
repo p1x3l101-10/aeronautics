@@ -1498,6 +1498,11 @@ hash = "4f51b64f3725f5fb39a1f364b1419901ff757e28dbe9aac30718082cf0f9908d"
 metafile = true
 
 [[files]]
+file = "mods/adrenaline-rush.pw.toml"
+hash = "7aad6d94f97210b7efd5a0ba05df1d02b301f62ed900af05b0df14450438ef38"
+metafile = true
+
+[[files]]
 file = "mods/ae2-lightning-tech.pw.toml"
 hash = "e316b8f1a37836cd829cbc9b3c2e94e7652b1144f69ca93fb0f9562f1f2c4839"
 metafile = true
@@ -2075,6 +2080,11 @@ metafile = true
 [[files]]
 file = "mods/flw-vanillin.pw.toml"
 hash = "bdc98e2b7021374c029771fa47336d064d12fc37456f3c19bd5c5fde3178890d"
+metafile = true
+
+[[files]]
+file = "mods/fokusapi.pw.toml"
+hash = "bb7807499e6273333eea53e86f953fd597f25a8b07b165f391881e5f9785671a"
 metafile = true
 
 [[files]]
