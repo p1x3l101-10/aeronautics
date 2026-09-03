@@ -2388,6 +2388,11 @@ hash = "4e551c0dbb6941680eed8359b6b660fd35f9beada7a84142a2b0dd8b5c4d3e79"
 metafile = true
 
 [[files]]
+file = "mods/sable-off-balance.pw.toml"
+hash = "aaaa9b6acf0bab581382e6d1e30bd3e14fa78ccd1b0b358471ce733b3db5f803"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdolls.pw.toml"
 hash = "7fea6c6f5c02b1ae3dde1f8e89ae099b34b9261b9cf703bd15565bcbc0bb307d"
 metafile = true
