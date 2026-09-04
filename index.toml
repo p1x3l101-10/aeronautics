@@ -1867,6 +1867,11 @@ hash = "b0d5cec2c37cb9ad9dc2889132e0014a18fb21c25e989544091deb8f47ef6afb"
 metafile = true
 
 [[files]]
+file = "mods/black-moon-2.pw.toml"
+hash = "f60fd5578be63bfec15dccd2ad5b84f191c5b2ea40335de2cdf937f2b95ecec6"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
@@ -2342,6 +2347,11 @@ hash = "dadc4420234a45b2c455fc4e10f7efc96bb6962b6efc26858a654c6bfce2457a"
 metafile = true
 
 [[files]]
+file = "mods/extreme-horde-moon-2.pw.toml"
+hash = "6ca423b421803931319b085708c16c8b64ec5c64888cb91102568f4a14271f05"
+metafile = true
+
+[[files]]
 file = "mods/eye-crushing-additions.pw.toml"
 hash = "5437268598fa36f4a5739a2c76849b72004a1b2d59a3daed543adf275f75b4b2"
 metafile = true
@@ -2412,6 +2422,11 @@ hash = "33cc66c53134650a68c2aebe44e539a98e479701758ed8ad66097d208efd0b2c"
 metafile = true
 
 [[files]]
+file = "mods/horde-moon-2.pw.toml"
+hash = "7ae5b74d71f05ead5be1b9ce6512f541fd4ef49440816b8518b2f1000a91e4b3"
+metafile = true
+
+[[files]]
 file = "mods/hypertube.pw.toml"
 hash = "d426fef168ea983b716e35fd185dc4c9e165995acb50514432c5f05f736a61fb"
 metafile = true
@@ -2439,6 +2454,11 @@ metafile = true
 [[files]]
 file = "mods/jupiter.pw.toml"
 hash = "32732aff85e0d2f200d674cf4b36f31456608c2c3d40852f6639aa8d9a6271ff"
+metafile = true
+
+[[files]]
+file = "mods/kaboom-moon-2.pw.toml"
+hash = "992154aa4fd43a87ecd00a036e8ffd229f1c8e5bb0f37abe8e91b41668cc9f6a"
 metafile = true
 
 [[files]]
@@ -2602,6 +2622,16 @@ hash = "218e5b58749e0b860a0fa16452134f0f95a268969350cf0aea416f4688b5e8a4"
 metafile = true
 
 [[files]]
+file = "mods/peaceful-harvest-and-blue-moons-2-additional.pw.toml"
+hash = "be7c7d25788b2e53e46a30b923c7770a42da7abc3906650e7320e2ca2c4a2588"
+metafile = true
+
+[[files]]
+file = "mods/peaceful-moon-2.pw.toml"
+hash = "62d7231bec1dde8ff674068adec4e8fe2e11a4667d04cfffbc9248cbb2bf685a"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "4629389860a2baecf40aa1ffc4904b454eadcaa8e4bcede3c6801397d1432337"
 metafile = true
@@ -2739,6 +2769,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-aeronautics.pw.toml"
 hash = "b82bfcb4a32ae47922b8a0a34cfea5767c2edf7dbe4af1fbce8361368da85140"
+metafile = true
+
+[[files]]
+file = "mods/spider-moon-2.pw.toml"
+hash = "0d56161ff4e5f725c81bb247bc72b76bc8c703065e86b6eff4c3f819b783c6ca"
 metafile = true
 
 [[files]]

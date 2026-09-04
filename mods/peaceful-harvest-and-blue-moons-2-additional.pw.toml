@@ -1,0 +1,13 @@
+name = "Peaceful Harvest and Blue Moons 2 - Additional"
+filename = "SafeMoons2-Additional-1.21.1-NeoForge-Fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5jabBypU/versions/LlirSbDC/SafeMoons2-Additional-1.21.1-NeoForge-Fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "0ea445d537fab9785c390681cdf313d8c9d483ebaf673989db9a76a3a2300ba97da23de0a6df952802ab74b43d1c78bda32237b295d26c310f401007042fe27f"
+
+[update]
+[update.modrinth]
+mod-id = "5jabBypU"
+version = "LlirSbDC"
