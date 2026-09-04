@@ -1868,8 +1868,18 @@ hash = "dd434e911d7133ce94a6333b9c134a537a56ebfef993199985e50e6224c9b70e"
 metafile = true
 
 [[files]]
-file = "mods/create-renewable-netherrack.pw.toml"
-hash = "9f933da427ddb832fa056bb82c294cedd69fb6f99033d314a97fbfbd436ebf35"
+file = "mods/create-renewable-diamonds.pw.toml"
+hash = "9977a974f7769c4e3179f466b394111196a495912133ece3f30110a3d37f97be"
+metafile = true
+
+[[files]]
+file = "mods/create-renewable-egapples.pw.toml"
+hash = "d1b00edc1a438cdcd2b67f148973453facadaae3d959af46470f0d0f1bcb0471"
+metafile = true
+
+[[files]]
+file = "mods/create-renewable-netherite.pw.toml"
+hash = "600867292a31bba408ee4cfdf69bcbbc2b9f57af4a2f7eb75467619bcfc86db5"
 metafile = true
 
 [[files]]
@@ -1900,6 +1910,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "7cf157c711b62215a2b149f65571f04c54c79d94459be3316b7c65e40efad857"
+metafile = true
+
+[[files]]
+file = "mods/create-stones.pw.toml"
+hash = "5e27d23ab07532da7bb1d9e19ce94fc1f8dad1924b61f980306d3822aeb7cd9c"
 metafile = true
 
 [[files]]
