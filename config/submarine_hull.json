@@ -11553,6 +11553,10 @@
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
+  "origins:temporary_cobweb": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
   "playercollars:black_dog_bed": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
@@ -17200,6 +17204,54 @@
   "simulated:yellow_symmetric_sail": {
     "maxWaterDepth": 33,
     "implosionChance": 0.8
+  },
+  "smog:air_scrubber": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "smog:flue": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "smog:soot_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "tide:angling_table": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "tide:fish_display": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "tide:jelly_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "tide:jelly_wall_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "tide:lunar_calendar": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "tide:obsidian_crate": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "tide:purpur_crate": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "tide:weather_radio": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "tide:wooden_crate": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
   },
   "tis3d:casing": {
     "maxWaterDepth": 90,

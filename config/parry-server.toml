@@ -1,0 +1,85 @@
+["Parry Settings"]
+	#Duration of the parry window in ticks (1 second = 20 ticks).
+	# Default: 6
+	# Range: 1 ~ 100
+	parryWindowTicks = 6
+	#Cooldown after a parry attempt in ticks (1 second = 20 ticks).
+	# Default: 20
+	# Range: 0 ~ 1200
+	parryCooldownTicks = 20
+	#If true, landing a successful parry instantly resets the cooldown. (Default: true)
+	enableChainMode = true
+	#If true, you may only parry while holding an item that grants attack damage.
+	#Empty hands, tools and blocks will not parry. (Default: false)
+	requireWeapon = false
+	#Health restored by a successful parry, in health points (2.0 = one heart).
+	#0.0 disables healing. (Default: 0.0)
+	# Default: 0.0
+	# Range: 0.0 ~ 20.0
+	parryHealAmount = 0.0
+
+["Debuff Negation Settings"]
+	#If true, harmful potion effects cannot be applied to you while parrying.
+	#This stops attacks whose damage you parried from still landing their debuff,
+	#such as Cataclysm's Ignis applying Infernal Brand. (Default: true)
+	parryNegatesDebuffs = true
+	#Extra ticks of debuff immunity after the parry window closes.
+	#Mods that apply their debuff a tick or two after the hit need this to be
+	#non-zero to be caught. (Default: 10)
+	# Default: 10
+	# Range: 0 ~ 200
+	debuffNegationTicks = 10
+
+["Counter Attack Settings"]
+	#Share of the parried damage dealt back to a melee attacker. (Default: 0.75)
+	# Default: 0.75
+	# Range: 0.0 ~ 20.0
+	meleeCounterMultiplier = 0.75
+	#Upper limit on the damage a single counter-attack can deal. (Default: 20.0)
+	# Default: 20.0
+	# Range: 0.0 ~ 2048.0
+	meleeCounterMaxDamage = 20.0
+	#Knockback applied to a countered melee attacker. 0.0 disables it. (Default: 1.5)
+	# Default: 1.5
+	# Range: 0.0 ~ 10.0
+	meleeCounterKnockback = 1.5
+
+["Perfect Parry Settings"]
+	#Rewards parrying at the last possible moment. A parry counts as perfect
+	#when the hit lands in the opening ticks of your window, meaning you
+	#reacted to the attack rather than holding parry early. (Default: true)
+	enablePerfectParry = true
+	#How many ticks after pressing parry still count as perfect.
+	#Lower is harder. Must be well below parryWindowTicks to mean anything.
+	#(Default: 2)
+	# Default: 2
+	# Range: 1 ~ 20
+	perfectParryWindowTicks = 2
+	#Counter-attack damage multiplier on a perfect parry. (Default: 2.0)
+	# Default: 2.0
+	# Range: 1.0 ~ 20.0
+	perfectDamageMultiplier = 2.0
+	#Fall-parry launch multiplier on a perfect parry, so a perfectly timed
+	#fall parry throws you twice as far. (Default: 2.0)
+	# Default: 2.0
+	# Range: 1.0 ~ 20.0
+	perfectLaunchMultiplier = 2.0
+
+["Fall Damage Parry Settings"]
+	#Whether parrying fall damage is enabled.
+	enableFallDamageParry = true
+	#How much the fall damage explosion radius scales with damage amount.
+	# Default: 0.1
+	# Range: 0.0 ~ 5.0
+	fallDamageExplosionScaling = 0.1
+	#Minimum fall distance (in blocks) required to create an explosion. (Default: 10.0)
+	# Default: 10.0
+	# Range: 0.0 ~ 1000.0
+	fallDamageExplosionMinBlocks = 10.0
+	#If true, parrying fall damage launches you in the direction you are looking.
+	#Set to false to absorb the fall without being thrown. (Default: true)
+	enableFallDamageLaunch = true
+	#Multiplier for the launch. Lower values give a gentler hop. (Default: 1.0)
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	fallDamageLaunchPower = 1.0

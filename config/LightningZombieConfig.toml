@@ -1,0 +1,9 @@
+[spawn]
+	#1=100%,0=0%
+	lightning_zombie_spawn = 0.05
+
+[revive]
+	#When hurt,if his health < this,heal and reduce max health and summon lightning
+	when_lightning_zombie_revive = 12.0
+	#how many MH will lose when heal
+	lightning_zombie_revive_cost = 10.0
