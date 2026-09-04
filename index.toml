@@ -2242,6 +2242,11 @@ hash = "9b87fe7c249d15945d7bc7501fa81a927fbd3e63d607e043da82ecb532f15d36"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
+metafile = true
+
+[[files]]
 file = "mods/dodospyglass-spyglass-curios-compat.pw.toml"
 hash = "503c682f2c740db7e67f5f50cd9f5a326683854b197d379f8629f9d1120f7d33"
 metafile = true
