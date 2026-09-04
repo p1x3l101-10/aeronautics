@@ -2252,6 +2252,11 @@ hash = "938b71c2648e33c1a0369adbe0d7e30d5999039b8723c7dc27815fa9743b8088"
 metafile = true
 
 [[files]]
+file = "mods/dynamictrees-vanillabackport.pw.toml"
+hash = "7081270f2efcaf2b780850ffaee127410ed8333de2c33005eef2a3604fa67e92"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "4df41fb8d45512b1bdcf1f26418abec52c7569af7f477dba1ec723d260db288c"
 metafile = true
