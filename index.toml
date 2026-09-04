@@ -2492,6 +2492,11 @@ hash = "39bc4e76b694dd0e1f0073edcd3ad3b4ed5c205c33b4951b8900e8eec667c94a"
 metafile = true
 
 [[files]]
+file = "mods/llo.pw.toml"
+hash = "70701f3b0aca1912a37edabfdf73dc7abc359ea46eac9856bb4f7ebc1a2003c8"
+metafile = true
+
+[[files]]
 file = "mods/logical-iframes.pw.toml"
 hash = "f9170873bea8e71ff67f826b6726ea95e851cb5e644ead40df1be14644d5e54d"
 metafile = true
