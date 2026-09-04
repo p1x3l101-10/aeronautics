@@ -1614,7 +1614,7 @@ hash = "4b6f99955f574707a5d2e5b6bcfefd9c5391559c6a0e5ab1dc0bd36aeb93c03f"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
-hash = "0c8eca696f9811ad4af1bdac9ca5b5ac06c6dabe50aac551401a1a40e30d20d8"
+hash = "533f52e3c319f85efcce515e1a09280c9062426b42e711c66408c9fa3ad94ce5"
 
 [[files]]
 file = "config/vanillin-client.toml"
