@@ -2298,6 +2298,18 @@ metafile = true
 file = "servers.dat"
 
 [[files]]
+file = "thingpacks/autunite_processing/data/autunite_processing/recipe/crushing/crushed_uranium_from_atunite.json"
+
+[[files]]
+file = "thingpacks/autunite_processing/pack.mcmeta"
+
+[[files]]
+file = "thingpacks/horse_breeding/data/horse_breeding/recipe/mixing/forbidden_breeding.json"
+
+[[files]]
+file = "thingpacks/horse_breeding/pack.mcmeta"
+
+[[files]]
 file = "unsup.ini"
 
 [[files]]

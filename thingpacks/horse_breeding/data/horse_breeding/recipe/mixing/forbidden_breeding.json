@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_horse_decimation:horse_dust"
+      "item": "create_horse_decimation:horse_dust"
+      "item": "create_horse_decimation:horse_jpg"
+      "item": "create_horse_decimation:horse_jpg"
+      "item": "minecraft:golden_carrot"
+      "item": "minecraft:golden_carrot"
+      "item": "minecraft:golden_carrot"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_horse_decimation:horse_jpg"
+    }
+  ]
+}
