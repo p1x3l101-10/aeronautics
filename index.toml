@@ -2045,10 +2045,6 @@ file = "mods/ocean-lily-pad-village.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/origins-neoforge.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/overflowing-bars.pw.toml"
 metafile = true
 
