@@ -1792,8 +1792,18 @@ hash = "f6af7ac4c3887e3ebe865896ed624cc826d422759afe737f1f6164c617c9df86"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-preflight-checklist.pw.toml"
+hash = "ffee3c72b78ce8af3ef7a50e0ee4dd080edc1905c79b98bcd207e40324dffeb2"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-propeller-blur.pw.toml"
 hash = "1713fccad4386296395876c0dd5ef8038d356cbe46f6091ad13a6c0a1e14f24a"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-wind-sound.pw.toml"
+hash = "980a23bd1d06f53cf9c912293cf0a9233c06c729d586c4e38fab26b6f4c125b7"
 metafile = true
 
 [[files]]
@@ -1969,6 +1979,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-offroad-addon-stickywheels.pw.toml"
 hash = "0b38864250d4600c650a4c0637ee6432b5c2675a68d1794e4b88d32c732e3201"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-paddlewheels.pw.toml"
+hash = "a8b459bfb86f6ec9ff8502f58a8ad82a028e95f5521d7d67b2d78581850d1af6"
 metafile = true
 
 [[files]]
@@ -2189,6 +2204,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
+file = "mods/create-towed.pw.toml"
+hash = "614e84fdbc73e9381fa162c6307ba2502cdaedcca45fd6210e657b5242744282"
 metafile = true
 
 [[files]]
@@ -2434,6 +2454,11 @@ metafile = true
 [[files]]
 file = "mods/horde-moon-2.pw.toml"
 hash = "7ae5b74d71f05ead5be1b9ce6512f541fd4ef49440816b8518b2f1000a91e4b3"
+metafile = true
+
+[[files]]
+file = "mods/hots-aerostuff.pw.toml"
+hash = "a7e9187482cf225fbdb3769e860989040d41508106c4672c49439ed4f0d94af1"
 metafile = true
 
 [[files]]
