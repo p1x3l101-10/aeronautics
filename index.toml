@@ -946,6 +946,9 @@ file = "config/molten_vents-common.toml"
 file = "config/molten_vents/conductive/asurine.json"
 
 [[files]]
+file = "config/molten_vents/conductive/autunite.json"
+
+[[files]]
 file = "config/molten_vents/conductive/crimsite.json"
 
 [[files]]
@@ -962,6 +965,9 @@ file = "config/molten_vents/conductive/veridium.json"
 
 [[files]]
 file = "config/molten_vents/convertible/asurine.json"
+
+[[files]]
+file = "config/molten_vents/convertible/autunite.json"
 
 [[files]]
 file = "config/molten_vents/convertible/crimsite.json"
@@ -2298,7 +2304,22 @@ metafile = true
 file = "servers.dat"
 
 [[files]]
+file = "thingpacks/autunite_processing/data/autunite_processing/neoforge/biome_modifier/add_vents_overworld.json"
+
+[[files]]
 file = "thingpacks/autunite_processing/data/autunite_processing/recipe/crushing/crushed_uranium_from_atunite.json"
+
+[[files]]
+file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/configured_feature/aquatic_autunite_vent.json"
+
+[[files]]
+file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/configured_feature/autunite_vent.json"
+
+[[files]]
+file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/placed_feature/aquatic_autunite_vent.json"
+
+[[files]]
+file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/placed_feature/autunite_vent.json"
 
 [[files]]
 file = "thingpacks/autunite_processing/pack.mcmeta"

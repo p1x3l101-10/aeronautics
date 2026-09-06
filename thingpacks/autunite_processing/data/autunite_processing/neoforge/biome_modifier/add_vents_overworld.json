@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "autunite_processing:autunite_vent",
+    "autunite_processing:aquatic_autunite_vent"
+  ],
+  "step": "vegetal_decoration"
+}

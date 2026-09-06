@@ -1,0 +1,57 @@
+{
+  "type": "molten_vents:molten_vent",
+  "config": {
+    "decorativeBlock": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 3,
+          "data": {
+            "Name": "createnuclear:cut_autunite_wall"
+          }
+        },
+        {
+          "weight": 7,
+          "data": {
+            "Name": "createnuclear:cut_autunite_slab"
+          }
+        }
+      ]
+    },
+    "outerBlock": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Name": "createnuclear:cut_autunite"
+          }
+        },
+        {
+          "weight": 8,
+          "data": {
+            "Name": "createnuclear:autunite"
+          }
+        }
+      ]
+    },
+    "innerBlock": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "molten_vents:dormant_molten_autunite"
+      }
+    },
+    "liquidBlock": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:lava"
+      }
+    },
+    "depth": {
+      "type": "minecraft:uniform",
+      "min_inclusive": 20,
+      "max_inclusive": 35
+    },
+    "underwater": true
+  }
+}
