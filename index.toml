@@ -1804,6 +1804,10 @@ file = "mods/emi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/end-remastered-additions.pw.toml"
 metafile = true
 
