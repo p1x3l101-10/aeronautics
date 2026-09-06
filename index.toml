@@ -2291,6 +2291,10 @@ file = "mods/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "resourcepacks/drodi-extendo-grip.pw.toml"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 
 [[files]]
