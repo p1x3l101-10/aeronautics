@@ -26,6 +26,13 @@
   "results": [
     {
       "id": "create_horse_decimation:horse_jpg"
+    },
+    {
+      "id": "create_horse_decimation:horse_jpg"
+    },
+    {
+      "id": "create_horse_decimation:horse_jpg",
+      "chance": 0.5
     }
   ]
 }
