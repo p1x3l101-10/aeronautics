@@ -2149,6 +2149,10 @@ file = "mods/sablecompat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/saturation-plus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sea-creeps.pw.toml"
 metafile = true
 
@@ -2319,6 +2323,12 @@ file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/placed_
 
 [[files]]
 file = "thingpacks/autunite_processing/pack.mcmeta"
+
+[[files]]
+file = "thingpacks/elytra/data/elytra/recipes/mechanical_crafting/elytra_from_elytrout.json"
+
+[[files]]
+file = "thingpacks/elytra/pack.mcmeta"
 
 [[files]]
 file = "thingpacks/horse_breeding/data/horse_breeding/recipe/mixing/forbidden_breeding.json"

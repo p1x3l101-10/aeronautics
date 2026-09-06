@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "tide:elytrout"
+    }
+  },
+  "pattern": [
+    "EEEEEEEEEE",
+    "EEEEEEEEEE",
+    "EEEEEEEEEE",
+    "EEEEEEEEEE",
+    "EEEEEEEEEE",
+    "EEEEEEEEEE",
+    "EEEEEEEEEE",
+    "EEEEEEEEEE",
+    "EEEEEEEEEE",
+    "EEEEEEEEEE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}
