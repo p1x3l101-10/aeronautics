@@ -1,6 +1,6 @@
 [spawn]
 	#1=100%,0=0%
-	lightning_zombie_spawn = 0.05
+	lightning_zombie_spawn = 0.5
 
 [revive]
 	#When hurt,if his health < this,heal and reduce max health and summon lightning
