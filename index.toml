@@ -2192,6 +2192,11 @@ hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
 metafile = true
 
 [[files]]
+file = "mods/create-tracks+.pw.toml"
+hash = "4c66a17f214bd6ab6b9e4dbbfb105118fef80f11e29793c3e1df1edd6f30e296"
+metafile = true
+
+[[files]]
 file = "mods/create-transmission!.pw.toml"
 hash = "d0f989895c3c035338ccc6529f58ab616c233163c8da522ba5fca6de27c9fbbf"
 metafile = true
