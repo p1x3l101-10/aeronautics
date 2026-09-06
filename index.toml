@@ -265,6 +265,9 @@ file = "config/aeronautics-server.toml"
 file = "config/aeronautics_utility_objects-server.toml"
 
 [[files]]
+file = "config/aeronautics_windsound-client.toml"
+
+[[files]]
 file = "config/aeroworks-client.toml"
 
 [[files]]
@@ -730,6 +733,12 @@ file = "config/deployer-server.toml"
 file = "config/distraction_free_recipes-client.toml"
 
 [[files]]
+file = "config/do_a_barrel_roll-client.json"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+
+[[files]]
 file = "config/dynamic_fps.json"
 
 [[files]]
@@ -868,6 +877,9 @@ file = "config/fzzy_config/keybinds.toml"
 file = "config/guideme.toml"
 
 [[files]]
+file = "config/hotstuff-common.toml"
+
+[[files]]
 file = "config/immediatelyfast.json"
 
 [[files]]
@@ -893,6 +905,9 @@ file = "config/ldfix-common.toml"
 
 [[files]]
 file = "config/ldlib2-client.toml"
+
+[[files]]
+file = "config/lightleveloverlay-client.json"
 
 [[files]]
 file = "config/lithium.properties"
@@ -1193,6 +1208,12 @@ file = "config/tis3d-client.toml"
 
 [[files]]
 file = "config/tis3d-common.toml"
+
+[[files]]
+file = "config/towed-server.toml"
+
+[[files]]
+file = "config/tracks-server.toml"
 
 [[files]]
 file = "config/transition.json"

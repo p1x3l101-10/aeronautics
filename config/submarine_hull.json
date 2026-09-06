@@ -5945,6 +5945,34 @@
     "maxWaterDepth": 13,
     "implosionChance": 0.85
   },
+  "dtvanillabackport:pale_oak_branch": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.81666666
+  },
+  "dtvanillabackport:pale_oak_creaking_heart_branch": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.81666666
+  },
+  "dtvanillabackport:pale_oak_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "dtvanillabackport:pale_oak_root": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "dtvanillabackport:pale_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtvanillabackport:resin_pale_oak_branch": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.81666666
+  },
+  "dtvanillabackport:stripped_pale_oak_branch": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.81666666
+  },
   "dynamictrees:acacia_branch": {
     "maxWaterDepth": 30,
     "implosionChance": 0.81666666
@@ -6524,6 +6552,38 @@
   "extra_gauges:rose_quartz_port": {
     "maxWaterDepth": 9,
     "implosionChance": 0.85
+  },
+  "hotstuff:analog_torsion_spring": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "hotstuff:andesite_link_casing": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "hotstuff:brass_link_casing": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "hotstuff:copycat_link_casing": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "hotstuff:copycat_sail": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "hotstuff:copycat_symmetric_sail": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "hotstuff:link_relay": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.835
+  },
+  "hotstuff:redstone_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
   },
   "kawaiidishes:apple_pie": {
     "maxWaterDepth": 8,
@@ -17260,6 +17320,10 @@
   "tis3d:controller": {
     "maxWaterDepth": 90,
     "implosionChance": 0.46
+  },
+  "tracks:track_mount": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "vestalihy:aiming_block_btr": {
     "maxWaterDepth": 105,
