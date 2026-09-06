@@ -859,6 +859,9 @@ file = "config/forgeendertech/Biomes/minecraft$sunflower_plains.cfg"
 file = "config/forgeendertech/Biomes/minecraft$swamp.cfg"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$the_void.cfg"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$warm_ocean.cfg"
 
 [[files]]

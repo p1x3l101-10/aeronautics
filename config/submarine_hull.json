@@ -11301,6 +11301,10 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "molten_vents:active_molten_autunite": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "molten_vents:active_molten_crimsite": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -11322,6 +11326,10 @@
     "implosionChance": 0.05
   },
   "molten_vents:dormant_molten_asurine": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "molten_vents:dormant_molten_autunite": {
     "maxWaterDepth": 50,
     "implosionChance": 0.7
   },
