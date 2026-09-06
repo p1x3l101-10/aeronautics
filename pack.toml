@@ -1,15 +1,18 @@
 name = "Aeronautics"
 author = "P1x3l101"
-version = "5.2.2"
+version = "5.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "df6f4f67bf1b032b3f65b966857d91f33b8c7b8d5bae8c4d8bd900cc82c64818"
 
 [versions]
 lwjgl3 = "3.3.3"
 minecraft = "1.21.1"
 neoforge = "21.1.248"
 unsup = "1.1.5"
+
+[options]
+datapack-folder = "thingpacks"
+no-internal-hashes = true
