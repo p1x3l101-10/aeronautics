@@ -9,7 +9,8 @@
   "results": [
     {
       "chance": 0.2,
-      "item": "create:crushed_raw_uranium"
+      "id": "create:crushed_raw_uranium",
+      "amount": 2
     }
   ]
 }
