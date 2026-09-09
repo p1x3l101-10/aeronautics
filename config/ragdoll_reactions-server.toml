@@ -1,5 +1,5 @@
 #Master switch for all ragdoll reactions.
-enabled = true
+enabled = false
 
 #Options shared by all triggers.
 [general]

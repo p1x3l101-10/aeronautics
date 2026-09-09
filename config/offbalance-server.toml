@@ -1,7 +1,7 @@
 #Ragdoll-on-tilt options
 [ragdoll]
 	#Force players into ragdoll when the sub-level they stand on tilts past the threshold.
-	ragdollEnabled = true
+	ragdollEnabled = false
 	#Base tilt angle, in degrees away from level, at which a WALKING player ragdolls.
 	#Standing still raises this threshold; sprinting lowers it (see the values below).
 	# Default: 50.0
@@ -46,7 +46,7 @@
 [balance]
 	#Conscious ragdolled players actively struggle to stay upright: legs step to catch
 	#the fall, the head is held level, and a stably standing body gets back up.
-	balanceEnabled = false
+	balanceEnabled = true
 	#Muscle strength scale for the joint motors (legs/arms/neck) while balancing.
 	#Higher = snappier, more coordinated recovery; lower = drunker.
 	# Default: 1.0
