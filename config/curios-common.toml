@@ -2,5 +2,5 @@
 #See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
 #
 slots = [
-  "id=endeye;size=2"
+  "id=endeye;size=0"
 ]
