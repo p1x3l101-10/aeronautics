@@ -1552,6 +1552,10 @@ file = "mods/create-aeronautics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-aerowarptics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-aeroworks.pw.toml"
 metafile = true
 
