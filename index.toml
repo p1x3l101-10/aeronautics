@@ -268,6 +268,12 @@ file = "config/aeronautics_utility_objects-server.toml"
 file = "config/aeronautics_windsound-client.toml"
 
 [[files]]
+file = "config/aerowarptics-client.toml"
+
+[[files]]
+file = "config/aerowarptics-server.toml"
+
+[[files]]
 file = "config/aeroworks-client.toml"
 
 [[files]]
@@ -766,6 +772,9 @@ file = "config/emi_loot_config.toml"
 file = "config/emi_ores-client.json"
 
 [[files]]
+file = "config/emotecraft.json"
+
+[[files]]
 file = "config/end_remastered_promax-common.toml"
 
 [[files]]
@@ -863,6 +872,9 @@ file = "config/forgeendertech/Biomes/minecraft$the_void.cfg"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$warm_ocean.cfg"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$windswept_gravelly_hills.cfg"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"

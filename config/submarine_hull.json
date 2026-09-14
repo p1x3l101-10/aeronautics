@@ -1117,6 +1117,70 @@
     "maxWaterDepth": 131,
     "implosionChance": 0.22
   },
+  "aerowarptics:astrolabe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aerowarptics:rift_chute": {
+    "maxWaterDepth": 78,
+    "implosionChance": 0.53333336
+  },
+  "aerowarptics:rift_drive_creative": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_drive_mk_i": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_drive_mk_ii": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_drive_mk_iii": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_drive_singularity": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_essence": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "aerowarptics:rift_fissure": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "aerowarptics:rift_gate": {
+    "maxWaterDepth": 111,
+    "implosionChance": 0.33333334
+  },
+  "aerowarptics:rift_gate_frame": {
+    "maxWaterDepth": 111,
+    "implosionChance": 0.33333334
+  },
+  "aerowarptics:rift_modulator": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "aerowarptics:rift_portal": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "aerowarptics:rift_probe": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "aerowarptics:spatial_siphon": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "aerowarptics:warp_anchor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
   "aeroworks:control_desk": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -11620,10 +11684,6 @@
   "offroad:wheel_mount": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
-  },
-  "origins:temporary_cobweb": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
   },
   "playercollars:black_dog_bed": {
     "maxWaterDepth": 3,
