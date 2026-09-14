@@ -1,7 +1,7 @@
 #Ragdoll-on-tilt options
 [ragdoll]
 	#Force players into ragdoll when the sub-level they stand on tilts past the threshold.
-	ragdollEnabled = false
+	ragdollEnabled = true
 	#Base tilt angle, in degrees away from level, at which a WALKING player ragdolls.
 	#Standing still raises this threshold; sprinting lowers it (see the values below).
 	# Default: 50.0
@@ -99,7 +99,7 @@
 	#On leaving ragdoll, snap the player's view to where the ragdoll's head was actually
 	#aiming (rather than the free-look camera direction it left the ragdoll with), so the
 	#camera picks up facing the way the body was pointing.
-	restoreViewOnExit = true
+	restoreViewOnExit = false
 
 	#Standing back up automatically once the body is stably on its feet.
 	[recovery.standUp]
@@ -141,7 +141,7 @@
 		manualDismountEnabled = true
 		#Require at least one foot touching ground to unlock manual dismount — i.e.
 		#forbid leaving ragdoll mode while airborne.
-		dismountRequireGrounded = false
+		dismountRequireGrounded = true
 		#Maximum lean from vertical, in degrees, still allowed for manual dismount.
 		#180 = any orientation (lying down is fine); lower this to require near-standing.
 		# Default: 180.0
@@ -161,7 +161,7 @@
 		#unlocks.
 		# Default: 25
 		# Range: 1 ~ 400
-		dismountHoldTicks = 15
+		dismountHoldTicks = 10
 
 	#Safety valve so a player can never be stuck in ragdoll mode indefinitely.
 	[recovery.failsafe]
@@ -174,4 +174,4 @@
 		failsafeSeconds = 20
 		#Only apply the failsafe to CONSCIOUS players. If disabled, unconscious players are
 		#also force-released after failsafeSeconds instead of staying down indefinitely.
-		failsafeRequireConscious = true
+		failsafeRequireConscious = false
