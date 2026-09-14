@@ -2360,6 +2360,15 @@ file = "thingpacks/horse_breeding/data/horse_breeding/recipe/mixing/forbidden_br
 file = "thingpacks/horse_breeding/pack.mcmeta"
 
 [[files]]
+file = "thingpacks/recipe_disabling/data/ae2/recipe/network/blocks/crank.json"
+
+[[files]]
+file = "thingpacks/recipe_disabling/data/ae2/recipe/network/blocks/energy_vibration_chamber.json"
+
+[[files]]
+file = "thingpacks/recipe_disabling/pack.mcmeta"
+
+[[files]]
 file = "unsup.ini"
 
 [[files]]
