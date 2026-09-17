@@ -297,10 +297,6 @@ file = "mods/create-mobile-packages.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-molten-vents.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-package.pw.toml"
 metafile = true
 
@@ -858,27 +854,6 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-
-[[files]]
-file = "thingpacks/autunite_processing/data/autunite_processing/neoforge/biome_modifier/add_vents_overworld.json"
-
-[[files]]
-file = "thingpacks/autunite_processing/data/autunite_processing/recipe/crushing/crushed_uranium_from_atunite.json"
-
-[[files]]
-file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/configured_feature/aquatic_autunite_vent.json"
-
-[[files]]
-file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/configured_feature/autunite_vent.json"
-
-[[files]]
-file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/placed_feature/aquatic_autunite_vent.json"
-
-[[files]]
-file = "thingpacks/autunite_processing/data/autunite_processing/worldgen/placed_feature/autunite_vent.json"
-
-[[files]]
-file = "thingpacks/autunite_processing/pack.mcmeta"
 
 [[files]]
 file = "thingpacks/horse_breeding/data/horse_breeding/recipe/mixing/forbidden_breeding.json"
