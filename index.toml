@@ -2264,6 +2264,10 @@ file = "mods/vestalihy.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/voxy-server-side.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/voxy.pw.toml"
 metafile = true
 
