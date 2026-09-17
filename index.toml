@@ -1186,9 +1186,6 @@ file = "config/sodium-options.json"
 file = "config/sodiumdynamiclights-client.toml"
 
 [[files]]
-file = "config/sound_physics_remastered/.spra-config-schema.properties"
-
-[[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
 
 [[files]]
