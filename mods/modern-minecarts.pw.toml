@@ -1,0 +1,13 @@
+name = "Modern Minecarts"
+filename = "modernminecarts-1.3.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5k6mdRU9/versions/G34HGYh4/modernminecarts-1.3.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "babcb9340e1cf837d5bd270a9bd0b1eefdf13f71bbc173086e38bc0cd5a8d7b585b9f251a6ad78fd598d3ad914ff82cf361aed763203af6cd35865c480fcf69a"
+
+[update]
+[update.modrinth]
+mod-id = "5k6mdRU9"
+version = "G34HGYh4"

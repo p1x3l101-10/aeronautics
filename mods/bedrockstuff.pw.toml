@@ -1,0 +1,13 @@
+name = "Nestor's Breakable Bedrock"
+filename = "bedrockstuff-1.2.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t0XEZO15/versions/UQi6skq7/bedrockstuff-1.2.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "ccf0ad5a50d7d21bd687e3f04ac9ed703f664593081b7b3c86f5eff4446f6acc949d33234de1a21ec5ddaae1ba50f1407f9041f5a8b2fee1193fa515fdb48eba"
+
+[update]
+[update.modrinth]
+mod-id = "t0XEZO15"
+version = "UQi6skq7"

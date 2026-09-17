@@ -1,3 +1,0 @@
-[display]
-	#Shows AE storage amounts on JEI/EMI/REI bookmark entries when the terminal supports bookmark amount rendering.
-	showBookmarkAmounts = true

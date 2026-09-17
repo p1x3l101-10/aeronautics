@@ -1,0 +1,13 @@
+name = "Lodestone Update Backport"
+filename = "lodestone-recipe-backport-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XjCJ94YK/versions/mc57aHPf/lodestone-recipe-backport-2.0.jar"
+hash-format = "sha512"
+hash = "c3f99489e52919cc280f9bae0ea26f54b4dd13adc8cb53034348ab787cd16d900365fc464345c76f2c44a8c515a1c984d6907cdfa7198be839129c7394f2c506"
+
+[update]
+[update.modrinth]
+mod-id = "XjCJ94YK"
+version = "mc57aHPf"
