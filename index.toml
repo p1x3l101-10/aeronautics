@@ -1624,6 +1624,10 @@ file = "mods/create-dragons-plus.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-drill-levitite.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-dynamic-lights.pw.toml"
 metafile = true
 
@@ -1752,6 +1756,10 @@ file = "mods/createnuclear.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/curios-eggs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 metafile = true
 
@@ -1777,6 +1785,10 @@ metafile = true
 
 [[files]]
 file = "mods/dodospyglass-spyglass-curios-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dracolotl.pw.toml"
 metafile = true
 
 [[files]]
@@ -2037,6 +2049,10 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/multiple-dragon-eggs.pw.toml"
 metafile = true
 
 [[files]]

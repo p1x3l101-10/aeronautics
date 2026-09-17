@@ -1,0 +1,13 @@
+name = "Multiple Dragon Eggs"
+filename = "multiple_dragon_eggs-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4TY1NfBk/versions/3yleXV3G/multiple_dragon_eggs-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "3b8950a6db0f862e44a981aa2dd05e06598eb3a66bdd0e9cfbbd5d91784ac15d78efcd1ac9418f4d586d4999a49976b47fee4623e54813c89a9a071f017c09ce"
+
+[update]
+[update.modrinth]
+mod-id = "4TY1NfBk"
+version = "3yleXV3G"
