@@ -405,6 +405,10 @@ file = "mods/disconnect-packet-fix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 metafile = true
 
@@ -701,10 +705,6 @@ file = "mods/room-for-two.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/roxy.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/rpl.pw.toml"
 metafile = true
 
@@ -782,10 +782,6 @@ metafile = true
 
 [[files]]
 file = "mods/voidfog.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
 metafile = true
 
 [[files]]
