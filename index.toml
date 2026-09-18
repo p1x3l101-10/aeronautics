@@ -1285,6 +1285,12 @@ file = "config/voxy-config.json"
 file = "config/voxyserver.json"
 
 [[files]]
+file = "config/vss-client-config.json"
+
+[[files]]
+file = "config/vss-server-config.json"
+
+[[files]]
 file = "config/watut-client.toml"
 
 [[files]]
