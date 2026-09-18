@@ -1279,7 +1279,16 @@ file = "config/voicechat/voicechat-client.properties"
 file = "config/voicechat/voicechat-server.properties"
 
 [[files]]
+file = "config/voxy-config.json"
+
+[[files]]
 file = "config/voxyserver.json"
+
+[[files]]
+file = "config/vss-client-config.json"
+
+[[files]]
+file = "config/vss-server-config.json"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -1770,10 +1779,6 @@ file = "mods/disconnect-packet-fix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 metafile = true
 
@@ -2259,6 +2264,14 @@ metafile = true
 
 [[files]]
 file = "mods/vestalihy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
 metafile = true
 
 [[files]]
