@@ -1666,14 +1666,6 @@ file = "mods/yungs-better-caves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-end-island.pw.toml"
 metafile = true
 
@@ -1706,11 +1698,11 @@ file = "mods/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "resourcepacks/drodi-extendo-grip.pw.toml"
-metafile = true
+file = "servers.dat"
 
 [[files]]
-file = "servers.dat"
+file = "thingpacks/drodi-extendo-grip.pw.toml"
+metafile = true
 
 [[files]]
 file = "thingpacks/no_advancement/data/seacreeps/advancement/burn_it.json"
@@ -1765,6 +1757,10 @@ file = "thingpacks/recipe_disabling/data/ae2/recipe/network/blocks/energy_vibrat
 
 [[files]]
 file = "thingpacks/recipe_disabling/pack.mcmeta"
+
+[[files]]
+file = "thingpacks/vanilla-like-lootr.pw.toml"
+metafile = true
 
 [[files]]
 file = "unsup.ini"
