@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Makes initialization just a bit quieter",
+    "pack_format": 15
+  }
+}

@@ -1713,6 +1713,51 @@ metafile = true
 file = "servers.dat"
 
 [[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/burn_it.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/chill_out.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/deep_trouble.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/frozen_tnt_advancement.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/hot_head.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/koipy_cats.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/reef_or_greif.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/scorched_tnt_advancement.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/sea_creeps_advancements.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/somethings_in_the_water.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/swamp_thing.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/thatshot.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/thisoceansonlybigenoughforoneofus.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/seacreeps/advancement/wet_tnt_advancement.json"
+
+[[files]]
+file = "thingpacks/no_advancement/pack.mcmeta"
+
+[[files]]
 file = "thingpacks/recipe_disabling/data/ae2/recipe/network/blocks/crank.json"
 
 [[files]]
