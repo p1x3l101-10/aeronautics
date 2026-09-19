@@ -1,14 +1,13 @@
 name = "Better Clouds"
-filename = "better-clouds-1.13.6+1.21.1-neoforge.jar"
+filename = "better-clouds-1.13.7+1.21.1-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5srFLIaK/versions/XK8POrWQ/better-clouds-1.13.6%2B1.21.1-neoforge.jar"
-hash-format = "sha256"
-hash = "cfe160f9c28dc055eb41ab7e5ec3862d8e0ec78ea94c8d371d7d5d1e967efee8"
-mode = "url"
+url = "https://cdn.modrinth.com/data/5srFLIaK/versions/98i9IvGb/better-clouds-1.13.7%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "97ae81fddefb42c79c9ee82d75b0ab28531c8f8f1f6c9643026a157f0a5d8bf2ce220dbdbf3f18d16fd19100710adbc0ea48ee1338d951c17528d5f7d3a3cd14"
 
 [update]
 [update.modrinth]
 mod-id = "5srFLIaK"
-version = "XK8POrWQ"
+version = "98i9IvGb"

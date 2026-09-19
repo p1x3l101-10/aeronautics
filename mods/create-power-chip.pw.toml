@@ -1,13 +1,13 @@
 name = "Create: Power chip"
-filename = "powerchip-2.0.6.jar"
+filename = "powerchip-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xjCy9IA8/versions/esRymPbD/powerchip-2.0.6.jar"
-hash-format = "sha256"
-hash = "802068fae1cf7d494d97166cc35dae1303df2e85387c47c59fe59aeb954c7d1f"
+url = "https://cdn.modrinth.com/data/xjCy9IA8/versions/pw9UtPlH/powerchip-2.1.1.jar"
+hash-format = "sha512"
+hash = "97555ce889450780ad5882d3a5976fc41288f8ec7be8fdf440fb916737506b122924457fbc117044d66a10bfa8fcb7ece20ae5ba6205331fc7a76b3c548e44f4"
 
 [update]
 [update.modrinth]
 mod-id = "xjCy9IA8"
-version = "esRymPbD"
+version = "pw9UtPlH"
