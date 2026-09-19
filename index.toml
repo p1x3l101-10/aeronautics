@@ -5,10 +5,6 @@ file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ae2-lightning-tech.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ae2-tangible-bookmarks.pw.toml"
 metafile = true
 
@@ -97,10 +93,6 @@ file = "mods/better-advancements.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/biolith.pw.toml"
 metafile = true
 
@@ -114,10 +106,6 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
 metafile = true
 
 [[files]]
@@ -281,19 +269,11 @@ file = "mods/create-grappling-hooks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-horse-decimation.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/create-meta-logistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-mobile-packages.pw.toml"
 metafile = true
 
 [[files]]
@@ -477,10 +457,6 @@ file = "mods/flw-vanillin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fokusapi.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/forgeendertech.pw.toml"
 metafile = true
 
@@ -617,10 +593,6 @@ file = "mods/myotus-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/neoecoae.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 metafile = true
 
@@ -642,10 +614,6 @@ metafile = true
 
 [[files]]
 file = "mods/packagerspsic.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/paxi.pw.toml"
 metafile = true
 
 [[files]]
@@ -729,10 +697,6 @@ file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sky-void-additions.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 metafile = true
 
@@ -746,10 +710,6 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/thunderbolt-core.pw.toml"
 metafile = true
 
 [[files]]
