@@ -1,6 +1,6 @@
 name = "Create: Drill Levitite"
 filename = "create-drill_levitite-1.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/W9MaNsjj/versions/95VdlC60/create-drill_levitite-1.2.0.jar"

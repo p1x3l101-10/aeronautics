@@ -1,6 +1,6 @@
 name = "Create: Packagers PSI Compat"
 filename = "packagerspsic-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MAWWVb2i/versions/e7XZY6Md/packagerspsic-1.0.0.jar"

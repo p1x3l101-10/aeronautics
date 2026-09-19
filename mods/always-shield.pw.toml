@@ -1,6 +1,6 @@
 name = "Always Shield"
 filename = "AlwaysShield-1.2.0+mc1.21.1-NeoForge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/f5J5N4a3/versions/RlBJJ9Gf/AlwaysShield-1.2.0%2Bmc1.21.1-NeoForge.jar"
