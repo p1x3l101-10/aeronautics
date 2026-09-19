@@ -1713,12 +1713,6 @@ metafile = true
 file = "servers.dat"
 
 [[files]]
-file = "thingpacks/horse_breeding/data/horse_breeding/recipe/mixing/forbidden_breeding.json"
-
-[[files]]
-file = "thingpacks/horse_breeding/pack.mcmeta"
-
-[[files]]
 file = "thingpacks/recipe_disabling/data/ae2/recipe/network/blocks/crank.json"
 
 [[files]]
