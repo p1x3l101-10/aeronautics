@@ -353,10 +353,6 @@ file = "mods/create-smog.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails-1.21.1.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-stones.pw.toml"
 metafile = true
 
@@ -418,10 +414,6 @@ metafile = true
 
 [[files]]
 file = "mods/dodospyglass-spyglass-curios-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dracolotl.pw.toml"
 metafile = true
 
 [[files]]
@@ -542,10 +534,6 @@ metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/kawaii-dishes.pw.toml"
 metafile = true
 
 [[files]]
