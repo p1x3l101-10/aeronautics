@@ -22,3 +22,4 @@ dataFiles
 /config/mmode.json
 /config/chunky/tasks
 /config/mca
+/config/sound_physics_remastered/.spra-config-schema.properties

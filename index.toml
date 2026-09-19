@@ -613,6 +613,9 @@ file = "config/fastsuite.cfg"
 file = "config/ferritecore-mixin.toml"
 
 [[files]]
+file = "config/fixedanvilrepaircost.json5"
+
+[[files]]
 file = "config/flywheel-client.toml"
 
 [[files]]
@@ -631,10 +634,16 @@ file = "config/forgeendertech/Biomes/minecraft$ice_spikes.cfg"
 file = "config/forgeendertech/Biomes/minecraft$sparse_jungle.cfg"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$stony_shore.cfg"
+
+[[files]]
 file = "config/forgeendertech/Wind.cfg"
 
 [[files]]
 file = "config/forgeendertech/cached.dat"
+
+[[files]]
+file = "config/forgivingvoid-common.toml"
 
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
@@ -796,16 +805,25 @@ file = "config/sodiumdynamiclights-client.toml"
 file = "config/sound_physics_remastered/occlusion.properties"
 
 [[files]]
+file = "config/sound_physics_remastered/occlusion.properties.pre-schema-6.bak"
+
+[[files]]
 file = "config/sound_physics_remastered/propeller_occlusion_overrides.properties"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
 
 [[files]]
+file = "config/sound_physics_remastered/reflectivity.properties.pre-schema-6.bak"
+
+[[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties.pre-schema-6.bak"
 
 [[files]]
 file = "config/ssrd-common.toml"
