@@ -1,0 +1,13 @@
+{
+  "rangeHorizontal": 16,
+  "rangeVertical": 8,
+  "updateIntervalMs": 150,
+  "colorZero": 16728128,
+  "colorLow": 16777024,
+  "colorSafe": 4259648,
+  "showOnlySpawnable": false,
+  "textScale": 0.025,
+  "enableUnderwaterMode": false,
+  "underwaterDisplayMode": "Both",
+  "colorUnderwater": 16744512
+}

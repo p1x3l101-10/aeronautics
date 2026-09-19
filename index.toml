@@ -1,6 +1,897 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CoroUtil/General.toml"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+
+[[files]]
+file = "config/addon_gancho-common.toml"
+
+[[files]]
+file = "config/adlods-common.toml"
+
+[[files]]
+file = "config/adlods/Deposits/aluminum.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/amethyst.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/ancient_debris.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/coal.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/cobalt.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/copper.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/diamond.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/emerald.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/gas_pocket.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/gold.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/iridium.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/iron.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/lapis.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/lead.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/nether_gold.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/nether_quartz.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/nickel.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/osmium.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/palladium.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/platinum.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/redstone.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/rhodium.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/ruby.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/ruthenium.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/sapphire.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/silver.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/tin.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/topaz.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/uranium.cfg"
+
+[[files]]
+file = "config/adlods/Deposits/zinc.cfg"
+
+[[files]]
+file = "config/adlods/Geodes/amethyst.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/ancient_debris.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/andesite.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/blackstone.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/clay.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/coal_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/copper_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/diamond_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/diorite.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/dirt.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/emerald_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/gold_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/granite.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/gravel.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/infested_stone.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/iron_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/lapis_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/magma_block.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/nether_gold_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/nether_quartz_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/redstone_ore.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/soul_sand.cfg"
+
+[[files]]
+file = "config/adlods/VanillaOres/tuff.cfg"
+
+[[files]]
+file = "config/ae2-client.toml"
+
+[[files]]
+file = "config/ae2-common.toml"
+
+[[files]]
+file = "config/ae2tb-client.toml"
+
+[[files]]
+file = "config/ae2tb-common.toml"
+
+[[files]]
+file = "config/ae2wtlib-client.toml"
+
+[[files]]
+file = "config/ae2wtlib.toml"
+
+[[files]]
+file = "config/aero_cam_sync-client.toml"
+
+[[files]]
+file = "config/aero_player_tilt-client.toml"
+
+[[files]]
+file = "config/aero_player_tilt-server.toml"
+
+[[files]]
+file = "config/aeroengineering-client.toml"
+
+[[files]]
+file = "config/aeroengineering-server.toml"
+
+[[files]]
+file = "config/aeronautics-server.toml"
+
+[[files]]
+file = "config/aeronautics_utility_objects-server.toml"
+
+[[files]]
+file = "config/aeronautics_windsound-client.toml"
+
+[[files]]
+file = "config/aerowarptics-client.toml"
+
+[[files]]
+file = "config/aerowarptics-server.toml"
+
+[[files]]
+file = "config/aeroworks-client.toml"
+
+[[files]]
+file = "config/aeroworks-common.toml"
+
+[[files]]
+file = "config/analogleverdrag-client.toml"
+
+[[files]]
+file = "config/analogleverdrag-common.toml"
+
+[[files]]
+file = "config/appex-common.toml"
+
+[[files]]
+file = "config/appleskin-client.toml"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.armor.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.armor_toughness.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.attack_damage.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.attack_knockback.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.attack_speed.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.burning_time.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.explosion_knockback_resistance.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.fall_damage_multiplier.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.flying_speed.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.follow_range.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.gravity.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.jump_strength.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.knockback_resistance.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.luck.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.max_absorption.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.max_health.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.movement_efficiency.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.movement_speed.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.oxygen_bonus.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.safe_fall_distance.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.scale.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.step_height.json"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.water_movement_efficiency.json"
+
+[[files]]
+file = "config/attributefix/minecraft/player.block_break_speed.json"
+
+[[files]]
+file = "config/attributefix/minecraft/player.block_interaction_range.json"
+
+[[files]]
+file = "config/attributefix/minecraft/player.entity_interaction_range.json"
+
+[[files]]
+file = "config/attributefix/minecraft/player.mining_efficiency.json"
+
+[[files]]
+file = "config/attributefix/minecraft/player.sneaking_speed.json"
+
+[[files]]
+file = "config/attributefix/minecraft/player.submerged_mining_speed.json"
+
+[[files]]
+file = "config/attributefix/minecraft/player.sweeping_damage_ratio.json"
+
+[[files]]
+file = "config/attributefix/minecraft/zombie.spawn_reinforcements.json"
+
+[[files]]
+file = "config/attributefix/neoforge/nametag_distance.json"
+
+[[files]]
+file = "config/attributefix/neoforge/swim_speed.json"
+
+[[files]]
+file = "config/attributefix/sable/player.sub_level_punch_cooldown.json"
+
+[[files]]
+file = "config/attributefix/sable/player.sub_level_punch_strength.json"
+
+[[files]]
+file = "config/badoptimizations.txt"
+
+[[files]]
+file = "config/betteradvancements-client.toml"
+
+[[files]]
+file = "config/bettercaves/README.txt"
+
+[[files]]
+file = "config/bettercaves/neoforge-1_21_1/README.txt"
+
+[[files]]
+file = "config/bettercaves/neoforge-1_21_1/liquidregions.json"
+
+[[files]]
+file = "config/betterdeserttemples-neoforge-1_21.toml"
+
+[[files]]
+file = "config/betterdeserttemples/README.txt"
+
+[[files]]
+file = "config/betterdeserttemples/neoforge-1_21/README.txt"
+
+[[files]]
+file = "config/betterdeserttemples/neoforge-1_21/armorstands.json"
+
+[[files]]
+file = "config/betterdeserttemples/neoforge-1_21/itemframes.json"
+
+[[files]]
+file = "config/betterdungeons-neoforge-1_21.toml"
+
+[[files]]
+file = "config/betterendisland-neoforge-1_21.toml"
+
+[[files]]
+file = "config/betterfortresses-neoforge-1_21.toml"
+
+[[files]]
+file = "config/betterfortresses/README.txt"
+
+[[files]]
+file = "config/betterfortresses/neoforge-1_21/README.txt"
+
+[[files]]
+file = "config/betterfortresses/neoforge-1_21/itemframes.json"
+
+[[files]]
+file = "config/betterjungletemples-neoforge-1_21.toml"
+
+[[files]]
+file = "config/bettermineshafts-neoforge-1_21.toml"
+
+[[files]]
+file = "config/betteroceanmonuments-neoforge-1_21.toml"
+
+[[files]]
+file = "config/betterstrongholds-neoforge-1_21.toml"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/README.txt"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/armorstands.json"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/itemframes.json"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/ores.json"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/rareblocks.json"
+
+[[files]]
+file = "config/betterwitchhuts-neoforge-1_21.toml"
+
+[[files]]
+file = "config/boatpropellerbearing-server.toml"
+
+[[files]]
+file = "config/c2me.toml"
+
+[[files]]
+file = "config/cardboarded_conveynience.json"
+
+[[files]]
+file = "config/cbc_at-server.toml"
+
+[[files]]
+file = "config/cbc_going_ballistic-common.toml"
+
+[[files]]
+file = "config/chatanimation.json"
+
+[[files]]
+file = "config/climbable_ropes-client.toml"
+
+[[files]]
+file = "config/climbable_ropes-server.toml"
+
+[[files]]
+file = "config/collective.json5"
+
+[[files]]
+file = "config/corpse-server.toml"
+
+[[files]]
+file = "config/corpsecurioscompat-common.toml"
+
+[[files]]
+file = "config/create-client.toml"
+
+[[files]]
+file = "config/create-common.toml"
+
+[[files]]
+file = "config/create-server.toml"
+
+[[files]]
+file = "config/create_aero_radar-server.toml"
+
+[[files]]
+file = "config/create_aeronautics_throwable_rope_connector-common.toml"
+
+[[files]]
+file = "config/create_aeronautics_toolgun-server.toml"
+
+[[files]]
+file = "config/create_dragons_plus-client.toml"
+
+[[files]]
+file = "config/create_dragons_plus-common.toml"
+
+[[files]]
+file = "config/create_dragons_plus-server.toml"
+
+[[files]]
+file = "config/create_dragons_plus-simulated-extension-server.toml"
+
+[[files]]
+file = "config/create_enchantment_industry-client.toml"
+
+[[files]]
+file = "config/create_enchantment_industry-common.toml"
+
+[[files]]
+file = "config/create_enchantment_industry-server.toml"
+
+[[files]]
+file = "config/create_hypertube-client.toml"
+
+[[files]]
+file = "config/create_hypertube-server.toml"
+
+[[files]]
+file = "config/create_jetpack-client.toml"
+
+[[files]]
+file = "config/create_jetpack-common.toml"
+
+[[files]]
+file = "config/create_power_loader-server.toml"
+
+[[files]]
+file = "config/create_radar-client.toml"
+
+[[files]]
+file = "config/create_radar-server.toml"
+
+[[files]]
+file = "config/create_rns-server.toml"
+
+[[files]]
+file = "config/create_submarine-common.toml"
+
+[[files]]
+file = "config/create_submarine_client_state.json"
+
+[[files]]
+file = "config/createbigcannons-client.toml"
+
+[[files]]
+file = "config/createbigcannons-server.toml"
+
+[[files]]
+file = "config/createcobblestone-common.toml"
+
+[[files]]
+file = "config/createdynlight-client.toml"
+
+[[files]]
+file = "config/createdynlight-server.toml"
+
+[[files]]
+file = "config/createmetalogistics-server.toml"
+
+[[files]]
+file = "config/createnuclear-common.toml"
+
+[[files]]
+file = "config/createpackage-server.toml"
+
+[[files]]
+file = "config/createpropulsion-client.toml"
+
+[[files]]
+file = "config/createpropulsion-common.toml"
+
+[[files]]
+file = "config/createtransmission-server.toml"
+
+[[files]]
+file = "config/curios-client.toml"
+
+[[files]]
+file = "config/curios-common.toml"
+
+[[files]]
+file = "config/curios-server.toml"
+
+[[files]]
+file = "config/deployer-server.toml"
+
+[[files]]
+file = "config/distraction_free_recipes-client.toml"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+
+[[files]]
+file = "config/emi.css"
+
+[[files]]
+file = "config/emi_loot_config.toml"
+
+[[files]]
+file = "config/emi_ores-client.json"
+
+[[files]]
+file = "config/entityculling.json"
+
+[[files]]
+file = "config/extendedae-common.toml"
+
+[[files]]
+file = "config/extra_gauges-server.toml"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+
+[[files]]
+file = "config/fastsuite.cfg"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+
+[[files]]
+file = "config/flywheel-client.toml"
+
+[[files]]
+file = "config/fml.toml"
+
+[[files]]
+file = "config/forgeendertech-common.toml"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$deep_ocean.cfg"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$ice_spikes.cfg"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$sparse_jungle.cfg"
+
+[[files]]
+file = "config/forgeendertech/Wind.cfg"
+
+[[files]]
+file = "config/forgeendertech/cached.dat"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+
+[[files]]
+file = "config/guideme.toml"
+
+[[files]]
+file = "config/hotstuff-common.toml"
+
+[[files]]
+file = "config/immediatelyfast.json"
+
+[[files]]
+file = "config/jei-server.toml"
+
+[[files]]
+file = "config/jupiter.json"
+
+[[files]]
+file = "config/ldfix-common.toml"
+
+[[files]]
+file = "config/ldlib2-client.toml"
+
+[[files]]
+file = "config/lightleveloverlay-client.json"
+
+[[files]]
+file = "config/lithium.properties"
+
+[[files]]
+file = "config/lithostitched.json"
+
+[[files]]
+file = "config/lootr-client.toml"
+
+[[files]]
+file = "config/lootr-common.toml"
+
+[[files]]
+file = "config/map_atlases-client.toml"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+
+[[files]]
+file = "config/modernfix-common.toml"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+
+[[files]]
+file = "config/modernminecarts-common.toml"
+
+[[files]]
+file = "config/moonlight-client.toml"
+
+[[files]]
+file = "config/moonlight-common.toml"
+
+[[files]]
+file = "config/myotus-client.toml"
+
+[[files]]
+file = "config/neoforge-client.toml"
+
+[[files]]
+file = "config/neoforge-common.toml"
+
+[[files]]
+file = "config/neoforge-server.toml"
+
+[[files]]
+file = "config/nerb/compat/emi.yaml"
+
+[[files]]
+file = "config/nerb/general.yaml"
+
+[[files]]
+file = "config/neruina.json5"
+
+[[files]]
+file = "config/offroad-server.toml"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+
+[[files]]
+file = "config/paddlewheels-server.toml"
+
+[[files]]
+file = "config/placebo.cfg"
+
+[[files]]
+file = "config/ponder-client.toml"
+
+[[files]]
+file = "config/powergrid-client.toml"
+
+[[files]]
+file = "config/powergrid-common.toml"
+
+[[files]]
+file = "config/powergrid-server.toml"
+
+[[files]]
+file = "config/protection-pixel.toml"
+
+[[files]]
+file = "config/pulsetech-client.toml"
+
+[[files]]
+file = "config/pulsetech-common.toml"
+
+[[files]]
+file = "config/ritchiesprojectilelib-server.toml"
+
+[[files]]
+file = "config/sable-client.toml"
+
+[[files]]
+file = "config/sable-common.toml"
+
+[[files]]
+file = "config/sable-server.toml"
+
+[[files]]
+file = "config/seeu-client.json"
+
+[[files]]
+file = "config/seeu-server.json"
+
+[[files]]
+file = "config/simulated-client.toml"
+
+[[files]]
+file = "config/simulated-server.toml"
+
+[[files]]
+file = "config/skinlayers.json"
+
+[[files]]
+file = "config/smog-common.toml"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+
+[[files]]
+file = "config/sodium-options.json"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/propeller_occlusion_overrides.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+
+[[files]]
+file = "config/ssrd-common.toml"
+
+[[files]]
+file = "config/stickywheels-common.toml"
+
+[[files]]
+file = "config/submarine_hull.json"
+
+[[files]]
+file = "config/tis3d-client.toml"
+
+[[files]]
+file = "config/tis3d-common.toml"
+
+[[files]]
+file = "config/towed-server.toml"
+
+[[files]]
+file = "config/tracks-server.toml"
+
+[[files]]
+file = "config/transition.json"
+
+[[files]]
+file = "config/trender.json"
+
+[[files]]
+file = "config/true_impact-server.toml"
+
+[[files]]
+file = "config/unseaworthy.json5"
+
+[[files]]
+file = "config/vanillin-client.toml"
+
+[[files]]
+file = "config/vaportrails-client.toml"
+
+[[files]]
+file = "config/vestalihy-common.toml"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+
+[[files]]
+file = "config/voidfog-client.toml"
+
+[[files]]
+file = "config/watut-client.toml"
+
+[[files]]
+file = "config/watut-common.toml"
+
+[[files]]
+file = "config/watut-item-arm-adjustments.json"
+
+[[files]]
+file = "config/watut-server.toml"
+
+[[files]]
+file = "config/wcwt-client.toml"
+
+[[files]]
+file = "config/wcwt-server.toml"
+
+[[files]]
+file = "config/yacl.json5"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
