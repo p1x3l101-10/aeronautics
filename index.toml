@@ -1434,6 +1434,10 @@ file = "mods/ldlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lever-drugster.pw.toml"
 metafile = true
 
