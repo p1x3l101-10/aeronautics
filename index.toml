@@ -1705,6 +1705,48 @@ file = "thingpacks/drodi-extendo-grip.pw.toml"
 metafile = true
 
 [[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/100loot.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/10loot.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/1barrel.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/1cart.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/1chest.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/1frame.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/1shulker.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/25loot.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/50loot.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/all_gravel.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/archaeologist.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/pot_opened.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/root.json"
+
+[[files]]
+file = "thingpacks/no_advancement/data/lootr/advancement/social.json"
+
+[[files]]
 file = "thingpacks/no_advancement/data/seacreeps/advancement/burn_it.json"
 
 [[files]]
